@@ -165,7 +165,7 @@ def json_to_md(data):
 
     # clean README.md if daily already exist else create it
     with open(md_filename, "w+", encoding='utf_8') as f:
-        f.write(f"## CV Papers Daily\n")
+        f.write(f"## Daily Papers\n")
         #f.write("<details>\n")
         #f.write("  <summary>Table of Contents</summary>\n")
         #f.write("  <ol>\n")
