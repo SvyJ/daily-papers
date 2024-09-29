@@ -1,57 +1,28 @@
 ## CV Papers Daily
-- [defect segmentation](#defect-segmentation)
-- [defect detection](#defect-detection)
-- [anomaly detection](#anomaly-detection)
-- [3D anomaly detection](#3D-anomaly-detection)
-- [multimodal anomaly detection](#multimodal-anomaly-detection)
-- [vector quantization](#vector-quantization)
+- [Defect Detection](#Defect-Detection)
+- [Defect Segmentation](#Defect-Segmentation)
+- [Anomaly Detection](#Anomaly-Detection)
+- [3D Anomaly Detection](#3D-Anomaly-Detection)
+- [Multimodal Anomaly Detection](#Multimodal-Anomaly-Detection)
+- [Vector Quantization](#Vector-Quantization)
 
 
 ## Updated on 2024.09.29
 
-## defect segmentation
+## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2024-9-27**|**Defect detection of microscopic images of aluminum inclusions: Using semantic segmentation and generative methods**|S John - 2024 - diva-portal.org et.al|[paper](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1900922)|-|<details><summary>detail</summary>2024 diva portal.org</details>|
-|**2024-9-22**|**Cycle-Consistency Uncertainty Estimation for Visual Prompting based One-Shot Defect Segmentation**|G Kim- arXiv preprint arXiv:2409.13984 et.al|[paper](https://arxiv.org/abs/2409.13984)|[code](https://paperswithcode.com/paper/cycle-consistency-uncertainty-estimation-for)|-|
-|**2024-9-19**|**Latent Diffusion Models to Enhance the Performance of Visual Defect Segmentation Networks in Steel Surface Inspection**|J Leiñena et.al|[paper](https://www.mdpi.com/1424-8220/24/18/6016)|-|<details><summary>detail</summary>Sensors, 2024 mdpi.com</details>|
-|**2024-9-18**|**Teacher-Student Collaboration: Effective Semi-Supervised Model for Defect Instance Segmentation**|B Ye et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10681601/)|-|<details><summary>detail</summary>IEEE Transactions on Automation Science…, 2024 ieeexplore.ieee.org</details>|
-|**2024-9-13**|**GPR Imagery Based Internal Defect Evaluation System for Railroad Tunnel Lining Using Real-time Instance Segmentation**|S Long et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10679634/)|-|<details><summary>detail</summary>IEEE Sensors…, 2024 ieeexplore.ieee.org</details>|
-|**2024-9-8**|**Enhanced defect detection on wind turbine blades using binary segmentation masks and YOLO**|SZ Rizvi et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0045790624005421)|-|<details><summary>detail</summary>Computers and Electrical Engineering, 2024 Elsevier</details>|
-|**2024-9-6**|**Steering knuckle surface defect detection and segmentation based on reverse residual distillation**|S Zhou et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0952197624013198)|-|<details><summary>detail</summary>…Applications of Artificial…, 2024 Elsevier</details>|
-|**2024-9-3**|**Parameter-Efﬁcient Fine-Tuning for Citrus Fruit Defect Segmentation Model Based on Text Prompt**|Y Zhu et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4944330)|-|<details><summary>detail</summary>Available at SSRN 4944330 papers.ssrn.com</details>|
-|**2024-8-31**|**Change-Aware Siamese Network for Surface Defects Segmentation under Complex Background**|Biyuan Liu et.al|[paper](https://arxiv.org/abs/2409.00589)|-|-|
-|**2024-8-29**|**Latent Space Segmentation model for Visual Surface Defect Inspection**|M Li et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10654578/)|-|<details><summary>detail</summary>IEEE Transactions on Instrumentation…, 2024 ieeexplore.ieee.org</details>|
-|**2024-8-27**|**Context-Aware Adaptive Weighted Attention Network for Real-Time Surface Defect Segmentation**|G Zhang et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10648860/)|-|<details><summary>detail</summary>IEEE Transactions on…, 2024 ieeexplore.ieee.org</details>|
-|**2024-8-19**|**Imbalance-Aware Culvert-Sewer Defect Segmentation Using an Enhanced Feature Pyramid Network**|Rasha Alshawi et.al|[paper](https://arxiv.org/abs/2408.10181)|-|-|
-|**2024-8-19**|**Dynamic Label Injection for Imbalanced Industrial Defect Segmentation**|Emanuele Caruso et.al|[paper](https://arxiv.org/abs/2408.10031)|[code](https://github.com/covisionlab/dynamic-label-injection.git)|<details><summary>detail</summary>ECCV 2024 VISION Workshop</details>|
-|**2024-7-17**|**PV-S3: Advancing Automatic Photovoltaic Defect Detection using Semi-Supervised Semantic Segmentation of Electroluminescence Images**|Abhishek Jha et.al|[paper](https://arxiv.org/abs/2404.13693)|-|-|
-|**2024-6-26**|**An unsupervised approach towards promptable defect segmentation in laser-based additive manufacturing by Segment Anything**|Israt Zarin Era et.al|[paper](https://arxiv.org/abs/2312.04063)|-|-|
-|**2024-4-17**|**CarcassFormer: An End-to-end Transformer-based Framework for Simultaneous Localization, Segmentation and Classification of Poultry Carcass Defect**|Minh Tran et.al|[paper](https://arxiv.org/abs/2404.11429)|[code](https://github.com/UARK-AICV/CarcassFormer)|<details><summary>detail</summary>Poultry Science Journal</details>|
-|**2024-3-17**|**LERENet: Eliminating Intra-class Differences for Metal Surface Defect Few-shot Semantic Segmentation**|Hanze Ding et.al|[paper](https://arxiv.org/abs/2403.11122)|-|-|
-|**2024-2-6**|**Multi-class Road Defect Detection and Segmentation using Spatial and Channel-wise Attention for Autonomous Road Repairing**|Jongmin Yu et.al|[paper](https://arxiv.org/abs/2402.04064)|-|<details><summary>detail</summary>the ICRA 2024</details>|
-|**2023-12-21**|**Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation**|Rasha Alshawi et.al|[paper](https://arxiv.org/abs/2312.14053)|-|<details><summary>detail</summary>under review in IEEE Transactions on Artificial Intelligence</details>|
-|**2023-12-8**|**Continual learning for surface defect segmentation by subnetwork creation and selection**|Aleksandr Dekhovich et.al|[paper](https://arxiv.org/abs/2312.05100)|-|-|
-|**2023-12-6**|**Overhead Line Defect Recognition Based on Unsupervised Semantic Segmentation**|Weixi Wang et.al|[paper](https://arxiv.org/abs/2311.00979)|-|-|
-|**2023-11-16**|**Segment Anything in Defect Detection**|Bozhen Hu et.al|[paper](https://arxiv.org/abs/2311.10245)|-|-|
-|**2023-10-24**|**Harmonizing output imbalance for defect segmentation on extremely-imbalanced photovoltaic module cells images**|Jianye Yi et.al|[paper](https://arxiv.org/abs/2211.05295)|-|-|
-|**2023-10-3**|**Photonic Accelerators for Image Segmentation in Autonomous Driving and Defect Detection**|Lakshmi Nair et.al|[paper](https://arxiv.org/abs/2309.16783)|-|<details><summary>detail</summary>MSC Class:I</details>|
-
-## defect detection
-
-|Date|Title|Authors|PDF|Code|Comments|
-|:------|:---------------------|:---|:-|:-|:---|
+|**2024-9-27**|**VQGNet: An Unsupervised Defect Detection Approach for Complex Textured Steel Surfaces**|R Yu et.al|[paper](https://www.mdpi.com/1424-8220/24/19/6252)|-|<details><summary>detail</summary>Sensors, 2024 mdpi.com</details>|
+|**2024-9-27**|**Unsupervised Bearing Raceway Surface Defect Detection Based on Improved f-AnoGAN**|Y Zhang et.al|[paper](https://iopscience.iop.org/article/10.1088/1361-6501/ad8021/meta)|-|<details><summary>detail</summary>Measurement Science and…, 2024 iopscience.iop.org</details>|
+|**2024-9-27**|**Improvement and Research on Object Detection Algorithm for Wind Turbine Blade Defect Scenarios Based on YOLOv8**|M Zhu- Journal of Computer Science Research et.al|[paper](https://journals.bilpubgroup.com/index.php/jcsr/article/view/7072)|-|<details><summary>detail</summary>Journal of Computer Science Research, 2024 journals.bilpubgroup.com</details>|
+|**2024-9-27**|**Retraction Note: Application of light sensors based on reinforcement learning in martial arts action optimization and image defect detection**|PL Yan et.al|[paper](https://link.springer.com/article/10.1007/s11082-024-07607-w)|-|<details><summary>detail</summary>2024 Springer</details>|
+|**2024-9-27**|**Improved U2Net-Based Surface Defect Detection Method for Blister Tablets**|J Zhou et.al|[paper](https://www.mdpi.com/1999-4893/17/10/429)|-|<details><summary>detail</summary>Algorithms, 2024 mdpi.com</details>|
 |**2024-9-27**|**A customised ConvNeXt-SCC network: integrating improved principal component analysis with ConvNeXt to enhance tire crown defect detection**|Y Zhou et.al|[paper](https://www.tandfonline.com/doi/abs/10.1080/10589759.2024.2406448)|-|<details><summary>detail</summary>Nondestructive Testing and…, 2024 Taylor & Francis</details>|
 |**2024-9-27**|**Research on Defect Detection Method of Fusion Reactor Vacuum Chamber Based on Photometric Stereo Vision**|G Qin et.al|[paper](https://www.mdpi.com/1424-8220/24/19/6227)|-|<details><summary>detail</summary>Sensors, 2024 mdpi.com</details>|
-|**2024-9-27**|**Optimizing Feature Extraction and Fusion for High-Resolution Defect Detection in Solar Cells**|H Nguyen et.al|[paper](https://www.sciencedirect.com/science/article/pii/S2667305324001170)|-|<details><summary>detail</summary>Intelligent Systems with Applications, 2024 Elsevier</details>|
-|**2024-9-27**|**A rail defect detection framework under class-imbalanced conditions based on improved you only look once network**|Y Ding et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0952197624015094)|-|<details><summary>detail</summary>Engineering Applications of…, 2024 Elsevier</details>|
-|**2024-9-27**|**Microwave cavity antenna for automatic detection of chicken breast muscles affected by wooden breast defect**|E Iaccheri et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0260877424004023)|-|<details><summary>detail</summary>Journal of Food Engineering, 2024 Elsevier</details>|
-|**2024-9-27**|**Laser brazed defect detection using deep-learning denoising and transfer learning: A case study in a Volvo factory to review techniques and methods**|G Kokolakis - 2024 - diva-portal.org et.al|[paper](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1900926)|-|<details><summary>detail</summary>2024 diva portal.org</details>|
-|**2024-9-27**|**Defect detection in Betaguard yellow sealing of Volvo car battery lids using advanced computer vision and deep learning techniques**|B Babu - 2024 - diva-portal.org et.al|[paper](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1900911)|-|<details><summary>detail</summary>2024 diva portal.org</details>|
-|**2024-9-27**|**Defect detection of microscopic images of aluminum inclusions: Using semantic segmentation and generative methods**|S John - 2024 - diva-portal.org et.al|[paper](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1900922)|-|<details><summary>detail</summary>2024 diva portal.org</details>|
-|**2024-9-26**|**GEB-YOLO: Optimized YOLOv7 Model for Surface Defect Detection on Aluminum Profiles**|Z Xu et.al|[paper](https://www.mdpi.com/2673-4591/75/1/28)|-|<details><summary>detail</summary>Engineering Proceedings, 2024 mdpi.com</details>|
-|**2024-9-26**|**A Texture Removal Method for Surface Defect Detection in Machining**|X Yu et.al|[paper](https://link.springer.com/article/10.1007/s10921-024-01124-2)|-|<details><summary>detail</summary>Journal of Nondestructive Evaluation, 2024 Springer</details>|
+|**2024-9-26**|**Lightweight Insulator and Defect Detection Method Based on Improved YOLOv8**|Y Liu et.al|[paper](https://www.mdpi.com/2076-3417/14/19/8691)|-|<details><summary>detail</summary>Applied Sciences, 2024 mdpi.com</details>|
+|**2024-9-26**|**Optimizing Feature Extraction and Fusion for High-Resolution Defect Detection in Solar Cells**|H Nguyen et.al|[paper](https://www.sciencedirect.com/science/article/pii/S2667305324001170)|-|<details><summary>detail</summary>Intelligent Systems with Applications, 2024 Elsevier</details>|
+|**2024-9-26**|**A rail defect detection framework under class-imbalanced conditions based on improved you only look once network**|Y Ding et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0952197624015094)|-|<details><summary>detail</summary>Engineering Applications of…, 2024 Elsevier</details>|
 |**2024-9-24**|**Machine learning approaches for automatic defect detection in photovoltaic systems**|Swayam Rajat Mohanty et.al|[paper](https://arxiv.org/abs/2409.16069)|-|-|
 |**2024-9-22**|**Superpixel perception graph neural network for intelligent defect detection of aero-engine blade**|Hongbing Shang et.al|[paper](https://arxiv.org/abs/2210.07539)|-|<details><summary>detail</summary>Journal ref:Journal of Manufacturing Systems</details>|
 |**2024-9-22**|**A New Simple Vision Algorithm for Detecting the Enzymic Browning Defects in Golden Delicious Apples**|Hamid Majidi Balanji et.al|[paper](https://arxiv.org/abs/2110.03574)|-|-|
@@ -67,17 +38,73 @@
 |**2024-8-9**|**Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts**|Jiashuo Zhang et.al|[paper](https://arxiv.org/abs/2408.04939)|-|-|
 |**2024-8-6**|**Automated Defects Detection and Fix in Logging Statement**|Renyi Zhong et.al|[paper](https://arxiv.org/abs/2408.03101)|-|-|
 |**2024-7-23**|**Advancements in Point Cloud-Based 3D Defect Detection and Classification for Industrial Systems: A Comprehensive Survey**|Anju Rani et.al|[paper](https://arxiv.org/abs/2402.12923)|-|-|
+|**2024-7-22**|**YOLO-pdd: A Novel Multi-scale PCB Defect Detection Method Using Deep Representations with Sequential Images**|Bowen Liu et.al|[paper](https://arxiv.org/abs/2407.15427)|-|-|
+|**2024-7-18**|**GDDS: A Single Domain Generalized Defect Detection Frame of Open World Scenario using Gather and Distribute Domain-shift Suppression Network**|Haiyong Chen et.al|[paper](https://arxiv.org/abs/2407.13417)|-|<details><summary>detail</summary>13 images</details>|
+|**2024-7-17**|**PV-S3: Advancing Automatic Photovoltaic Defect Detection using Semi-Supervised Semantic Segmentation of Electroluminescence Images**|Abhishek Jha et.al|[paper](https://arxiv.org/abs/2404.13693)|-|-|
+|**2024-7-17**|**In-Situ Infrared Camera Monitoring for Defect and Anomaly Detection in Laser Powder Bed Fusion: Calibration, Data Mapping, and Feature Extraction**|Shawn Hinnebusch et.al|[paper](https://arxiv.org/abs/2407.12682)|-|<details><summary>detail</summary>29 Pages</details>|
+|**2024-7-11**|**Leveraging Latent Diffusion Models for Training-Free In-Distribution Data Augmentation for Surface Defect Detection**|Federico Girella et.al|[paper](https://arxiv.org/abs/2407.03961)|[code](https://github.com/intelligolabs/DIAG.)|<details><summary>detail</summary>the 21st International Conference on Content-Based Multimedia Indexing (CBMI 2024)</details>|
+|**2024-7-5**|**Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection**|YeongHyeon Park et.al|[paper](https://arxiv.org/abs/2407.04597)|-|-|
+|**2024-6-28**|**Defect Detection in Synthetic Fibre Ropes using Detectron2 Framework**|Anju Rani et.al|[paper](https://arxiv.org/abs/2309.01469)|-|-|
+|**2024-6-27**|**Towards Reducing Data Acquisition and Labeling for Defect Detection using Simulated Data**|Lukas Malte Kemeter et.al|[paper](https://arxiv.org/abs/2406.19175)|-|-|
+|**2024-6-24**|**GATSBI: An Online GTSP-Based Algorithm for Targeted Surface Bridge Inspection and Defect Detection**|Harnaik Dhami et.al|[paper](https://arxiv.org/abs/2406.16625)|-|-|
+|**2024-6-19**|**Faster Metallic Surface Defect Detection Using Deep Learning with Channel Shuffling**|Siddiqui Muhammad Yasir et.al|[paper](https://arxiv.org/abs/2406.14582)|-|-|
 
-## anomaly detection
+## Defect Segmentation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2024-9-26**|**Machine Learning-based vs Deep Learning-based Anomaly Detection in Multivariate Time Series for Spacecraft Attitude Sensors**|R. Gallon et.al|[paper](https://arxiv.org/abs/2409.17841)|-|<details><summary>detail</summary>Accepted for the ESA SPAICE Conference 2024</details>|
+|**2024-9-26**|**Defect detection of microscopic images of aluminum inclusions: Using semantic segmentation and generative methods**|S John - 2024 - diva-portal.org et.al|[paper](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1900922)|-|<details><summary>detail</summary>2024 diva portal.org</details>|
+|**2024-9-21**|**Cycle-Consistency Uncertainty Estimation for Visual Prompting based One-Shot Defect Segmentation**|G Kim- arXiv preprint arXiv:2409.13984 et.al|[paper](https://arxiv.org/abs/2409.13984)|[code](https://paperswithcode.com/paper/cycle-consistency-uncertainty-estimation-for)|-|
+|**2024-9-18**|**Latent Diffusion Models to Enhance the Performance of Visual Defect Segmentation Networks in Steel Surface Inspection**|J Leiñena et.al|[paper](https://www.mdpi.com/1424-8220/24/18/6016)|-|<details><summary>detail</summary>Sensors, 2024 mdpi.com</details>|
+|**2024-9-17**|**Teacher-Student Collaboration: Effective Semi-Supervised Model for Defect Instance Segmentation**|B Ye et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10681601/)|-|<details><summary>detail</summary>IEEE Transactions on Automation Science…, 2024 ieeexplore.ieee.org</details>|
+|**2024-9-12**|**GPR Imagery Based Internal Defect Evaluation System for Railroad Tunnel Lining Using Real-time Instance Segmentation**|S Long et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10679634/)|-|<details><summary>detail</summary>IEEE Sensors…, 2024 ieeexplore.ieee.org</details>|
+|**2024-9-7**|**Enhanced defect detection on wind turbine blades using binary segmentation masks and YOLO**|SZ Rizvi et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0045790624005421)|-|<details><summary>detail</summary>Computers and Electrical Engineering, 2024 Elsevier</details>|
+|**2024-9-6**|**Steering knuckle surface defect detection and segmentation based on reverse residual distillation**|S Zhou et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0952197624013198)|-|<details><summary>detail</summary>…Applications of Artificial…, 2024 Elsevier</details>|
+|**2024-9-3**|**Parameter-Efﬁcient Fine-Tuning for Citrus Fruit Defect Segmentation Model Based on Text Prompt**|Y Zhu et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4944330)|-|<details><summary>detail</summary>Available at SSRN 4944330 papers.ssrn.com</details>|
+|**2024-8-31**|**Change-Aware Siamese Network for Surface Defects Segmentation under Complex Background**|Biyuan Liu et.al|[paper](https://arxiv.org/abs/2409.00589)|-|-|
+|**2024-8-28**|**Latent Space Segmentation model for Visual Surface Defect Inspection**|M Li et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10654578/)|-|<details><summary>detail</summary>IEEE Transactions on Instrumentation…, 2024 ieeexplore.ieee.org</details>|
+|**2024-8-26**|**Context-Aware Adaptive Weighted Attention Network for Real-Time Surface Defect Segmentation**|G Zhang et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10648860/)|-|<details><summary>detail</summary>IEEE Transactions on…, 2024 ieeexplore.ieee.org</details>|
+|**2024-8-19**|**Imbalance-Aware Culvert-Sewer Defect Segmentation Using an Enhanced Feature Pyramid Network**|Rasha Alshawi et.al|[paper](https://arxiv.org/abs/2408.10181)|-|-|
+|**2024-8-19**|**Dynamic Label Injection for Imbalanced Industrial Defect Segmentation**|Emanuele Caruso et.al|[paper](https://arxiv.org/abs/2408.10031)|[code](https://github.com/covisionlab/dynamic-label-injection.git)|<details><summary>detail</summary>ECCV 2024 VISION Workshop</details>|
+|**2024-7-17**|**PV-S3: Advancing Automatic Photovoltaic Defect Detection using Semi-Supervised Semantic Segmentation of Electroluminescence Images**|Abhishek Jha et.al|[paper](https://arxiv.org/abs/2404.13693)|-|-|
+|**2024-6-26**|**An unsupervised approach towards promptable defect segmentation in laser-based additive manufacturing by Segment Anything**|Israt Zarin Era et.al|[paper](https://arxiv.org/abs/2312.04063)|-|-|
+|**2024-4-17**|**CarcassFormer: An End-to-end Transformer-based Framework for Simultaneous Localization, Segmentation and Classification of Poultry Carcass Defect**|Minh Tran et.al|[paper](https://arxiv.org/abs/2404.11429)|[code](https://github.com/UARK-AICV/CarcassFormer)|<details><summary>detail</summary>Poultry Science Journal</details>|
+|**2024-3-17**|**LERENet: Eliminating Intra-class Differences for Metal Surface Defect Few-shot Semantic Segmentation**|Hanze Ding et.al|[paper](https://arxiv.org/abs/2403.11122)|-|-|
+|**2024-2-6**|**Multi-class Road Defect Detection and Segmentation using Spatial and Channel-wise Attention for Autonomous Road Repairing**|Jongmin Yu et.al|[paper](https://arxiv.org/abs/2402.04064)|-|<details><summary>detail</summary>the ICRA 2024</details>|
+|**2023-12-21**|**Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation**|Rasha Alshawi et.al|[paper](https://arxiv.org/abs/2312.14053)|-|<details><summary>detail</summary>under review in IEEE Transactions on Artificial Intelligence</details>|
+|**2023-12-8**|**Continual learning for surface defect segmentation by subnetwork creation and selection**|Aleksandr Dekhovich et.al|[paper](https://arxiv.org/abs/2312.05100)|-|-|
+|**2023-12-6**|**Overhead Line Defect Recognition Based on Unsupervised Semantic Segmentation**|Weixi Wang et.al|[paper](https://arxiv.org/abs/2311.00979)|-|-|
+|**2023-11-16**|**Segment Anything in Defect Detection**|Bozhen Hu et.al|[paper](https://arxiv.org/abs/2311.10245)|-|-|
+|**2023-10-24**|**Harmonizing output imbalance for defect segmentation on extremely-imbalanced photovoltaic module cells images**|Jianye Yi et.al|[paper](https://arxiv.org/abs/2211.05295)|-|-|
+|**2023-10-3**|**Photonic Accelerators for Image Segmentation in Autonomous Driving and Defect Detection**|Lakshmi Nair et.al|[paper](https://arxiv.org/abs/2309.16783)|-|<details><summary>detail</summary>MSC Class:I</details>|
+|**2023-9-28**|**Investigating Shift Equivalence of Convolutional Neural Networks in Industrial Defect Segmentation**|Zhen Qu et.al|[paper](https://arxiv.org/abs/2309.16902)|[code](https://github.com/xiaozhen228/CAPS.)|<details><summary>detail</summary>submit to IEEE Transactions on Instrumentation & Measurement</details>|
+|**2023-9-22**|**CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation**|Xiaoheng Jiang et.al|[paper](https://arxiv.org/abs/2309.12639)|-|-|
+|**2023-8-16**|**SEMI-DiffusionInst: A Diffusion Model Based Approach for Semiconductor Defect Classification and Segmentation**|Vic De Ridder et.al|[paper](https://arxiv.org/abs/2307.08693)|-|-|
+|**2023-6-28**|**Effective Transfer of Pretrained Large Visual Model for Fabric Defect Segmentation via Specifc Knowledge Injection**|Zhewei Chen et.al|[paper](https://arxiv.org/abs/2306.16186)|-|-|
+|**2023-6-27**|**No-Service Rail Surface Defect Segmentation via Normalized Attention and Dual-scale Interaction**|Gongyang Li et.al|[paper](https://arxiv.org/abs/2306.15442)|[code](https://github.com/monxxcn/NaDiNet.)|-|
+|**2023-4-25**|**Application of Segment Anything Model for Civil Infrastructure Defect Assessment**|Mohsen Ahmadi et.al|[paper](https://arxiv.org/abs/2304.12600)|-|-|
+|**2023-2-19**|**SEMI-PointRend: Improved Semiconductor Wafer Defect Classification and Segmentation as Rendering**|MinJin Hwang et.al|[paper](https://arxiv.org/abs/2302.09569)|-|-|
+|**2022-11-7**|**PAEDID: Patch Autoencoder Based Deep Image Decomposition For Pixel-level Defective Region Segmentation**|Shancong Mou et.al|[paper](https://arxiv.org/abs/2203.14457)|-|-|
+|**2022-10-28**|**A Multitask Deep Learning Model for Parsing Bridge Elements and Segmenting Defect in Bridge Inspection Images**|Chenyu Zhang et.al|[paper](https://arxiv.org/abs/2209.02190)|-|<details><summary>detail</summary>Accepted for presentation at the 2023 TRB Annual Meeting and publication in the Transportation Research Record: Journal of the Transportation Research Board (TRR)</details>|
+|**2022-10-1**|**Anomaly segmentation model for defects detection in electroluminescence images of heterojunction solar cells**|Alexey Korovin et.al|[paper](https://arxiv.org/abs/2208.05994)|-|-|
+
+## Anomaly Detection
+
+|Date|Title|Authors|PDF|Code|Comments|
+|:------|:---------------------|:---|:-|:-|:---|
+|**2024-9-28**|**Hyperspectral Sensor Management for UAS: Performance Analysis of Context-Based System Architectures for Camouflage and UXO Anomaly Detection…**|L Eckel et.al|[paper](https://www.mdpi.com/2504-446X/8/10/529)|-|<details><summary>detail</summary>Drones, 2024 mdpi.com</details>|
+|**2024-9-28**|**Research on carotid artery plaque anomaly detection algorithm based on ultrasound images**|Y Li et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0010482524012654)|-|<details><summary>detail</summary>Computers in Biology and…, 2024 Elsevier</details>|
+|**2024-9-28**|**Unsupervised Learning Framework with Memory-augmented Transformer for Multivariate Time Series Anomaly Detection**|송준호 - 2024 - s-space.snu.ac.kr et.al|[paper](https://s-space.snu.ac.kr/handle/10371/210429)|-|<details><summary>detail</summary>2024 s space.snu.ac.kr</details>|
+|**2024-9-28**|**Adaptive loitering anomaly detection based on motion states**|H Li et.al|[paper](https://link.springer.com/article/10.1007/s11042-024-20296-7)|-|<details><summary>detail</summary>Multimedia Tools and Applications, 2024 Springer</details>|
+|**2024-9-27**|**Machine Learning-based vs Deep Learning-based Anomaly Detection in Multivariate Time Series for Spacecraft Attitude Sensors**|R Gallon et.al|[paper](https://arxiv.org/abs/2409.17841)|[code](https://paperswithcode.com/paper/machine-learning-based-vs-deep-learning-based)|-|
+|**2024-9-27**|**Appearance Blur-driven AutoEncoder and Motion-guided Memory Module for Video Anomaly Detection**|J Lyu et.al|[paper](https://arxiv.org/abs/2409.17608)|[code](https://paperswithcode.com/paper/appearance-blur-driven-autoencoder-and-motion)|-|
+|**2024-9-27**|**Revisiting Deep Ensemble Uncertainty for Enhanced Medical Anomaly Detection**|Y Gu et.al|[paper](https://arxiv.org/abs/2409.17485)|[code](https://github.com/rubiscol/d2ue)|-|
+|**2024-9-27**|**A Taxonomic Framework for Neural Network Based Anomaly Detection in Bridge Monitoring**|I Bayane et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4968826)|-|<details><summary>detail</summary>Available at SSRN 4968826 papers.ssrn.com</details>|
+|**2024-9-27**|**Design of big data anomaly detection model based on random forest algorithm**|S Shijun et.al|[paper](http://crestapress.org/index.php/sidr/article/view/40)|-|<details><summary>detail</summary>Scientific Insights and Discoveries Review, 2024 crestapress.org</details>|
+|**2024-9-27**|**TDAD: Self-supervised industrial anomaly detection with a two-stage diffusion model**|C Wei et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0166361524001209)|-|<details><summary>detail</summary>Computers in Industry, 2025 Elsevier</details>|
 |**2024-9-26**|**AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving**|Daniel Bogdoll et.al|[paper](https://arxiv.org/abs/2405.07865)|-|<details><summary>detail</summary>Daniel Bogdoll</details>|
 |**2024-9-26**|**VARADE: a Variational-based AutoRegressive model for Anomaly Detection on the Edge**|Alessio Mascolini et.al|[paper](https://arxiv.org/abs/2409.14816)|-|-|
-|**2024-9-26**|**Appearance Blur-driven AutoEncoder and Motion-guided Memory Module for Video Anomaly Detection**|Jiahao Lyu et.al|[paper](https://arxiv.org/abs/2409.17608)|-|-|
 |**2024-9-26**|**VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection**|Sunghyun Ahn et.al|[paper](https://arxiv.org/abs/2409.16225)|-|<details><summary>detail</summary>ACCV 2024</details>|
-|**2024-9-25**|**Revisiting Deep Ensemble Uncertainty for Enhanced Medical Anomaly Detection**|Yi Gu et.al|[paper](https://arxiv.org/abs/2409.17485)|[code](https://github.com/Rubiscol/D2UE.)|<details><summary>detail</summary>Early accepted by MICCAI2024</details>|
 |**2024-9-25**|**Vision-Language Models Assisted Unsupervised Video Anomaly Detection**|Yalong Jiang et.al|[paper](https://arxiv.org/abs/2409.14109)|-|-|
 |**2024-9-25**|**VL4AD: Vision-Language Models Improve Pixel-wise Anomaly Detection**|Liangyu Zhong et.al|[paper](https://arxiv.org/abs/2409.17330)|-|-|
 |**2024-9-25**|**XAI-guided Insulator Anomaly Detection for Imbalanced Datasets**|Maximilian Andreas Hoefler et.al|[paper](https://arxiv.org/abs/2409.16821)|-|<details><summary>detail</summary>Accepted as a workshop paper at ECCV 2024</details>|
@@ -87,8 +114,18 @@
 |**2024-9-23**|**Incomplete Multimodal Industrial Anomaly Detection via Cross-Modal Distillation**|Wenbo Sui et.al|[paper](https://arxiv.org/abs/2405.13571)|-|-|
 |**2024-9-23**|**Research on Dynamic Data Flow Anomaly Detection based on Machine Learning**|Liyang Wang et.al|[paper](https://arxiv.org/abs/2409.14796)|-|-|
 |**2024-9-20**|**MeLIAD: Interpretable Few-Shot Anomaly Detection with Metric Learning and Entropy-based Scoring**|Eirini Cholopoulou et.al|[paper](https://arxiv.org/abs/2409.13602)|-|<details><summary>detail</summary>This work has been submitted to the IEEE for possible publication</details>|
+|**2024-9-20**|**Speed and Performance of Parserless and Unsupervised Anomaly Detection Methods on Software Logs**|Jesse Nyyssölä et.al|[paper](https://arxiv.org/abs/2312.01934)|-|<details><summary>detail</summary>IEEE International Conference on Software Quality</details>|
+|**2024-9-19**|**Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework**|Yuqi Cheng et.al|[paper](https://arxiv.org/abs/2409.13162)|[code](https://github.com/hustCYQ/MVP-PCLIP.)|-|
+|**2024-9-19**|**On-line Anomaly Detection and Qualification of Random Bit Streams**|Cesare Caratozzolo et.al|[paper](https://arxiv.org/abs/2409.05543)|-|-|
+|**2024-9-19**|**Cloudy with a Chance of Anomalies: Dynamic Graph Neural Network for Early Detection of Cloud Services' User Anomalies**|Revital Marbel et.al|[paper](https://arxiv.org/abs/2409.12726)|-|-|
+|**2024-9-19**|**MA-VAE: Multi-head Attention-based Variational Autoencoder Approach for Anomaly Detection in Multivariate Time-series Applied to Automotive Endurance Powertrain Testing**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2309.02253)|-|-|
+|**2024-9-19**|**Online Model-based Anomaly Detection in Multivariate Time Series: Taxonomy, Survey, Research Challenges and Future Directions**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2408.03747)|-|-|
+|**2024-9-18**|**Trajectory Anomaly Detection with Language Models**|Jonathan Mbuya et.al|[paper](https://arxiv.org/abs/2409.15366)|-|-|
+|**2024-9-18**|**Log2graphs: An Unsupervised Framework for Log Anomaly Detection with Efficient Feature Extraction**|Caihong Wang et.al|[paper](https://arxiv.org/abs/2409.11890)|-|-|
+|**2024-9-18**|**A Robust Autoencoder Ensemble-Based Approach for Anomaly Detection in Text**|Jeremie Pantin et.al|[paper](https://arxiv.org/abs/2405.13031)|-|-|
+|**2024-9-18**|**Constraint Guided AutoEncoders for Joint Optimization of Condition Indicator Estimation and Anomaly Detection in Machine Condition Monitoring**|Maarten Meire et.al|[paper](https://arxiv.org/abs/2409.11807)|-|-|
 
-## 3D anomaly detection
+## 3D Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
@@ -98,9 +135,9 @@
 |**2024-8-6**|**Learning in CubeRes Model Space for Anomaly Detection in 3D GPR Data**|X Zhou et.al|[paper](https://www.ijcai.org/proceedings/2024/0626.pdf)|-|<details><summary>detail</summary>ijcai.org</details>|
 |**2024-8-3**|**Anomaly Behavior Detection in Crowd via Lightweight 3D Convolution**|J Wang et.al|[paper](https://link.springer.com/chapter/10.1007/978-981-97-5615-5_11)|-|<details><summary>detail</summary>International Conference on Intelligent Computing, 2024 Springer</details>|
 |**2024-7-31**|**3D Industrial anomaly detection via dual reconstruction network**|Z Li et.al|[paper](https://link.springer.com/article/10.1007/s10489-024-05700-x)|-|<details><summary>detail</summary>Applied Intelligence, 2024 Springer</details>|
-|**2024-7-30**|**Spatially Aware Fusion in 3D Convolutional Autoencoders for Video Anomaly Detection**|A Niaz et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10613764/)|-|<details><summary>detail</summary>IEEE Access, 2024 ieeexplore.ieee.org</details>|
+|**2024-7-29**|**Spatially Aware Fusion in 3D Convolutional Autoencoders for Video Anomaly Detection**|A Niaz et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10613764/)|-|<details><summary>detail</summary>IEEE Access, 2024 ieeexplore.ieee.org</details>|
 |**2024-7-25**|**Towards High-resolution 3D Anomaly Detection via Group-Level Feature Contrastive Learning**|H Zhu et.al|[paper](https://arxiv.org/abs/2408.04604)|[code](https://paperswithcode.com/paper/towards-high-resolution-3d-anomaly-detection)|-|
-|**2024-7-21**|**IGSPAD: Inverting 3D Gaussian Splatting for Pose-agnostic Anomaly Detection**|B Jiang et.al|[paper](https://openreview.net/forum?id=85mHNaXEDk)|-|<details><summary>detail</summary>ACM Multimedia 2024 openreview.net</details>|
+|**2024-7-20**|**IGSPAD: Inverting 3D Gaussian Splatting for Pose-agnostic Anomaly Detection**|B Jiang et.al|[paper](https://openreview.net/forum?id=85mHNaXEDk)|-|<details><summary>detail</summary>ACM Multimedia 2024 openreview.net</details>|
 |**2024-7-16**|**R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection**|Z Zhou et.al|[paper](https://arxiv.org/abs/2407.10862)|[code](https://paperswithcode.com/paper/r3d-ad-reconstruction-via-diffusion-for-3d)|-|
 |**2024-6-27**|**Looking 3D: Anomaly Detection with 2D-3D Alignment**|Ankan Bhunia et.al|[paper](https://arxiv.org/abs/2406.19393)|[code](https://github.com/VICO-UoE/Looking3D)|<details><summary>detail</summary>CVPR'24</details>|
 |**2024-6-27**|**CLIP3D-AD: Extending CLIP for 3D Few-Shot Anomaly Detection with Multi-View Images Generation**|Zuo Zuo et.al|[paper](https://arxiv.org/abs/2406.18941)|-|-|
@@ -113,8 +150,18 @@
 |**2023-8-31**|**EasyNet: An Easy Network for 3D Industrial Anomaly Detection**|Ruitao Chen et.al|[paper](https://arxiv.org/abs/2307.13925)|-|-|
 |**2023-5-9**|**Teacher-Student Network for 3D Point Cloud Anomaly Detection with Few Normal Samples**|Jianjian Qin et.al|[paper](https://arxiv.org/abs/2210.17258)|-|-|
 |**2023-4-6**|**Toward Unsupervised 3D Point Cloud Anomaly Detection using Variational Autoencoder**|Mana Masuda et.al|[paper](https://arxiv.org/abs/2304.03420)|[code](https://github.com/llien30/point_cloud_anomaly_detection.)|<details><summary>detail</summary>ICIP2021</details>|
+|**2022-12-23**|**Joint Embedding of 2D and 3D Networks for Medical Image Anomaly Detection**|Inha Kang et.al|[paper](https://arxiv.org/abs/2212.10939)|-|-|
+|**2022-11-28**|**Back to the Feature: Classical 3D Features are (Almost) All You Need for 3D Anomaly Detection**|Eliahu Horwitz et.al|[paper](https://arxiv.org/abs/2203.05550)|[code](https://www.vision.huji.ac.il/3d_ads/)|<details><summary>detail</summary>Project page: https://www</details>|
+|**2022-9-23**|**Composite Layers for Deep Anomaly Detection on 3D Point Clouds**|Alberto Floris et.al|[paper](https://arxiv.org/abs/2209.11796)|-|<details><summary>detail</summary>Submitted to IEEE Transactions on Image Processing</details>|
+|**2022-6-18**|**3D unsupervised anomaly detection and localization through virtual multi-view projection and reconstruction: Clinical validation on low-dose chest computed tomography**|Kyung-Su Kim et.al|[paper](https://arxiv.org/abs/2206.13385)|-|<details><summary>detail</summary>Kyung-Su Kim and Seong Je Oh have contributed equally to this work as the co-first author</details>|
+|**2022-4-12**|**Unsupervised Anomaly Detection in 3D Brain MRI using Deep Learning with impured training data**|Finn Behrendt et.al|[paper](https://arxiv.org/abs/2204.05778)|-|<details><summary>detail</summary>Accepted for publication at the ISBI22 conference</details>|
+|**2022-2-23**|**Anomaly Detection in 3D Point Clouds using Deep Geometric Descriptors**|Paul Bergmann et.al|[paper](https://arxiv.org/abs/2202.11660)|-|-|
+|**2022-1-31**|**Unsupervised Anomaly Detection in 3D Brain MRI using Deep Learning with Multi-Task Brain Age Prediction**|Marcel Bengs et.al|[paper](https://arxiv.org/abs/2201.13081)|-|<details><summary>detail</summary>SPIE Medical Imaging 2022</details>|
+|**2021-12-16**|**The MVTec 3D-AD Dataset for Unsupervised 3D Anomaly Detection and Localization**|Paul Bergmann et.al|[paper](https://arxiv.org/abs/2112.09045)|-|<details><summary>detail</summary>Accepted for presentation at VISAPP 2022</details>|
+|**2021-11-4**|**Towards Smart Monitored AM: Open Source in-Situ Layer-wise 3D Printing Image Anomaly Detection Using Histograms of Oriented Gradients and a Physics-Based Rendering Engine**|Aliaksei Petsiuk et.al|[paper](https://arxiv.org/abs/2111.02703)|-|-|
+|**2021-4-9**|**Unsupervised 3D Brain Anomaly Detection**|Jaime Simarro et.al|[paper](https://arxiv.org/abs/2010.04717)|-|<details><summary>detail</summary>BrainLes Workshop in MICCAI 2020</details>|
 
-## multimodal anomaly detection
+## Multimodal Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
@@ -124,9 +171,9 @@
 |**2024-9-18**|**Multimodal Attention-Enhanced Feature Fusion-based Weekly Supervised Anomaly Violence Detection**|Y Kaneko et.al|[paper](https://arxiv.org/abs/2409.11223)|[code](https://paperswithcode.com/paper/multimodal-attention-enhanced-feature-fusion)|-|
 |**2024-9-10**|**Memoryless Multimodal Anomaly Detection via Student-Teacher Network and Signed Distance Learning**|Z Sun et.al|[paper](https://arxiv.org/abs/2409.05378)|[code](https://paperswithcode.com/paper/memoryless-multimodal-anomaly-detection-via)|-|
 |**2024-8-23**|**Knowledge-informed randomized machine learning and data fusion for anomaly areas detection in multimodal 3D images**|N Alsahanova et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0020025524012684)|-|<details><summary>detail</summary>Information…, 2025 Elsevier</details>|
-|**2024-8-5**|**DIP-ECOD: improving anomaly detection in multimodal distributions**|K Yang et.al|[paper](https://pure.qub.ac.uk/en/publications/dip-ecod-improving-anomaly-detection-in-multimodal-distributions)|-|<details><summary>detail</summary>Conference on Applied…, 2024 pure.qub.ac.uk</details>|
+|**2024-8-4**|**DIP-ECOD: improving anomaly detection in multimodal distributions**|K Yang et.al|[paper](https://pure.qub.ac.uk/en/publications/dip-ecod-improving-anomaly-detection-in-multimodal-distributions)|-|<details><summary>detail</summary>Conference on Applied…, 2024 pure.qub.ac.uk</details>|
 |**2024-7-8**|**Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping**|Alex Costanzino et.al|[paper](https://arxiv.org/abs/2312.04521)|-|<details><summary>detail</summary>CVPR 2024</details>|
-|**2024-7-1**|**A Collaborative Framework Using Multimodal Data and Adaptive Noise for Human Behavior Anomaly Detection**|G Yang et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10650235/)|-|<details><summary>detail</summary>2024 International Joint…, 2024 ieeexplore.ieee.org</details>|
+|**2024-6-30**|**A Collaborative Framework Using Multimodal Data and Adaptive Noise for Human Behavior Anomaly Detection**|G Yang et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10650235/)|-|<details><summary>detail</summary>2024 International Joint…, 2024 ieeexplore.ieee.org</details>|
 |**2024-6-27**|**Improving the accuracy of Anomaly Detection in Multimodal Sensors using 1D-CNN**|M Imad et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3652037.3652052)|-|<details><summary>detail</summary>Proceedings of the 17th…, 2024 dl.acm.org</details>|
 |**2024-6-14**|**Weakly-supervised anomaly detection for multimodal data distributions**|X Tan et.al|[paper](https://arxiv.org/abs/2406.09147)|[code](https://paperswithcode.com/paper/weakly-supervised-anomaly-detection-for)|-|
 |**2024-6-11**|**Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping Supplementary Material**|A Costanzino et.al|[paper](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Costanzino_Multimodal_Industrial_Anomaly_CVPR_2024_supplemental.pdf)|-|<details><summary>detail</summary>openaccess.thecvf.com</details>|
@@ -139,16 +186,26 @@
 |**2023-9-26**|**SeMAnD: Self-Supervised Anomaly Detection in Multimodal Geospatial Datasets**|Daria Reshetova et.al|[paper](https://arxiv.org/abs/2309.15245)|-|<details><summary>detail</summary>Extended version of the accepted research track paper at the 31st ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2023)</details>|
 |**2023-9-7**|**Multimodal Industrial Anomaly Detection via Hybrid Fusion**|Yue Wang et.al|[paper](https://arxiv.org/abs/2303.00601)|[code](https://github.com/nomewang/M3DM.)|<details><summary>detail</summary>Accepted by CVPR 2023</details>|
 |**2023-9-5**|**2nd Place Winning Solution for the CVPR2023 Visual Anomaly and Novelty Detection Challenge: Multimodal Prompting for Data-centric Anomaly Detection**|Yunkang Cao et.al|[paper](https://arxiv.org/abs/2306.09067)|-|<details><summary>detail</summary>The first two author contribute equally</details>|
+|**2023-8-28**|**Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection**|Alessandro Flaborea et.al|[paper](https://arxiv.org/abs/2307.07205)|-|<details><summary>detail</summary>ICCV2023</details>|
+|**2023-5-1**|**Correlation-Driven Multi-Level Multimodal Learning for Anomaly Detection on Multiple Energy Sources**|Taehee Kim et.al|[paper](https://arxiv.org/abs/2305.02323)|-|-|
+|**2023-3-23**|**Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection**|Yunkang Cao et.al|[paper](https://arxiv.org/abs/2303.13194)|[code](https://github.com/caoyunkang/CPMF.)|<details><summary>detail</summary>Submitted to Pattern Recognition</details>|
+|**2022-10-10**|**The Eyecandies Dataset for Unsupervised Multimodal Anomaly Detection and Localization**|Luca Bonfiglioli et.al|[paper](https://arxiv.org/abs/2210.04570)|[code](https://eyecan-ai.github.io/eyecandies)|-|
+|**2022-2-19**|**A Novel Anomaly Detection Method for Multimodal WSN Data Flow via a Dynamic Graph Neural Network**|Qinghao Zhang et.al|[paper](https://arxiv.org/abs/2202.10454)|-|-|
+|**2020-7-17**|**Anomaly Detection in Unsupervised Surveillance Setting Using Ensemble of Multimodal Data with Adversarial Defense**|Sayeed Shafayet Chowdhury et.al|[paper](https://arxiv.org/abs/2007.10812)|-|<details><summary>detail</summary>arXiv admin note: substantial text overlap with arXiv:2006</details>|
+|**2020-7-12**|**Interpretable, Multidimensional, Multimodal Anomaly Detection with Negative Sampling for Detection of Device Failure**|John Sipple et.al|[paper](https://arxiv.org/abs/2007.10088)|[code](https://github.com/google/madi)|<details><summary>detail</summary>Open source submission: https://github</details>|
+|**2019-11-19**|**Seq2Seq RNN based Gait Anomaly Detection from Smartphone Acquired Multimodal Motion Data**|Riccardo Bonetto et.al|[paper](https://arxiv.org/abs/1911.08608)|-|-|
+|**2019-3-27**|**REsCUE: A framework for REal-time feedback on behavioral CUEs using multimodal anomaly detection**|Riku Arakawa et.al|[paper](https://arxiv.org/abs/1903.11485)|-|<details><summary>detail</summary>ACM CHI 2019</details>|
+|**2018-12-17**|**Anomaly Detection and Interpretation using Multimodal Autoencoder and Sparse Optimization**|Yasuhiro Ikeda et.al|[paper](https://arxiv.org/abs/1812.07136)|-|-|
 
-## vector quantization
+## Vector Quantization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2024-9-27**|**VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models**|Y Liu et.al|[paper](https://arxiv.org/abs/2409.17066)|[code](https://github.com/microsoft/vptq)|-|
-|**2024-9-27**|**CompGS: Smaller and Faster Gaussian Splatting with Vector Quantization**|KL Navaneet et.al|[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04735.pdf)|-|<details><summary>detail</summary>ecva.net</details>|
+|**2024-9-26**|**VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models**|Y Liu et.al|[paper](https://arxiv.org/abs/2409.17066)|[code](https://github.com/microsoft/vptq)|-|
+|**2024-9-26**|**CompGS: Smaller and Faster Gaussian Splatting with Vector Quantization**|KL Navaneet et.al|[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04735.pdf)|-|<details><summary>detail</summary>ecva.net</details>|
 |**2024-9-24**|**CrowdSurfer: Sampling Optimization Augmented with Vector-Quantized Variational AutoEncoder for Dense Crowd Navigation**|Naman Kumar et.al|[paper](https://arxiv.org/abs/2409.16011)|-|-|
 |**2024-9-22**|**EQ-CBM: A Probabilistic Concept Bottleneck with Energy-based Models and Quantized Vectors**|Sangwon Kim et.al|[paper](https://arxiv.org/abs/2409.14630)|-|<details><summary>detail</summary>Accepted by ACCV 2024</details>|
-|**2024-9-21**|**NDVQ: Robust Neural Audio Codec with Normal Distribution-Based Vector Quantization**|Z Niu et.al|[paper](https://arxiv.org/abs/2409.12717)|-|-|
+|**2024-9-20**|**NDVQ: Robust Neural Audio Codec with Normal Distribution-Based Vector Quantization**|Z Niu et.al|[paper](https://arxiv.org/abs/2409.12717)|-|-|
 |**2024-9-20**|**Adaptive Neighbors Graph Learning for Large-Scale Data Clustering using Vector Quantization and Self-Regularization**|Y Cai et.al|[paper](https://www.sciencedirect.com/science/article/pii/S1568494624010305)|-|<details><summary>detail</summary>Applied Soft Computing, 2024 Elsevier</details>|
 |**2024-9-19**|**Breast Tumor Diagnosis Based on Molecular Learning Vector Quantization Neural Networks**|C Huang et.al|[paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202409150)|-|<details><summary>detail</summary>Advanced…, 2024 Wiley Online Library</details>|
 |**2024-9-15**|**Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search**|Jianyang Gao et.al|[paper](https://arxiv.org/abs/2409.09913)|-|<details><summary>detail</summary>Preprint</details>|
@@ -166,4 +223,14 @@
 |**2024-8-6**|**Calo-VQ: Vector-Quantized Two-Stage Generative Model in Calorimeter Simulation**|Qibin Liu et.al|[paper](https://arxiv.org/abs/2405.06605)|-|-|
 |**2024-7-28**|**Autoregressive Image Generation without Vector Quantization**|Tianhong Li et.al|[paper](https://arxiv.org/abs/2406.11838)|[code](https://github.com/LTH14/mar)|<details><summary>detail</summary>Tech report</details>|
 |**2024-7-19**|**Decomposed Vector-Quantized Variational Autoencoder for Human Grasp Generation**|Zhe Zhao et.al|[paper](https://arxiv.org/abs/2407.14062)|[code](https://github.com/florasion/D-VQVAE.)|<details><summary>detail</summary>To be published in The 18th European Conference on Computer Vision ECCV 2024</details>|
+|**2024-7-15**|**VQ-HPS: Human Pose and Shape Estimation in a Vector-Quantized Latent Space**|Guénolé Fiche et.al|[paper](https://arxiv.org/abs/2312.08291)|[code](https://g-fiche.github.io/research-pages/vqhps/)|-|
+|**2024-7-11**|**Autoregressive Speech Synthesis without Vector Quantization**|Lingwei Meng et.al|[paper](https://arxiv.org/abs/2407.08551)|[code](https://aka.ms/melle)|-|
+|**2024-7-5**|**Balance of Number of Embedding and their Dimensions in Vector Quantization**|Hang Chen et.al|[paper](https://arxiv.org/abs/2407.04939)|-|-|
+|**2024-7-3**|**Non-Adversarial Learning: Vector-Quantized Common Latent Space for Multi-Sequence MRI**|Luyi Han et.al|[paper](https://arxiv.org/abs/2407.02911)|-|-|
+|**2024-6-21**|**ESC: Efficient Speech Coding with Cross-Scale Residual Vector Quantized Transformers**|Yuzhe Gu et.al|[paper](https://arxiv.org/abs/2404.19441)|-|-|
+|**2024-6-11**|**S-HR-VQVAE: Sequential Hierarchical Residual Learning Vector Quantized Variational Autoencoder for Video Prediction**|Mohammad Adiban et.al|[paper](https://arxiv.org/abs/2307.06701)|-|-|
+|**2024-6-11**|**T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text**|Aoxiong Yin et.al|[paper](https://arxiv.org/abs/2406.07119)|[code](https://t2sgpt-demo.yinaoxiong.cn.)|<details><summary>detail</summary>Accepted by ACL 2024</details>|
+|**2024-6-11**|**Compact3D: Smaller and Faster Gaussian Splatting with Vector Quantization**|KL Navaneet et.al|[paper](https://arxiv.org/abs/2311.18159)|[code](https://github.com/UCDvision/compact3d)|<details><summary>detail</summary>Code is available at https://github</details>|
+|**2024-6-5**|**VQUNet: Vector Quantization U-Net for Defending Adversarial Atacks by Regularizing Unwanted Noise**|Zhixun He et.al|[paper](https://arxiv.org/abs/2406.03117)|-|-|
+|**2024-6-2**|**VQDNA: Unleashing the Power of Vector Quantization for Multi-Species Genomic Sequence Modeling**|Siyuan Li et.al|[paper](https://arxiv.org/abs/2405.10812)|-|<details><summary>detail</summary>ICML 2024</details>|
 
