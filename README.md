@@ -33,16 +33,6 @@
 |**2024-9-23**|**Incomplete Multimodal Industrial Anomaly Detection via Cross-Modal Distillation**|Wenbo Sui et.al|[paper](https://arxiv.org/abs/2405.13571)|-|-|
 |**2024-9-23**|**Research on Dynamic Data Flow Anomaly Detection based on Machine Learning**|Liyang Wang et.al|[paper](https://arxiv.org/abs/2409.14796)|-|-|
 |**2024-9-20**|**MeLIAD: Interpretable Few-Shot Anomaly Detection with Metric Learning and Entropy-based Scoring**|Eirini Cholopoulou et.al|[paper](https://arxiv.org/abs/2409.13602)|-|<details><summary>detail</summary>This work has been submitted to the IEEE for possible publication</details>|
-|**2024-9-20**|**Speed and Performance of Parserless and Unsupervised Anomaly Detection Methods on Software Logs**|Jesse Nyyssölä et.al|[paper](https://arxiv.org/abs/2312.01934)|-|<details><summary>detail</summary>IEEE International Conference on Software Quality</details>|
-|**2024-9-19**|**Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework**|Yuqi Cheng et.al|[paper](https://arxiv.org/abs/2409.13162)|[code](https://github.com/hustCYQ/MVP-PCLIP.)|-|
-|**2024-9-19**|**On-line Anomaly Detection and Qualification of Random Bit Streams**|Cesare Caratozzolo et.al|[paper](https://arxiv.org/abs/2409.05543)|-|-|
-|**2024-9-19**|**Cloudy with a Chance of Anomalies: Dynamic Graph Neural Network for Early Detection of Cloud Services' User Anomalies**|Revital Marbel et.al|[paper](https://arxiv.org/abs/2409.12726)|-|-|
-|**2024-9-19**|**MA-VAE: Multi-head Attention-based Variational Autoencoder Approach for Anomaly Detection in Multivariate Time-series Applied to Automotive Endurance Powertrain Testing**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2309.02253)|-|-|
-|**2024-9-19**|**Online Model-based Anomaly Detection in Multivariate Time Series: Taxonomy, Survey, Research Challenges and Future Directions**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2408.03747)|-|-|
-|**2024-9-18**|**Trajectory Anomaly Detection with Language Models**|Jonathan Mbuya et.al|[paper](https://arxiv.org/abs/2409.15366)|-|-|
-|**2024-9-18**|**Log2graphs: An Unsupervised Framework for Log Anomaly Detection with Efficient Feature Extraction**|Caihong Wang et.al|[paper](https://arxiv.org/abs/2409.11890)|-|-|
-|**2024-9-18**|**A Robust Autoencoder Ensemble-Based Approach for Anomaly Detection in Text**|Jeremie Pantin et.al|[paper](https://arxiv.org/abs/2405.13031)|-|-|
-|**2024-9-18**|**Constraint Guided AutoEncoders for Joint Optimization of Condition Indicator Estimation and Anomaly Detection in Machine Condition Monitoring**|Maarten Meire et.al|[paper](https://arxiv.org/abs/2409.11807)|-|-|
 
 ## vector quantization
 
@@ -70,14 +60,4 @@
 |**2024-8-6**|**Calo-VQ: Vector-Quantized Two-Stage Generative Model in Calorimeter Simulation**|Qibin Liu et.al|[paper](https://arxiv.org/abs/2405.06605)|-|-|
 |**2024-7-28**|**Autoregressive Image Generation without Vector Quantization**|Tianhong Li et.al|[paper](https://arxiv.org/abs/2406.11838)|[code](https://github.com/LTH14/mar)|<details><summary>detail</summary>Tech report</details>|
 |**2024-7-19**|**Decomposed Vector-Quantized Variational Autoencoder for Human Grasp Generation**|Zhe Zhao et.al|[paper](https://arxiv.org/abs/2407.14062)|[code](https://github.com/florasion/D-VQVAE.)|<details><summary>detail</summary>To be published in The 18th European Conference on Computer Vision ECCV 2024</details>|
-|**2024-7-15**|**VQ-HPS: Human Pose and Shape Estimation in a Vector-Quantized Latent Space**|Guénolé Fiche et.al|[paper](https://arxiv.org/abs/2312.08291)|[code](https://g-fiche.github.io/research-pages/vqhps/)|-|
-|**2024-7-11**|**Autoregressive Speech Synthesis without Vector Quantization**|Lingwei Meng et.al|[paper](https://arxiv.org/abs/2407.08551)|[code](https://aka.ms/melle)|-|
-|**2024-7-5**|**Balance of Number of Embedding and their Dimensions in Vector Quantization**|Hang Chen et.al|[paper](https://arxiv.org/abs/2407.04939)|-|-|
-|**2024-7-3**|**Non-Adversarial Learning: Vector-Quantized Common Latent Space for Multi-Sequence MRI**|Luyi Han et.al|[paper](https://arxiv.org/abs/2407.02911)|-|-|
-|**2024-6-21**|**ESC: Efficient Speech Coding with Cross-Scale Residual Vector Quantized Transformers**|Yuzhe Gu et.al|[paper](https://arxiv.org/abs/2404.19441)|-|-|
-|**2024-6-11**|**S-HR-VQVAE: Sequential Hierarchical Residual Learning Vector Quantized Variational Autoencoder for Video Prediction**|Mohammad Adiban et.al|[paper](https://arxiv.org/abs/2307.06701)|-|-|
-|**2024-6-11**|**T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text**|Aoxiong Yin et.al|[paper](https://arxiv.org/abs/2406.07119)|[code](https://t2sgpt-demo.yinaoxiong.cn.)|<details><summary>detail</summary>Accepted by ACL 2024</details>|
-|**2024-6-11**|**Compact3D: Smaller and Faster Gaussian Splatting with Vector Quantization**|KL Navaneet et.al|[paper](https://arxiv.org/abs/2311.18159)|[code](https://github.com/UCDvision/compact3d)|<details><summary>detail</summary>Code is available at https://github</details>|
-|**2024-6-5**|**VQUNet: Vector Quantization U-Net for Defending Adversarial Atacks by Regularizing Unwanted Noise**|Zhixun He et.al|[paper](https://arxiv.org/abs/2406.03117)|-|-|
-|**2024-6-2**|**VQDNA: Unleashing the Power of Vector Quantization for Multi-Species Genomic Sequence Modeling**|Siyuan Li et.al|[paper](https://arxiv.org/abs/2405.10812)|-|<details><summary>detail</summary>ICML 2024</details>|
 
