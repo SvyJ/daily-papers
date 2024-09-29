@@ -3,8 +3,8 @@ description: Follow Closely the Frontier of Worldwide Research on Computer Visio
 show_downloads: false
 theme: jekyll-theme-cayman
 
-remote_theme: pages-themes/slate@v0.2.0
-# remote_theme: pages-themes/cayman@v0.2.0
+# remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: aterenin/minima-reboot
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
