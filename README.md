@@ -1,4 +1,4 @@
-## CV Papers Daily
+## Daily Papers
 - [Defect Detection](#Defect-Detection)
 - [Defect Segmentation](#Defect-Segmentation)
 - [Anomaly Detection](#Anomaly-Detection)
