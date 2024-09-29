@@ -12,12 +12,12 @@ import shutil
 import traceback
 
 # KEYS = ["anomaly detection", "vector quantization"]
-KEYS = ["defect segmentation", "defect detection", "anomaly detection", "3D anomaly detection", "multimodal anomaly detection", "vector quantization"]
+KEYS = ["Defect Detection", "Defect Segmentation", "Anomaly Detection", "3D Anomaly Detection", "Multimodal Anomaly Detection", "Vector Quantization"]
 data, papers = {}, {}
 DateNow = datetime.date.today()
 DateNow = str(DateNow)
 DateNow = DateNow.replace('-', '.')
-per_key_papers = 15  # 只取15条
+per_key_papers = 50  # 只取15条
 
 
 # 对字典排序
