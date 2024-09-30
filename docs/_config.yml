@@ -1,7 +1,7 @@
 title: Daily Papers of SvyJ
 description: Follow Closely the Frontier of Worldwide Research on Computer Vision (SvyJ)
 show_downloads: false
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 # remote_theme: pages-themes/slate@v0.2.0
 # remote_theme: pages-themes/cayman@v0.2.0
