@@ -4,7 +4,7 @@ show_downloads: false
 theme: jekyll-theme-cayman
 
 # remote_theme: pages-themes/slate@v0.2.0
-remote_theme: pages-themes/cayman@v0.2.0
-# remote_theme: aterenin/minima-reboot
+# remote_theme: pages-themes/cayman@v0.2.0
+# remote_theme: aterenin/minimal-reboot
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
