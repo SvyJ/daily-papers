@@ -7,16 +7,16 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2024.12.22
+## Updated on 2024.12.23
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-12-20**|**Defective Edge Detection Using Cascaded Ensemble Canny Operator**|Anjali Nambiyar Rajkumar Kannan et.al|[paper](https://arxiv.org/abs/2411.14868)|-|<details><summary>detail</summary>2 Pages and 2 Figures</details>|
 |**2024-12-11**|**A Hybrid Framework for Statistical Feature Selection and Image-Based Noise-Defect Detection**|Alejandro Garnung Menéndez et.al|[paper](https://arxiv.org/abs/2412.08800)|-|-|
 |**2024-12-5**|**Fab-ME: A Vision State-Space and Attention-Enhanced Framework for Fabric Defect Detection**|Shuai Wang et.al|[paper](https://arxiv.org/abs/2412.03200)|-|-|
 |**2024-12-5**|**HyperDefect-YOLO: Enhance YOLO with HyperGraph Computation for Industrial Defect Detection**|Zuo Zuo et.al|[paper](https://arxiv.org/abs/2412.03969)|[code](https://github.com/Jay-zzcoder/HD-YOLO.)|<details><summary>detail</summary>under review</details>|
-|**2024-12-4**|**Defective Edge Detection Using Cascaded Ensemble Canny Operator**|Anjali Nambiyar Rajkumar Kannan et.al|[paper](https://arxiv.org/abs/2411.14868)|-|<details><summary>detail</summary>2 Pages and 2 Figures</details>|
 |**2024-11-18**|**In-Situ Melt Pool Characterization via Thermal Imaging for Defect Detection in Directed Energy Deposition Using Vision Transformers**|Israt Zarin Era et.al|[paper](https://arxiv.org/abs/2411.12028)|-|-|
 |**2024-11-15**|**Definition and Detection of Centralization Defects in Smart Contracts**|Zewei Lin et.al|[paper](https://arxiv.org/abs/2411.10169)|-|-|
 |**2024-11-5**|**PV-faultNet: Optimized CNN Architecture to detect defects resulting efficient PV production**|Eiffat E Zaman et.al|[paper](https://arxiv.org/abs/2411.02997)|-|-|
@@ -73,6 +73,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-12-19**|**Cross-System Software Log-based Anomaly Detection Using Meta-Learning**|Yuqing Wang et.al|[paper](https://arxiv.org/abs/2412.15445)|-|-|
 |**2024-12-19**|**Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties**|Wenqiao Li et.al|[paper](https://arxiv.org/abs/2412.14592)|-|-|
 |**2024-12-18**|**Generative Semi-supervised Graph Anomaly Detection**|Hezhe Qiao et.al|[paper](https://arxiv.org/abs/2402.11887)|[code](https://github.com/mala-lab/GGAD.)|<details><summary>detail</summary>Accepted by NeurIPS 2024</details>|
 |**2024-12-18**|**Quantum Machine Learning in Log-based Anomaly Detection: Challenges and Opportunities**|Jiaxing Qi et.al|[paper](https://arxiv.org/abs/2412.13529)|-|-|
@@ -97,7 +98,6 @@
 |**2024-12-12**|**CGGM: A conditional graph generation model with adaptive sparsity for node anomaly detection in IoT networks**|Munan Li et.al|[paper](https://arxiv.org/abs/2402.17363)|-|-|
 |**2024-12-12**|**Multimodal Industrial Anomaly Detection by Crossmodal Reverse Distillation**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2412.08949)|-|-|
 |**2024-12-11**|**Enhancing Cybersecurity in IoT Networks: A Deep Learning Approach to Anomaly Detection**|Yining Pang et.al|[paper](https://arxiv.org/abs/2412.08301)|-|-|
-|**2024-12-11**|**Breaking the Bias: Recalibrating the Attention of Industrial Anomaly Detection**|Xin Chen et.al|[paper](https://arxiv.org/abs/2412.08189)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -106,14 +106,20 @@
 |**2024-12-17**|**Look Inside for More: Internal Spatial Modality Perception for 3D Anomaly Detection**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2412.13461)|-|<details><summary>detail</summary>AAAI2025 Accepted</details>|
 |**2024-12-17**|**PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection**|Jianan Ye et.al|[paper](https://arxiv.org/abs/2412.12617)|-|-|
 |**2024-12-7**|**Self-Supervised Masked Mesh Learning for Unsupervised Anomaly Detection on 3D Cortical Surfaces**|Hao-Chun Yang et.al|[paper](https://arxiv.org/abs/2412.05580)|-|-|
-|**2024-11-9**|**Uni-3DAD: GAN-Inversion Aided Universal 3D Anomaly Detection on Model-free Products**|Jiayu Liu et.al|[paper](https://arxiv.org/abs/2408.16201)|-|-|
+|**2024-11-23**|**Uni-3DAD: GAN-Inversion Aided Universal 3D Anomaly Detection on Model-free Products**|J Liu et.al|[paper](https://arxiv.org/abs/2408.16201)|[code](https://paperswithcode.com/paper/uni-3dad-gan-inversion-aided-universal-3d)|-|
+|**2024-11-22**|**Efficient Slice Anomaly Detection Network for 3D Brain MRI Volume**|Z Zhang et.al|[paper](https://arxiv.org/abs/2408.15958)|[code](https://paperswithcode.com/paper/efficient-slice-anomaly-detection-network-for)|-|
+|**2024-11-16**|**Knowledge-informed randomized machine learning and data fusion for anomaly areas detection in multimodal 3D images**|N Alsahanova et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0020025524012684)|-|<details><summary>detail</summary>Information…, 2025 Elsevier</details>|
+|**2024-10-30**|**Learning in CubeRes Model Space for Anomaly Detection in 3D GPR Data**|X Zhou et.al|[paper](https://www.ijcai.org/proceedings/2024/0626.pdf)|-|<details><summary>detail</summary>ijcai.org</details>|
 |**2024-10-29**|**A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Anomaly Detection**|Yuxuan Lin et.al|[paper](https://arxiv.org/abs/2410.21982)|[code](https://github.com/Sunny5250/Awesome-Multi-Setting-UIAD.)|-|
 |**2024-10-27**|**PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2410.00320)|-|<details><summary>detail</summary>NeurIPS 2024</details>|
+|**2024-10-27**|**Anomaly Behavior Detection in Crowd via Lightweight 3D Convolution**|J Wang et.al|[paper](https://link.springer.com/chapter/10.1007/978-981-97-5615-5_11)|-|<details><summary>detail</summary>International Conference on Intelligent Computing, 2024 Springer</details>|
+|**2024-10-24**|**3D Industrial anomaly detection via dual reconstruction network**|Z Li et.al|[paper](https://link.springer.com/article/10.1007/s10489-024-05700-x)|-|<details><summary>detail</summary>Applied Intelligence, 2024 Springer</details>|
+|**2024-10-22**|**Spatially Aware Fusion in 3D Convolutional Autoencoders for Video Anomaly Detection**|A Niaz et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10613764/)|-|<details><summary>detail</summary>IEEE Access, 2024 ieeexplore.ieee.org</details>|
+|**2024-10-18**|**Towards High-resolution 3D Anomaly Detection via Group-Level Feature Contrastive Learning**|H Zhu et.al|[paper](https://arxiv.org/abs/2408.04604)|[code](https://paperswithcode.com/paper/towards-high-resolution-3d-anomaly-detection)|-|
 |**2024-10-15**|**SplatPose+: Real-time Image-Based Pose-Agnostic 3D Anomaly Detection**|Yizhe Liu et.al|[paper](https://arxiv.org/abs/2410.12080)|-|-|
 |**2024-10-13**|**DAS3D: Dual-modality Anomaly Synthesis for 3D Anomaly Detection**|Kecen Li et.al|[paper](https://arxiv.org/abs/2410.09821)|-|-|
-|**2024-8-28**|**Efficient Slice Anomaly Detection Network for 3D Brain MRI Volume**|Zeduo Zhang et.al|[paper](https://arxiv.org/abs/2408.15958)|[code](https://anonymous.4open.science/r/SimpleSliceNet-8EA3.)|-|
-|**2024-8-8**|**Towards High-resolution 3D Anomaly Detection via Group-Level Feature Contrastive Learning**|Hongze Zhu et.al|[paper](https://arxiv.org/abs/2408.04604)|[code](https://github.com/M-3LAB/Group3AD.)|<details><summary>detail</summary>ACMMM24</details>|
-|**2024-7-15**|**R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection**|Zheyuan Zhou et.al|[paper](https://arxiv.org/abs/2407.10862)|-|<details><summary>detail</summary>ECCV 2024</details>|
+|**2024-10-13**|**IGSPAD: Inverting 3D Gaussian Splatting for Pose-agnostic Anomaly Detection**|B Jiang et.al|[paper](https://openreview.net/forum?id=85mHNaXEDk)|-|<details><summary>detail</summary>ACM Multimedia 2024 openreview.net</details>|
+|**2024-10-9**|**R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection**|Z Zhou et.al|[paper](https://arxiv.org/abs/2407.10862)|[code](https://paperswithcode.com/paper/r3d-ad-reconstruction-via-diffusion-for-3d)|-|
 |**2024-6-27**|**Looking 3D: Anomaly Detection with 2D-3D Alignment**|Ankan Bhunia et.al|[paper](https://arxiv.org/abs/2406.19393)|[code](https://github.com/VICO-UoE/Looking3D)|<details><summary>detail</summary>CVPR'24</details>|
 |**2024-6-27**|**CLIP3D-AD: Extending CLIP for 3D Few-Shot Anomaly Detection with Multi-View Images Generation**|Zuo Zuo et.al|[paper](https://arxiv.org/abs/2406.18941)|-|-|
 |**2024-6-4**|**M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising**|Chengjie Wang et.al|[paper](https://arxiv.org/abs/2406.02263)|-|-|
@@ -133,17 +139,23 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-12-16**|**Exploiting Multimodal Latent Diffusion Models for Accurate Anomaly Detection in Industry 5.0**|L Capogrosso et.al|[paper](https://ceur-ws.org/Vol-3762/519.pdf)|-|<details><summary>detail</summary>2024 ceur ws.org</details>|
 |**2024-12-12**|**Multimodal Industrial Anomaly Detection by Crossmodal Reverse Distillation**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2412.08949)|-|-|
+|**2024-12-12**|**Multimodal Attention-Enhanced Feature Fusion-based Weekly Supervised Anomaly Violence Detection**|Y Kaneko et.al|[paper](https://arxiv.org/abs/2409.11223)|[code](https://paperswithcode.com/paper/multimodal-attention-enhanced-feature-fusion)|-|
+|**2024-12-4**|**Memoryless Multimodal Anomaly Detection via Student-Teacher Network and Signed Distance Learning**|Z Sun et.al|[paper](https://arxiv.org/abs/2409.05378)|[code](https://paperswithcode.com/paper/memoryless-multimodal-anomaly-detection-via)|-|
+|**2024-11-16**|**Knowledge-informed randomized machine learning and data fusion for anomaly areas detection in multimodal 3D images**|N Alsahanova et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0020025524012684)|-|<details><summary>detail</summary>Information…, 2025 Elsevier</details>|
 |**2024-10-29**|**A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Anomaly Detection**|Yuxuan Lin et.al|[paper](https://arxiv.org/abs/2410.21982)|[code](https://github.com/Sunny5250/Awesome-Multi-Setting-UIAD.)|-|
+|**2024-10-28**|**DIP-ECOD: improving anomaly detection in multimodal distributions**|K Yang et.al|[paper](https://pure.qub.ac.uk/en/publications/dip-ecod-improving-anomaly-detection-in-multimodal-distributions)|-|<details><summary>detail</summary>Conference on Applied…, 2024 pure.qub.ac.uk</details>|
 |**2024-10-12**|**MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection**|Xi Jiang et.al|[paper](https://arxiv.org/abs/2410.09453)|[code](https://github.com/jam-cc/MMAD)|<details><summary>detail</summary>The code and data are available at https://github</details>|
 |**2024-9-30**|**VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection**|Huilin Deng et.al|[paper](https://arxiv.org/abs/2409.20146)|-|-|
 |**2024-9-26**|**AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving**|Daniel Bogdoll et.al|[paper](https://arxiv.org/abs/2405.07865)|-|<details><summary>detail</summary>Daniel Bogdoll</details>|
 |**2024-9-23**|**Incomplete Multimodal Industrial Anomaly Detection via Cross-Modal Distillation**|Wenbo Sui et.al|[paper](https://arxiv.org/abs/2405.13571)|-|-|
-|**2024-9-17**|**Multimodal Attention-Enhanced Feature Fusion-based Weekly Supervised Anomaly Violence Detection**|Yuta Kaneko et.al|[paper](https://arxiv.org/abs/2409.11223)|-|-|
-|**2024-9-9**|**Memoryless Multimodal Anomaly Detection via Student-Teacher Network and Signed Distance Learning**|Zhongbin Sun et.al|[paper](https://arxiv.org/abs/2409.05378)|-|-|
+|**2024-9-23**|**A Collaborative Framework Using Multimodal Data and Adaptive Noise for Human Behavior Anomaly Detection**|G Yang et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10650235/)|-|<details><summary>detail</summary>2024 International Joint…, 2024 ieeexplore.ieee.org</details>|
+|**2024-9-20**|**Improving the accuracy of Anomaly Detection in Multimodal Sensors using 1D-CNN**|M Imad et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3652037.3652052)|-|<details><summary>detail</summary>Proceedings of the 17th…, 2024 dl.acm.org</details>|
+|**2024-9-7**|**Weakly-supervised anomaly detection for multimodal data distributions**|X Tan et.al|[paper](https://arxiv.org/abs/2406.09147)|[code](https://paperswithcode.com/paper/weakly-supervised-anomaly-detection-for)|-|
+|**2024-9-4**|**Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping Supplementary Material**|A Costanzino et.al|[paper](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Costanzino_Multimodal_Industrial_Anomaly_CVPR_2024_supplemental.pdf)|-|<details><summary>detail</summary>openaccess.thecvf.com</details>|
+|**2024-8-29**|**M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising**|C Wang et.al|[paper](https://arxiv.org/abs/2406.02263)|[code](https://paperswithcode.com/paper/m3dm-nr-rgb-3d-noisy-resistant-industrial)|-|
 |**2024-7-8**|**Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping**|Alex Costanzino et.al|[paper](https://arxiv.org/abs/2312.04521)|-|<details><summary>detail</summary>CVPR 2024</details>|
-|**2024-6-13**|**Weakly-supervised anomaly detection for multimodal data distributions**|Xu Tan et.al|[paper](https://arxiv.org/abs/2406.09147)|-|-|
-|**2024-6-4**|**M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising**|Chengjie Wang et.al|[paper](https://arxiv.org/abs/2406.02263)|-|-|
 |**2024-5-21**|**Multimodal video analysis for crowd anomaly detection using open access tourism cameras**|Alejandro Dionis-Ros et.al|[paper](https://arxiv.org/abs/2405.12708)|-|-|
 |**2024-3-6**|**Multimodal Anomaly Detection based on Deep Auto-Encoder for Object Slip Perception of Mobile Manipulation Robots**|Youngjae Yoo et.al|[paper](https://arxiv.org/abs/2403.03563)|-|-|
 |**2024-3-5**|**TSRNet: Simple Framework for Real-time ECG Anomaly Detection with Multimodal Time and Spectrogram Restoration Network**|Nhat-Tan Bui et.al|[paper](https://arxiv.org/abs/2312.10187)|[code](https://github.com/UARK-AICV/TSRNet.)|<details><summary>detail</summary>ISBI 2024</details>|
