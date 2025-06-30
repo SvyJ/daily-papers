@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 
 ## Defect Detection
 
@@ -73,6 +73,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-6-27**|**Explainable anomaly detection for sound spectrograms using pooling statistics with quantile differences**|Nicolas Thewes et.al|[paper](https://arxiv.org/abs/2506.21921)|-|<details><summary>detail</summary>MSC Class:62ACM Class:G</details>|
 |**2025-6-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al|[paper](https://arxiv.org/abs/2506.21550)|-|-|
 |**2025-6-26**|**SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark**|Alex Costanzino et.al|[paper](https://arxiv.org/abs/2506.21549)|-|-|
 |**2025-6-26**|**FastRef:Fast Prototype Refinement for Few-Shot Industrial Anomaly Detection**|Long Tian et.al|[paper](https://arxiv.org/abs/2506.21398)|-|-|
@@ -97,7 +98,6 @@
 |**2025-6-21**|**Quantum-Hybrid Support Vector Machines for Anomaly Detection in Industrial Control Systems**|Tyler Cultice et.al|[paper](https://arxiv.org/abs/2506.17824)|-|-|
 |**2025-6-21**|**The Blind Spot of BGP Anomaly Detection: Why LSTM Autoencoders Fail on Real-World Outages**|Samuel Oluwafemi Adebayo et.al|[paper](https://arxiv.org/abs/2506.17821)|-|-|
 |**2025-6-20**|**When Every Millisecond Counts: Real-Time Anomaly Detection via the Multimodal Asynchronous Hybrid Network**|Dong Xiao et.al|[paper](https://arxiv.org/abs/2506.17457)|-|<details><summary>detail</summary>ICML 2025 Spotlight</details>|
-|**2025-6-20**|**Anomaly Detection in Event-triggered Traffic Time Series via Similarity Learning**|Shaoyu Dou et.al|[paper](https://arxiv.org/abs/2506.16855)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -167,6 +167,7 @@
 |**2025-6-24**|**AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models**|Zeyu Li et.al|[paper](https://arxiv.org/abs/2506.19505)|-|-|
 |**2025-6-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al|[paper](https://arxiv.org/abs/2506.18879)|[code](https://github.com/UMass-Embodied-AGI/CommVQ.)|<details><summary>detail</summary>ICML 2025 poster</details>|
 |**2025-6-21**|**StainPIDR: A Pathological Image Decouplingand Reconstruction Method for Stain Normalization Based on Color Vector Quantization and Structure Restaining**|Zheng Chen et.al|[paper](https://arxiv.org/abs/2506.17879)|-|-|
+|**2025-6-19**|**Hierarchical Patch Compression for ColPali: Efficient Multi-Vector Document Retrieval with Dynamic Pruning and Quantization**|Duong Bach et.al|[paper](https://arxiv.org/abs/2506.21601)|[code](https://github.com/DngBack/HPC-ColPali.)|-|
 |**2025-6-17**|**Enhancing Vector Quantization with Distributional Matching: A Theoretical and Empirical Study**|Xianghong Fang et.al|[paper](https://arxiv.org/abs/2506.15078)|-|-|
 |**2025-6-11**|**STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization**|Hao Li et.al|[paper](https://arxiv.org/abs/2506.03863)|-|<details><summary>detail</summary>Accepted by ICML 2025 Spotlight</details>|
 |**2025-6-8**|**Vector-Quantized Vision Foundation Models for Object-Centric Learning**|Rongzhen Zhao et.al|[paper](https://arxiv.org/abs/2502.20263)|[code](https://github.com/Genera1Z/VQ-VFM-OCL.)|-|
@@ -187,5 +188,4 @@
 |**2025-4-18**|**Lightweight Road Environment Segmentation using Vector Quantization**|Jiyong Kwag et.al|[paper](https://arxiv.org/abs/2504.14113)|-|<details><summary>detail</summary>Journal ref:ISPRS Ann</details>|
 |**2025-4-17**|**Hierarchical Vector Quantized Graph Autoencoder with Annealing-Based Code Selection**|Long Zeng et.al|[paper](https://arxiv.org/abs/2504.12715)|-|<details><summary>detail</summary>Journal ref:WWW 2025</details>|
 |**2025-4-16**|**GT-SVQ: A Linear-Time Graph Transformer for Node Classification Using Spiking Vector Quantization**|Huizhe Zhang et.al|[paper](https://arxiv.org/abs/2504.11840)|-|<details><summary>detail</summary>work in progress</details>|
-|**2025-4-10**|**Vector Quantized-Elites: Unsupervised and Problem-Agnostic Quality-Diversity Optimization**|Constantinos Tsakonas et.al|[paper](https://arxiv.org/abs/2504.08057)|-|-|
 
