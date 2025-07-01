@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 
 ## Defect Detection
 
@@ -43,6 +43,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-6-28**|**Region-Aware CAM: High-Resolution Weakly-Supervised Defect Segmentation via Salient Region Perception**|Hang-Cheng Dong et.al|[paper](https://arxiv.org/abs/2506.22866)|-|-|
 |**2025-6-17**|**synth-dacl: Does Synthetic Defect Data Enhance Segmentation Accuracy and Robustness for Real-World Bridge Inspections?**|Johannes Flotzinger et.al|[paper](https://arxiv.org/abs/2506.14255)|-|-|
 |**2025-4-24**|**Conformal Segmentation in Industrial Surface Defect Detection with Statistical Guarantees**|Cheng Shen et.al|[paper](https://arxiv.org/abs/2504.17721)|-|<details><summary>detail</summary>Under Review</details>|
 |**2025-4-11**|**Weakly Supervised Panoptic Segmentation for Defect-Based Grading of Fresh Produce**|Manuel Knott et.al|[paper](https://arxiv.org/abs/2411.16219)|[code](https://github.com/manuelknott/banana-defect-segmentation)|<details><summary>detail</summary>Accepted as a paper to the 6th International Workshop on Agriculture-Vision: Challenges & Opportunities for Computer Vision in Agriculture in conjunction with IEEE/CVF CVPR 2025</details>|
@@ -67,12 +68,21 @@
 |**2023-11-16**|**Segment Anything in Defect Detection**|Bozhen Hu et.al|[paper](https://arxiv.org/abs/2311.10245)|-|-|
 |**2023-10-24**|**Harmonizing output imbalance for defect segmentation on extremely-imbalanced photovoltaic module cells images**|Jianye Yi et.al|[paper](https://arxiv.org/abs/2211.05295)|-|-|
 |**2023-10-3**|**Photonic Accelerators for Image Segmentation in Autonomous Driving and Defect Detection**|Lakshmi Nair et.al|[paper](https://arxiv.org/abs/2309.16783)|-|<details><summary>detail</summary>MSC Class:I</details>|
-|**2023-9-28**|**Investigating Shift Equivalence of Convolutional Neural Networks in Industrial Defect Segmentation**|Zhen Qu et.al|[paper](https://arxiv.org/abs/2309.16902)|[code](https://github.com/xiaozhen228/CAPS.)|<details><summary>detail</summary>submit to IEEE Transactions on Instrumentation & Measurement</details>|
 
 ## Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-6-30**|**INP-Former++: Advancing Universal Anomaly Detection via Intrinsic Normal Prototypes and Residual Learning**|Wei Luo et.al|[paper](https://arxiv.org/abs/2506.03660)|-|-|
+|**2025-6-30**|**Early-Stage Anomaly Detection: A Study of Model Performance on Complete vs. Partial Flows**|Adrian Pekar et.al|[paper](https://arxiv.org/abs/2407.02856)|-|<details><summary>detail</summary>accepted for presentation at WTMC 2025</details>|
+|**2025-6-30**|**MadCLIP: Few-shot Medical Anomaly Detection with CLIP**|Mahshid Shiri et.al|[paper](https://arxiv.org/abs/2506.23810)|[code](https://github.com/mahshid1998/MadCLIP.)|<details><summary>detail</summary>MICCAI 2025 (this version is not peer-reviewed</details>|
+|**2025-6-30**|**Towards Automated Self-Supervised Learning for Truly Unsupervised Graph Anomaly Detection**|Zhong Li et.al|[paper](https://arxiv.org/abs/2501.14694)|-|<details><summary>detail</summary>Manuscript accepted by Data Mining and Knowledge Discovery for publication (June 2025)</details>|
+|**2025-6-30**|**StackCLIP: Clustering-Driven Stacked Prompt in Zero-Shot Industrial Anomaly Detection**|Yanning Hou et.al|[paper](https://arxiv.org/abs/2506.23577)|-|-|
+|**2025-6-29**|**Reconciling Attribute and Structural Anomalies for Improved Graph Anomaly Detection**|Chunjing Xiao et.al|[paper](https://arxiv.org/abs/2506.23469)|[code](https://doi.org/10.1109/TNNLS.2025.3561172)|<details><summary>detail</summary>Accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</details>|
+|**2025-6-28**|**Adaptive Anomaly Detection in the Presence of Concept Drift: Extended Report**|Jongjun Park et.al|[paper](https://arxiv.org/abs/2506.15831)|-|<details><summary>detail</summary>Extended version (to be updated)</details>|
+|**2025-6-28**|**Cybersecurity-Focused Anomaly Detection in Connected Autonomous Vehicles Using Machine Learning**|Prathyush Kumar Reddy Lebaku et.al|[paper](https://arxiv.org/abs/2506.22984)|-|<details><summary>detail</summary>Journal ref:International Conference on Transportation and Development 2025</details>|
+|**2025-6-28**|**xLSTMAD: A Powerful xLSTM-based Method for Anomaly Detection**|Kamil Faber et.al|[paper](https://arxiv.org/abs/2506.22837)|[code](https://github.com/Nyderx/xlstmad)|-|
+|**2025-6-28**|**Privacy-Preserving Video Anomaly Detection: A Survey**|Yang Liu et.al|[paper](https://arxiv.org/abs/2411.14565)|-|-|
 |**2025-6-27**|**Explainable anomaly detection for sound spectrograms using pooling statistics with quantile differences**|Nicolas Thewes et.al|[paper](https://arxiv.org/abs/2506.21921)|-|<details><summary>detail</summary>MSC Class:62ACM Class:G</details>|
 |**2025-6-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al|[paper](https://arxiv.org/abs/2506.21550)|-|-|
 |**2025-6-26**|**SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark**|Alex Costanzino et.al|[paper](https://arxiv.org/abs/2506.21549)|-|-|
@@ -88,16 +98,6 @@
 |**2025-6-23**|**A Reliable Framework for Human-in-the-Loop Anomaly Detection in Time Series**|Ziquan Deng et.al|[paper](https://arxiv.org/abs/2405.03234)|-|<details><summary>detail</summary>The manuscript is currently under review</details>|
 |**2025-6-23**|**A Comprehensive Study of Machine Learning Techniques for Log-Based Anomaly Detection**|Shan Ali et.al|[paper](https://arxiv.org/abs/2307.16714)|-|<details><summary>detail</summary>Accepted by EMSE'25</details>|
 |**2025-6-23**|**Robust Anomaly Detection in Network Traffic: Evaluating Machine Learning Models on CICIDS2017**|Zhaoyang Xu et.al|[paper](https://arxiv.org/abs/2506.19877)|-|<details><summary>detail</summary>submitted to IEEE CNS 2025</details>|
-|**2025-6-23**|**Normality Prior Guided Multi-Semantic Fusion Network for Unsupervised Image Anomaly Detection**|Muhao Xu et.al|[paper](https://arxiv.org/abs/2506.18544)|[code](https://github.com/Xmh-L/NPGMF.)|-|
-|**2025-6-23**|**Sequential keypoint density estimator: an overlooked baseline of skeleton-based video anomaly detection**|Anja Delić et.al|[paper](https://arxiv.org/abs/2506.18368)|-|-|
-|**2025-6-23**|**Learning High-Quality Latent Representations for Anomaly Detection and Signal Integrity Enhancement in High-Speed Signals**|Muhammad Usama et.al|[paper](https://arxiv.org/abs/2506.18288)|[code](https://github.com/Usama1002/learning-latent-representations.)|-|
-|**2025-6-22**|**Cross-Architecture Knowledge Distillation (KD) for Retinal Fundus Image Anomaly Detection on NVIDIA Jetson Nano**|Berk Yilmaz et.al|[paper](https://arxiv.org/abs/2506.18220)|-|-|
-|**2025-6-22**|**TAB: Unified Benchmarking of Time Series Anomaly Detection Methods**|Xiangfei Qiu et.al|[paper](https://arxiv.org/abs/2506.18046)|[code](https://github.com/decisionintelligence/TAB.)|<details><summary>detail</summary>Accepted by PVLDB2025</details>|
-|**2025-6-22**|**HGO-YOLO: Advancing Anomaly Behavior Detection with Hierarchical Features and Lightweight Optimized Detection**|Qizhi Zheng et.al|[paper](https://arxiv.org/abs/2503.07371)|-|-|
-|**2025-6-22**|**A real-time anomaly detection method for robots based on a flexible and sparse latent space**|Taewook Kang et.al|[paper](https://arxiv.org/abs/2504.11170)|[code](https://github.com/twkang43/sparse-maf-aae.)|-|
-|**2025-6-21**|**Quantum-Hybrid Support Vector Machines for Anomaly Detection in Industrial Control Systems**|Tyler Cultice et.al|[paper](https://arxiv.org/abs/2506.17824)|-|-|
-|**2025-6-21**|**The Blind Spot of BGP Anomaly Detection: Why LSTM Autoencoders Fail on Real-World Outages**|Samuel Oluwafemi Adebayo et.al|[paper](https://arxiv.org/abs/2506.17821)|-|-|
-|**2025-6-20**|**When Every Millisecond Counts: Real-Time Anomaly Detection via the Multimodal Asynchronous Hybrid Network**|Dong Xiao et.al|[paper](https://arxiv.org/abs/2506.17457)|-|<details><summary>detail</summary>ICML 2025 Spotlight</details>|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-6-30**|**VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference**|Zihan Liu et.al|[paper](https://arxiv.org/abs/2503.02236)|-|-|
+|**2025-6-28**|**Hierarchical Characterization of Brain Dynamics via State Space-based Vector Quantization**|Yanwu Yang et.al|[paper](https://arxiv.org/abs/2506.22952)|-|-|
 |**2025-6-26**|**PCDVQ: Enhancing Vector Quantization for Large Language Models via Polar Coordinate Decoupling**|Yuxuan Yue et.al|[paper](https://arxiv.org/abs/2506.05432)|-|-|
 |**2025-6-24**|**AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models**|Zeyu Li et.al|[paper](https://arxiv.org/abs/2506.19505)|-|-|
 |**2025-6-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al|[paper](https://arxiv.org/abs/2506.18879)|[code](https://github.com/UMass-Embodied-AGI/CommVQ.)|<details><summary>detail</summary>ICML 2025 poster</details>|
@@ -186,6 +188,4 @@
 |**2025-4-28**|**TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate**|Amir Zandieh et.al|[paper](https://arxiv.org/abs/2504.19874)|-|-|
 |**2025-4-27**|**Variable Bitrate Residual Vector Quantization for Audio Coding**|Yunkee Chae et.al|[paper](https://arxiv.org/abs/2410.06016)|-|<details><summary>detail</summary>ICASSP 2025 camera ready version</details>|
 |**2025-4-18**|**Lightweight Road Environment Segmentation using Vector Quantization**|Jiyong Kwag et.al|[paper](https://arxiv.org/abs/2504.14113)|-|<details><summary>detail</summary>Journal ref:ISPRS Ann</details>|
-|**2025-4-17**|**Hierarchical Vector Quantized Graph Autoencoder with Annealing-Based Code Selection**|Long Zeng et.al|[paper](https://arxiv.org/abs/2504.12715)|-|<details><summary>detail</summary>Journal ref:WWW 2025</details>|
-|**2025-4-16**|**GT-SVQ: A Linear-Time Graph Transformer for Node Classification Using Spiking Vector Quantization**|Huizhe Zhang et.al|[paper](https://arxiv.org/abs/2504.11840)|-|<details><summary>detail</summary>work in progress</details>|
 
