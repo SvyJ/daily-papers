@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 
 ## Defect Detection
 
@@ -79,6 +79,7 @@
 |**2025-7-1**|**Good Enough to Learn: LLM-based Anomaly Detection in ECU Logs without Reliable Labels**|Bogdan Bogdan et.al|[paper](https://arxiv.org/abs/2507.01077)|-|-|
 |**2025-7-1**|**Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection**|Wei Luo et.al|[paper](https://arxiv.org/abs/2503.02424)|[code](https://github.com/luow23/INP-Former.)|<details><summary>detail</summary>Accepted by CVPR2025</details>|
 |**2025-7-1**|**eACGM: Non-instrumented Performance Tracing and Anomaly Detection towards Machine Learning Systems**|Ruilin Xu et.al|[paper](https://arxiv.org/abs/2506.02007)|-|<details><summary>detail</summary>IWQoS 2025 (Camera-Ready Version)</details>|
+|**2025-7-1**|**Continuous Wavelet Transform and Siamese Network-Based Anomaly Detection in Multi-variate Semiconductor Process Time Series**|Bappaditya Dey et.al|[paper](https://arxiv.org/abs/2507.01999)|-|-|
 |**2025-7-1**|**Unsupervised contrastive analysis for anomaly detection in brain MRIs via conditional diffusion models**|Cristiano Patrício et.al|[paper](https://arxiv.org/abs/2406.00772)|-|<details><summary>detail</summary>Under consideration at Pattern Recognition Letters</details>|
 |**2025-6-30**|**INP-Former++: Advancing Universal Anomaly Detection via Intrinsic Normal Prototypes and Residual Learning**|Wei Luo et.al|[paper](https://arxiv.org/abs/2506.03660)|-|-|
 |**2025-6-30**|**Early-Stage Anomaly Detection: A Study of Model Performance on Complete vs. Partial Flows**|Adrian Pekar et.al|[paper](https://arxiv.org/abs/2407.02856)|-|<details><summary>detail</summary>accepted for presentation at WTMC 2025</details>|
@@ -97,7 +98,6 @@
 |**2025-6-25**|**Benchmarking Unsupervised Strategies for Anomaly Detection in Multivariate Time Series**|Laura Boggia et.al|[paper](https://arxiv.org/abs/2506.20574)|-|<details><summary>detail</summary>Submitted to VLDB 2026 conference</details>|
 |**2025-6-25**|**E-ABIN: an Explainable module for Anomaly detection in BIological Networks**|Ugo Lomoio et.al|[paper](https://arxiv.org/abs/2506.20693)|-|-|
 |**2025-6-24**|**Anomaly Detection and Radio-frequency Interference Classification with Unsupervised Learning in Narrowband Radio Technosignature Searches**|Ben Jacobson-Bell et.al|[paper](https://arxiv.org/abs/2411.16556)|-|-|
-|**2025-6-24**|**IgCONDA-PET: Weakly-Supervised PET Anomaly Detection using Implicitly-Guided Attention-Conditional Counterfactual Diffusion Modeling -- a Multi-Center, Multi-Cancer, and Multi-Tracer Study**|Shadab Ahamed et.al|[paper](https://arxiv.org/abs/2405.00239)|[code](https://github.com/ahxmeds/IgCONDA-PET.git.)|-|
 
 ## 3D Anomaly Detection
 
