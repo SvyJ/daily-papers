@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 
 ## Defect Detection
 
@@ -73,6 +73,15 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-13**|**Hyperspectral Sensor Management for UAS: Performance Analysis of Context-Based System Architectures for Camouflage and UXO Anomaly Detection…**|L Eckel et.al|[paper](https://www.mdpi.com/2504-446X/8/10/529)|-|<details><summary>detail</summary>Drones, 2024 mdpi.com</details>|
+|**2025-7-13**|**Research on carotid artery plaque anomaly detection algorithm based on ultrasound images**|Y Li et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0010482524012654)|-|<details><summary>detail</summary>Computers in Biology and…, 2024 Elsevier</details>|
+|**2025-7-13**|**Unsupervised Learning Framework with Memory-augmented Transformer for Multivariate Time Series Anomaly Detection**|송준호 - 2024 - s-space.snu.ac.kr et.al|[paper](https://s-space.snu.ac.kr/handle/10371/210429)|-|<details><summary>detail</summary>2024 s space.snu.ac.kr</details>|
+|**2025-7-13**|**Adaptive loitering anomaly detection based on motion states**|H Li et.al|[paper](https://link.springer.com/article/10.1007/s11042-024-20296-7)|-|<details><summary>detail</summary>Multimedia Tools and Applications, 2024 Springer</details>|
+|**2025-7-12**|**Revisiting Deep Ensemble Uncertainty for Enhanced Medical Anomaly Detection**|Y Gu et.al|[paper](https://arxiv.org/abs/2409.17485)|[code](https://github.com/rubiscol/d2ue)|-|
+|**2025-7-12**|**A Taxonomic Framework for Neural Network Based Anomaly Detection in Bridge Monitoring**|I Bayane et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4968826)|-|<details><summary>detail</summary>Available at SSRN 4968826 papers.ssrn.com</details>|
+|**2025-7-12**|**Appearance Blur-driven AutoEncoder and Motion-guided Memory Module for Video Anomaly Detection**|J Lyu et.al|[paper](https://arxiv.org/abs/2409.17608)|[code](https://paperswithcode.com/paper/appearance-blur-driven-autoencoder-and-motion)|-|
+|**2025-7-10**|**Hyperspectral Anomaly Detection Methods: A Survey and Comparative Study**|Aayushma Pant et.al|[paper](https://arxiv.org/abs/2507.05730)|-|-|
+|**2025-7-10**|**Rethinking Spatio-Temporal Anomaly Detection: A Vision for Causality-Driven Cybersecurity**|Arun Vignesh Malarkkan et.al|[paper](https://arxiv.org/abs/2507.08177)|-|-|
 |**2025-7-10**|**SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment**|Guoxin Zang et.al|[paper](https://arxiv.org/abs/2507.07939)|[code](https://github.com/amoreZgx1n/SAGE.)|<details><summary>detail</summary>Accepted by ACMMM2025</details>|
 |**2025-7-10**|**3D-ADAM: A Dataset for 3D Anomaly Detection in Advanced Manufacturing**|Paul McHard et.al|[paper](https://arxiv.org/abs/2507.07838)|-|-|
 |**2025-7-10**|**Adaptive Gaussian Mixture Models-based Anomaly Detection for under-constrained Cable-Driven Parallel Robots**|Julio Garrido et.al|[paper](https://arxiv.org/abs/2507.07714)|-|-|
@@ -81,7 +90,6 @@
 |**2025-7-9**|**MADPOT: Medical Anomaly Detection with CLIP Adaptation and Partial Optimal Transport**|Mahshid Shiri et.al|[paper](https://arxiv.org/abs/2507.06733)|[code](https://github.com/mahshid1998/MADPOT.)|<details><summary>detail</summary>ICIAP 2025 (this version is not peer-reviewed</details>|
 |**2025-7-9**|**Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing**|Chanh Nguyen et.al|[paper](https://arxiv.org/abs/2507.04969)|-|-|
 |**2025-7-8**|**Unsupervised Anomaly Detection through Mass Repulsing Optimal Transport**|Eduardo Fernandes Montesuma et.al|[paper](https://arxiv.org/abs/2502.12793)|-|-|
-|**2025-7-8**|**Hyperspectral Anomaly Detection Methods: A Survey and Comparative Study**|Aayushma Pant et.al|[paper](https://arxiv.org/abs/2507.05730)|-|-|
 |**2025-7-8**|**AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM**|Sunghyun Ahn et.al|[paper](https://arxiv.org/abs/2503.04504)|-|-|
 |**2025-7-8**|**KAN-AD: Time Series Anomaly Detection with Kolmogorov-Arnold Networks**|Quan Zhou et.al|[paper](https://arxiv.org/abs/2411.00278)|-|-|
 |**2025-7-7**|**Unifying Explainable Anomaly Detection and Root Cause Analysis in Dynamical Systems**|Yue Sun et.al|[paper](https://arxiv.org/abs/2502.12086)|-|<details><summary>detail</summary>Accepted by the AAAI-25 Workshop on Artificial Intelligence for Cyber Security (AICS)</details>|
@@ -97,7 +105,6 @@
 |**2025-7-2**|**Sequential keypoint density estimator: an overlooked baseline of skeleton-based video anomaly detection**|Anja Delić et.al|[paper](https://arxiv.org/abs/2506.18368)|-|<details><summary>detail</summary>ICCV 2025</details>|
 |**2025-7-1**|**Good Enough to Learn: LLM-based Anomaly Detection in ECU Logs without Reliable Labels**|Bogdan Bogdan et.al|[paper](https://arxiv.org/abs/2507.01077)|-|-|
 |**2025-7-1**|**Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection**|Wei Luo et.al|[paper](https://arxiv.org/abs/2503.02424)|[code](https://github.com/luow23/INP-Former.)|<details><summary>detail</summary>Accepted by CVPR2025</details>|
-|**2025-7-1**|**eACGM: Non-instrumented Performance Tracing and Anomaly Detection towards Machine Learning Systems**|Ruilin Xu et.al|[paper](https://arxiv.org/abs/2506.02007)|-|<details><summary>detail</summary>IWQoS 2025 (Camera-Ready Version)</details>|
 
 ## 3D Anomaly Detection
 
