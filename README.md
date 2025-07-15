@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-14**|**Advancing Automatic Photovoltaic Defect Detection using Semi-Supervised Semantic Segmentation of Electroluminescence Images**|Abhishek Jha et.al|[paper](https://arxiv.org/abs/2404.13693)|[code](https://github.com/abj247/PV-S3.)|-|
 |**2025-7-10**|**NexViTAD: Few-shot Unsupervised Cross-Domain Defect Detection via Vision Foundation Models and Multi-Task Learning**|Tianwei Mu et.al|[paper](https://arxiv.org/abs/2507.07579)|-|-|
 |**2025-7-10**|**Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects**|Yuqi Cheng et.al|[paper](https://arxiv.org/abs/2507.07435)|-|-|
 |**2025-7-7**|**Semi-Supervised Defect Detection via Conditional Diffusion and CLIP-Guided Noise Filtering**|Shuai Li et.al|[paper](https://arxiv.org/abs/2507.05588)|[code](https://github.com/cLin-c/Semisupervised-DSYM.)|-|
@@ -37,12 +38,12 @@
 |**2025-4-15**|**CFIS-YOLO: A Lightweight Multi-Scale Fusion Network for Edge-Deployable Wood Defect Detection**|Jincheng Kang et.al|[paper](https://arxiv.org/abs/2504.11305)|-|-|
 |**2025-4-14**|**Masked Autoencoder Self Pre-Training for Defect Detection in Microelectronics**|Nikolai Röhrich et.al|[paper](https://arxiv.org/abs/2504.10021)|-|-|
 |**2025-4-9**|**MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning**|Ylli Sadikaj et.al|[paper](https://arxiv.org/abs/2504.06740)|-|-|
-|**2025-4-8**|**Event-based Civil Infrastructure Visual Defect Detection: ev-CIVIL Dataset and Benchmark**|Udayanga G. W. K. N. Gamage et.al|[paper](https://arxiv.org/abs/2504.05679)|-|<details><summary>detail</summary>A journal paper which submitted to Sage SHM journa and it is under review currently</details>|
 
 ## Defect Segmentation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-14**|**Advancing Automatic Photovoltaic Defect Detection using Semi-Supervised Semantic Segmentation of Electroluminescence Images**|Abhishek Jha et.al|[paper](https://arxiv.org/abs/2404.13693)|[code](https://github.com/abj247/PV-S3.)|-|
 |**2025-6-28**|**Region-Aware CAM: High-Resolution Weakly-Supervised Defect Segmentation via Salient Region Perception**|Hang-Cheng Dong et.al|[paper](https://arxiv.org/abs/2506.22866)|-|-|
 |**2025-6-24**|**Evolutionary computing-based image segmentation method to detect defects and features in Additive Friction Stir Deposition Process**|Akshansh Mishra et.al|[paper](https://arxiv.org/abs/2507.00046)|-|-|
 |**2025-6-17**|**synth-dacl: Does Synthetic Defect Data Enhance Segmentation Accuracy and Robustness for Real-World Bridge Inspections?**|Johannes Flotzinger et.al|[paper](https://arxiv.org/abs/2506.14255)|-|-|
@@ -50,7 +51,6 @@
 |**2025-4-11**|**Weakly Supervised Panoptic Segmentation for Defect-Based Grading of Fresh Produce**|Manuel Knott et.al|[paper](https://arxiv.org/abs/2411.16219)|[code](https://github.com/manuelknott/banana-defect-segmentation)|<details><summary>detail</summary>Accepted as a paper to the 6th International Workshop on Agriculture-Vision: Challenges & Opportunities for Computer Vision in Agriculture in conjunction with IEEE/CVF CVPR 2025</details>|
 |**2025-4-9**|**MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning**|Ylli Sadikaj et.al|[paper](https://arxiv.org/abs/2504.06740)|-|-|
 |**2025-2-11**|**Exploring Few-Shot Defect Segmentation in General Industrial Scenarios with Metric Learning and Vision Foundation Models**|Tongkun Liu et.al|[paper](https://arxiv.org/abs/2502.01216)|[code](https://github.com/liutongkun/GFDS.)|-|
-|**2025-1-30**|**PV-S3: Advancing Automatic Photovoltaic Defect Detection using Semi-Supervised Semantic Segmentation of Electroluminescence Images**|Abhishek Jha et.al|[paper](https://arxiv.org/abs/2404.13693)|[code](https://github.com/abj247/PV-S3.)|-|
 |**2025-1-23**|**Effective Defect Detection Using Instance Segmentation for NDI**|Ashiqur Rahman et.al|[paper](https://arxiv.org/abs/2501.14149)|[code](https://ai-2-ase.github.io/)|-|
 |**2025-1-17**|**Multi-Modal Attention Networks for Enhanced Segmentation and Depth Estimation of Subsurface Defects in Pulse Thermography**|Mohammed Salah et.al|[paper](https://arxiv.org/abs/2501.09994)|-|<details><summary>detail</summary>Pulse thermography</details>|
 |**2024-10-24**|**Synth4Seg -- Learning Defect Data Synthesis for Defect Segmentation using Bi-level Optimization**|Shancong Mou et.al|[paper](https://arxiv.org/abs/2410.18490)|-|-|
@@ -73,13 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2025-7-13**|**Hyperspectral Sensor Management for UAS: Performance Analysis of Context-Based System Architectures for Camouflage and UXO Anomaly Detection…**|L Eckel et.al|[paper](https://www.mdpi.com/2504-446X/8/10/529)|-|<details><summary>detail</summary>Drones, 2024 mdpi.com</details>|
-|**2025-7-13**|**Research on carotid artery plaque anomaly detection algorithm based on ultrasound images**|Y Li et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0010482524012654)|-|<details><summary>detail</summary>Computers in Biology and…, 2024 Elsevier</details>|
-|**2025-7-13**|**Unsupervised Learning Framework with Memory-augmented Transformer for Multivariate Time Series Anomaly Detection**|송준호 - 2024 - s-space.snu.ac.kr et.al|[paper](https://s-space.snu.ac.kr/handle/10371/210429)|-|<details><summary>detail</summary>2024 s space.snu.ac.kr</details>|
-|**2025-7-13**|**Adaptive loitering anomaly detection based on motion states**|H Li et.al|[paper](https://link.springer.com/article/10.1007/s11042-024-20296-7)|-|<details><summary>detail</summary>Multimedia Tools and Applications, 2024 Springer</details>|
-|**2025-7-12**|**Revisiting Deep Ensemble Uncertainty for Enhanced Medical Anomaly Detection**|Y Gu et.al|[paper](https://arxiv.org/abs/2409.17485)|[code](https://github.com/rubiscol/d2ue)|-|
-|**2025-7-12**|**A Taxonomic Framework for Neural Network Based Anomaly Detection in Bridge Monitoring**|I Bayane et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4968826)|-|<details><summary>detail</summary>Available at SSRN 4968826 papers.ssrn.com</details>|
-|**2025-7-12**|**Appearance Blur-driven AutoEncoder and Motion-guided Memory Module for Video Anomaly Detection**|J Lyu et.al|[paper](https://arxiv.org/abs/2409.17608)|[code](https://paperswithcode.com/paper/appearance-blur-driven-autoencoder-and-motion)|-|
+|**2025-7-14**|**BenchReAD: A systematic benchmark for retinal anomaly detection**|Chenyu Lian et.al|[paper](https://arxiv.org/abs/2507.10492)|[code](https://github.com/DopamineLcy/BenchReAD.)|<details><summary>detail</summary>MICCAI 2025</details>|
+|**2025-7-14**|**De-Fake: Style based Anomaly Deepfake Detection**|Sudev Kumar Padhi et.al|[paper](https://arxiv.org/abs/2507.03334)|-|-|
+|**2025-7-13**|**Causality-informed Anomaly Detection in Partially Observable Sensor Networks: Moving beyond Correlations**|Xiaofeng Xiao et.al|[paper](https://arxiv.org/abs/2507.09742)|-|-|
+|**2025-7-12**|**Simplifying Traffic Anomaly Detection with Video Foundation Models**|Svetlana Orlova et.al|[paper](https://arxiv.org/abs/2507.09338)|[code](https://github.com/tue-mps/simple-tad.)|<details><summary>detail</summary>ICCVW 2025 accepted</details>|
+|**2025-7-12**|**Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2507.09214)|[code](https://github.com/xxxx/xxx).)|<details><summary>detail</summary>under review</details>|
+|**2025-7-11**|**Detecting Deepfake Talking Heads from Facial Biometric Anomalies**|Justin D. Norman et.al|[paper](https://arxiv.org/abs/2507.08917)|-|-|
 |**2025-7-10**|**Hyperspectral Anomaly Detection Methods: A Survey and Comparative Study**|Aayushma Pant et.al|[paper](https://arxiv.org/abs/2507.05730)|-|-|
 |**2025-7-10**|**Rethinking Spatio-Temporal Anomaly Detection: A Vision for Causality-Driven Cybersecurity**|Arun Vignesh Malarkkan et.al|[paper](https://arxiv.org/abs/2507.08177)|-|-|
 |**2025-7-10**|**SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment**|Guoxin Zang et.al|[paper](https://arxiv.org/abs/2507.07939)|[code](https://github.com/amoreZgx1n/SAGE.)|<details><summary>detail</summary>Accepted by ACMMM2025</details>|
@@ -99,17 +98,12 @@
 |**2025-7-5**|**StackCLIP: Clustering-Driven Stacked Prompt in Zero-Shot Industrial Anomaly Detection**|Yanning Hou et.al|[paper](https://arxiv.org/abs/2506.23577)|-|-|
 |**2025-7-5**|**Fast Re-Trainable Attention Autoencoder for Liquid Sensor Anomaly Detection at the Edge**|Seongyun Choi et.al|[paper](https://arxiv.org/abs/2507.03995)|-|-|
 |**2025-7-5**|**Taming Anomalies with Down-Up Sampling Networks: Group Center Preserving Reconstruction for 3D Anomaly Detection**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2507.03903)|-|<details><summary>detail</summary>ACM MM25 Accepted</details>|
-|**2025-7-4**|**De-Fake: Style based Anomaly Deepfake Detection**|Sudev Kumar Padhi et.al|[paper](https://arxiv.org/abs/2507.03334)|-|-|
-|**2025-7-2**|**Exploring a Hybrid Deep Learning Approach for Anomaly Detection in Mental Healthcare Provider Billing: Addressing Label Scarcity through Semi-Supervised Anomaly Detection**|Samirah Bakker et.al|[paper](https://arxiv.org/abs/2507.01924)|-|-|
-|**2025-7-2**|**Towards Foundation Auto-Encoders for Time-Series Anomaly Detection**|Gastón García González et.al|[paper](https://arxiv.org/abs/2507.01875)|-|<details><summary>detail</summary>Presented at ACM KDD 2024</details>|
-|**2025-7-2**|**Sequential keypoint density estimator: an overlooked baseline of skeleton-based video anomaly detection**|Anja Delić et.al|[paper](https://arxiv.org/abs/2506.18368)|-|<details><summary>detail</summary>ICCV 2025</details>|
-|**2025-7-1**|**Good Enough to Learn: LLM-based Anomaly Detection in ECU Logs without Reliable Labels**|Bogdan Bogdan et.al|[paper](https://arxiv.org/abs/2507.01077)|-|-|
-|**2025-7-1**|**Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection**|Wei Luo et.al|[paper](https://arxiv.org/abs/2503.02424)|[code](https://github.com/luow23/INP-Former.)|<details><summary>detail</summary>Accepted by CVPR2025</details>|
 
 ## 3D Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-12**|**Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2507.09214)|[code](https://github.com/xxxx/xxx).)|<details><summary>detail</summary>under review</details>|
 |**2025-7-10**|**3D-ADAM: A Dataset for 3D Anomaly Detection in Advanced Manufacturing**|Paul McHard et.al|[paper](https://arxiv.org/abs/2507.07838)|-|-|
 |**2025-7-10**|**Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects**|Yuqi Cheng et.al|[paper](https://arxiv.org/abs/2507.07435)|-|-|
 |**2025-7-5**|**Taming Anomalies with Down-Up Sampling Networks: Group Center Preserving Reconstruction for 3D Anomaly Detection**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2507.03903)|-|<details><summary>detail</summary>ACM MM25 Accepted</details>|
@@ -134,7 +128,6 @@
 |**2024-8-28**|**Efficient Slice Anomaly Detection Network for 3D Brain MRI Volume**|Zeduo Zhang et.al|[paper](https://arxiv.org/abs/2408.15958)|[code](https://anonymous.4open.science/r/SimpleSliceNet-8EA3.)|-|
 |**2024-8-8**|**Towards High-resolution 3D Anomaly Detection via Group-Level Feature Contrastive Learning**|Hongze Zhu et.al|[paper](https://arxiv.org/abs/2408.04604)|[code](https://github.com/M-3LAB/Group3AD.)|<details><summary>detail</summary>ACMMM24</details>|
 |**2024-7-15**|**R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection**|Zheyuan Zhou et.al|[paper](https://arxiv.org/abs/2407.10862)|-|<details><summary>detail</summary>ECCV 2024</details>|
-|**2024-6-27**|**Looking 3D: Anomaly Detection with 2D-3D Alignment**|Ankan Bhunia et.al|[paper](https://arxiv.org/abs/2406.19393)|[code](https://github.com/VICO-UoE/Looking3D)|<details><summary>detail</summary>CVPR'24</details>|
 
 ## Multimodal Anomaly Detection
 
@@ -170,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-14**|**A Vector-Quantized Foundation Model for Patient Behavior Monitoring**|Rodrigo Oliver et.al|[paper](https://arxiv.org/abs/2503.15221)|-|-|
 |**2025-7-9**|**Adversarial Defenses via Vector Quantization**|Zhiyi Dong et.al|[paper](https://arxiv.org/abs/2305.13651)|[code](https://doi.org/10.1016/j.neucom.2025.130703)|<details><summary>detail</summary>This is the author-accepted version of our paper published in Neurocomputing</details>|
 |**2025-7-9**|**Semi-fragile watermarking of remote sensing images using DWT, vector quantization and automatic tiling**|Jordi Serra-Ruiz et.al|[paper](https://arxiv.org/abs/2507.07250)|-|-|
 |**2025-7-9**|**VQ-SGen: A Vector Quantized Stroke Representation for Creative Sketch Generation**|Jiawei Wang et.al|[paper](https://arxiv.org/abs/2411.16446)|[code](https://enigma-li.github.io/projects/VQ-SGen/VQ-SGen.html)|<details><summary>detail</summary>Project Page: https://enigma-li</details>|
@@ -194,5 +188,4 @@
 |**2025-5-23**|**NSNQuant: A Double Normalization Approach for Calibration-Free Low-Bit Vector Quantization of KV Cache**|Donghyun Son et.al|[paper](https://arxiv.org/abs/2505.18231)|-|-|
 |**2025-5-19**|**BrainECHO: Semantic Brain Signal Decoding through Vector-Quantized Spectrogram Reconstruction for Whisper-Enhanced Text Generation**|Jilong Li et.al|[paper](https://arxiv.org/abs/2410.14971)|-|-|
 |**2025-5-18**|**Does Vector Quantization Fail in Spatio-Temporal Forecasting? Exploring a Differentiable Sparse Soft-Vector Quantization Approach**|Chao Chen et.al|[paper](https://arxiv.org/abs/2312.03406)|[code](https://github.com/Pachark/SVQ-Forecasting.)|<details><summary>detail</summary>Accepted by KDD2025 research track</details>|
-|**2025-5-15**|**VQ-Logits: Compressing the Output Bottleneck of Large Language Models via Vector Quantized Logits**|Jintian Shao et.al|[paper](https://arxiv.org/abs/2505.10202)|-|-|
 
