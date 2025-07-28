@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.07.27
+## Updated on 2025.07.28
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-25**|**BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection**|An Xiang et.al|[paper](https://arxiv.org/abs/2507.19253)|[code](https://github.com/Xantastic/BridgeNet)|-|
+|**2025-7-25**|**Tuned Reverse Distillation: Enhancing Multimodal Industrial Anomaly Detection with Crossmodal Tuners**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2412.08949)|[code](https://github.com/hito2448/TRD.)|-|
+|**2025-7-25**|**SP-Mamba: Spatial-Perception State Space Model for Unsupervised Medical Anomaly Detection**|Rui Pan et.al|[paper](https://arxiv.org/abs/2507.19076)|[code](https://github.com/Ray-RuiPan/SP-Mamba.)|-|
 |**2025-7-24**|**MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection**|Jiayi Cheng et.al|[paper](https://arxiv.org/abs/2505.01969)|[code](https://github.com/iCAN-SZU/MC3D-AD.)|-|
 |**2025-7-24**|**Q-Former Autoencoder: A Modern Framework for Medical Anomaly Detection**|Francesco Dalmonte et.al|[paper](https://arxiv.org/abs/2507.18481)|[code](https://github.com/emirhanbayar/QFAE.)|-|
 |**2025-7-23**|**MAD-AD: Masked Diffusion for Unsupervised Brain Anomaly Detection**|Farzad Beizaee et.al|[paper](https://arxiv.org/abs/2502.16943)|[code](https://github.com/farzad-bz/MAD-AD.)|<details><summary>detail</summary>Journal ref:Information Processing in Medical Imaging (IPMI)</details>|
@@ -95,14 +98,12 @@
 |**2025-7-19**|**ALLO: A Photorealistic Dataset and Data Generation Pipeline for Anomaly Detection During Robotic Proximity Operations in Lunar Orbit**|Selina Leveugle et.al|[paper](https://arxiv.org/abs/2409.20435)|-|<details><summary>detail</summary>Submitted to International Conference on Robotics and Automation (ICRA'25)</details>|
 |**2025-7-19**|**Revisiting Graph Contrastive Learning on Anomaly Detection: A Structural Imbalance Perspective**|Yiming Xu et.al|[paper](https://arxiv.org/abs/2507.14677)|-|<details><summary>detail</summary>Accepted by AAAI2025</details>|
 |**2025-7-19**|**MoViAD: A Modular Library for Visual Anomaly Detection**|Manuel Barusco et.al|[paper](https://arxiv.org/abs/2507.12049)|-|-|
-|**2025-7-18**|**Unmasking Performance Gaps: A Comparative Study of Human Anonymization and Its Effects on Video Anomaly Detection**|Sara Abdulaziz et.al|[paper](https://arxiv.org/abs/2507.14083)|-|<details><summary>detail</summary>ACIVS 2025</details>|
-|**2025-7-18**|**Robust Anomaly Detection with Graph Neural Networks using Controllability**|Yifan Wei et.al|[paper](https://arxiv.org/abs/2507.13954)|-|<details><summary>detail</summary>conference paper published in IEEE CAI 2025</details>|
-|**2025-7-17**|**Position: Untrained Machine Learning for Anomaly Detection by using 3D Point Cloud Data**|Juan Du et.al|[paper](https://arxiv.org/abs/2502.03876)|-|-|
 
 ## 3D Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-25**|**BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection**|An Xiang et.al|[paper](https://arxiv.org/abs/2507.19253)|[code](https://github.com/Xantastic/BridgeNet)|-|
 |**2025-7-24**|**MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection**|Jiayi Cheng et.al|[paper](https://arxiv.org/abs/2505.01969)|[code](https://github.com/iCAN-SZU/MC3D-AD.)|-|
 |**2025-7-17**|**Position: Untrained Machine Learning for Anomaly Detection by using 3D Point Cloud Data**|Juan Du et.al|[paper](https://arxiv.org/abs/2502.03876)|-|-|
 |**2025-7-17**|**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**|Zi Wang et.al|[paper](https://arxiv.org/abs/2507.13110)|-|-|
@@ -127,12 +128,13 @@
 |**2024-12-17**|**PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection**|Jianan Ye et.al|[paper](https://arxiv.org/abs/2412.12617)|-|-|
 |**2024-11-9**|**Uni-3DAD: GAN-Inversion Aided Universal 3D Anomaly Detection on Model-free Products**|Jiayu Liu et.al|[paper](https://arxiv.org/abs/2408.16201)|-|-|
 |**2024-10-15**|**SplatPose+: Real-time Image-Based Pose-Agnostic 3D Anomaly Detection**|Yizhe Liu et.al|[paper](https://arxiv.org/abs/2410.12080)|-|-|
-|**2024-8-28**|**Efficient Slice Anomaly Detection Network for 3D Brain MRI Volume**|Zeduo Zhang et.al|[paper](https://arxiv.org/abs/2408.15958)|[code](https://anonymous.4open.science/r/SimpleSliceNet-8EA3.)|-|
 
 ## Multimodal Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-25**|**BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection**|An Xiang et.al|[paper](https://arxiv.org/abs/2507.19253)|[code](https://github.com/Xantastic/BridgeNet)|-|
+|**2025-7-25**|**Tuned Reverse Distillation: Enhancing Multimodal Industrial Anomaly Detection with Crossmodal Tuners**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2412.08949)|[code](https://github.com/hito2448/TRD.)|-|
 |**2025-7-23**|**HiProbe-VAD: Video Anomaly Detection via Hidden States Probing in Tuning-Free Multimodal LLMs**|Zhaolin Cai et.al|[paper](https://arxiv.org/abs/2507.17394)|-|<details><summary>detail</summary>Accepted by ACM MM 2025</details>|
 |**2025-6-26**|**SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark**|Alex Costanzino et.al|[paper](https://arxiv.org/abs/2506.21549)|-|-|
 |**2025-6-23**|**Multimodal Anomaly Detection with a Mixture-of-Experts**|Christoph Willibald et.al|[paper](https://arxiv.org/abs/2506.19077)|-|-|
@@ -143,7 +145,6 @@
 |**2025-5-8**|**Uncertainty-Weighted Image-Event Multimodal Fusion for Video Anomaly Detection**|Sungheon Jeong et.al|[paper](https://arxiv.org/abs/2505.02393)|[code](https://github.com/EavnJeong/IEF-VAD.)|-|
 |**2025-4-17**|**LAD-Reasoner: Tiny Multimodal Models are Good Reasoners for Logical Anomaly Detection**|Weijia Li et.al|[paper](https://arxiv.org/abs/2504.12749)|-|-|
 |**2025-3-21**|**A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Image Anomaly Detection**|Yuxuan Lin et.al|[paper](https://arxiv.org/abs/2410.21982)|[code](https://github.com/Sunny5250/Awesome-Multi-Setting-UIAD.)|<details><summary>detail</summary>Accepted by Information Fusion</details>|
-|**2025-3-19**|**Multimodal Industrial Anomaly Detection by Crossmodal Reverse Distillation**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2412.08949)|-|-|
 |**2025-3-17**|**Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models**|Jiacong Xu et.al|[paper](https://arxiv.org/abs/2502.07601)|[code](https://xujiacong.github.io/Anomaly-OV/)|-|
 |**2025-2-24**|**Can Multimodal LLMs Perform Time Series Anomaly Detection?**|Xiongxiao Xu et.al|[paper](https://arxiv.org/abs/2502.17812)|[code](https://github.com/mllm-ts/VisualTimeAnomaly)|-|
 |**2025-2-20**|**MMAD: A Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection**|Xi Jiang et.al|[paper](https://arxiv.org/abs/2410.09453)|[code](https://github.com/jam-cc/MMAD)|<details><summary>detail</summary>Accepted by ICLR 2025</details>|
@@ -157,7 +158,6 @@
 |**2024-9-26**|**AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving**|Daniel Bogdoll et.al|[paper](https://arxiv.org/abs/2405.07865)|-|<details><summary>detail</summary>Daniel Bogdoll</details>|
 |**2024-9-23**|**Incomplete Multimodal Industrial Anomaly Detection via Cross-Modal Distillation**|Wenbo Sui et.al|[paper](https://arxiv.org/abs/2405.13571)|-|-|
 |**2024-9-17**|**Multimodal Attention-Enhanced Feature Fusion-based Weekly Supervised Anomaly Violence Detection**|Yuta Kaneko et.al|[paper](https://arxiv.org/abs/2409.11223)|-|<details><summary>detail</summary>Journal ref:IEEE Open Journal of the Computer Society</details>|
-|**2024-9-9**|**Memoryless Multimodal Anomaly Detection via Student-Teacher Network and Signed Distance Learning**|Zhongbin Sun et.al|[paper](https://arxiv.org/abs/2409.05378)|-|-|
 
 ## Vector Quantization
 
