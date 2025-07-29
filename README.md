@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.07.28
+## Updated on 2025.07.29
 
 ## Defect Detection
 
@@ -73,6 +73,16 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-28**|**Towards Scalable IoT Deployment for Visual Anomaly Detection via Efficient Compression**|Arianna Stropeni et.al|[paper](https://arxiv.org/abs/2505.07119)|-|-|
+|**2025-7-28**|**DAMS:Dual-Branch Adaptive Multiscale Spatiotemporal Framework for Video Anomaly Detection**|Dezhi An et.al|[paper](https://arxiv.org/abs/2507.20629)|-|-|
+|**2025-7-28**|**EventVAD: Training-Free Event-Aware Video Anomaly Detection**|Yihua Shao et.al|[paper](https://arxiv.org/abs/2504.13092)|[code](https://github.com/YihuaJerry/EventVAD)|<details><summary>detail</summary>Paper was accepted by ACM MM 2025</details>|
+|**2025-7-27**|**Position: Untrained Machine Learning for Anomaly Detection by using 3D Point Cloud Data**|Juan Du et.al|[paper](https://arxiv.org/abs/2502.03876)|-|-|
+|**2025-7-27**|**WBHT: A Generative Attention Architecture for Detecting Black Hole Anomalies in Backbone Networks**|Kiymet Kaya et.al|[paper](https://arxiv.org/abs/2507.20373)|-|-|
+|**2025-7-27**|**Synomaly Noise and Multi-Stage Diffusion: A Novel Approach for Unsupervised Anomaly Detection in Medical Images**|Yuan Bi et.al|[paper](https://arxiv.org/abs/2411.04004)|-|-|
+|**2025-7-26**|**: Online Log Anomaly Detection Via Unsupervised Typicality Learning**|Weicong Chen et.al|[paper](https://arxiv.org/abs/2507.20051)|-|-|
+|**2025-7-26**|**Anomaly Detection in Human Language via Meta-Learning: A Few-Shot Approach**|Saurav Singla et.al|[paper](https://arxiv.org/abs/2507.20019)|-|-|
+|**2025-7-26**|**AF-CLIP: Zero-Shot Anomaly Detection via Anomaly-Focused CLIP Adaptation**|Qingqing Fang et.al|[paper](https://arxiv.org/abs/2507.19949)|[code](https://github.com/Faustinaqq/AF-CLIP.)|<details><summary>detail</summary>The paper is accepted by ACM MM' 25</details>|
+|**2025-7-26**|**From Few-Label to Zero-Label: An Approach for Cross-System Log-Based Anomaly Detection with Meta-Learning**|Xinlong Zhao et.al|[paper](https://arxiv.org/abs/2507.19806)|-|-|
 |**2025-7-25**|**BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection**|An Xiang et.al|[paper](https://arxiv.org/abs/2507.19253)|[code](https://github.com/Xantastic/BridgeNet)|-|
 |**2025-7-25**|**Tuned Reverse Distillation: Enhancing Multimodal Industrial Anomaly Detection with Crossmodal Tuners**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2412.08949)|[code](https://github.com/hito2448/TRD.)|-|
 |**2025-7-25**|**SP-Mamba: Spatial-Perception State Space Model for Unsupervised Medical Anomaly Detection**|Rui Pan et.al|[paper](https://arxiv.org/abs/2507.19076)|[code](https://github.com/Ray-RuiPan/SP-Mamba.)|-|
@@ -88,24 +98,14 @@
 |**2025-7-22**|**One-for-More: Continual Diffusion Model for Anomaly Detection**|Xiaofan Li et.al|[paper](https://arxiv.org/abs/2502.19848)|[code](https://github.com/FuNz-0/One-for-More)|<details><summary>detail</summary>Accepted by CVPR2025</details>|
 |**2025-7-22**|**Diffusion-Based Electrocardiography Noise Quantification via Anomaly Detection**|Tae-Seong Han et.al|[paper](https://arxiv.org/abs/2506.11815)|-|-|
 |**2025-7-21**|**SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment**|Guoxin Zang et.al|[paper](https://arxiv.org/abs/2507.07939)|[code](https://github.com/amoreZgx1n/SAGE.)|<details><summary>detail</summary>Accepted by ACMMM2025</details>|
-|**2025-7-21**|**Investigation of unsupervised and supervised hyperspectral anomaly detection**|Mazharul Hossain et.al|[paper](https://arxiv.org/abs/2408.07114)|-|<details><summary>detail</summary>Published in Proceedings Volume 13138</details>|
-|**2025-7-21**|**Explainable Anomaly Detection for Electric Vehicles Charging Stations**|Matteo Cederle et.al|[paper](https://arxiv.org/abs/2507.15718)|-|-|
-|**2025-7-21**|**Towards Explainable Anomaly Detection in Shared Mobility Systems**|Elnur Isgandarov et.al|[paper](https://arxiv.org/abs/2507.15643)|-|-|
-|**2025-7-21**|**We Need to Rethink Benchmarking in Anomaly Detection**|Philipp Röchner et.al|[paper](https://arxiv.org/abs/2507.15584)|-|-|
-|**2025-7-21**|**Foundation Models and Transformers for Anomaly Detection: A Survey**|Mouïn Ben Ammar et.al|[paper](https://arxiv.org/abs/2507.15905)|-|-|
-|**2025-7-21**|**Self-Tuning Self-Supervised Image Anomaly Detection**|Jaemin Yoo et.al|[paper](https://arxiv.org/abs/2306.12033)|[code](https://github.com/jaeminyoo/ST-SSAD.)|<details><summary>detail</summary>KDD 2025</details>|
-|**2025-7-20**|**A Comprehensive Library for Benchmarking Multi-class Visual Anomaly Detection**|Jiangning Zhang et.al|[paper](https://arxiv.org/abs/2406.03262)|[code](https://github.com/zhangzjn/ader.)|-|
-|**2025-7-19**|**ALLO: A Photorealistic Dataset and Data Generation Pipeline for Anomaly Detection During Robotic Proximity Operations in Lunar Orbit**|Selina Leveugle et.al|[paper](https://arxiv.org/abs/2409.20435)|-|<details><summary>detail</summary>Submitted to International Conference on Robotics and Automation (ICRA'25)</details>|
-|**2025-7-19**|**Revisiting Graph Contrastive Learning on Anomaly Detection: A Structural Imbalance Perspective**|Yiming Xu et.al|[paper](https://arxiv.org/abs/2507.14677)|-|<details><summary>detail</summary>Accepted by AAAI2025</details>|
-|**2025-7-19**|**MoViAD: A Modular Library for Visual Anomaly Detection**|Manuel Barusco et.al|[paper](https://arxiv.org/abs/2507.12049)|-|-|
 
 ## 3D Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-27**|**Position: Untrained Machine Learning for Anomaly Detection by using 3D Point Cloud Data**|Juan Du et.al|[paper](https://arxiv.org/abs/2502.03876)|-|-|
 |**2025-7-25**|**BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection**|An Xiang et.al|[paper](https://arxiv.org/abs/2507.19253)|[code](https://github.com/Xantastic/BridgeNet)|-|
 |**2025-7-24**|**MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection**|Jiayi Cheng et.al|[paper](https://arxiv.org/abs/2505.01969)|[code](https://github.com/iCAN-SZU/MC3D-AD.)|-|
-|**2025-7-17**|**Position: Untrained Machine Learning for Anomaly Detection by using 3D Point Cloud Data**|Juan Du et.al|[paper](https://arxiv.org/abs/2502.03876)|-|-|
 |**2025-7-17**|**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**|Zi Wang et.al|[paper](https://arxiv.org/abs/2507.13110)|-|-|
 |**2025-7-12**|**Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2507.09214)|[code](https://github.com/xxxx/xxx).)|<details><summary>detail</summary>under review</details>|
 |**2025-7-10**|**3D-ADAM: A Dataset for 3D Anomaly Detection in Advanced Manufacturing**|Paul McHard et.al|[paper](https://arxiv.org/abs/2507.07838)|-|-|
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-26**|**All-in-One Medical Image Restoration with Latent Diffusion-Enhanced Vector-Quantized Codebook Prior**|Haowei Chen et.al|[paper](https://arxiv.org/abs/2507.19874)|-|-|
 |**2025-7-20**|**Vector Quantization Prompting for Continual Learning**|Li Jiao et.al|[paper](https://arxiv.org/abs/2410.20444)|[code](https://github.com/jiaolifengmi/VQ-Prompt)|<details><summary>detail</summary>Accepted by NeurIPS 2024</details>|
 |**2025-7-14**|**A Vector-Quantized Foundation Model for Patient Behavior Monitoring**|Rodrigo Oliver et.al|[paper](https://arxiv.org/abs/2503.15221)|-|-|
 |**2025-7-9**|**Adversarial Defenses via Vector Quantization**|Zhiyi Dong et.al|[paper](https://arxiv.org/abs/2305.13651)|[code](https://doi.org/10.1016/j.neucom.2025.130703)|<details><summary>detail</summary>This is the author-accepted version of our paper published in Neurocomputing</details>|
@@ -187,5 +188,4 @@
 |**2025-5-31**|**Concept-Centric Token Interpretation for Vector-Quantized Generative Models**|Tianze Yang et.al|[paper](https://arxiv.org/abs/2506.00698)|[code](https://github.com/YangTianze009/CORTEX.)|-|
 |**2025-5-27**|**Autoregressive Speech Synthesis without Vector Quantization**|Lingwei Meng et.al|[paper](https://arxiv.org/abs/2407.08551)|[code](https://aka.ms/melle.)|<details><summary>detail</summary>ACL 2025 Main</details>|
 |**2025-5-23**|**NSNQuant: A Double Normalization Approach for Calibration-Free Low-Bit Vector Quantization of KV Cache**|Donghyun Son et.al|[paper](https://arxiv.org/abs/2505.18231)|-|-|
-|**2025-5-19**|**BrainECHO: Semantic Brain Signal Decoding through Vector-Quantized Spectrogram Reconstruction for Whisper-Enhanced Text Generation**|Jilong Li et.al|[paper](https://arxiv.org/abs/2410.14971)|-|-|
 
