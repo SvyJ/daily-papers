@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.07.30
+## Updated on 2025.07.31
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-30**|**Zero-Shot Image Anomaly Detection Using Generative Foundation Models**|Lemar Abdi et.al|[paper](https://arxiv.org/abs/2507.22692)|-|<details><summary>detail</summary>the workshop of Anomaly Detection with Foundation Models</details>|
+|**2025-7-30**|**Explainable Deep Anomaly Detection with Sequential Hypothesis Testing for Robotic Sewer Inspection**|Alex George et.al|[paper](https://arxiv.org/abs/2507.22546)|-|-|
+|**2025-7-29**|**Adaptive State-Space Mamba for Real-Time Sensor Data Anomaly Detection**|Alice Zhang et.al|[paper](https://arxiv.org/abs/2503.22743)|-|<details><summary>detail</summary>arXiv admin note: This paper has been withdrawn by arXiv due to disputed and unverifiable authorship and affiliation</details>|
 |**2025-7-29**|**A Review on Self-Supervised Learning for Time Series Anomaly Detection: Recent Advances and Open Challenges**|Aitor Sánchez-Ferrera et.al|[paper](https://arxiv.org/abs/2501.15196)|[code](https://github.com/Aitorzan3/Awesome-Self-Supervised-Time-Series-Anomaly-Detection.)|-|
 |**2025-7-29**|**The Evolution of Video Anomaly Detection: A Unified Framework from DNN to MLLM**|Shibo Gao et.al|[paper](https://arxiv.org/abs/2507.21649)|-|-|
 |**2025-7-29**|**GUARD-CAN: Graph-Understanding and Recurrent Architecture for CAN Anomaly Detection**|Hyeong Seon Kim et.al|[paper](https://arxiv.org/abs/2507.21640)|-|-|
@@ -95,9 +98,6 @@
 |**2025-7-25**|**Tuned Reverse Distillation: Enhancing Multimodal Industrial Anomaly Detection with Crossmodal Tuners**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2412.08949)|[code](https://github.com/hito2448/TRD.)|-|
 |**2025-7-25**|**SP-Mamba: Spatial-Perception State Space Model for Unsupervised Medical Anomaly Detection**|Rui Pan et.al|[paper](https://arxiv.org/abs/2507.19076)|[code](https://github.com/Ray-RuiPan/SP-Mamba.)|-|
 |**2025-7-24**|**MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection**|Jiayi Cheng et.al|[paper](https://arxiv.org/abs/2505.01969)|[code](https://github.com/iCAN-SZU/MC3D-AD.)|-|
-|**2025-7-24**|**Q-Former Autoencoder: A Modern Framework for Medical Anomaly Detection**|Francesco Dalmonte et.al|[paper](https://arxiv.org/abs/2507.18481)|[code](https://github.com/emirhanbayar/QFAE.)|-|
-|**2025-7-23**|**MAD-AD: Masked Diffusion for Unsupervised Brain Anomaly Detection**|Farzad Beizaee et.al|[paper](https://arxiv.org/abs/2502.16943)|[code](https://github.com/farzad-bz/MAD-AD.)|<details><summary>detail</summary>Journal ref:Information Processing in Medical Imaging (IPMI)</details>|
-|**2025-7-23**|**Unsupervised anomaly detection using Bayesian flow networks: application to brain FDG PET in the context of Alzheimer's disease**|Hugues Roy et.al|[paper](https://arxiv.org/abs/2507.17486)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-30**|**ViM-VQ: Efficient Post-Training Vector Quantization for Visual Mamba**|Juncan Deng et.al|[paper](https://arxiv.org/abs/2503.09509)|-|-|
+|**2025-7-30**|**Addressing Representation Collapse in Vector Quantized Models with One Linear Layer**|Yongxin Zhu et.al|[paper](https://arxiv.org/abs/2411.02038)|-|<details><summary>detail</summary>ICCV2025</details>|
 |**2025-7-26**|**All-in-One Medical Image Restoration with Latent Diffusion-Enhanced Vector-Quantized Codebook Prior**|Haowei Chen et.al|[paper](https://arxiv.org/abs/2507.19874)|-|-|
 |**2025-7-20**|**Vector Quantization Prompting for Continual Learning**|Li Jiao et.al|[paper](https://arxiv.org/abs/2410.20444)|[code](https://github.com/jiaolifengmi/VQ-Prompt)|<details><summary>detail</summary>Accepted by NeurIPS 2024</details>|
 |**2025-7-14**|**A Vector-Quantized Foundation Model for Patient Behavior Monitoring**|Rodrigo Oliver et.al|[paper](https://arxiv.org/abs/2503.15221)|-|-|
@@ -186,6 +188,4 @@
 |**2025-6-3**|**A$^2$ATS: Retrieval-Based KV Cache Reduction via Windowed Rotary Position Embedding and Query-Aware Vector Quantization**|Junhui He et.al|[paper](https://arxiv.org/abs/2502.12665)|-|-|
 |**2025-6-2**|**Efficient Generative Modeling with Residual Vector Quantization-Based Tokens**|Jaehyeon Kim et.al|[paper](https://arxiv.org/abs/2412.10208)|-|<details><summary>detail</summary>ICML 2025</details>|
 |**2025-5-31**|**Concept-Centric Token Interpretation for Vector-Quantized Generative Models**|Tianze Yang et.al|[paper](https://arxiv.org/abs/2506.00698)|[code](https://github.com/YangTianze009/CORTEX.)|-|
-|**2025-5-27**|**Autoregressive Speech Synthesis without Vector Quantization**|Lingwei Meng et.al|[paper](https://arxiv.org/abs/2407.08551)|[code](https://aka.ms/melle.)|<details><summary>detail</summary>ACL 2025 Main</details>|
-|**2025-5-23**|**NSNQuant: A Double Normalization Approach for Calibration-Free Low-Bit Vector Quantization of KV Cache**|Donghyun Son et.al|[paper](https://arxiv.org/abs/2505.18231)|-|-|
 
