@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.07.31
+## Updated on 2025.08.01
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-31**|**Anomalous Samples for Few-Shot Anomaly Detection**|Aymane Abdali et.al|[paper](https://arxiv.org/abs/2507.23712)|-|-|
+|**2025-7-31**|**Manifold-regularised Signature Kernel Large-Margin $\ell_p$-SVDD for Multidimensional Time Series Anomaly Detection**|Shervin Rahimzadeh Arashloo et.al|[paper](https://arxiv.org/abs/2507.23449)|-|-|
+|**2025-7-31**|**Continual-MEGA: A Large-scale Benchmark for Generalizable Continual Anomaly Detection**|Geonu Lee et.al|[paper](https://arxiv.org/abs/2506.00956)|[code](https://github.com/Continual-Mega/Continual-Mega.)|-|
 |**2025-7-30**|**Zero-Shot Image Anomaly Detection Using Generative Foundation Models**|Lemar Abdi et.al|[paper](https://arxiv.org/abs/2507.22692)|-|<details><summary>detail</summary>the workshop of Anomaly Detection with Foundation Models</details>|
 |**2025-7-30**|**Explainable Deep Anomaly Detection with Sequential Hypothesis Testing for Robotic Sewer Inspection**|Alex George et.al|[paper](https://arxiv.org/abs/2507.22546)|-|-|
 |**2025-7-29**|**Adaptive State-Space Mamba for Real-Time Sensor Data Anomaly Detection**|Alice Zhang et.al|[paper](https://arxiv.org/abs/2503.22743)|-|<details><summary>detail</summary>arXiv admin note: This paper has been withdrawn by arXiv due to disputed and unverifiable authorship and affiliation</details>|
@@ -95,9 +98,6 @@
 |**2025-7-26**|**From Few-Label to Zero-Label: An Approach for Cross-System Log-Based Anomaly Detection with Meta-Learning**|Xinlong Zhao et.al|[paper](https://arxiv.org/abs/2507.19806)|-|-|
 |**2025-7-25**|**BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection**|An Xiang et.al|[paper](https://arxiv.org/abs/2507.19253)|[code](https://github.com/Xantastic/BridgeNet)|-|
 |**2025-7-25**|**OCSVM-Guided Representation Learning for Unsupervised Anomaly Detection**|Nicolas Pinon et.al|[paper](https://arxiv.org/abs/2507.21164)|[code](https://github.com/Nicolas-Pinon/uad_ocsvm_guided_repr_learning)|-|
-|**2025-7-25**|**Tuned Reverse Distillation: Enhancing Multimodal Industrial Anomaly Detection with Crossmodal Tuners**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2412.08949)|[code](https://github.com/hito2448/TRD.)|-|
-|**2025-7-25**|**SP-Mamba: Spatial-Perception State Space Model for Unsupervised Medical Anomaly Detection**|Rui Pan et.al|[paper](https://arxiv.org/abs/2507.19076)|[code](https://github.com/Ray-RuiPan/SP-Mamba.)|-|
-|**2025-7-24**|**MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection**|Jiayi Cheng et.al|[paper](https://arxiv.org/abs/2505.01969)|[code](https://github.com/iCAN-SZU/MC3D-AD.)|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-31**|**Vector-Quantized Vision Foundation Models for Object-Centric Learning**|Rongzhen Zhao et.al|[paper](https://arxiv.org/abs/2502.20263)|[code](https://github.com/Genera1Z/VQ-VFM-OCL.)|<details><summary>detail</summary>Accepted by ACM MM 2025</details>|
+|**2025-7-31**|**Optimal and Near-Optimal Adaptive Vector Quantization**|Ran Ben-Basat et.al|[paper](https://arxiv.org/abs/2402.03158)|-|-|
 |**2025-7-30**|**ViM-VQ: Efficient Post-Training Vector Quantization for Visual Mamba**|Juncan Deng et.al|[paper](https://arxiv.org/abs/2503.09509)|-|-|
 |**2025-7-30**|**Addressing Representation Collapse in Vector Quantized Models with One Linear Layer**|Yongxin Zhu et.al|[paper](https://arxiv.org/abs/2411.02038)|-|<details><summary>detail</summary>ICCV2025</details>|
 |**2025-7-26**|**All-in-One Medical Image Restoration with Latent Diffusion-Enhanced Vector-Quantized Codebook Prior**|Haowei Chen et.al|[paper](https://arxiv.org/abs/2507.19874)|-|-|
@@ -183,9 +185,7 @@
 |**2025-6-21**|**StainPIDR: A Pathological Image Decouplingand Reconstruction Method for Stain Normalization Based on Color Vector Quantization and Structure Restaining**|Zheng Chen et.al|[paper](https://arxiv.org/abs/2506.17879)|-|-|
 |**2025-6-17**|**Enhancing Vector Quantization with Distributional Matching: A Theoretical and Empirical Study**|Xianghong Fang et.al|[paper](https://arxiv.org/abs/2506.15078)|-|-|
 |**2025-6-11**|**STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization**|Hao Li et.al|[paper](https://arxiv.org/abs/2506.03863)|-|<details><summary>detail</summary>Accepted by ICML 2025 Spotlight</details>|
-|**2025-6-8**|**Vector-Quantized Vision Foundation Models for Object-Centric Learning**|Rongzhen Zhao et.al|[paper](https://arxiv.org/abs/2502.20263)|[code](https://github.com/Genera1Z/VQ-VFM-OCL.)|-|
 |**2025-6-5**|**Kernel $k$-Medoids as General Vector Quantization**|Thore Gerlach et.al|[paper](https://arxiv.org/abs/2506.04786)|-|-|
 |**2025-6-3**|**A$^2$ATS: Retrieval-Based KV Cache Reduction via Windowed Rotary Position Embedding and Query-Aware Vector Quantization**|Junhui He et.al|[paper](https://arxiv.org/abs/2502.12665)|-|-|
 |**2025-6-2**|**Efficient Generative Modeling with Residual Vector Quantization-Based Tokens**|Jaehyeon Kim et.al|[paper](https://arxiv.org/abs/2412.10208)|-|<details><summary>detail</summary>ICML 2025</details>|
-|**2025-5-31**|**Concept-Centric Token Interpretation for Vector-Quantized Generative Models**|Tianze Yang et.al|[paper](https://arxiv.org/abs/2506.00698)|[code](https://github.com/YangTianze009/CORTEX.)|-|
 
