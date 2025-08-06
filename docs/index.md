@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.08.05
+## Updated on 2025.08.06
 
 ## Defect Detection
 
@@ -73,6 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-5**|**Quality-Aware Language-Conditioned Local Auto-Regressive Anomaly Synthesis and Detection**|Long Qian et.al|[paper](https://arxiv.org/abs/2508.03539)|-|-|
+|**2025-8-5**|**CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection**|Qiyu Chen et.al|[paper](https://arxiv.org/abs/2508.03447)|[code](https://github.com/cqylunlun/CoPS.)|-|
+|**2025-8-5**|**AI on the Pulse: Real-Time Health Anomaly Detection with Wearable and Ambient Intelligence**|Davide Gabrielli et.al|[paper](https://arxiv.org/abs/2508.03436)|-|-|
+|**2025-8-5**|**Class Imbalance in Anomaly Detection: Learning from an Exactly Solvable Model**|F. S. Pezzicoli et.al|[paper](https://arxiv.org/abs/2501.11638)|-|<details><summary>detail</summary>version accepted at AISTATS 2025</details>|
+|**2025-8-5**|**ADSeeker: A Knowledge-Infused Framework for Anomaly Detection and Reasoning**|Kai Zhang et.al|[paper](https://arxiv.org/abs/2508.03088)|-|-|
 |**2025-8-4**|**Multi-class Image Anomaly Detection for Practical Applications: Requirements and Robust Solutions**|Jaehyuk Heo et.al|[paper](https://arxiv.org/abs/2508.02477)|-|-|
 |**2025-8-4**|**Friend or Foe? Harnessing Controllable Overfitting for Anomaly Detection**|Long Qian et.al|[paper](https://arxiv.org/abs/2412.00560)|-|-|
 |**2025-8-4**|**MathPhys-Guided Coarse-to-Fine Anomaly Synthesis with SQE-Driven Bi-Level Optimization for Anomaly Detection**|Long Qian et.al|[paper](https://arxiv.org/abs/2504.12970)|-|-|
@@ -93,11 +98,6 @@
 |**2025-8-1**|**HyPCV-Former: Hyperbolic Spatio-Temporal Transformer for 3D Point Cloud Video Anomaly Detection**|Jiaping Cao et.al|[paper](https://arxiv.org/abs/2508.00473)|-|-|
 |**2025-8-1**|**GV-VAD : Exploring Video Generation for Weakly-Supervised Video Anomaly Detection**|Suhang Cai et.al|[paper](https://arxiv.org/abs/2508.00312)|[code](https://github.com/Sumutan/GV-VAD.git.)|-|
 |**2025-7-31**|**PATH: A Discrete-sequence Dataset for Evaluating Online Unsupervised Anomaly Detection Approaches for Multivariate Time Series**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2411.13951)|-|<details><summary>detail</summary>Submitted to the Big Data Research journal</details>|
-|**2025-7-31**|**Anomaly detection with spiking neural networks for LHC physics**|Barry M. Dillon et.al|[paper](https://arxiv.org/abs/2508.00063)|-|-|
-|**2025-7-31**|**Anomalous Samples for Few-Shot Anomaly Detection**|Aymane Abdali et.al|[paper](https://arxiv.org/abs/2507.23712)|-|-|
-|**2025-7-31**|**TriP-LLM: A Tri-Branch Patch-wise Large Language Model Framework for Time-Series Anomaly Detection**|Yuan-Cheng Yu et.al|[paper](https://arxiv.org/abs/2508.00047)|[code](https://github.com/YYZStart/TriP-LLM.git)|-|
-|**2025-7-31**|**Continual-MEGA: A Large-scale Benchmark for Generalizable Continual Anomaly Detection**|Geonu Lee et.al|[paper](https://arxiv.org/abs/2506.00956)|[code](https://github.com/Continual-Mega/Continual-Mega.)|-|
-|**2025-7-30**|**Zero-Shot Image Anomaly Detection Using Generative Foundation Models**|Lemar Abdi et.al|[paper](https://arxiv.org/abs/2507.22692)|-|<details><summary>detail</summary>the workshop of Anomaly Detection with Foundation Models</details>|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-5**|**CIVQLLIE: Causal Intervention with Vector Quantization for Low-Light Image Enhancement**|Tongshun Zhang et.al|[paper](https://arxiv.org/abs/2508.03338)|-|-|
+|**2025-8-5**|**BrainECHO: Semantic Brain Signal Decoding through Vector-Quantized Spectrogram Reconstruction for Whisper-Enhanced Text Generation**|Jilong Li et.al|[paper](https://arxiv.org/abs/2410.14971)|-|-|
 |**2025-8-3**|**SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting**|Shuaiting Li et.al|[paper](https://arxiv.org/abs/2503.08668)|[code](https://github.com/list0830/SSVQ.)|<details><summary>detail</summary>ICCV'25 camera ready</details>|
 |**2025-7-31**|**Vector-Quantized Vision Foundation Models for Object-Centric Learning**|Rongzhen Zhao et.al|[paper](https://arxiv.org/abs/2502.20263)|[code](https://github.com/Genera1Z/VQ-VFM-OCL.)|<details><summary>detail</summary>Accepted by ACM MM 2025</details>|
 |**2025-7-31**|**Optimal and Near-Optimal Adaptive Vector Quantization**|Ran Ben-Basat et.al|[paper](https://arxiv.org/abs/2402.03158)|-|-|
@@ -186,6 +188,4 @@
 |**2025-6-21**|**StainPIDR: A Pathological Image Decouplingand Reconstruction Method for Stain Normalization Based on Color Vector Quantization and Structure Restaining**|Zheng Chen et.al|[paper](https://arxiv.org/abs/2506.17879)|-|-|
 |**2025-6-17**|**Enhancing Vector Quantization with Distributional Matching: A Theoretical and Empirical Study**|Xianghong Fang et.al|[paper](https://arxiv.org/abs/2506.15078)|-|-|
 |**2025-6-11**|**STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization**|Hao Li et.al|[paper](https://arxiv.org/abs/2506.03863)|-|<details><summary>detail</summary>Accepted by ICML 2025 Spotlight</details>|
-|**2025-6-5**|**Kernel $k$-Medoids as General Vector Quantization**|Thore Gerlach et.al|[paper](https://arxiv.org/abs/2506.04786)|-|-|
-|**2025-6-3**|**A$^2$ATS: Retrieval-Based KV Cache Reduction via Windowed Rotary Position Embedding and Query-Aware Vector Quantization**|Junhui He et.al|[paper](https://arxiv.org/abs/2502.12665)|-|-|
 
