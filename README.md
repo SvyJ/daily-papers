@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.08.06
+## Updated on 2025.08.07
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-6**|**MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning**|Ylli Sadikaj et.al|[paper](https://arxiv.org/abs/2504.06740)|-|-|
 |**2025-8-2**|**NATLM: Detecting Defects in NFT Smart Contracts Leveraging LLM**|Yuanzheng Niu et.al|[paper](https://arxiv.org/abs/2508.01351)|-|-|
 |**2025-8-1**|**Advancing Welding Defect Detection in Maritime Operations via Adapt-WeldNet and Defect Detection Interpretability Analysis**|Kamal Basha S et.al|[paper](https://arxiv.org/abs/2508.00381)|-|-|
 |**2025-7-29**|**Enhancing Glass Defect Detection with Diffusion Models: Addressing Imbalanced Datasets in Manufacturing Quality Control**|Sajjad Rezvani Boroujeni et.al|[paper](https://arxiv.org/abs/2505.03134)|-|-|
@@ -37,12 +38,12 @@
 |**2025-5-15**|**Defect Detection in Photolithographic Patterns Using Deep Learning Models Trained on Synthetic Data**|Prashant P. Shinde et.al|[paper](https://arxiv.org/abs/2505.10192)|-|-|
 |**2025-5-12**|**Self-Adaptive Gamma Context-Aware SSM-based Model for Metal Defect Detection**|Sijin Sun et.al|[paper](https://arxiv.org/abs/2503.01234)|-|-|
 |**2025-5-11**|**Differentiable NMS via Sinkhorn Matching for End-to-End Fabric Defect Detection**|Zhengyang Lu et.al|[paper](https://arxiv.org/abs/2505.07040)|-|-|
-|**2025-5-11**|**Transmission Line Defect Detection Based on UAV Patrol Images and Vision-language Pretraining**|Ke Zhang et.al|[paper](https://arxiv.org/abs/2411.11370)|-|-|
 
 ## Defect Segmentation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-6**|**MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning**|Ylli Sadikaj et.al|[paper](https://arxiv.org/abs/2504.06740)|-|-|
 |**2025-7-23**|**Exploring Active Learning for Semiconductor Defect Segmentation**|Lile Cai et.al|[paper](https://arxiv.org/abs/2507.17359)|-|<details><summary>detail</summary>accepted to ICIP 2022</details>|
 |**2025-7-14**|**Advancing Automatic Photovoltaic Defect Detection using Semi-Supervised Semantic Segmentation of Electroluminescence Images**|Abhishek Jha et.al|[paper](https://arxiv.org/abs/2404.13693)|[code](https://github.com/abj247/PV-S3.)|-|
 |**2025-6-28**|**Region-Aware CAM: High-Resolution Weakly-Supervised Defect Segmentation via Salient Region Perception**|Hang-Cheng Dong et.al|[paper](https://arxiv.org/abs/2506.22866)|-|-|
@@ -50,7 +51,6 @@
 |**2025-6-17**|**synth-dacl: Does Synthetic Defect Data Enhance Segmentation Accuracy and Robustness for Real-World Bridge Inspections?**|Johannes Flotzinger et.al|[paper](https://arxiv.org/abs/2506.14255)|-|-|
 |**2025-4-24**|**Conformal Segmentation in Industrial Surface Defect Detection with Statistical Guarantees**|Cheng Shen et.al|[paper](https://arxiv.org/abs/2504.17721)|-|<details><summary>detail</summary>Under Review</details>|
 |**2025-4-11**|**Weakly Supervised Panoptic Segmentation for Defect-Based Grading of Fresh Produce**|Manuel Knott et.al|[paper](https://arxiv.org/abs/2411.16219)|[code](https://github.com/manuelknott/banana-defect-segmentation)|<details><summary>detail</summary>Accepted as a paper to the 6th International Workshop on Agriculture-Vision: Challenges & Opportunities for Computer Vision in Agriculture in conjunction with IEEE/CVF CVPR 2025</details>|
-|**2025-4-9**|**MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning**|Ylli Sadikaj et.al|[paper](https://arxiv.org/abs/2504.06740)|-|-|
 |**2025-2-11**|**Exploring Few-Shot Defect Segmentation in General Industrial Scenarios with Metric Learning and Vision Foundation Models**|Tongkun Liu et.al|[paper](https://arxiv.org/abs/2502.01216)|[code](https://github.com/liutongkun/GFDS.)|-|
 |**2025-1-23**|**Effective Defect Detection Using Instance Segmentation for NDI**|Ashiqur Rahman et.al|[paper](https://arxiv.org/abs/2501.14149)|[code](https://ai-2-ase.github.io/)|-|
 |**2025-1-17**|**Multi-Modal Attention Networks for Enhanced Segmentation and Depth Estimation of Subsurface Defects in Pulse Thermography**|Mohammed Salah et.al|[paper](https://arxiv.org/abs/2501.09994)|-|<details><summary>detail</summary>Pulse thermography</details>|
@@ -73,6 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-6**|**CaPulse: Detecting Anomalies by Tuning in to the Causal Rhythms of Time Series**|Yutong Xia et.al|[paper](https://arxiv.org/abs/2508.04630)|-|-|
+|**2025-8-6**|**CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering**|Zhe Zhang et.al|[paper](https://arxiv.org/abs/2505.01476)|[code](https://github.com/ZHE-SAPI/CostFilter-AD.)|-|
+|**2025-8-6**|**MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning**|Ylli Sadikaj et.al|[paper](https://arxiv.org/abs/2504.06740)|-|-|
+|**2025-8-6**|**AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization**|Jingyi Liao et.al|[paper](https://arxiv.org/abs/2508.04175)|-|-|
+|**2025-8-6**|**Risk-Based Thresholding for Reliable Anomaly Detection in Concentrated Solar Power Plants**|Yorick Estievenart et.al|[paper](https://arxiv.org/abs/2503.19146)|-|-|
+|**2025-8-5**|**Active Learning and Transfer Learning for Anomaly Detection in Time-Series Data**|John D. Kelleher et.al|[paper](https://arxiv.org/abs/2508.03921)|-|-|
 |**2025-8-5**|**Quality-Aware Language-Conditioned Local Auto-Regressive Anomaly Synthesis and Detection**|Long Qian et.al|[paper](https://arxiv.org/abs/2508.03539)|-|-|
 |**2025-8-5**|**CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection**|Qiyu Chen et.al|[paper](https://arxiv.org/abs/2508.03447)|[code](https://github.com/cqylunlun/CoPS.)|-|
 |**2025-8-5**|**AI on the Pulse: Real-Time Health Anomaly Detection with Wearable and Ambient Intelligence**|Davide Gabrielli et.al|[paper](https://arxiv.org/abs/2508.03436)|-|-|
@@ -92,12 +98,6 @@
 |**2025-8-1**|**SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark**|Alex Costanzino et.al|[paper](https://arxiv.org/abs/2506.21549)|[code](https://alex-costanzino.github.io/SiM3D/)|<details><summary>detail</summary>ICCV 2025</details>|
 |**2025-8-1**|**Zero-Shot Anomaly Detection with Dual-Branch Prompt Learning**|Zihan Wang et.al|[paper](https://arxiv.org/abs/2508.00777)|-|<details><summary>detail</summary>BMVC 2025</details>|
 |**2025-8-1**|**Diffusion-Scheduled Denoising Autoencoders for Anomaly Detection in Tabular Data**|Timur Sattarov et.al|[paper](https://arxiv.org/abs/2508.00758)|-|-|
-|**2025-8-1**|**Bagged Regularized $k$-Distances for Anomaly Detection**|Yuchao Cai et.al|[paper](https://arxiv.org/abs/2312.01046)|-|-|
-|**2025-8-1**|**Text-Attributed Graph Anomaly Detection via Multi-Scale Cross- and Uni-Modal Contrastive Learning**|Yiming Xu et.al|[paper](https://arxiv.org/abs/2508.00513)|-|<details><summary>detail</summary>Accepted by ECAI 2025</details>|
-|**2025-8-1**|**Court of LLMs: Evidence-Augmented Generation via Multi-LLM Collaboration for Text-Attributed Graph Anomaly Detection**|Yiming Xu et.al|[paper](https://arxiv.org/abs/2508.00507)|-|<details><summary>detail</summary>Accepted by ACM Multimedia 2025 (MM '25)</details>|
-|**2025-8-1**|**HyPCV-Former: Hyperbolic Spatio-Temporal Transformer for 3D Point Cloud Video Anomaly Detection**|Jiaping Cao et.al|[paper](https://arxiv.org/abs/2508.00473)|-|-|
-|**2025-8-1**|**GV-VAD : Exploring Video Generation for Weakly-Supervised Video Anomaly Detection**|Suhang Cai et.al|[paper](https://arxiv.org/abs/2508.00312)|[code](https://github.com/Sumutan/GV-VAD.git.)|-|
-|**2025-7-31**|**PATH: A Discrete-sequence Dataset for Evaluating Online Unsupervised Anomaly Detection Approaches for Multivariate Time Series**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2411.13951)|-|<details><summary>detail</summary>Submitted to the Big Data Research journal</details>|
 
 ## 3D Anomaly Detection
 
@@ -133,6 +133,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-6**|**AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization**|Jingyi Liao et.al|[paper](https://arxiv.org/abs/2508.04175)|-|-|
 |**2025-8-1**|**SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark**|Alex Costanzino et.al|[paper](https://arxiv.org/abs/2506.21549)|[code](https://alex-costanzino.github.io/SiM3D/)|<details><summary>detail</summary>ICCV 2025</details>|
 |**2025-7-25**|**BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection**|An Xiang et.al|[paper](https://arxiv.org/abs/2507.19253)|[code](https://github.com/Xantastic/BridgeNet)|-|
 |**2025-7-25**|**Tuned Reverse Distillation: Enhancing Multimodal Industrial Anomaly Detection with Crossmodal Tuners**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2412.08949)|[code](https://github.com/hito2448/TRD.)|-|
@@ -157,7 +158,6 @@
 |**2024-9-30**|**VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection**|Huilin Deng et.al|[paper](https://arxiv.org/abs/2409.20146)|-|-|
 |**2024-9-26**|**AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving**|Daniel Bogdoll et.al|[paper](https://arxiv.org/abs/2405.07865)|-|<details><summary>detail</summary>Daniel Bogdoll</details>|
 |**2024-9-23**|**Incomplete Multimodal Industrial Anomaly Detection via Cross-Modal Distillation**|Wenbo Sui et.al|[paper](https://arxiv.org/abs/2405.13571)|-|-|
-|**2024-9-17**|**Multimodal Attention-Enhanced Feature Fusion-based Weekly Supervised Anomaly Violence Detection**|Yuta Kaneko et.al|[paper](https://arxiv.org/abs/2409.11223)|-|<details><summary>detail</summary>Journal ref:IEEE Open Journal of the Computer Society</details>|
 
 ## Vector Quantization
 
@@ -166,6 +166,7 @@
 |**2025-8-5**|**CIVQLLIE: Causal Intervention with Vector Quantization for Low-Light Image Enhancement**|Tongshun Zhang et.al|[paper](https://arxiv.org/abs/2508.03338)|-|-|
 |**2025-8-5**|**BrainECHO: Semantic Brain Signal Decoding through Vector-Quantized Spectrogram Reconstruction for Whisper-Enhanced Text Generation**|Jilong Li et.al|[paper](https://arxiv.org/abs/2410.14971)|-|-|
 |**2025-8-3**|**SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting**|Shuaiting Li et.al|[paper](https://arxiv.org/abs/2503.08668)|[code](https://github.com/list0830/SSVQ.)|<details><summary>detail</summary>ICCV'25 camera ready</details>|
+|**2025-7-31**|**VQ-DeepISC: Vector Quantized-Enabled Digital Semantic Communication with Channel Adaptive Image Transmission**|Jianqiao Chen et.al|[paper](https://arxiv.org/abs/2508.03740)|-|-|
 |**2025-7-31**|**Vector-Quantized Vision Foundation Models for Object-Centric Learning**|Rongzhen Zhao et.al|[paper](https://arxiv.org/abs/2502.20263)|[code](https://github.com/Genera1Z/VQ-VFM-OCL.)|<details><summary>detail</summary>Accepted by ACM MM 2025</details>|
 |**2025-7-31**|**Optimal and Near-Optimal Adaptive Vector Quantization**|Ran Ben-Basat et.al|[paper](https://arxiv.org/abs/2402.03158)|-|-|
 |**2025-7-30**|**ViM-VQ: Efficient Post-Training Vector Quantization for Visual Mamba**|Juncan Deng et.al|[paper](https://arxiv.org/abs/2503.09509)|-|-|
@@ -187,5 +188,4 @@
 |**2025-6-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al|[paper](https://arxiv.org/abs/2506.18879)|[code](https://github.com/UMass-Embodied-AGI/CommVQ.)|<details><summary>detail</summary>ICML 2025 poster</details>|
 |**2025-6-21**|**StainPIDR: A Pathological Image Decouplingand Reconstruction Method for Stain Normalization Based on Color Vector Quantization and Structure Restaining**|Zheng Chen et.al|[paper](https://arxiv.org/abs/2506.17879)|-|-|
 |**2025-6-17**|**Enhancing Vector Quantization with Distributional Matching: A Theoretical and Empirical Study**|Xianghong Fang et.al|[paper](https://arxiv.org/abs/2506.15078)|-|-|
-|**2025-6-11**|**STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization**|Hao Li et.al|[paper](https://arxiv.org/abs/2506.03863)|-|<details><summary>detail</summary>Accepted by ICML 2025 Spotlight</details>|
 
