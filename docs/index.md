@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.08.07
+## Updated on 2025.08.08
 
 ## Defect Detection
 
@@ -73,6 +73,13 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-7**|**SincVAE: A new semi-supervised approach to improve anomaly detection on EEG data using SincNet and variational autoencoder**|Andrea Pollastro et.al|[paper](https://arxiv.org/abs/2406.17537)|-|<details><summary>detail</summary>Journal ref:Computer Methods and Programs in Biomedicine Update</details>|
+|**2025-8-7**|**AutoIAD: Manager-Driven Multi-Agent Collaboration for Automated Industrial Anomaly Detection**|Dongwei Ji et.al|[paper](https://arxiv.org/abs/2508.05503)|-|-|
+|**2025-8-7**|**How and Why: Taming Flow Matching for Unsupervised Anomaly Detection and Localization**|Liangwei Li et.al|[paper](https://arxiv.org/abs/2508.05461)|-|-|
+|**2025-8-7**|**CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection**|Byeongchan Lee et.al|[paper](https://arxiv.org/abs/2506.11772)|-|-|
+|**2025-8-7**|**GuARD: Effective Anomaly Detection through a Text-Rich and Graph-Informed Language Model**|Yunhe Pang et.al|[paper](https://arxiv.org/abs/2412.03930)|-|<details><summary>detail</summary>KDD 2025</details>|
+|**2025-8-7**|**Contrastive Representation Modeling for Anomaly Detection**|Willian T. Lunardi et.al|[paper](https://arxiv.org/abs/2501.05130)|-|<details><summary>detail</summary>the 28th European Conference on Artificial Intelligence (ECAI 2025)</details>|
+|**2025-8-6**|**Single-Step Reconstruction-Free Anomaly Detection and Segmentation via Diffusion Models**|Mehrdad Moradi et.al|[paper](https://arxiv.org/abs/2508.04818)|[code](https://github.com/mehrdadmoradi124/RADAR)|-|
 |**2025-8-6**|**CaPulse: Detecting Anomalies by Tuning in to the Causal Rhythms of Time Series**|Yutong Xia et.al|[paper](https://arxiv.org/abs/2508.04630)|-|-|
 |**2025-8-6**|**CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering**|Zhe Zhang et.al|[paper](https://arxiv.org/abs/2505.01476)|[code](https://github.com/ZHE-SAPI/CostFilter-AD.)|-|
 |**2025-8-6**|**MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning**|Ylli Sadikaj et.al|[paper](https://arxiv.org/abs/2504.06740)|-|-|
@@ -91,13 +98,6 @@
 |**2025-8-4**|**Manifold-regularised Large-Margin $\ell_p$-SVDD for Multidimensional Time Series Anomaly Detection**|Shervin Rahimzadeh Arashloo et.al|[paper](https://arxiv.org/abs/2507.23449)|-|-|
 |**2025-8-3**|**PatchAD: A Lightweight Patch-based MLP-Mixer for Time Series Anomaly Detection**|Zhijie Zhong et.al|[paper](https://arxiv.org/abs/2401.09793)|[code](https://github.com/EmorZz1G/PatchAD.)|-|
 |**2025-8-3**|**CloudAnoAgent: Anomaly Detection for Cloud Sites via LLM Agent with Neuro-Symbolic Mechanism**|Xinkai Zou et.al|[paper](https://arxiv.org/abs/2508.01844)|-|-|
-|**2025-8-3**|**Self-Navigated Residual Mamba for Universal Industrial Anomaly Detection**|Hanxi Li et.al|[paper](https://arxiv.org/abs/2508.01591)|-|-|
-|**2025-8-2**|**C3D-AD: Toward Continual 3D Anomaly Detection via Kernel Attention with Learnable Advisor**|Haoquan Lu et.al|[paper](https://arxiv.org/abs/2508.01311)|[code](https://github.com/hzzzzzhappy/CL3AD)|<details><summary>detail</summary>We have provided the code for C3D-AD with checkpoints and BASELINE at this link: https://github</details>|
-|**2025-8-1**|**Semi-Supervised Anomaly Detection in Brain MRI Using a Domain-Agnostic Deep Reinforcement Learning Approach**|Zeduo Zhang et.al|[paper](https://arxiv.org/abs/2508.01137)|-|-|
-|**2025-8-1**|**Anomaly Detection in Double-entry Bookkeeping Data by Federated Learning System with Non-model Sharing Approach**|Sota Mashiko et.al|[paper](https://arxiv.org/abs/2501.12723)|-|-|
-|**2025-8-1**|**SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark**|Alex Costanzino et.al|[paper](https://arxiv.org/abs/2506.21549)|[code](https://alex-costanzino.github.io/SiM3D/)|<details><summary>detail</summary>ICCV 2025</details>|
-|**2025-8-1**|**Zero-Shot Anomaly Detection with Dual-Branch Prompt Learning**|Zihan Wang et.al|[paper](https://arxiv.org/abs/2508.00777)|-|<details><summary>detail</summary>BMVC 2025</details>|
-|**2025-8-1**|**Diffusion-Scheduled Denoising Autoencoders for Anomaly Detection in Tabular Data**|Timur Sattarov et.al|[paper](https://arxiv.org/abs/2508.00758)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-7**|**Vector Quantized-Elites: Unsupervised and Problem-Agnostic Quality-Diversity Optimization**|Constantinos Tsakonas et.al|[paper](https://arxiv.org/abs/2504.08057)|-|-|
+|**2025-8-7**|**Task Vector Quantization for Memory-Efficient Model Merging**|Youngeun Kim et.al|[paper](https://arxiv.org/abs/2503.06921)|-|-|
 |**2025-8-5**|**CIVQLLIE: Causal Intervention with Vector Quantization for Low-Light Image Enhancement**|Tongshun Zhang et.al|[paper](https://arxiv.org/abs/2508.03338)|-|-|
 |**2025-8-5**|**BrainECHO: Semantic Brain Signal Decoding through Vector-Quantized Spectrogram Reconstruction for Whisper-Enhanced Text Generation**|Jilong Li et.al|[paper](https://arxiv.org/abs/2410.14971)|-|-|
 |**2025-8-3**|**SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting**|Shuaiting Li et.al|[paper](https://arxiv.org/abs/2503.08668)|[code](https://github.com/list0830/SSVQ.)|<details><summary>detail</summary>ICCV'25 camera ready</details>|
@@ -186,6 +188,4 @@
 |**2025-6-26**|**PCDVQ: Enhancing Vector Quantization for Large Language Models via Polar Coordinate Decoupling**|Yuxuan Yue et.al|[paper](https://arxiv.org/abs/2506.05432)|-|-|
 |**2025-6-24**|**AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models**|Zeyu Li et.al|[paper](https://arxiv.org/abs/2506.19505)|-|-|
 |**2025-6-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al|[paper](https://arxiv.org/abs/2506.18879)|[code](https://github.com/UMass-Embodied-AGI/CommVQ.)|<details><summary>detail</summary>ICML 2025 poster</details>|
-|**2025-6-21**|**StainPIDR: A Pathological Image Decouplingand Reconstruction Method for Stain Normalization Based on Color Vector Quantization and Structure Restaining**|Zheng Chen et.al|[paper](https://arxiv.org/abs/2506.17879)|-|-|
-|**2025-6-17**|**Enhancing Vector Quantization with Distributional Matching: A Theoretical and Empirical Study**|Xianghong Fang et.al|[paper](https://arxiv.org/abs/2506.15078)|-|-|
 
