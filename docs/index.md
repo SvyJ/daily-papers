@@ -7,15 +7,15 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.08.10
+## Updated on 2025.08.11
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-8**|**Advancing Welding Defect Detection in Maritime Operations via Adapt-WeldNet and Defect Detection Interpretability Analysis**|Kamal Basha S et.al|[paper](https://arxiv.org/abs/2508.00381)|-|-|
 |**2025-8-6**|**MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning**|Ylli Sadikaj et.al|[paper](https://arxiv.org/abs/2504.06740)|-|-|
 |**2025-8-2**|**NATLM: Detecting Defects in NFT Smart Contracts Leveraging LLM**|Yuanzheng Niu et.al|[paper](https://arxiv.org/abs/2508.01351)|-|-|
-|**2025-8-1**|**Advancing Welding Defect Detection in Maritime Operations via Adapt-WeldNet and Defect Detection Interpretability Analysis**|Kamal Basha S et.al|[paper](https://arxiv.org/abs/2508.00381)|-|-|
 |**2025-7-29**|**Enhancing Glass Defect Detection with Diffusion Models: Addressing Imbalanced Datasets in Manufacturing Quality Control**|Sajjad Rezvani Boroujeni et.al|[paper](https://arxiv.org/abs/2505.03134)|-|-|
 |**2025-7-22**|**Multi-Scale PCB Defect Detection with YOLOv8 Network Improved via Pruning and Lightweight Network**|Li Pingzhen et.al|[paper](https://arxiv.org/abs/2507.17176)|-|-|
 |**2025-7-21**|**A Steel Surface Defect Detection Method Based on Lightweight Convolution Optimization**|Cong Chen et.al|[paper](https://arxiv.org/abs/2507.15476)|-|<details><summary>detail</summary>Journal ref:International Journal of Advanced Computer Science and Applications (IJACSA)</details>|
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-8**|**LLM meets ML: Data-efficient Anomaly Detection on Unstable Logs**|Fatemeh Hadadi et.al|[paper](https://arxiv.org/abs/2406.07467)|-|-|
+|**2025-8-8**|**Mixture of Experts Guided by Gaussian Splatters Matters: A new Approach to Weakly-Supervised Video Anomaly Detection**|Giacomo D'Amicantonio et.al|[paper](https://arxiv.org/abs/2508.06318)|-|-|
+|**2025-8-8**|**AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection**|Zhaopeng Gu et.al|[paper](https://arxiv.org/abs/2508.06203)|-|-|
+|**2025-8-8**|**Entropy Causal Graphs for Multivariate Time Series Anomaly Detection**|Falih Gozi Febrinanto et.al|[paper](https://arxiv.org/abs/2312.09478)|-|-|
 |**2025-8-7**|**SincVAE: A new semi-supervised approach to improve anomaly detection on EEG data using SincNet and variational autoencoder**|Andrea Pollastro et.al|[paper](https://arxiv.org/abs/2406.17537)|-|<details><summary>detail</summary>Journal ref:Computer Methods and Programs in Biomedicine Update</details>|
 |**2025-8-7**|**AutoIAD: Manager-Driven Multi-Agent Collaboration for Automated Industrial Anomaly Detection**|Dongwei Ji et.al|[paper](https://arxiv.org/abs/2508.05503)|-|-|
 |**2025-8-7**|**How and Why: Taming Flow Matching for Unsupervised Anomaly Detection and Localization**|Liangwei Li et.al|[paper](https://arxiv.org/abs/2508.05461)|-|-|
@@ -94,10 +98,6 @@
 |**2025-8-4**|**Multi-class Image Anomaly Detection for Practical Applications: Requirements and Robust Solutions**|Jaehyuk Heo et.al|[paper](https://arxiv.org/abs/2508.02477)|-|-|
 |**2025-8-4**|**Friend or Foe? Harnessing Controllable Overfitting for Anomaly Detection**|Long Qian et.al|[paper](https://arxiv.org/abs/2412.00560)|-|-|
 |**2025-8-4**|**MathPhys-Guided Coarse-to-Fine Anomaly Synthesis with SQE-Driven Bi-Level Optimization for Anomaly Detection**|Long Qian et.al|[paper](https://arxiv.org/abs/2504.12970)|-|-|
-|**2025-8-4**|**Towards Real Unsupervised Anomaly Detection Via Confident Meta-Learning**|Muhammad Aqeel et.al|[paper](https://arxiv.org/abs/2508.02293)|-|<details><summary>detail</summary>ieee/cvf international conference on computer vision (ICCV2025)</details>|
-|**2025-8-4**|**Manifold-regularised Large-Margin $\ell_p$-SVDD for Multidimensional Time Series Anomaly Detection**|Shervin Rahimzadeh Arashloo et.al|[paper](https://arxiv.org/abs/2507.23449)|-|-|
-|**2025-8-3**|**PatchAD: A Lightweight Patch-based MLP-Mixer for Time Series Anomaly Detection**|Zhijie Zhong et.al|[paper](https://arxiv.org/abs/2401.09793)|[code](https://github.com/EmorZz1G/PatchAD.)|-|
-|**2025-8-3**|**CloudAnoAgent: Anomaly Detection for Cloud Sites via LLM Agent with Neuro-Symbolic Mechanism**|Xinkai Zou et.al|[paper](https://arxiv.org/abs/2508.01844)|-|-|
 
 ## 3D Anomaly Detection
 
