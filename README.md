@@ -7,18 +7,18 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.08.11
+## Updated on 2025.08.12
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-10**|**A Steel Surface Defect Detection Method Based on Lightweight Convolution Optimization**|Cong Chen et.al|[paper](https://arxiv.org/abs/2507.15476)|[code](https://doi.org/10.14569/IJACSA.2025.0160619)|<details><summary>detail</summary>This is a preprint of an article accepted for publication in the International Journal of Advanced Computer Science and Applications (IJACSA)</details>|
 |**2025-8-8**|**Advancing Welding Defect Detection in Maritime Operations via Adapt-WeldNet and Defect Detection Interpretability Analysis**|Kamal Basha S et.al|[paper](https://arxiv.org/abs/2508.00381)|-|-|
 |**2025-8-6**|**MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning**|Ylli Sadikaj et.al|[paper](https://arxiv.org/abs/2504.06740)|-|-|
 |**2025-8-2**|**NATLM: Detecting Defects in NFT Smart Contracts Leveraging LLM**|Yuanzheng Niu et.al|[paper](https://arxiv.org/abs/2508.01351)|-|-|
 |**2025-7-29**|**Enhancing Glass Defect Detection with Diffusion Models: Addressing Imbalanced Datasets in Manufacturing Quality Control**|Sajjad Rezvani Boroujeni et.al|[paper](https://arxiv.org/abs/2505.03134)|-|-|
 |**2025-7-22**|**Multi-Scale PCB Defect Detection with YOLOv8 Network Improved via Pruning and Lightweight Network**|Li Pingzhen et.al|[paper](https://arxiv.org/abs/2507.17176)|-|-|
-|**2025-7-21**|**A Steel Surface Defect Detection Method Based on Lightweight Convolution Optimization**|Cong Chen et.al|[paper](https://arxiv.org/abs/2507.15476)|-|<details><summary>detail</summary>Journal ref:International Journal of Advanced Computer Science and Applications (IJACSA)</details>|
 |**2025-7-21**|**RoadFusion: Latent Diffusion Model for Pavement Defect Detection**|Muhammad Aqeel et.al|[paper](https://arxiv.org/abs/2507.15346)|-|<details><summary>detail</summary>ICIAP 2025</details>|
 |**2025-7-21**|**ExDD: Explicit Dual Distribution Learning for Surface Defect Detection via Diffusion Synthesis**|Muhammad Aqeel et.al|[paper](https://arxiv.org/abs/2507.15335)|-|<details><summary>detail</summary>ICIAP 2025</details>|
 |**2025-7-15**|**A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects**|Yuqi Cheng et.al|[paper](https://arxiv.org/abs/2507.13378)|-|-|
@@ -43,6 +43,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-11**|**KARMA: Efficient Structural Defect Segmentation via Kolmogorov-Arnold Representation Learning**|Md Meftahul Ferdaus et.al|[paper](https://arxiv.org/abs/2508.08186)|[code](https://github.com/faeyelab/karma.)|<details><summary>detail</summary>submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence</details>|
 |**2025-8-6**|**MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning**|Ylli Sadikaj et.al|[paper](https://arxiv.org/abs/2504.06740)|-|-|
 |**2025-7-23**|**Exploring Active Learning for Semiconductor Defect Segmentation**|Lile Cai et.al|[paper](https://arxiv.org/abs/2507.17359)|-|<details><summary>detail</summary>accepted to ICIP 2022</details>|
 |**2025-7-14**|**Advancing Automatic Photovoltaic Defect Detection using Semi-Supervised Semantic Segmentation of Electroluminescence Images**|Abhishek Jha et.al|[paper](https://arxiv.org/abs/2404.13693)|[code](https://github.com/abj247/PV-S3.)|-|
@@ -67,12 +68,24 @@
 |**2023-12-21**|**Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation**|Rasha Alshawi et.al|[paper](https://arxiv.org/abs/2312.14053)|-|<details><summary>detail</summary>under review in IEEE Transactions on Artificial Intelligence</details>|
 |**2023-12-8**|**Continual learning for surface defect segmentation by subnetwork creation and selection**|Aleksandr Dekhovich et.al|[paper](https://arxiv.org/abs/2312.05100)|-|-|
 |**2023-12-6**|**Overhead Line Defect Recognition Based on Unsupervised Semantic Segmentation**|Weixi Wang et.al|[paper](https://arxiv.org/abs/2311.00979)|-|-|
-|**2023-11-16**|**Segment Anything in Defect Detection**|Bozhen Hu et.al|[paper](https://arxiv.org/abs/2311.10245)|-|-|
 
 ## Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-11**|**Robust Anomaly Detection in O-RAN: Leveraging LLMs against Data Manipulation Attacks**|Thusitha Dayaratne et.al|[paper](https://arxiv.org/abs/2508.08029)|-|-|
+|**2025-8-11**|**Safeguarding Generative AI Applications in Preclinical Imaging through Hybrid Anomaly Detection**|Jakub Binda et.al|[paper](https://arxiv.org/abs/2508.07923)|-|<details><summary>detail</summary>Journal ref:2025 Conference on Information and Knowledge Management (CIKM)</details>|
+|**2025-8-11**|**Architectural Co-Design for Zero-Shot Anomaly Detection: Decoupling Representation and Dynamically Fusing Features in CLIP**|Ke Ma et.al|[paper](https://arxiv.org/abs/2508.07819)|-|-|
+|**2025-8-11**|**Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detection**|Alireza Salehi et.al|[paper](https://arxiv.org/abs/2504.11055)|[code](https://github.com/AlirezaSalehy/Crane.)|-|
+|**2025-8-11**|**AIS-LLM: A Unified Framework for Maritime Trajectory Prediction, Anomaly Detection, and Collision Risk Assessment with Explainable Forecasting**|Hyobin Park et.al|[paper](https://arxiv.org/abs/2508.07668)|-|-|
+|**2025-8-11**|**Enhancing Egocentric Object Detection in Static Environments using Graph-based Spatial Anomaly Detection and Correction**|Vishakha Lall et.al|[paper](https://arxiv.org/abs/2508.07624)|-|-|
+|**2025-8-10**|**Robust Anomaly Detection in Network Traffic: Evaluating Machine Learning Models on CICIDS2017**|Zhaoyang Xu et.al|[paper](https://arxiv.org/abs/2506.19877)|-|<details><summary>detail</summary>submitted to IEEE CNS 2025</details>|
+|**2025-8-10**|**Levarging Learning Bias for Noisy Anomaly Detection**|Yuxin Zhang et.al|[paper](https://arxiv.org/abs/2508.07441)|[code](https://github.com/hustzhangyuxin/LLBNAD.)|-|
+|**2025-8-10**|**Learning Multi-view Anomaly Detection with Efficient Adaptive Selection**|Haoyang He et.al|[paper](https://arxiv.org/abs/2407.11935)|[code](https://github.com/lewandofskee/MVAD.)|<details><summary>detail</summary>IEEE TRANSACTIONS ON MULTIMEDIA</details>|
+|**2025-8-10**|**Self-Navigated Residual Mamba for Universal Industrial Anomaly Detection**|Hanxi Li et.al|[paper](https://arxiv.org/abs/2508.01591)|-|-|
+|**2025-8-10**|**Towards Real-World Rumor Detection: Anomaly Detection Framework with Graph Supervised Contrastive Learning**|Chaoqun Cui et.al|[paper](https://arxiv.org/abs/2508.07205)|-|<details><summary>detail</summary>This paper is accepted by COLING2025</details>|
+|**2025-8-9**|**Statistical Inference for Autoencoder-based Anomaly Detection after Representation Learning-based Domain Adaptation**|Tran Tuan Kiet et.al|[paper](https://arxiv.org/abs/2508.07049)|-|-|
+|**2025-8-8**|**Segmented Confidence Sequences and Multi-Scale Adaptive Confidence Segments for Anomaly Detection in Nonstationary Time Series**|Muyan Anna Li et.al|[paper](https://arxiv.org/abs/2508.06638)|-|-|
 |**2025-8-8**|**LLM meets ML: Data-efficient Anomaly Detection on Unstable Logs**|Fatemeh Hadadi et.al|[paper](https://arxiv.org/abs/2406.07467)|-|-|
 |**2025-8-8**|**Mixture of Experts Guided by Gaussian Splatters Matters: A new Approach to Weakly-Supervised Video Anomaly Detection**|Giacomo D'Amicantonio et.al|[paper](https://arxiv.org/abs/2508.06318)|-|-|
 |**2025-8-8**|**AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection**|Zhaopeng Gu et.al|[paper](https://arxiv.org/abs/2508.06203)|-|-|
@@ -85,19 +98,6 @@
 |**2025-8-7**|**Contrastive Representation Modeling for Anomaly Detection**|Willian T. Lunardi et.al|[paper](https://arxiv.org/abs/2501.05130)|-|<details><summary>detail</summary>the 28th European Conference on Artificial Intelligence (ECAI 2025)</details>|
 |**2025-8-6**|**Single-Step Reconstruction-Free Anomaly Detection and Segmentation via Diffusion Models**|Mehrdad Moradi et.al|[paper](https://arxiv.org/abs/2508.04818)|[code](https://github.com/mehrdadmoradi124/RADAR)|-|
 |**2025-8-6**|**CaPulse: Detecting Anomalies by Tuning in to the Causal Rhythms of Time Series**|Yutong Xia et.al|[paper](https://arxiv.org/abs/2508.04630)|-|-|
-|**2025-8-6**|**CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering**|Zhe Zhang et.al|[paper](https://arxiv.org/abs/2505.01476)|[code](https://github.com/ZHE-SAPI/CostFilter-AD.)|-|
-|**2025-8-6**|**MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning**|Ylli Sadikaj et.al|[paper](https://arxiv.org/abs/2504.06740)|-|-|
-|**2025-8-6**|**AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization**|Jingyi Liao et.al|[paper](https://arxiv.org/abs/2508.04175)|-|-|
-|**2025-8-6**|**Risk-Based Thresholding for Reliable Anomaly Detection in Concentrated Solar Power Plants**|Yorick Estievenart et.al|[paper](https://arxiv.org/abs/2503.19146)|-|-|
-|**2025-8-5**|**Active Learning and Transfer Learning for Anomaly Detection in Time-Series Data**|John D. Kelleher et.al|[paper](https://arxiv.org/abs/2508.03921)|-|-|
-|**2025-8-5**|**Quality-Aware Language-Conditioned Local Auto-Regressive Anomaly Synthesis and Detection**|Long Qian et.al|[paper](https://arxiv.org/abs/2508.03539)|-|-|
-|**2025-8-5**|**CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection**|Qiyu Chen et.al|[paper](https://arxiv.org/abs/2508.03447)|[code](https://github.com/cqylunlun/CoPS.)|-|
-|**2025-8-5**|**AI on the Pulse: Real-Time Health Anomaly Detection with Wearable and Ambient Intelligence**|Davide Gabrielli et.al|[paper](https://arxiv.org/abs/2508.03436)|-|-|
-|**2025-8-5**|**Class Imbalance in Anomaly Detection: Learning from an Exactly Solvable Model**|F. S. Pezzicoli et.al|[paper](https://arxiv.org/abs/2501.11638)|-|<details><summary>detail</summary>version accepted at AISTATS 2025</details>|
-|**2025-8-5**|**ADSeeker: A Knowledge-Infused Framework for Anomaly Detection and Reasoning**|Kai Zhang et.al|[paper](https://arxiv.org/abs/2508.03088)|-|-|
-|**2025-8-4**|**Multi-class Image Anomaly Detection for Practical Applications: Requirements and Robust Solutions**|Jaehyuk Heo et.al|[paper](https://arxiv.org/abs/2508.02477)|-|-|
-|**2025-8-4**|**Friend or Foe? Harnessing Controllable Overfitting for Anomaly Detection**|Long Qian et.al|[paper](https://arxiv.org/abs/2412.00560)|-|-|
-|**2025-8-4**|**MathPhys-Guided Coarse-to-Fine Anomaly Synthesis with SQE-Driven Bi-Level Optimization for Anomaly Detection**|Long Qian et.al|[paper](https://arxiv.org/abs/2504.12970)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-8**|**Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning**|Zian Zhai et.al|[paper](https://arxiv.org/abs/2508.06588)|-|-|
 |**2025-8-7**|**Vector Quantized-Elites: Unsupervised and Problem-Agnostic Quality-Diversity Optimization**|Constantinos Tsakonas et.al|[paper](https://arxiv.org/abs/2504.08057)|-|-|
 |**2025-8-7**|**Task Vector Quantization for Memory-Efficient Model Merging**|Youngeun Kim et.al|[paper](https://arxiv.org/abs/2503.06921)|-|-|
 |**2025-8-5**|**CIVQLLIE: Causal Intervention with Vector Quantization for Low-Light Image Enhancement**|Tongshun Zhang et.al|[paper](https://arxiv.org/abs/2508.03338)|-|-|
@@ -187,5 +188,4 @@
 |**2025-6-28**|**Hierarchical Characterization of Brain Dynamics via State Space-based Vector Quantization**|Yanwu Yang et.al|[paper](https://arxiv.org/abs/2506.22952)|-|-|
 |**2025-6-26**|**PCDVQ: Enhancing Vector Quantization for Large Language Models via Polar Coordinate Decoupling**|Yuxuan Yue et.al|[paper](https://arxiv.org/abs/2506.05432)|-|-|
 |**2025-6-24**|**AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models**|Zeyu Li et.al|[paper](https://arxiv.org/abs/2506.19505)|-|-|
-|**2025-6-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al|[paper](https://arxiv.org/abs/2506.18879)|[code](https://github.com/UMass-Embodied-AGI/CommVQ.)|<details><summary>detail</summary>ICML 2025 poster</details>|
 
