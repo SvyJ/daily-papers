@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.08.12
+## Updated on 2025.08.13
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-12**|**Masked Autoencoder Self Pre-Training for Defect Detection in Microelectronics**|Nikolai Röhrich et.al|[paper](https://arxiv.org/abs/2504.10021)|-|-|
 |**2025-8-10**|**A Steel Surface Defect Detection Method Based on Lightweight Convolution Optimization**|Cong Chen et.al|[paper](https://arxiv.org/abs/2507.15476)|[code](https://doi.org/10.14569/IJACSA.2025.0160619)|<details><summary>detail</summary>This is a preprint of an article accepted for publication in the International Journal of Advanced Computer Science and Applications (IJACSA)</details>|
 |**2025-8-8**|**Advancing Welding Defect Detection in Maritime Operations via Adapt-WeldNet and Defect Detection Interpretability Analysis**|Kamal Basha S et.al|[paper](https://arxiv.org/abs/2508.00381)|-|-|
 |**2025-8-6**|**MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning**|Ylli Sadikaj et.al|[paper](https://arxiv.org/abs/2504.06740)|-|-|
@@ -37,7 +38,6 @@
 |**2025-5-15**|**Examining the Source of Defects from a Mechanical Perspective for 3D Anomaly Detection**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2505.05901)|[code](https://github.com/hzzzzzhappy/MC4AD)|-|
 |**2025-5-15**|**Defect Detection in Photolithographic Patterns Using Deep Learning Models Trained on Synthetic Data**|Prashant P. Shinde et.al|[paper](https://arxiv.org/abs/2505.10192)|-|-|
 |**2025-5-12**|**Self-Adaptive Gamma Context-Aware SSM-based Model for Metal Defect Detection**|Sijin Sun et.al|[paper](https://arxiv.org/abs/2503.01234)|-|-|
-|**2025-5-11**|**Differentiable NMS via Sinkhorn Matching for End-to-End Fabric Defect Detection**|Zhengyang Lu et.al|[paper](https://arxiv.org/abs/2505.07040)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-12**|**ALFred: An Active Learning Framework for Real-world Semi-supervised Anomaly Detection with Adaptive Thresholds**|Shanle Yao et.al|[paper](https://arxiv.org/abs/2508.09058)|-|-|
+|**2025-8-12**|**Triad: Empowering LMM-based Anomaly Detection with Vision Expert-guided Visual Tokenizer and Manufacturing Process**|Yuanze Li et.al|[paper](https://arxiv.org/abs/2503.13184)|[code](https://github.com/tzjtatata/Triad.)|-|
+|**2025-8-11**|**Generative AI for Critical Infrastructure in Smart Grids: A Unified Framework for Synthetic Data Generation and Anomaly Detection**|Aydin Zaboli et.al|[paper](https://arxiv.org/abs/2508.08593)|-|-|
 |**2025-8-11**|**Robust Anomaly Detection in O-RAN: Leveraging LLMs against Data Manipulation Attacks**|Thusitha Dayaratne et.al|[paper](https://arxiv.org/abs/2508.08029)|-|-|
 |**2025-8-11**|**Safeguarding Generative AI Applications in Preclinical Imaging through Hybrid Anomaly Detection**|Jakub Binda et.al|[paper](https://arxiv.org/abs/2508.07923)|-|<details><summary>detail</summary>Journal ref:2025 Conference on Information and Knowledge Management (CIKM)</details>|
 |**2025-8-11**|**Architectural Co-Design for Zero-Shot Anomaly Detection: Decoupling Representation and Dynamically Fusing Features in CLIP**|Ke Ma et.al|[paper](https://arxiv.org/abs/2508.07819)|-|-|
@@ -95,9 +98,6 @@
 |**2025-8-7**|**How and Why: Taming Flow Matching for Unsupervised Anomaly Detection and Localization**|Liangwei Li et.al|[paper](https://arxiv.org/abs/2508.05461)|-|-|
 |**2025-8-7**|**CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection**|Byeongchan Lee et.al|[paper](https://arxiv.org/abs/2506.11772)|-|-|
 |**2025-8-7**|**GuARD: Effective Anomaly Detection through a Text-Rich and Graph-Informed Language Model**|Yunhe Pang et.al|[paper](https://arxiv.org/abs/2412.03930)|-|<details><summary>detail</summary>KDD 2025</details>|
-|**2025-8-7**|**Contrastive Representation Modeling for Anomaly Detection**|Willian T. Lunardi et.al|[paper](https://arxiv.org/abs/2501.05130)|-|<details><summary>detail</summary>the 28th European Conference on Artificial Intelligence (ECAI 2025)</details>|
-|**2025-8-6**|**Single-Step Reconstruction-Free Anomaly Detection and Segmentation via Diffusion Models**|Mehrdad Moradi et.al|[paper](https://arxiv.org/abs/2508.04818)|[code](https://github.com/mehrdadmoradi124/RADAR)|-|
-|**2025-8-6**|**CaPulse: Detecting Anomalies by Tuning in to the Causal Rhythms of Time Series**|Yutong Xia et.al|[paper](https://arxiv.org/abs/2508.04630)|-|-|
 
 ## 3D Anomaly Detection
 
