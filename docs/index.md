@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.08.13
+## Updated on 2025.08.14
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-13**|**Anomaly Detection for IoT Global Connectivity**|Jesus Omaña Iglesias et.al|[paper](https://arxiv.org/abs/2508.09660)|-|-|
+|**2025-8-13**|**Causal Graph Profiling via Structural Divergence for Robust Anomaly Detection in Cyber-Physical Systems**|Arun Vignesh Malarkkan et.al|[paper](https://arxiv.org/abs/2508.09504)|-|<details><summary>detail</summary>7 Pages</details>|
+|**2025-8-13**|**CLIP-Flow: A Universal Discriminator for AI-Generated Images Inspired by Anomaly Detection**|Zhipeng Yuan et.al|[paper](https://arxiv.org/abs/2508.09477)|-|-|
 |**2025-8-12**|**ALFred: An Active Learning Framework for Real-world Semi-supervised Anomaly Detection with Adaptive Thresholds**|Shanle Yao et.al|[paper](https://arxiv.org/abs/2508.09058)|-|-|
 |**2025-8-12**|**Triad: Empowering LMM-based Anomaly Detection with Vision Expert-guided Visual Tokenizer and Manufacturing Process**|Yuanze Li et.al|[paper](https://arxiv.org/abs/2503.13184)|[code](https://github.com/tzjtatata/Triad.)|-|
 |**2025-8-11**|**Generative AI for Critical Infrastructure in Smart Grids: A Unified Framework for Synthetic Data Generation and Anomaly Detection**|Aydin Zaboli et.al|[paper](https://arxiv.org/abs/2508.08593)|-|-|
@@ -95,9 +98,6 @@
 |**2025-8-8**|**Entropy Causal Graphs for Multivariate Time Series Anomaly Detection**|Falih Gozi Febrinanto et.al|[paper](https://arxiv.org/abs/2312.09478)|-|-|
 |**2025-8-7**|**SincVAE: A new semi-supervised approach to improve anomaly detection on EEG data using SincNet and variational autoencoder**|Andrea Pollastro et.al|[paper](https://arxiv.org/abs/2406.17537)|-|<details><summary>detail</summary>Journal ref:Computer Methods and Programs in Biomedicine Update</details>|
 |**2025-8-7**|**AutoIAD: Manager-Driven Multi-Agent Collaboration for Automated Industrial Anomaly Detection**|Dongwei Ji et.al|[paper](https://arxiv.org/abs/2508.05503)|-|-|
-|**2025-8-7**|**How and Why: Taming Flow Matching for Unsupervised Anomaly Detection and Localization**|Liangwei Li et.al|[paper](https://arxiv.org/abs/2508.05461)|-|-|
-|**2025-8-7**|**CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection**|Byeongchan Lee et.al|[paper](https://arxiv.org/abs/2506.11772)|-|-|
-|**2025-8-7**|**GuARD: Effective Anomaly Detection through a Text-Rich and Graph-Informed Language Model**|Yunhe Pang et.al|[paper](https://arxiv.org/abs/2412.03930)|-|<details><summary>detail</summary>KDD 2025</details>|
 
 ## 3D Anomaly Detection
 
