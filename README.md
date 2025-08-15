@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.08.14
+## Updated on 2025.08.15
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-14**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2025-8-12**|**Masked Autoencoder Self Pre-Training for Defect Detection in Microelectronics**|Nikolai Röhrich et.al|[paper](https://arxiv.org/abs/2504.10021)|-|-|
 |**2025-8-10**|**A Steel Surface Defect Detection Method Based on Lightweight Convolution Optimization**|Cong Chen et.al|[paper](https://arxiv.org/abs/2507.15476)|[code](https://doi.org/10.14569/IJACSA.2025.0160619)|<details><summary>detail</summary>This is a preprint of an article accepted for publication in the International Journal of Advanced Computer Science and Applications (IJACSA)</details>|
 |**2025-8-8**|**Advancing Welding Defect Detection in Maritime Operations via Adapt-WeldNet and Defect Detection Interpretability Analysis**|Kamal Basha S et.al|[paper](https://arxiv.org/abs/2508.00381)|-|-|
@@ -37,12 +38,12 @@
 |**2025-5-23**|**Research on Defect Detection Method of Motor Control Board Based on Image Processing**|Jingde Huang et.al|[paper](https://arxiv.org/abs/2505.17493)|-|-|
 |**2025-5-15**|**Examining the Source of Defects from a Mechanical Perspective for 3D Anomaly Detection**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2505.05901)|[code](https://github.com/hzzzzzhappy/MC4AD)|-|
 |**2025-5-15**|**Defect Detection in Photolithographic Patterns Using Deep Learning Models Trained on Synthetic Data**|Prashant P. Shinde et.al|[paper](https://arxiv.org/abs/2505.10192)|-|-|
-|**2025-5-12**|**Self-Adaptive Gamma Context-Aware SSM-based Model for Metal Defect Detection**|Sijin Sun et.al|[paper](https://arxiv.org/abs/2503.01234)|-|-|
 
 ## Defect Segmentation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-14**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2025-8-11**|**KARMA: Efficient Structural Defect Segmentation via Kolmogorov-Arnold Representation Learning**|Md Meftahul Ferdaus et.al|[paper](https://arxiv.org/abs/2508.08186)|[code](https://github.com/faeyelab/karma.)|<details><summary>detail</summary>submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence</details>|
 |**2025-8-6**|**MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning**|Ylli Sadikaj et.al|[paper](https://arxiv.org/abs/2504.06740)|-|-|
 |**2025-7-23**|**Exploring Active Learning for Semiconductor Defect Segmentation**|Lile Cai et.al|[paper](https://arxiv.org/abs/2507.17359)|-|<details><summary>detail</summary>accepted to ICIP 2022</details>|
@@ -67,12 +68,16 @@
 |**2024-2-6**|**Multi-class Road Defect Detection and Segmentation using Spatial and Channel-wise Attention for Autonomous Road Repairing**|Jongmin Yu et.al|[paper](https://arxiv.org/abs/2402.04064)|-|<details><summary>detail</summary>the ICRA 2024</details>|
 |**2023-12-21**|**Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation**|Rasha Alshawi et.al|[paper](https://arxiv.org/abs/2312.14053)|-|<details><summary>detail</summary>under review in IEEE Transactions on Artificial Intelligence</details>|
 |**2023-12-8**|**Continual learning for surface defect segmentation by subnetwork creation and selection**|Aleksandr Dekhovich et.al|[paper](https://arxiv.org/abs/2312.05100)|-|-|
-|**2023-12-6**|**Overhead Line Defect Recognition Based on Unsupervised Semantic Segmentation**|Weixi Wang et.al|[paper](https://arxiv.org/abs/2311.00979)|-|-|
 
 ## Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-14**|**Enhancing Fairness in Autoencoders for Node-Level Graph Anomaly Detection**|Shouju Wang et.al|[paper](https://arxiv.org/abs/2508.10785)|[code](https://github.com/Tlhey/decaf_code.)|<details><summary>detail</summary>Accepted in ECAI-2025</details>|
+|**2025-8-14**|**IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection**|Yanhui Li et.al|[paper](https://arxiv.org/abs/2508.09178)|[code](https://github.com/Yanhui-Lee/IAD-R1.)|-|
+|**2025-8-14**|**IADGPT: Unified LVLM for Few-Shot Industrial Anomaly Detection, Localization, and Reasoning via In-Context Learning**|Mengyang Zhao et.al|[paper](https://arxiv.org/abs/2508.10681)|-|-|
+|**2025-8-14**|**FreeGAD: A Training-Free yet Effective Approach for Graph Anomaly Detection**|Yunfeng Zhao et.al|[paper](https://arxiv.org/abs/2508.10594)|-|-|
+|**2025-8-13**|**Federated Anomaly Detection for Multi-Tenant Cloud Platforms with Personalized Modeling**|Yuxi Wang et.al|[paper](https://arxiv.org/abs/2508.10255)|-|-|
 |**2025-8-13**|**Anomaly Detection for IoT Global Connectivity**|Jesus Omaña Iglesias et.al|[paper](https://arxiv.org/abs/2508.09660)|-|-|
 |**2025-8-13**|**Causal Graph Profiling via Structural Divergence for Robust Anomaly Detection in Cyber-Physical Systems**|Arun Vignesh Malarkkan et.al|[paper](https://arxiv.org/abs/2508.09504)|-|<details><summary>detail</summary>7 Pages</details>|
 |**2025-8-13**|**CLIP-Flow: A Universal Discriminator for AI-Generated Images Inspired by Anomaly Detection**|Zhipeng Yuan et.al|[paper](https://arxiv.org/abs/2508.09477)|-|-|
@@ -93,11 +98,6 @@
 |**2025-8-9**|**Statistical Inference for Autoencoder-based Anomaly Detection after Representation Learning-based Domain Adaptation**|Tran Tuan Kiet et.al|[paper](https://arxiv.org/abs/2508.07049)|-|-|
 |**2025-8-8**|**Segmented Confidence Sequences and Multi-Scale Adaptive Confidence Segments for Anomaly Detection in Nonstationary Time Series**|Muyan Anna Li et.al|[paper](https://arxiv.org/abs/2508.06638)|-|-|
 |**2025-8-8**|**LLM meets ML: Data-efficient Anomaly Detection on Unstable Logs**|Fatemeh Hadadi et.al|[paper](https://arxiv.org/abs/2406.07467)|-|-|
-|**2025-8-8**|**Mixture of Experts Guided by Gaussian Splatters Matters: A new Approach to Weakly-Supervised Video Anomaly Detection**|Giacomo D'Amicantonio et.al|[paper](https://arxiv.org/abs/2508.06318)|-|-|
-|**2025-8-8**|**AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection**|Zhaopeng Gu et.al|[paper](https://arxiv.org/abs/2508.06203)|-|-|
-|**2025-8-8**|**Entropy Causal Graphs for Multivariate Time Series Anomaly Detection**|Falih Gozi Febrinanto et.al|[paper](https://arxiv.org/abs/2312.09478)|-|-|
-|**2025-8-7**|**SincVAE: A new semi-supervised approach to improve anomaly detection on EEG data using SincNet and variational autoencoder**|Andrea Pollastro et.al|[paper](https://arxiv.org/abs/2406.17537)|-|<details><summary>detail</summary>Journal ref:Computer Methods and Programs in Biomedicine Update</details>|
-|**2025-8-7**|**AutoIAD: Manager-Driven Multi-Agent Collaboration for Automated Industrial Anomaly Detection**|Dongwei Ji et.al|[paper](https://arxiv.org/abs/2508.05503)|-|-|
 
 ## 3D Anomaly Detection
 
