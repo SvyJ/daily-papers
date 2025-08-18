@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.08.17
+## Updated on 2025.08.18
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-15**|**Defects4Log: Benchmarking LLMs for Logging Code Defect Detection and Reasoning**|Xin Wang et.al|[paper](https://arxiv.org/abs/2508.11305)|-|-|
 |**2025-8-14**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2025-8-12**|**Masked Autoencoder Self Pre-Training for Defect Detection in Microelectronics**|Nikolai Röhrich et.al|[paper](https://arxiv.org/abs/2504.10021)|-|-|
 |**2025-8-10**|**A Steel Surface Defect Detection Method Based on Lightweight Convolution Optimization**|Cong Chen et.al|[paper](https://arxiv.org/abs/2507.15476)|[code](https://doi.org/10.14569/IJACSA.2025.0160619)|<details><summary>detail</summary>This is a preprint of an article accepted for publication in the International Journal of Advanced Computer Science and Applications (IJACSA)</details>|
@@ -37,7 +38,6 @@
 |**2025-6-12**|**Deep Learning-based Multi Project InP Wafer Simulation for Unsupervised Surface Defect Detection**|Emílio Dolgener Cantú et.al|[paper](https://arxiv.org/abs/2506.10713)|-|-|
 |**2025-5-23**|**Research on Defect Detection Method of Motor Control Board Based on Image Processing**|Jingde Huang et.al|[paper](https://arxiv.org/abs/2505.17493)|-|-|
 |**2025-5-15**|**Examining the Source of Defects from a Mechanical Perspective for 3D Anomaly Detection**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2505.05901)|[code](https://github.com/hzzzzzhappy/MC4AD)|-|
-|**2025-5-15**|**Defect Detection in Photolithographic Patterns Using Deep Learning Models Trained on Synthetic Data**|Prashant P. Shinde et.al|[paper](https://arxiv.org/abs/2505.10192)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-15**|**Convolutional Autoencoders for Data Compression and Anomaly Detection in Small Satellite Technologies**|Dishanand Jayeprokash et.al|[paper](https://arxiv.org/abs/2505.00040)|-|-|
+|**2025-8-15**|**Physics-Informed Diffusion Models for Unsupervised Anomaly Detection in Multivariate Time Series**|Juhi Soni et.al|[paper](https://arxiv.org/abs/2508.11528)|-|-|
+|**2025-8-15**|**AFR-CLIP: Enhancing Zero-Shot Industrial Anomaly Detection with Stateless-to-Stateful Anomaly Feature Rectification**|Jingyi Yuan et.al|[paper](https://arxiv.org/abs/2503.12910)|-|-|
+|**2025-8-14**|**Zero-Shot Anomaly Detection with Dual-Branch Prompt Selection**|Zihan Wang et.al|[paper](https://arxiv.org/abs/2508.00777)|-|<details><summary>detail</summary>BMVC 2025</details>|
 |**2025-8-14**|**Enhancing Fairness in Autoencoders for Node-Level Graph Anomaly Detection**|Shouju Wang et.al|[paper](https://arxiv.org/abs/2508.10785)|[code](https://github.com/Tlhey/decaf_code.)|<details><summary>detail</summary>Accepted in ECAI-2025</details>|
 |**2025-8-14**|**IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection**|Yanhui Li et.al|[paper](https://arxiv.org/abs/2508.09178)|[code](https://github.com/Yanhui-Lee/IAD-R1.)|-|
 |**2025-8-14**|**IADGPT: Unified LVLM for Few-Shot Industrial Anomaly Detection, Localization, and Reasoning via In-Context Learning**|Mengyang Zhao et.al|[paper](https://arxiv.org/abs/2508.10681)|-|-|
@@ -94,10 +98,6 @@
 |**2025-8-10**|**Levarging Learning Bias for Noisy Anomaly Detection**|Yuxin Zhang et.al|[paper](https://arxiv.org/abs/2508.07441)|[code](https://github.com/hustzhangyuxin/LLBNAD.)|-|
 |**2025-8-10**|**Learning Multi-view Anomaly Detection with Efficient Adaptive Selection**|Haoyang He et.al|[paper](https://arxiv.org/abs/2407.11935)|[code](https://github.com/lewandofskee/MVAD.)|<details><summary>detail</summary>IEEE TRANSACTIONS ON MULTIMEDIA</details>|
 |**2025-8-10**|**Self-Navigated Residual Mamba for Universal Industrial Anomaly Detection**|Hanxi Li et.al|[paper](https://arxiv.org/abs/2508.01591)|-|-|
-|**2025-8-10**|**Towards Real-World Rumor Detection: Anomaly Detection Framework with Graph Supervised Contrastive Learning**|Chaoqun Cui et.al|[paper](https://arxiv.org/abs/2508.07205)|-|<details><summary>detail</summary>This paper is accepted by COLING2025</details>|
-|**2025-8-9**|**Statistical Inference for Autoencoder-based Anomaly Detection after Representation Learning-based Domain Adaptation**|Tran Tuan Kiet et.al|[paper](https://arxiv.org/abs/2508.07049)|-|-|
-|**2025-8-8**|**Segmented Confidence Sequences and Multi-Scale Adaptive Confidence Segments for Anomaly Detection in Nonstationary Time Series**|Muyan Anna Li et.al|[paper](https://arxiv.org/abs/2508.06638)|-|-|
-|**2025-8-8**|**LLM meets ML: Data-efficient Anomaly Detection on Unstable Logs**|Fatemeh Hadadi et.al|[paper](https://arxiv.org/abs/2406.07467)|-|-|
 
 ## 3D Anomaly Detection
 
