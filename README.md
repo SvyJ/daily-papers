@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.08.18
+## Updated on 2025.08.19
 
 ## Defect Detection
 
@@ -73,9 +73,16 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-18**|**Towards High-Resolution Industrial Image Anomaly Detection**|Ximiao Zhang et.al|[paper](https://arxiv.org/abs/2508.12931)|[code](https://github.com/cnulab/HiAD.)|-|
+|**2025-8-18**|**Learning local and global prototypes with optimal transport for unsupervised anomaly detection and localization**|Robin Trombetta et.al|[paper](https://arxiv.org/abs/2508.12927)|[code](https://github.com/robintrmbtt/pradot.)|-|
+|**2025-8-17**|**AFR-CLIP: Enhancing Zero-Shot Industrial Anomaly Detection with Stateless-to-Stateful Anomaly Feature Rectification**|Jingyi Yuan et.al|[paper](https://arxiv.org/abs/2503.12910)|-|<details><summary>detail</summary>There was some citation error in the last version</details>|
+|**2025-8-17**|**European Space Agency Benchmark for Anomaly Detection in Satellite Telemetry**|Krzysztof Kotowski et.al|[paper](https://arxiv.org/abs/2406.17826)|-|-|
+|**2025-8-17**|**CRoC: Context Refactoring Contrast for Graph Anomaly Detection with Limited Supervision**|Siyue Xie et.al|[paper](https://arxiv.org/abs/2508.12278)|-|<details><summary>detail</summary>Accepted by ECAI 2025</details>|
+|**2025-8-17**|**On-device Anomaly Detection in Conveyor Belt Operations**|Luciano S. Martinez-Rau et.al|[paper](https://arxiv.org/abs/2411.10729)|-|<details><summary>detail</summary>Preprint submitted to IEEE OPEN JOURNAL OF INSTRUMENTATION & MEASUREMENT</details>|
+|**2025-8-15**|**Unveiling the Unseen: A Comprehensive Survey on Explainable Anomaly Detection in Images and Videos**|Yizhou Wang et.al|[paper](https://arxiv.org/abs/2302.06670)|[code](https://github.com/wyzjack/Awesome-XAD.)|<details><summary>detail</summary>Under review at TPAMI</details>|
+|**2025-8-15**|**From Pixels to Graphs: Deep Graph-Level Anomaly Detection on Dermoscopic Images**|Dehn Xu et.al|[paper](https://arxiv.org/abs/2508.11826)|-|-|
 |**2025-8-15**|**Convolutional Autoencoders for Data Compression and Anomaly Detection in Small Satellite Technologies**|Dishanand Jayeprokash et.al|[paper](https://arxiv.org/abs/2505.00040)|-|-|
 |**2025-8-15**|**Physics-Informed Diffusion Models for Unsupervised Anomaly Detection in Multivariate Time Series**|Juhi Soni et.al|[paper](https://arxiv.org/abs/2508.11528)|-|-|
-|**2025-8-15**|**AFR-CLIP: Enhancing Zero-Shot Industrial Anomaly Detection with Stateless-to-Stateful Anomaly Feature Rectification**|Jingyi Yuan et.al|[paper](https://arxiv.org/abs/2503.12910)|-|-|
 |**2025-8-14**|**Zero-Shot Anomaly Detection with Dual-Branch Prompt Selection**|Zihan Wang et.al|[paper](https://arxiv.org/abs/2508.00777)|-|<details><summary>detail</summary>BMVC 2025</details>|
 |**2025-8-14**|**Enhancing Fairness in Autoencoders for Node-Level Graph Anomaly Detection**|Shouju Wang et.al|[paper](https://arxiv.org/abs/2508.10785)|[code](https://github.com/Tlhey/decaf_code.)|<details><summary>detail</summary>Accepted in ECAI-2025</details>|
 |**2025-8-14**|**IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection**|Yanhui Li et.al|[paper](https://arxiv.org/abs/2508.09178)|[code](https://github.com/Yanhui-Lee/IAD-R1.)|-|
@@ -91,13 +98,6 @@
 |**2025-8-11**|**Robust Anomaly Detection in O-RAN: Leveraging LLMs against Data Manipulation Attacks**|Thusitha Dayaratne et.al|[paper](https://arxiv.org/abs/2508.08029)|-|-|
 |**2025-8-11**|**Safeguarding Generative AI Applications in Preclinical Imaging through Hybrid Anomaly Detection**|Jakub Binda et.al|[paper](https://arxiv.org/abs/2508.07923)|-|<details><summary>detail</summary>Journal ref:2025 Conference on Information and Knowledge Management (CIKM)</details>|
 |**2025-8-11**|**Architectural Co-Design for Zero-Shot Anomaly Detection: Decoupling Representation and Dynamically Fusing Features in CLIP**|Ke Ma et.al|[paper](https://arxiv.org/abs/2508.07819)|-|-|
-|**2025-8-11**|**Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detection**|Alireza Salehi et.al|[paper](https://arxiv.org/abs/2504.11055)|[code](https://github.com/AlirezaSalehy/Crane.)|-|
-|**2025-8-11**|**AIS-LLM: A Unified Framework for Maritime Trajectory Prediction, Anomaly Detection, and Collision Risk Assessment with Explainable Forecasting**|Hyobin Park et.al|[paper](https://arxiv.org/abs/2508.07668)|-|-|
-|**2025-8-11**|**Enhancing Egocentric Object Detection in Static Environments using Graph-based Spatial Anomaly Detection and Correction**|Vishakha Lall et.al|[paper](https://arxiv.org/abs/2508.07624)|-|-|
-|**2025-8-10**|**Robust Anomaly Detection in Network Traffic: Evaluating Machine Learning Models on CICIDS2017**|Zhaoyang Xu et.al|[paper](https://arxiv.org/abs/2506.19877)|-|<details><summary>detail</summary>submitted to IEEE CNS 2025</details>|
-|**2025-8-10**|**Levarging Learning Bias for Noisy Anomaly Detection**|Yuxin Zhang et.al|[paper](https://arxiv.org/abs/2508.07441)|[code](https://github.com/hustzhangyuxin/LLBNAD.)|-|
-|**2025-8-10**|**Learning Multi-view Anomaly Detection with Efficient Adaptive Selection**|Haoyang He et.al|[paper](https://arxiv.org/abs/2407.11935)|[code](https://github.com/lewandofskee/MVAD.)|<details><summary>detail</summary>IEEE TRANSACTIONS ON MULTIMEDIA</details>|
-|**2025-8-10**|**Self-Navigated Residual Mamba for Universal Industrial Anomaly Detection**|Hanxi Li et.al|[paper](https://arxiv.org/abs/2508.01591)|-|-|
 
 ## 3D Anomaly Detection
 
