@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.08.21
+## Updated on 2025.08.22
 
 ## Defect Detection
 
@@ -73,6 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-21**|**Architectural Co-Design for Zero-Shot Anomaly Detection: Decoupling Representation and Dynamically Fusing Features in CLIP**|Ke Ma et.al|[paper](https://arxiv.org/abs/2508.07819)|-|-|
+|**2025-8-21**|**GRASPED: Graph Anomaly Detection using Autoencoder with Spectral Encoder and Decoder (Full Version)**|Wei Herng Choong et.al|[paper](https://arxiv.org/abs/2508.15633)|-|<details><summary>detail</summary>Full version of the paper accepted for publication at the European Conference on Artificial Intelligence (ECAI 2025)</details>|
+|**2025-8-21**|**Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images**|Jinsol Song et.al|[paper](https://arxiv.org/abs/2508.15256)|-|<details><summary>detail</summary>ICCV 2025</details>|
+|**2025-8-21**|**Pathology-Informed Latent Diffusion Model for Anomaly Detection in Lymph Node Metastasis**|Jiamu Wang et.al|[paper](https://arxiv.org/abs/2508.15236)|[code](https://github.com/QuIIL/AnoPILaD.)|-|
+|**2025-8-20**|**Adaptive Anomaly Detection in Evolving Network Environments**|Ehssan Mousavipour et.al|[paper](https://arxiv.org/abs/2508.15100)|-|-|
 |**2025-8-20**|**Enhanced Anomaly Detection for Capsule Endoscopy Using Ensemble Learning Strategies**|Julia Werner et.al|[paper](https://arxiv.org/abs/2504.06039)|-|<details><summary>detail</summary>the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS EMBC)</details>|
 |**2025-8-20**|**Addressing Graph Anomaly Detection via Causal Edge Separation and Spectrum**|Zengyi Wo et.al|[paper](https://arxiv.org/abs/2508.14684)|-|<details><summary>detail</summary>Proceedings of the 2024 KDD Workshop</details>|
 |**2025-8-20**|**Reconstruction-Free Anomaly Detection with Diffusion Models**|Shunsuke Sakai et.al|[paper](https://arxiv.org/abs/2504.05662)|[code](https://github.com/SkyShunsuke/InversionAD)|<details><summary>detail</summary>Code is available at https://github</details>|
@@ -93,11 +98,6 @@
 |**2025-8-15**|**Unveiling the Unseen: A Comprehensive Survey on Explainable Anomaly Detection in Images and Videos**|Yizhou Wang et.al|[paper](https://arxiv.org/abs/2302.06670)|[code](https://github.com/wyzjack/Awesome-XAD.)|<details><summary>detail</summary>Under review at TPAMI</details>|
 |**2025-8-15**|**From Pixels to Graphs: Deep Graph-Level Anomaly Detection on Dermoscopic Images**|Dehn Xu et.al|[paper](https://arxiv.org/abs/2508.11826)|-|-|
 |**2025-8-15**|**Convolutional Autoencoders for Data Compression and Anomaly Detection in Small Satellite Technologies**|Dishanand Jayeprokash et.al|[paper](https://arxiv.org/abs/2505.00040)|-|-|
-|**2025-8-15**|**Physics-Informed Diffusion Models for Unsupervised Anomaly Detection in Multivariate Time Series**|Juhi Soni et.al|[paper](https://arxiv.org/abs/2508.11528)|-|-|
-|**2025-8-14**|**Zero-Shot Anomaly Detection with Dual-Branch Prompt Selection**|Zihan Wang et.al|[paper](https://arxiv.org/abs/2508.00777)|-|<details><summary>detail</summary>BMVC 2025</details>|
-|**2025-8-14**|**Enhancing Fairness in Autoencoders for Node-Level Graph Anomaly Detection**|Shouju Wang et.al|[paper](https://arxiv.org/abs/2508.10785)|[code](https://github.com/Tlhey/decaf_code.)|<details><summary>detail</summary>Accepted in ECAI-2025</details>|
-|**2025-8-14**|**IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection**|Yanhui Li et.al|[paper](https://arxiv.org/abs/2508.09178)|[code](https://github.com/Yanhui-Lee/IAD-R1.)|-|
-|**2025-8-14**|**IADGPT: Unified LVLM for Few-Shot Industrial Anomaly Detection, Localization, and Reasoning via In-Context Learning**|Mengyang Zhao et.al|[paper](https://arxiv.org/abs/2508.10681)|-|-|
 
 ## 3D Anomaly Detection
 
