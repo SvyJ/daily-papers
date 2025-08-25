@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.08.24
+## Updated on 2025.08.25
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-22**|**A Lightweight Group Multiscale Bidirectional Interactive Network for Real-Time Steel Surface Defect Detection**|Yong Zhang et.al|[paper](https://arxiv.org/abs/2508.16397)|[code](https://github.com/zhangyongcode/GMBINet.)|-|
 |**2025-8-15**|**Defects4Log: Benchmarking LLMs for Logging Code Defect Detection and Reasoning**|Xin Wang et.al|[paper](https://arxiv.org/abs/2508.11305)|-|-|
 |**2025-8-14**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2025-8-12**|**Masked Autoencoder Self Pre-Training for Defect Detection in Microelectronics**|Nikolai Röhrich et.al|[paper](https://arxiv.org/abs/2504.10021)|-|-|
@@ -37,7 +38,6 @@
 |**2025-6-16**|**ESRPCB: an Edge guided Super-Resolution model and Ensemble learning for tiny Printed Circuit Board Defect detection**|Xiem HoangVan et.al|[paper](https://arxiv.org/abs/2506.13476)|-|<details><summary>detail</summary>Published in Engineering Applications of Artificial Intelligence</details>|
 |**2025-6-12**|**Deep Learning-based Multi Project InP Wafer Simulation for Unsupervised Surface Defect Detection**|Emílio Dolgener Cantú et.al|[paper](https://arxiv.org/abs/2506.10713)|-|-|
 |**2025-5-23**|**Research on Defect Detection Method of Motor Control Board Based on Image Processing**|Jingde Huang et.al|[paper](https://arxiv.org/abs/2505.17493)|-|-|
-|**2025-5-15**|**Examining the Source of Defects from a Mechanical Perspective for 3D Anomaly Detection**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2505.05901)|[code](https://github.com/hzzzzzhappy/MC4AD)|-|
 
 ## Defect Segmentation
 
@@ -73,11 +73,14 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-22**|**Beyond Human-prompting: Adaptive Prompt Tuning with Semantic Alignment for Anomaly Detection**|Pi-Wei Chen et.al|[paper](https://arxiv.org/abs/2508.16157)|-|-|
+|**2025-8-21**|**Wavelet-Enhanced PaDiM for Industrial Anomaly Detection**|Cory Gardner et.al|[paper](https://arxiv.org/abs/2508.16034)|-|-|
 |**2025-8-21**|**Architectural Co-Design for Zero-Shot Anomaly Detection: Decoupling Representation and Dynamically Fusing Features in CLIP**|Ke Ma et.al|[paper](https://arxiv.org/abs/2508.07819)|-|-|
 |**2025-8-21**|**GRASPED: Graph Anomaly Detection using Autoencoder with Spectral Encoder and Decoder (Full Version)**|Wei Herng Choong et.al|[paper](https://arxiv.org/abs/2508.15633)|-|<details><summary>detail</summary>Full version of the paper accepted for publication at the European Conference on Artificial Intelligence (ECAI 2025)</details>|
 |**2025-8-21**|**Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images**|Jinsol Song et.al|[paper](https://arxiv.org/abs/2508.15256)|-|<details><summary>detail</summary>ICCV 2025</details>|
 |**2025-8-21**|**Pathology-Informed Latent Diffusion Model for Anomaly Detection in Lymph Node Metastasis**|Jiamu Wang et.al|[paper](https://arxiv.org/abs/2508.15236)|[code](https://github.com/QuIIL/AnoPILaD.)|-|
 |**2025-8-20**|**Adaptive Anomaly Detection in Evolving Network Environments**|Ehssan Mousavipour et.al|[paper](https://arxiv.org/abs/2508.15100)|-|-|
+|**2025-8-20**|**Securing Swarms: Cross-Domain Adaptation for ROS2-based CPS Anomaly Detection**|Julia Boone et.al|[paper](https://arxiv.org/abs/2508.15865)|-|<details><summary>detail</summary>Accepted for publication in MILCOM 2025</details>|
 |**2025-8-20**|**Enhanced Anomaly Detection for Capsule Endoscopy Using Ensemble Learning Strategies**|Julia Werner et.al|[paper](https://arxiv.org/abs/2504.06039)|-|<details><summary>detail</summary>the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS EMBC)</details>|
 |**2025-8-20**|**Addressing Graph Anomaly Detection via Causal Edge Separation and Spectrum**|Zengyi Wo et.al|[paper](https://arxiv.org/abs/2508.14684)|-|<details><summary>detail</summary>Proceedings of the 2024 KDD Workshop</details>|
 |**2025-8-20**|**Reconstruction-Free Anomaly Detection with Diffusion Models**|Shunsuke Sakai et.al|[paper](https://arxiv.org/abs/2504.05662)|[code](https://github.com/SkyShunsuke/InversionAD)|<details><summary>detail</summary>Code is available at https://github</details>|
@@ -95,9 +98,6 @@
 |**2025-8-17**|**European Space Agency Benchmark for Anomaly Detection in Satellite Telemetry**|Krzysztof Kotowski et.al|[paper](https://arxiv.org/abs/2406.17826)|-|-|
 |**2025-8-17**|**CRoC: Context Refactoring Contrast for Graph Anomaly Detection with Limited Supervision**|Siyue Xie et.al|[paper](https://arxiv.org/abs/2508.12278)|-|<details><summary>detail</summary>Accepted by ECAI 2025</details>|
 |**2025-8-17**|**On-device Anomaly Detection in Conveyor Belt Operations**|Luciano S. Martinez-Rau et.al|[paper](https://arxiv.org/abs/2411.10729)|-|<details><summary>detail</summary>Preprint submitted to IEEE OPEN JOURNAL OF INSTRUMENTATION & MEASUREMENT</details>|
-|**2025-8-15**|**Unveiling the Unseen: A Comprehensive Survey on Explainable Anomaly Detection in Images and Videos**|Yizhou Wang et.al|[paper](https://arxiv.org/abs/2302.06670)|[code](https://github.com/wyzjack/Awesome-XAD.)|<details><summary>detail</summary>Under review at TPAMI</details>|
-|**2025-8-15**|**From Pixels to Graphs: Deep Graph-Level Anomaly Detection on Dermoscopic Images**|Dehn Xu et.al|[paper](https://arxiv.org/abs/2508.11826)|-|-|
-|**2025-8-15**|**Convolutional Autoencoders for Data Compression and Anomaly Detection in Small Satellite Technologies**|Dishanand Jayeprokash et.al|[paper](https://arxiv.org/abs/2505.00040)|-|-|
 
 ## 3D Anomaly Detection
 
