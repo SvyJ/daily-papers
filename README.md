@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.08.26
+## Updated on 2025.08.27
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-26**|**No Label Left Behind: A Unified Surface Defect Detection Model for all Supervision Regimes**|Blaž Rolih et.al|[paper](https://arxiv.org/abs/2508.19060)|[code](https://github.com/blaz-r/SuperSimpleNet)|<details><summary>detail</summary>Accepted by The Journal of Intelligent Manufacturing</details>|
 |**2025-8-22**|**A Lightweight Group Multiscale Bidirectional Interactive Network for Real-Time Steel Surface Defect Detection**|Yong Zhang et.al|[paper](https://arxiv.org/abs/2508.16397)|[code](https://github.com/zhangyongcode/GMBINet.)|-|
 |**2025-8-15**|**Defects4Log: Benchmarking LLMs for Logging Code Defect Detection and Reasoning**|Xin Wang et.al|[paper](https://arxiv.org/abs/2508.11305)|-|-|
 |**2025-8-14**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
@@ -37,7 +38,6 @@
 |**2025-6-20**|**From Lab to Factory: Pitfalls and Guidelines for Self-/Unsupervised Defect Detection on Low-Quality Industrial Images**|Sebastian Hönel et.al|[paper](https://arxiv.org/abs/2506.16890)|-|-|
 |**2025-6-16**|**ESRPCB: an Edge guided Super-Resolution model and Ensemble learning for tiny Printed Circuit Board Defect detection**|Xiem HoangVan et.al|[paper](https://arxiv.org/abs/2506.13476)|-|<details><summary>detail</summary>Published in Engineering Applications of Artificial Intelligence</details>|
 |**2025-6-12**|**Deep Learning-based Multi Project InP Wafer Simulation for Unsupervised Surface Defect Detection**|Emílio Dolgener Cantú et.al|[paper](https://arxiv.org/abs/2506.10713)|-|-|
-|**2025-5-23**|**Research on Defect Detection Method of Motor Control Board Based on Image Processing**|Jingde Huang et.al|[paper](https://arxiv.org/abs/2505.17493)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-26**|**HOTSPOT-YOLO: A Lightweight Deep Learning Attention-Driven Model for Detecting Thermal Anomalies in Drone-Based Solar Photovoltaic Inspections**|Mahmoud Dhimish et.al|[paper](https://arxiv.org/abs/2508.18912)|-|-|
+|**2025-8-26**|**Finding Outliers in a Haystack: Anomaly Detection for Large Pointcloud Scenes**|Ryan Faulkner et.al|[paper](https://arxiv.org/abs/2508.17634)|-|<details><summary>detail</summary>arXiv Preprint</details>|
+|**2025-8-25**|**DRTA: Dynamic Reward Scaling for Reinforcement Learning in Time Series Anomaly Detection**|Bahareh Golchin et.al|[paper](https://arxiv.org/abs/2508.18474)|-|-|
+|**2025-8-25**|**Context-Aware Zero-Shot Anomaly Detection in Surveillance Using Contrastive and Predictive Spatiotemporal Modeling**|Md. Rashid Shahriar Khan et.al|[paper](https://arxiv.org/abs/2508.18463)|[code](https://github.com/NK-II/Context-Aware-ZeroShot-Anomaly-Detection-in-Surveillance.)|-|
 |**2025-8-25**|**Architectural Co-Design for Zero-Shot Anomaly Detection: Decoupling Representation and Dynamically Fusing Features in CLIP**|Ke Ma et.al|[paper](https://arxiv.org/abs/2508.07819)|-|-|
 |**2025-8-25**|**Towards Continual Visual Anomaly Detection in the Medical Domain**|Manuel Barusco et.al|[paper](https://arxiv.org/abs/2508.18013)|-|-|
 |**2025-8-25**|**Fence off Anomaly Interference: Cross-Domain Distillation for Fully Unsupervised Anomaly Detection**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2508.18007)|-|-|
@@ -82,7 +86,6 @@
 |**2025-8-25**|**Robust Anomaly Detection in Industrial Environments via Meta-Learning**|Muhammad Aqeel et.al|[paper](https://arxiv.org/abs/2508.17789)|-|<details><summary>detail</summary>VISION Workshop at ICCV 2025</details>|
 |**2025-8-25**|**Few-shot Human Action Anomaly Detection via a Unified Contrastive Learning Framework**|Koichiro Kamide et.al|[paper](https://arxiv.org/abs/2508.17726)|-|-|
 |**2025-8-25**|**Enabling Deep Visibility into VxWorks-Based Embedded Controllers in Cyber-Physical Systems for Anomaly Detection**|Prashanth Krishnamurthy et.al|[paper](https://arxiv.org/abs/2504.17875)|-|-|
-|**2025-8-24**|**Finding Outliers in a Haystack: Anomaly Detection for Large Pointcloud Scenes**|Ryan Faulkner et.al|[paper](https://arxiv.org/abs/2508.17634)|-|<details><summary>detail</summary>arXiv Preprint</details>|
 |**2025-8-23**|**A Photorealistic Dataset and Vision-Based Algorithm for Anomaly Detection During Proximity Operations in Lunar Orbit**|Selina Leveugle et.al|[paper](https://arxiv.org/abs/2409.20435)|-|-|
 |**2025-8-22**|**Beyond Human-prompting: Adaptive Prompt Tuning with Semantic Alignment for Anomaly Detection**|Pi-Wei Chen et.al|[paper](https://arxiv.org/abs/2508.16157)|-|-|
 |**2025-8-21**|**Wavelet-Enhanced PaDiM for Industrial Anomaly Detection**|Cory Gardner et.al|[paper](https://arxiv.org/abs/2508.16034)|-|-|
@@ -95,9 +98,6 @@
 |**2025-8-20**|**Addressing Graph Anomaly Detection via Causal Edge Separation and Spectrum**|Zengyi Wo et.al|[paper](https://arxiv.org/abs/2508.14684)|-|<details><summary>detail</summary>Proceedings of the 2024 KDD Workshop</details>|
 |**2025-8-20**|**Reconstruction-Free Anomaly Detection with Diffusion Models**|Shunsuke Sakai et.al|[paper](https://arxiv.org/abs/2504.05662)|[code](https://github.com/SkyShunsuke/InversionAD)|<details><summary>detail</summary>Code is available at https://github</details>|
 |**2025-8-20**|**PB-IAD: Utilizing multimodal foundation models for semantic industrial anomaly detection in dynamic manufacturing environments**|Bernd Hofmann et.al|[paper](https://arxiv.org/abs/2508.14504)|-|-|
-|**2025-8-19**|**A Survey on Video Anomaly Detection via Deep Learning: Human, Vehicle, and Environment**|Ghazal Alinezhad Noghre et.al|[paper](https://arxiv.org/abs/2508.14203)|-|-|
-|**2025-8-19**|**Topological Data Analysis for Unsupervised Anomaly Detection and Customer Segmentation on Banking Data**|Leonardo Aldo Alejandro Barberi et.al|[paper](https://arxiv.org/abs/2508.14136)|-|-|
-|**2025-8-19**|**Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2507.09214)|[code](https://github.com/shiyi-mu/S3AD-Code).)|<details><summary>detail</summary>under review</details>|
 
 ## 3D Anomaly Detection
 
