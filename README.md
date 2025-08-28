@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.08.27
+## Updated on 2025.08.28
 
 ## Defect Detection
 
@@ -73,10 +73,14 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-27**|**Anomaly Detection in Networked Bandits**|Xiaotong Cheng et.al|[paper](https://arxiv.org/abs/2508.20076)|-|-|
+|**2025-8-27**|**Context-Aware Zero-Shot Anomaly Detection in Surveillance Using Contrastive and Predictive Spatiotemporal Modeling**|Md. Rashid Shahriar Khan et.al|[paper](https://arxiv.org/abs/2508.18463)|[code](https://github.com/NK-II/Context-Aware-Zero-Shot-Anomaly-Detection-in-Surveillance.)|-|
+|**2025-8-27**|**Topological Uncertainty for Anomaly Detection in the Neural-network EoS Inference with Neutron Star Data**|Kenji Fukushima et.al|[paper](https://arxiv.org/abs/2508.19683)|-|-|
+|**2025-8-27**|**DNP-Guided Contrastive Reconstruction with a Reverse Distillation Transformer for Medical Anomaly Detection**|Luhu Li et.al|[paper](https://arxiv.org/abs/2508.19573)|-|-|
+|**2025-8-26**|**CITADEL: Continual Anomaly Detection for Enhanced Learning in IoT Intrusion Detection**|Elvin Li et.al|[paper](https://arxiv.org/abs/2508.19450)|-|<details><summary>detail</summary>Under review at IEEE IoTJ</details>|
 |**2025-8-26**|**HOTSPOT-YOLO: A Lightweight Deep Learning Attention-Driven Model for Detecting Thermal Anomalies in Drone-Based Solar Photovoltaic Inspections**|Mahmoud Dhimish et.al|[paper](https://arxiv.org/abs/2508.18912)|-|-|
 |**2025-8-26**|**Finding Outliers in a Haystack: Anomaly Detection for Large Pointcloud Scenes**|Ryan Faulkner et.al|[paper](https://arxiv.org/abs/2508.17634)|-|<details><summary>detail</summary>arXiv Preprint</details>|
 |**2025-8-25**|**DRTA: Dynamic Reward Scaling for Reinforcement Learning in Time Series Anomaly Detection**|Bahareh Golchin et.al|[paper](https://arxiv.org/abs/2508.18474)|-|-|
-|**2025-8-25**|**Context-Aware Zero-Shot Anomaly Detection in Surveillance Using Contrastive and Predictive Spatiotemporal Modeling**|Md. Rashid Shahriar Khan et.al|[paper](https://arxiv.org/abs/2508.18463)|[code](https://github.com/NK-II/Context-Aware-ZeroShot-Anomaly-Detection-in-Surveillance.)|-|
 |**2025-8-25**|**Architectural Co-Design for Zero-Shot Anomaly Detection: Decoupling Representation and Dynamically Fusing Features in CLIP**|Ke Ma et.al|[paper](https://arxiv.org/abs/2508.07819)|-|-|
 |**2025-8-25**|**Towards Continual Visual Anomaly Detection in the Medical Domain**|Manuel Barusco et.al|[paper](https://arxiv.org/abs/2508.18013)|-|-|
 |**2025-8-25**|**Fence off Anomaly Interference: Cross-Domain Distillation for Fully Unsupervised Anomaly Detection**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2508.18007)|-|-|
@@ -94,10 +98,6 @@
 |**2025-8-21**|**Pathology-Informed Latent Diffusion Model for Anomaly Detection in Lymph Node Metastasis**|Jiamu Wang et.al|[paper](https://arxiv.org/abs/2508.15236)|[code](https://github.com/QuIIL/AnoPILaD.)|-|
 |**2025-8-20**|**Adaptive Anomaly Detection in Evolving Network Environments**|Ehssan Mousavipour et.al|[paper](https://arxiv.org/abs/2508.15100)|-|-|
 |**2025-8-20**|**Securing Swarms: Cross-Domain Adaptation for ROS2-based CPS Anomaly Detection**|Julia Boone et.al|[paper](https://arxiv.org/abs/2508.15865)|-|<details><summary>detail</summary>Accepted for publication in MILCOM 2025</details>|
-|**2025-8-20**|**Enhanced Anomaly Detection for Capsule Endoscopy Using Ensemble Learning Strategies**|Julia Werner et.al|[paper](https://arxiv.org/abs/2504.06039)|-|<details><summary>detail</summary>the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS EMBC)</details>|
-|**2025-8-20**|**Addressing Graph Anomaly Detection via Causal Edge Separation and Spectrum**|Zengyi Wo et.al|[paper](https://arxiv.org/abs/2508.14684)|-|<details><summary>detail</summary>Proceedings of the 2024 KDD Workshop</details>|
-|**2025-8-20**|**Reconstruction-Free Anomaly Detection with Diffusion Models**|Shunsuke Sakai et.al|[paper](https://arxiv.org/abs/2504.05662)|[code](https://github.com/SkyShunsuke/InversionAD)|<details><summary>detail</summary>Code is available at https://github</details>|
-|**2025-8-20**|**PB-IAD: Utilizing multimodal foundation models for semantic industrial anomaly detection in dynamic manufacturing environments**|Bernd Hofmann et.al|[paper](https://arxiv.org/abs/2508.14504)|-|-|
 
 ## 3D Anomaly Detection
 
