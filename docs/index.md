@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.08.28
+## Updated on 2025.08.29
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-28**|**RANGAN: GAN-empowered Anomaly Detection in 5G Cloud RAN**|Douglas Liao et.al|[paper](https://arxiv.org/abs/2508.20985)|-|<details><summary>detail</summary>Accepted for presentation in the 2025 IEEE Conference on Standards for Communications and Networking (CSCN)</details>|
+|**2025-8-28**|**ATM-GAD: Adaptive Temporal Motif Graph Anomaly Detection for Financial Transaction Networks**|Zeyue Zhang et.al|[paper](https://arxiv.org/abs/2508.20829)|-|-|
+|**2025-8-28**|**IAENet: An Importance-Aware Ensemble Model for 3D Point Cloud-Based Anomaly Detection**|Xuanming Cao et.al|[paper](https://arxiv.org/abs/2508.20492)|-|-|
 |**2025-8-27**|**Anomaly Detection in Networked Bandits**|Xiaotong Cheng et.al|[paper](https://arxiv.org/abs/2508.20076)|-|-|
 |**2025-8-27**|**Context-Aware Zero-Shot Anomaly Detection in Surveillance Using Contrastive and Predictive Spatiotemporal Modeling**|Md. Rashid Shahriar Khan et.al|[paper](https://arxiv.org/abs/2508.18463)|[code](https://github.com/NK-II/Context-Aware-Zero-Shot-Anomaly-Detection-in-Surveillance.)|-|
 |**2025-8-27**|**Topological Uncertainty for Anomaly Detection in the Neural-network EoS Inference with Neutron Star Data**|Kenji Fukushima et.al|[paper](https://arxiv.org/abs/2508.19683)|-|-|
@@ -95,14 +98,12 @@
 |**2025-8-21**|**Wavelet-Enhanced PaDiM for Industrial Anomaly Detection**|Cory Gardner et.al|[paper](https://arxiv.org/abs/2508.16034)|-|-|
 |**2025-8-21**|**GRASPED: Graph Anomaly Detection using Autoencoder with Spectral Encoder and Decoder (Full Version)**|Wei Herng Choong et.al|[paper](https://arxiv.org/abs/2508.15633)|-|<details><summary>detail</summary>Full version of the paper accepted for publication at the European Conference on Artificial Intelligence (ECAI 2025)</details>|
 |**2025-8-21**|**Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images**|Jinsol Song et.al|[paper](https://arxiv.org/abs/2508.15256)|-|<details><summary>detail</summary>ICCV 2025</details>|
-|**2025-8-21**|**Pathology-Informed Latent Diffusion Model for Anomaly Detection in Lymph Node Metastasis**|Jiamu Wang et.al|[paper](https://arxiv.org/abs/2508.15236)|[code](https://github.com/QuIIL/AnoPILaD.)|-|
-|**2025-8-20**|**Adaptive Anomaly Detection in Evolving Network Environments**|Ehssan Mousavipour et.al|[paper](https://arxiv.org/abs/2508.15100)|-|-|
-|**2025-8-20**|**Securing Swarms: Cross-Domain Adaptation for ROS2-based CPS Anomaly Detection**|Julia Boone et.al|[paper](https://arxiv.org/abs/2508.15865)|-|<details><summary>detail</summary>Accepted for publication in MILCOM 2025</details>|
 
 ## 3D Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-28**|**IAENet: An Importance-Aware Ensemble Model for 3D Point Cloud-Based Anomaly Detection**|Xuanming Cao et.al|[paper](https://arxiv.org/abs/2508.20492)|-|-|
 |**2025-8-19**|**Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2507.09214)|[code](https://github.com/shiyi-mu/S3AD-Code).)|<details><summary>detail</summary>under review</details>|
 |**2025-8-2**|**C3D-AD: Toward Continual 3D Anomaly Detection via Kernel Attention with Learnable Advisor**|Haoquan Lu et.al|[paper](https://arxiv.org/abs/2508.01311)|[code](https://github.com/hzzzzzhappy/CL3AD)|<details><summary>detail</summary>We have provided the code for C3D-AD with checkpoints and BASELINE at this link: https://github</details>|
 |**2025-8-1**|**SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark**|Alex Costanzino et.al|[paper](https://arxiv.org/abs/2506.21549)|[code](https://alex-costanzino.github.io/SiM3D/)|<details><summary>detail</summary>ICCV 2025</details>|
@@ -127,7 +128,6 @@
 |**2025-2-16**|**Exploiting Point-Language Models with Dual-Prompts for 3D Anomaly Detection**|Jiaxiang Wang et.al|[paper](https://arxiv.org/abs/2502.11307)|-|-|
 |**2025-2-9**|**A 3D Multimodal Feature for Infrastructure Anomaly Detection**|Yixiong Jing et.al|[paper](https://arxiv.org/abs/2502.05779)|[code](https://github.com/Jingyixiong/3D-Multi-FPFHI.)|-|
 |**2024-12-23**|**Revisiting Multimodal Fusion for 3D Anomaly Detection from an Architectural Perspective**|Kaifang Long et.al|[paper](https://arxiv.org/abs/2412.17297)|-|-|
-|**2024-12-22**|**PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2410.00320)|-|<details><summary>detail</summary>NeurIPS 2024</details>|
 
 ## Multimodal Anomaly Detection
 
