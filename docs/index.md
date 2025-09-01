@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.08.31
+## Updated on 2025.09.01
 
 ## Defect Detection
 
@@ -73,6 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-8-29**|**TMUAD: Enhancing Logical Capabilities in Unified Anomaly Detection Models with a Text Memory Bank**|Jiawei Liu et.al|[paper](https://arxiv.org/abs/2508.21795)|[code](https://github.com/SIA-IDE/TMUAD.)|-|
+|**2025-8-29**|**Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing**|Chanh Nguyen et.al|[paper](https://arxiv.org/abs/2507.04969)|-|-|
+|**2025-8-29**|**Quantum enhanced ensemble GANs for anomaly detection in continuous biomanufacturing**|Rajiv Kailasanathan et.al|[paper](https://arxiv.org/abs/2508.21438)|-|-|
+|**2025-8-28**|**CALM: A Framework for Continuous, Adaptive, and LLM-Mediated Anomaly Detection in Time-Series Streams**|Ashok Devireddy et.al|[paper](https://arxiv.org/abs/2508.21273)|-|-|
+|**2025-8-28**|**Automating the Deep Space Network Data Systems; A Case Study in Adaptive Anomaly Detection through Agentic AI**|Evan J. Chou et.al|[paper](https://arxiv.org/abs/2508.21111)|-|<details><summary>detail</summary>ACM Class:I</details>|
 |**2025-8-28**|**RANGAN: GAN-empowered Anomaly Detection in 5G Cloud RAN**|Douglas Liao et.al|[paper](https://arxiv.org/abs/2508.20985)|-|<details><summary>detail</summary>Accepted for presentation in the 2025 IEEE Conference on Standards for Communications and Networking (CSCN)</details>|
 |**2025-8-28**|**ATM-GAD: Adaptive Temporal Motif Graph Anomaly Detection for Financial Transaction Networks**|Zeyue Zhang et.al|[paper](https://arxiv.org/abs/2508.20829)|-|-|
 |**2025-8-28**|**IAENet: An Importance-Aware Ensemble Model for 3D Point Cloud-Based Anomaly Detection**|Xuanming Cao et.al|[paper](https://arxiv.org/abs/2508.20492)|-|-|
@@ -83,7 +88,7 @@
 |**2025-8-26**|**CITADEL: Continual Anomaly Detection for Enhanced Learning in IoT Intrusion Detection**|Elvin Li et.al|[paper](https://arxiv.org/abs/2508.19450)|-|<details><summary>detail</summary>Under review at IEEE IoTJ</details>|
 |**2025-8-26**|**HOTSPOT-YOLO: A Lightweight Deep Learning Attention-Driven Model for Detecting Thermal Anomalies in Drone-Based Solar Photovoltaic Inspections**|Mahmoud Dhimish et.al|[paper](https://arxiv.org/abs/2508.18912)|-|-|
 |**2025-8-26**|**Finding Outliers in a Haystack: Anomaly Detection for Large Pointcloud Scenes**|Ryan Faulkner et.al|[paper](https://arxiv.org/abs/2508.17634)|-|<details><summary>detail</summary>arXiv Preprint</details>|
-|**2025-8-25**|**DRTA: Dynamic Reward Scaling for Reinforcement Learning in Time Series Anomaly Detection**|Bahareh Golchin et.al|[paper](https://arxiv.org/abs/2508.18474)|-|-|
+|**2025-8-25**|**DRTA: Dynamic Reward Scaling for Reinforcement Learning in Time Series Anomaly Detection**|Bahareh Golchin et.al|[paper](https://arxiv.org/abs/2508.18474)|-|<details><summary>detail</summary>Journal ref:IEEE 2025 Conference on AI</details>|
 |**2025-8-25**|**Architectural Co-Design for Zero-Shot Anomaly Detection: Decoupling Representation and Dynamically Fusing Features in CLIP**|Ke Ma et.al|[paper](https://arxiv.org/abs/2508.07819)|-|-|
 |**2025-8-25**|**Towards Continual Visual Anomaly Detection in the Medical Domain**|Manuel Barusco et.al|[paper](https://arxiv.org/abs/2508.18013)|-|-|
 |**2025-8-25**|**Fence off Anomaly Interference: Cross-Domain Distillation for Fully Unsupervised Anomaly Detection**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2508.18007)|-|-|
@@ -93,11 +98,6 @@
 |**2025-8-25**|**Robust Anomaly Detection in Industrial Environments via Meta-Learning**|Muhammad Aqeel et.al|[paper](https://arxiv.org/abs/2508.17789)|-|<details><summary>detail</summary>VISION Workshop at ICCV 2025</details>|
 |**2025-8-25**|**Few-shot Human Action Anomaly Detection via a Unified Contrastive Learning Framework**|Koichiro Kamide et.al|[paper](https://arxiv.org/abs/2508.17726)|-|-|
 |**2025-8-25**|**Enabling Deep Visibility into VxWorks-Based Embedded Controllers in Cyber-Physical Systems for Anomaly Detection**|Prashanth Krishnamurthy et.al|[paper](https://arxiv.org/abs/2504.17875)|-|-|
-|**2025-8-23**|**A Photorealistic Dataset and Vision-Based Algorithm for Anomaly Detection During Proximity Operations in Lunar Orbit**|Selina Leveugle et.al|[paper](https://arxiv.org/abs/2409.20435)|-|-|
-|**2025-8-22**|**Beyond Human-prompting: Adaptive Prompt Tuning with Semantic Alignment for Anomaly Detection**|Pi-Wei Chen et.al|[paper](https://arxiv.org/abs/2508.16157)|-|-|
-|**2025-8-21**|**Wavelet-Enhanced PaDiM for Industrial Anomaly Detection**|Cory Gardner et.al|[paper](https://arxiv.org/abs/2508.16034)|-|-|
-|**2025-8-21**|**GRASPED: Graph Anomaly Detection using Autoencoder with Spectral Encoder and Decoder (Full Version)**|Wei Herng Choong et.al|[paper](https://arxiv.org/abs/2508.15633)|-|<details><summary>detail</summary>Full version of the paper accepted for publication at the European Conference on Artificial Intelligence (ECAI 2025)</details>|
-|**2025-8-21**|**Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images**|Jinsol Song et.al|[paper](https://arxiv.org/abs/2508.15256)|-|<details><summary>detail</summary>ICCV 2025</details>|
 
 ## 3D Anomaly Detection
 
