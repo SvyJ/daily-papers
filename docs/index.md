@@ -7,12 +7,14 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.09.02
+## Updated on 2025.09.03
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-1**|**TransMatch: A Transfer-Learning Framework for Defect Detection in Laser Powder Bed Fusion Additive Manufacturing**|Mohsen Asghari Ilani et.al|[paper](https://arxiv.org/abs/2509.01754)|-|-|
+|**2025-8-31**|**Surface Defect Detection with Gabor Filter Using Reconstruction-Based Blurring U-Net-ViT**|Jongwook Si et.al|[paper](https://arxiv.org/abs/2509.00827)|-|-|
 |**2025-8-26**|**No Label Left Behind: A Unified Surface Defect Detection Model for all Supervision Regimes**|Blaž Rolih et.al|[paper](https://arxiv.org/abs/2508.19060)|[code](https://github.com/blaz-r/SuperSimpleNet)|<details><summary>detail</summary>Accepted by The Journal of Intelligent Manufacturing</details>|
 |**2025-8-22**|**A Lightweight Group Multiscale Bidirectional Interactive Network for Real-Time Steel Surface Defect Detection**|Yong Zhang et.al|[paper](https://arxiv.org/abs/2508.16397)|[code](https://github.com/zhangyongcode/GMBINet.)|-|
 |**2025-8-15**|**Defects4Log: Benchmarking LLMs for Logging Code Defect Detection and Reasoning**|Xin Wang et.al|[paper](https://arxiv.org/abs/2508.11305)|-|-|
@@ -36,8 +38,6 @@
 |**2025-6-26**|**YOLO-FDA: Integrating Hierarchical Attention and Detail Enhancement for Surface Defect Detection**|Jiawei Hu et.al|[paper](https://arxiv.org/abs/2506.21135)|-|-|
 |**2025-6-24**|**Evolutionary computing-based image segmentation method to detect defects and features in Additive Friction Stir Deposition Process**|Akshansh Mishra et.al|[paper](https://arxiv.org/abs/2507.00046)|-|-|
 |**2025-6-20**|**From Lab to Factory: Pitfalls and Guidelines for Self-/Unsupervised Defect Detection on Low-Quality Industrial Images**|Sebastian Hönel et.al|[paper](https://arxiv.org/abs/2506.16890)|-|-|
-|**2025-6-16**|**ESRPCB: an Edge guided Super-Resolution model and Ensemble learning for tiny Printed Circuit Board Defect detection**|Xiem HoangVan et.al|[paper](https://arxiv.org/abs/2506.13476)|-|<details><summary>detail</summary>Published in Engineering Applications of Artificial Intelligence</details>|
-|**2025-6-12**|**Deep Learning-based Multi Project InP Wafer Simulation for Unsupervised Surface Defect Detection**|Emílio Dolgener Cantú et.al|[paper](https://arxiv.org/abs/2506.10713)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,14 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-2**|**SALAD -- Semantics-Aware Logical Anomaly Detection**|Matic Fučka et.al|[paper](https://arxiv.org/abs/2509.02101)|[code](https://github.com/MaticFuc/SALAD)|<details><summary>detail</summary>ICCV 2025</details>|
+|**2025-9-1**|**Robust Anomaly Detection through Multi-Modal Autoencoder Fusion for Small Vehicle Damage Detection**|Sara Khan et.al|[paper](https://arxiv.org/abs/2509.01719)|-|-|
+|**2025-9-1**|**Unsupervised Identification and Replay-based Detection (UIRD) for New Category Anomaly Detection in ECG Signal**|Zhangyue Shi et.al|[paper](https://arxiv.org/abs/2509.01512)|-|-|
+|**2025-9-1**|**Anomaly detection in network flows using unsupervised online machine learning**|Alberto Miguel-Diez et.al|[paper](https://arxiv.org/abs/2509.01375)|-|-|
+|**2025-9-1**|**ACD-CLIP: Decoupling Representation and Dynamic Fusion for Zero-Shot Anomaly Detection**|Ke Ma et.al|[paper](https://arxiv.org/abs/2508.07819)|-|-|
+|**2025-9-1**|**Simplifying Traffic Anomaly Detection with Video Foundation Models**|Svetlana Orlova et.al|[paper](https://arxiv.org/abs/2507.09338)|[code](https://github.com/tue-mps/simple-tad.)|<details><summary>detail</summary>ICCVW 2025 accepted</details>|
+|**2025-8-31**|**CCE: Confidence-Consistency Evaluation for Time Series Anomaly Detection**|Zhijie Zhong et.al|[paper](https://arxiv.org/abs/2509.01098)|-|-|
+|**2025-8-30**|**Tighten The Lasso: A Convex Hull Volume-based Anomaly Detection Method**|Uri Itai et.al|[paper](https://arxiv.org/abs/2502.18601)|-|-|
 |**2025-8-29**|**TMUAD: Enhancing Logical Capabilities in Unified Anomaly Detection Models with a Text Memory Bank**|Jiawei Liu et.al|[paper](https://arxiv.org/abs/2508.21795)|[code](https://github.com/SIA-IDE/TMUAD.)|-|
 |**2025-8-29**|**Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing**|Chanh Nguyen et.al|[paper](https://arxiv.org/abs/2507.04969)|-|-|
 |**2025-8-29**|**Quantum enhanced ensemble GANs for anomaly detection in continuous biomanufacturing**|Rajiv Kailasanathan et.al|[paper](https://arxiv.org/abs/2508.21438)|-|-|
@@ -86,18 +94,10 @@
 |**2025-8-27**|**Topological Uncertainty for Anomaly Detection in the Neural-network EoS Inference with Neutron Star Data**|Kenji Fukushima et.al|[paper](https://arxiv.org/abs/2508.19683)|-|-|
 |**2025-8-27**|**DNP-Guided Contrastive Reconstruction with a Reverse Distillation Transformer for Medical Anomaly Detection**|Luhu Li et.al|[paper](https://arxiv.org/abs/2508.19573)|-|-|
 |**2025-8-26**|**CITADEL: Continual Anomaly Detection for Enhanced Learning in IoT Intrusion Detection**|Elvin Li et.al|[paper](https://arxiv.org/abs/2508.19450)|-|<details><summary>detail</summary>Under review at IEEE IoTJ</details>|
+|**2025-8-26**|**AnomalyExplainer Explainable AI for LLM-based anomaly detection using BERTViz and Captum**|Prasasthy Balasubramanian et.al|[paper](https://arxiv.org/abs/2509.00069)|-|-|
 |**2025-8-26**|**HOTSPOT-YOLO: A Lightweight Deep Learning Attention-Driven Model for Detecting Thermal Anomalies in Drone-Based Solar Photovoltaic Inspections**|Mahmoud Dhimish et.al|[paper](https://arxiv.org/abs/2508.18912)|-|-|
 |**2025-8-26**|**Finding Outliers in a Haystack: Anomaly Detection for Large Pointcloud Scenes**|Ryan Faulkner et.al|[paper](https://arxiv.org/abs/2508.17634)|-|<details><summary>detail</summary>arXiv Preprint</details>|
 |**2025-8-25**|**DRTA: Dynamic Reward Scaling for Reinforcement Learning in Time Series Anomaly Detection**|Bahareh Golchin et.al|[paper](https://arxiv.org/abs/2508.18474)|-|<details><summary>detail</summary>Journal ref:IEEE 2025 Conference on AI</details>|
-|**2025-8-25**|**Architectural Co-Design for Zero-Shot Anomaly Detection: Decoupling Representation and Dynamically Fusing Features in CLIP**|Ke Ma et.al|[paper](https://arxiv.org/abs/2508.07819)|-|-|
-|**2025-8-25**|**Towards Continual Visual Anomaly Detection in the Medical Domain**|Manuel Barusco et.al|[paper](https://arxiv.org/abs/2508.18013)|-|-|
-|**2025-8-25**|**Fence off Anomaly Interference: Cross-Domain Distillation for Fully Unsupervised Anomaly Detection**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2508.18007)|-|-|
-|**2025-8-25**|**A Contrastive Learning-Guided Confident Meta-learning for Zero Shot Anomaly Detection**|Muhammad Aqeel et.al|[paper](https://arxiv.org/abs/2508.17827)|-|<details><summary>detail</summary>VISION Workshop at ICCV 2025</details>|
-|**2025-8-25**|**Artificial Intelligence-Based Multiscale Temporal Modeling for Anomaly Detection in Cloud Services**|Lian Lian et.al|[paper](https://arxiv.org/abs/2508.14503)|-|-|
-|**2025-8-25**|**Using Visual Anomaly Detection for Task Execution Monitoring**|Santosh Thoduka et.al|[paper](https://arxiv.org/abs/2107.14206)|-|<details><summary>detail</summary>Accepted for publication at the 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</details>|
-|**2025-8-25**|**Robust Anomaly Detection in Industrial Environments via Meta-Learning**|Muhammad Aqeel et.al|[paper](https://arxiv.org/abs/2508.17789)|-|<details><summary>detail</summary>VISION Workshop at ICCV 2025</details>|
-|**2025-8-25**|**Few-shot Human Action Anomaly Detection via a Unified Contrastive Learning Framework**|Koichiro Kamide et.al|[paper](https://arxiv.org/abs/2508.17726)|-|-|
-|**2025-8-25**|**Enabling Deep Visibility into VxWorks-Based Embedded Controllers in Cyber-Physical Systems for Anomaly Detection**|Prashanth Krishnamurthy et.al|[paper](https://arxiv.org/abs/2504.17875)|-|-|
 
 ## 3D Anomaly Detection
 
