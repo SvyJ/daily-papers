@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.09.04
+## Updated on 2025.09.05
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-4**|**YOLO Ensemble for UAV-based Multispectral Defect Detection in Wind Turbine Components**|Serhii Svystun et.al|[paper](https://arxiv.org/abs/2509.04156)|-|<details><summary>detail</summary>The 13th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications</details>|
 |**2025-9-3**|**Joint Training of Image Generator and Detector for Road Defect Detection**|Kuan-Chuan Peng et.al|[paper](https://arxiv.org/abs/2509.03465)|-|<details><summary>detail</summary>This paper is accepted to ICCV 2025 Workshop on Representation Learning with Very Limited Resources: When Data</details>|
 |**2025-9-2**|**Resilient Multimodal Industrial Surface Defect Detection with Uncertain Sensors Availability**|Shuai Jiang et.al|[paper](https://arxiv.org/abs/2509.02962)|[code](https://github.com/SvyJ/MISDD-MM.)|<details><summary>detail</summary>IEEE/ASME Transactions on Mechatronics</details>|
 |**2025-9-1**|**TransMatch: A Transfer-Learning Framework for Defect Detection in Laser Powder Bed Fusion Additive Manufacturing**|Mohsen Asghari Ilani et.al|[paper](https://arxiv.org/abs/2509.01754)|-|-|
@@ -37,7 +38,6 @@
 |**2025-7-7**|**Semi-Supervised Defect Detection via Conditional Diffusion and CLIP-Guided Noise Filtering**|Shuai Li et.al|[paper](https://arxiv.org/abs/2507.05588)|[code](https://github.com/cLin-c/Semisupervised-DSYM.)|-|
 |**2025-7-4**|**MRC-DETR: An Adaptive Multi-Residual Coupled Transformer for Bare Board PCB Defect Detection**|Jiangzhong Cao et.al|[paper](https://arxiv.org/abs/2507.03386)|-|-|
 |**2025-6-30**|**VR-YOLO: Enhancing PCB Defect Detection with Viewpoint Robustness Based on YOLO**|Hengyi Zhu et.al|[paper](https://arxiv.org/abs/2507.02963)|-|-|
-|**2025-6-26**|**YOLO-FDA: Integrating Hierarchical Attention and Detail Enhancement for Surface Defect Detection**|Jiawei Hu et.al|[paper](https://arxiv.org/abs/2506.21135)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-4**|**Efficient Odd-One-Out Anomaly Detection**|Silvio Chito et.al|[paper](https://arxiv.org/abs/2509.04326)|[code](https://silviochito.github.io/EfficientOddOneOut/)|<details><summary>detail</summary>ICIAP 2025</details>|
+|**2025-9-4**|**Federated Isolation Forest for Efficient Anomaly Detection on Edge IoT Systems**|Pavle Vasiljevic et.al|[paper](https://arxiv.org/abs/2506.05138)|-|-|
 |**2025-9-3**|**Machine Learning-Driven Anomaly Detection for 5G O-RAN Performance Metrics**|Babak Azkaei et.al|[paper](https://arxiv.org/abs/2509.03290)|-|-|
 |**2025-9-3**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
 |**2025-9-3**|**Sequential keypoint density estimator: an overlooked baseline of skeleton-based video anomaly detection**|Anja Delić et.al|[paper](https://arxiv.org/abs/2506.18368)|-|<details><summary>detail</summary>ICCV 2025 Highlight</details>|
@@ -96,8 +98,6 @@
 |**2025-8-27**|**Anomaly Detection in Networked Bandits**|Xiaotong Cheng et.al|[paper](https://arxiv.org/abs/2508.20076)|-|-|
 |**2025-8-27**|**Context-Aware Zero-Shot Anomaly Detection in Surveillance Using Contrastive and Predictive Spatiotemporal Modeling**|Md. Rashid Shahriar Khan et.al|[paper](https://arxiv.org/abs/2508.18463)|[code](https://github.com/NK-II/Context-Aware-Zero-Shot-Anomaly-Detection-in-Surveillance.)|-|
 |**2025-8-27**|**Topological Uncertainty for Anomaly Detection in the Neural-network EoS Inference with Neutron Star Data**|Kenji Fukushima et.al|[paper](https://arxiv.org/abs/2508.19683)|-|-|
-|**2025-8-27**|**DNP-Guided Contrastive Reconstruction with a Reverse Distillation Transformer for Medical Anomaly Detection**|Luhu Li et.al|[paper](https://arxiv.org/abs/2508.19573)|-|-|
-|**2025-8-26**|**CITADEL: Continual Anomaly Detection for Enhanced Learning in IoT Intrusion Detection**|Elvin Li et.al|[paper](https://arxiv.org/abs/2508.19450)|-|<details><summary>detail</summary>Under review at IEEE IoTJ</details>|
 
 ## 3D Anomaly Detection
 
