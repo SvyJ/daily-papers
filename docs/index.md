@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.09.05
+## Updated on 2025.09.06
 
 ## Defect Detection
 
