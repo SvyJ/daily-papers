@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.09.07
+## Updated on 2025.09.08
 
 ## Defect Detection
 
@@ -73,6 +73,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-5**|**Towards Efficient Pixel Labeling for Industrial Anomaly Detection and Localization**|Jingqi Wu et.al|[paper](https://arxiv.org/abs/2509.05034)|-|-|
+|**2025-9-5**|**Adversarial Augmentation and Active Sampling for Robust Cyber Anomaly Detection**|Sidahmed Benabderrahmane et.al|[paper](https://arxiv.org/abs/2509.04999)|-|-|
 |**2025-9-4**|**Efficient Odd-One-Out Anomaly Detection**|Silvio Chito et.al|[paper](https://arxiv.org/abs/2509.04326)|[code](https://silviochito.github.io/EfficientOddOneOut/)|<details><summary>detail</summary>ICIAP 2025</details>|
 |**2025-9-4**|**Federated Isolation Forest for Efficient Anomaly Detection on Edge IoT Systems**|Pavle Vasiljevic et.al|[paper](https://arxiv.org/abs/2506.05138)|-|-|
 |**2025-9-3**|**Machine Learning-Driven Anomaly Detection for 5G O-RAN Performance Metrics**|Babak Azkaei et.al|[paper](https://arxiv.org/abs/2509.03290)|-|-|
@@ -96,8 +98,6 @@
 |**2025-8-28**|**ATM-GAD: Adaptive Temporal Motif Graph Anomaly Detection for Financial Transaction Networks**|Zeyue Zhang et.al|[paper](https://arxiv.org/abs/2508.20829)|-|-|
 |**2025-8-28**|**IAENet: An Importance-Aware Ensemble Model for 3D Point Cloud-Based Anomaly Detection**|Xuanming Cao et.al|[paper](https://arxiv.org/abs/2508.20492)|-|-|
 |**2025-8-27**|**Anomaly Detection in Networked Bandits**|Xiaotong Cheng et.al|[paper](https://arxiv.org/abs/2508.20076)|-|-|
-|**2025-8-27**|**Context-Aware Zero-Shot Anomaly Detection in Surveillance Using Contrastive and Predictive Spatiotemporal Modeling**|Md. Rashid Shahriar Khan et.al|[paper](https://arxiv.org/abs/2508.18463)|[code](https://github.com/NK-II/Context-Aware-Zero-Shot-Anomaly-Detection-in-Surveillance.)|-|
-|**2025-8-27**|**Topological Uncertainty for Anomaly Detection in the Neural-network EoS Inference with Neutron Star Data**|Kenji Fukushima et.al|[paper](https://arxiv.org/abs/2508.19683)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-4**|**Kernel $k$-Medoids as General Vector Quantization**|Thore Gerlach et.al|[paper](https://arxiv.org/abs/2506.04786)|-|-|
 |**2025-8-25**|**Scene-Aware Vectorized Memory Multi-Agent Framework with Cross-Modal Differentiated Quantization VLMs for Visually Impaired Assistance**|Xiangxiang Wang et.al|[paper](https://arxiv.org/abs/2508.18177)|-|-|
 |**2025-8-23**|**VQL: An End-to-End Context-Aware Vector Quantization Attention for Ultra-Long User Behavior Modeling**|Kaiyuan Li et.al|[paper](https://arxiv.org/abs/2508.17125)|-|-|
 |**2025-8-20**|**Making Pose Representations More Expressive and Disentangled via Residual Vector Quantization**|Sukhyun Jeong et.al|[paper](https://arxiv.org/abs/2508.14561)|-|-|
@@ -187,5 +188,4 @@
 |**2025-7-2**|**Unsupervised Panoptic Interpretation of Latent Spaces in GANs Using Space-Filling Vector Quantization**|Mohammad Hassan Vali et.al|[paper](https://arxiv.org/abs/2410.20573)|-|-|
 |**2025-7-1**|**Hierarchical Patch Compression for ColPali: Efficient Multi-Vector Document Retrieval with Dynamic Pruning and Quantization**|Duong Bach et.al|[paper](https://arxiv.org/abs/2506.21601)|[code](https://github.com/DngBack/HPC-ColPali.)|-|
 |**2025-7-1**|**VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers**|Yating Wang et.al|[paper](https://arxiv.org/abs/2507.01016)|[code](https://xiaoxiao0406.github.io/vqvla.github.io)|<details><summary>detail</summary>Accepted by ICCV 2025</details>|
-|**2025-6-30**|**VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference**|Zihan Liu et.al|[paper](https://arxiv.org/abs/2503.02236)|-|-|
 
