@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.09.09
+## Updated on 2025.09.10
 
 ## Defect Detection
 
@@ -18,6 +18,7 @@
 |**2025-9-3**|**Joint Training of Image Generator and Detector for Road Defect Detection**|Kuan-Chuan Peng et.al|[paper](https://arxiv.org/abs/2509.03465)|-|<details><summary>detail</summary>This paper is accepted to ICCV 2025 Workshop on Representation Learning with Very Limited Resources: When Data</details>|
 |**2025-9-2**|**Resilient Multimodal Industrial Surface Defect Detection with Uncertain Sensors Availability**|Shuai Jiang et.al|[paper](https://arxiv.org/abs/2509.02962)|[code](https://github.com/SvyJ/MISDD-MM.)|<details><summary>detail</summary>IEEE/ASME Transactions on Mechatronics</details>|
 |**2025-9-2**|**Vision-Based Object Detection for UAV Solar Panel Inspection Using an Enhanced Defects Dataset**|Ashen Rodrigo et.al|[paper](https://arxiv.org/abs/2509.05348)|[code](https://github.com/IsuruMunasinghe98/solar-panel-inspection-dataset.)|-|
+|**2025-9-2**|**FusWay: Multimodal hybrid fusion approach. Application to Railway Defect Detection**|Alexey Zhukov et.al|[paper](https://arxiv.org/abs/2509.06987)|-|-|
 |**2025-9-1**|**TransMatch: A Transfer-Learning Framework for Defect Detection in Laser Powder Bed Fusion Additive Manufacturing**|Mohsen Asghari Ilani et.al|[paper](https://arxiv.org/abs/2509.01754)|-|-|
 |**2025-8-31**|**Surface Defect Detection with Gabor Filter Using Reconstruction-Based Blurring U-Net-ViT**|Jongwook Si et.al|[paper](https://arxiv.org/abs/2509.00827)|-|-|
 |**2025-8-26**|**No Label Left Behind: A Unified Surface Defect Detection Model for all Supervision Regimes**|Blaž Rolih et.al|[paper](https://arxiv.org/abs/2508.19060)|[code](https://github.com/blaz-r/SuperSimpleNet)|<details><summary>detail</summary>Accepted by The Journal of Intelligent Manufacturing</details>|
@@ -37,7 +38,6 @@
 |**2025-7-14**|**Advancing Automatic Photovoltaic Defect Detection using Semi-Supervised Semantic Segmentation of Electroluminescence Images**|Abhishek Jha et.al|[paper](https://arxiv.org/abs/2404.13693)|[code](https://github.com/abj247/PV-S3.)|-|
 |**2025-7-10**|**NexViTAD: Few-shot Unsupervised Cross-Domain Defect Detection via Vision Foundation Models and Multi-Task Learning**|Tianwei Mu et.al|[paper](https://arxiv.org/abs/2507.07579)|-|-|
 |**2025-7-10**|**Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects**|Yuqi Cheng et.al|[paper](https://arxiv.org/abs/2507.07435)|-|-|
-|**2025-7-7**|**Semi-Supervised Defect Detection via Conditional Diffusion and CLIP-Guided Noise Filtering**|Shuai Li et.al|[paper](https://arxiv.org/abs/2507.05588)|[code](https://github.com/cLin-c/Semisupervised-DSYM.)|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-9**|**Synthetic Data Generation with Lorenzetti for Time Series Anomaly Detection in High-Energy Physics Calorimeters**|Laura Boggia et.al|[paper](https://arxiv.org/abs/2509.07451)|-|-|
+|**2025-9-9**|**Hybrid GCN-GRU Model for Anomaly Detection in Cryptocurrency Transactions**|Gyuyeon Na et.al|[paper](https://arxiv.org/abs/2509.07392)|-|-|
 |**2025-9-8**|**Hypergraph-Guided Regex Filter Synthesis for Event-Based Anomaly Detection**|Margarida Ferreira et.al|[paper](https://arxiv.org/abs/2509.06911)|-|-|
 |**2025-9-8**|**A Survey of Generalization of Graph Anomaly Detection: From Transfer Learning to Foundation Models**|Junjun Pan et.al|[paper](https://arxiv.org/abs/2509.06609)|-|<details><summary>detail</summary>Accepted by ICKG 2025</details>|
 |**2025-9-8**|**CAPMix: Robust Time Series Anomaly Detection Based on Abnormal Assumptions with Dual-Space Mixup**|Xudong Mou et.al|[paper](https://arxiv.org/abs/2509.06419)|[code](https://github.com/alsike22/CAPMix.)|-|
@@ -96,8 +98,6 @@
 |**2025-9-1**|**Simplifying Traffic Anomaly Detection with Video Foundation Models**|Svetlana Orlova et.al|[paper](https://arxiv.org/abs/2507.09338)|[code](https://github.com/tue-mps/simple-tad.)|<details><summary>detail</summary>ICCVW 2025 accepted</details>|
 |**2025-8-31**|**CCE: Confidence-Consistency Evaluation for Time Series Anomaly Detection**|Zhijie Zhong et.al|[paper](https://arxiv.org/abs/2509.01098)|-|-|
 |**2025-8-30**|**Layer-Wise Anomaly Detection in Directed Energy Deposition using High-Fidelity Fringe Projection Profilometry**|Guanzhong Hu et.al|[paper](https://arxiv.org/abs/2509.05327)|-|-|
-|**2025-8-30**|**Tighten The Lasso: A Convex Hull Volume-based Anomaly Detection Method**|Uri Itai et.al|[paper](https://arxiv.org/abs/2502.18601)|-|-|
-|**2025-8-29**|**TMUAD: Enhancing Logical Capabilities in Unified Anomaly Detection Models with a Text Memory Bank**|Jiawei Liu et.al|[paper](https://arxiv.org/abs/2508.21795)|[code](https://github.com/SIA-IDE/TMUAD.)|-|
 
 ## 3D Anomaly Detection
 
