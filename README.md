@@ -7,13 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.09.11
+## Updated on 2025.09.12
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2025-9-7**|**TinyDef-DETR:An Enhanced DETR Detector for UAV Power Line Defect Detection**|Jiaming Cui et.al|[paper](https://arxiv.org/abs/2509.06035)|-|-|
+|**2025-9-11**|**TinyDef-DETR: A DETR-based Framework for Defect Detection in Transmission Lines from UAV Imagery**|Jiaming Cui et.al|[paper](https://arxiv.org/abs/2509.06035)|-|-|
 |**2025-9-4**|**YOLO Ensemble for UAV-based Multispectral Defect Detection in Wind Turbine Components**|Serhii Svystun et.al|[paper](https://arxiv.org/abs/2509.04156)|-|<details><summary>detail</summary>The 13th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications</details>|
 |**2025-9-3**|**Joint Training of Image Generator and Detector for Road Defect Detection**|Kuan-Chuan Peng et.al|[paper](https://arxiv.org/abs/2509.03465)|-|<details><summary>detail</summary>This paper is accepted to ICCV 2025 Workshop on Representation Learning with Very Limited Resources: When Data</details>|
 |**2025-9-2**|**Resilient Multimodal Industrial Surface Defect Detection with Uncertain Sensors Availability**|Shuai Jiang et.al|[paper](https://arxiv.org/abs/2509.02962)|[code](https://github.com/SvyJ/MISDD-MM.)|<details><summary>detail</summary>IEEE/ASME Transactions on Mechatronics</details>|
@@ -43,6 +43,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-11**|**Unsupervised Integrated-Circuit Defect Segmentation via Image-Intrinsic Normality**|Botong Zhao et.al|[paper](https://arxiv.org/abs/2509.09375)|-|-|
 |**2025-8-14**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2025-8-11**|**KARMA: Efficient Structural Defect Segmentation via Kolmogorov-Arnold Representation Learning**|Md Meftahul Ferdaus et.al|[paper](https://arxiv.org/abs/2508.08186)|[code](https://github.com/faeyelab/karma.)|<details><summary>detail</summary>submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence</details>|
 |**2025-8-6**|**MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning**|Ylli Sadikaj et.al|[paper](https://arxiv.org/abs/2504.06740)|-|-|
@@ -67,12 +68,12 @@
 |**2024-3-17**|**LERENet: Eliminating Intra-class Differences for Metal Surface Defect Few-shot Semantic Segmentation**|Hanze Ding et.al|[paper](https://arxiv.org/abs/2403.11122)|-|-|
 |**2024-2-6**|**Multi-class Road Defect Detection and Segmentation using Spatial and Channel-wise Attention for Autonomous Road Repairing**|Jongmin Yu et.al|[paper](https://arxiv.org/abs/2402.04064)|-|<details><summary>detail</summary>the ICRA 2024</details>|
 |**2023-12-21**|**Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation**|Rasha Alshawi et.al|[paper](https://arxiv.org/abs/2312.14053)|-|<details><summary>detail</summary>under review in IEEE Transactions on Artificial Intelligence</details>|
-|**2023-12-8**|**Continual learning for surface defect segmentation by subnetwork creation and selection**|Aleksandr Dekhovich et.al|[paper](https://arxiv.org/abs/2312.05100)|-|-|
 
 ## Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-10**|**Deep Context-Conditioned Anomaly Detection for Tabular Data**|Spencer King et.al|[paper](https://arxiv.org/abs/2509.09030)|-|<details><summary>detail</summary>Submitted to WSDM 2026</details>|
 |**2025-9-9**|**Synthetic Data Generation with Lorenzetti for Time Series Anomaly Detection in High-Energy Physics Calorimeters**|Laura Boggia et.al|[paper](https://arxiv.org/abs/2509.07451)|-|-|
 |**2025-9-9**|**Hybrid GCN-GRU Model for Anomaly Detection in Cryptocurrency Transactions**|Gyuyeon Na et.al|[paper](https://arxiv.org/abs/2509.07392)|-|-|
 |**2025-9-8**|**Hypergraph-Guided Regex Filter Synthesis for Event-Based Anomaly Detection**|Margarida Ferreira et.al|[paper](https://arxiv.org/abs/2509.06911)|-|-|
@@ -97,7 +98,6 @@
 |**2025-9-1**|**ACD-CLIP: Decoupling Representation and Dynamic Fusion for Zero-Shot Anomaly Detection**|Ke Ma et.al|[paper](https://arxiv.org/abs/2508.07819)|-|-|
 |**2025-9-1**|**Simplifying Traffic Anomaly Detection with Video Foundation Models**|Svetlana Orlova et.al|[paper](https://arxiv.org/abs/2507.09338)|[code](https://github.com/tue-mps/simple-tad.)|<details><summary>detail</summary>ICCVW 2025 accepted</details>|
 |**2025-8-31**|**CCE: Confidence-Consistency Evaluation for Time Series Anomaly Detection**|Zhijie Zhong et.al|[paper](https://arxiv.org/abs/2509.01098)|-|-|
-|**2025-8-30**|**Layer-Wise Anomaly Detection in Directed Energy Deposition using High-Fidelity Fringe Projection Profilometry**|Guanzhong Hu et.al|[paper](https://arxiv.org/abs/2509.05327)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-11**|**A Vector-Quantized Foundation Model for Patient Behavior Monitoring**|Rodrigo Oliver et.al|[paper](https://arxiv.org/abs/2503.15221)|-|-|
 |**2025-9-4**|**Kernel $k$-Medoids as General Vector Quantization**|Thore Gerlach et.al|[paper](https://arxiv.org/abs/2506.04786)|-|-|
 |**2025-8-25**|**Scene-Aware Vectorized Memory Multi-Agent Framework with Cross-Modal Differentiated Quantization VLMs for Visually Impaired Assistance**|Xiangxiang Wang et.al|[paper](https://arxiv.org/abs/2508.18177)|-|-|
 |**2025-8-23**|**VQL: An End-to-End Context-Aware Vector Quantization Attention for Ultra-Long User Behavior Modeling**|Kaiyuan Li et.al|[paper](https://arxiv.org/abs/2508.17125)|-|-|
@@ -180,7 +181,6 @@
 |**2025-7-30**|**Addressing Representation Collapse in Vector Quantized Models with One Linear Layer**|Yongxin Zhu et.al|[paper](https://arxiv.org/abs/2411.02038)|-|<details><summary>detail</summary>ICCV2025</details>|
 |**2025-7-26**|**All-in-One Medical Image Restoration with Latent Diffusion-Enhanced Vector-Quantized Codebook Prior**|Haowei Chen et.al|[paper](https://arxiv.org/abs/2507.19874)|-|-|
 |**2025-7-20**|**Vector Quantization Prompting for Continual Learning**|Li Jiao et.al|[paper](https://arxiv.org/abs/2410.20444)|[code](https://github.com/jiaolifengmi/VQ-Prompt)|<details><summary>detail</summary>Accepted by NeurIPS 2024</details>|
-|**2025-7-14**|**A Vector-Quantized Foundation Model for Patient Behavior Monitoring**|Rodrigo Oliver et.al|[paper](https://arxiv.org/abs/2503.15221)|-|-|
 |**2025-7-9**|**Adversarial Defenses via Vector Quantization**|Zhiyi Dong et.al|[paper](https://arxiv.org/abs/2305.13651)|[code](https://doi.org/10.1016/j.neucom.2025.130703)|<details><summary>detail</summary>This is the author-accepted version of our paper published in Neurocomputing</details>|
 |**2025-7-9**|**Semi-fragile watermarking of remote sensing images using DWT, vector quantization and automatic tiling**|Jordi Serra-Ruiz et.al|[paper](https://arxiv.org/abs/2507.07250)|-|-|
 |**2025-7-9**|**VQ-SGen: A Vector Quantized Stroke Representation for Creative Sketch Generation**|Jiawei Wang et.al|[paper](https://arxiv.org/abs/2411.16446)|[code](https://enigma-li.github.io/projects/VQ-SGen/VQ-SGen.html)|<details><summary>detail</summary>Project Page: https://enigma-li</details>|
