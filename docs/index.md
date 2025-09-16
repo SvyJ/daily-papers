@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.09.15
+## Updated on 2025.09.16
 
 ## Defect Detection
 
@@ -73,6 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-15**|**Anomaly Detection in Industrial Control Systems Based on Cross-Domain Representation Learning**|Dongyang Zhan et.al|[paper](https://arxiv.org/abs/2509.11786)|-|-|
+|**2025-9-15**|**Adaptive-GraphSketch: Real-Time Edge Anomaly Detection via Multi-Layer Tensor Sketching and Temporal Decay**|Ocheme Anthony Ekle et.al|[paper](https://arxiv.org/abs/2509.11633)|-|-|
+|**2025-9-15**|**DUAL-VAD: Dual Benchmarks and Anomaly-Focused Sampling for Video Anomaly Detection**|Seoik Jung et.al|[paper](https://arxiv.org/abs/2509.11605)|-|-|
+|**2025-9-14**|**CRoC: Context Refactoring Contrast for Graph Anomaly Detection with Limited Supervision**|Siyue Xie et.al|[paper](https://arxiv.org/abs/2508.12278)|-|<details><summary>detail</summary>Accepted by ECAI 2025</details>|
+|**2025-9-13**|**Action Hints: Semantic Typicality and Context Uniqueness for Generalizable Skeleton-based Video Anomaly Detection**|Canhui Tang et.al|[paper](https://arxiv.org/abs/2509.11058)|-|-|
 |**2025-9-12**|**MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection**|Gang Li et.al|[paper](https://arxiv.org/abs/2509.10282)|-|<details><summary>detail</summary>Page 14</details>|
 |**2025-9-12**|**Interpretable Data-driven Anomaly Detection in Industrial Processes with ExIFFI**|Davide Frizzo et.al|[paper](https://arxiv.org/abs/2405.01158)|-|<details><summary>detail</summary>This is an extension of the previous version of the paper</details>|
 |**2025-9-10**|**Deep Context-Conditioned Anomaly Detection for Tabular Data**|Spencer King et.al|[paper](https://arxiv.org/abs/2509.09030)|-|<details><summary>detail</summary>Submitted to WSDM 2026</details>|
@@ -92,12 +97,7 @@
 |**2025-9-3**|**Machine Learning-Driven Anomaly Detection for 5G O-RAN Performance Metrics**|Babak Azkaei et.al|[paper](https://arxiv.org/abs/2509.03290)|-|-|
 |**2025-9-3**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
 |**2025-9-3**|**Sequential keypoint density estimator: an overlooked baseline of skeleton-based video anomaly detection**|Anja Delić et.al|[paper](https://arxiv.org/abs/2506.18368)|-|<details><summary>detail</summary>ICCV 2025 Highlight</details>|
-|**2025-9-2**|**Learning local and global prototypes with optimal transport for unsupervised anomaly detection and localization**|Robin Trombetta et.al|[paper](https://arxiv.org/abs/2508.12927)|-|-|
-|**2025-9-2**|**SALAD -- Semantics-Aware Logical Anomaly Detection**|Matic Fučka et.al|[paper](https://arxiv.org/abs/2509.02101)|[code](https://github.com/MaticFuc/SALAD)|<details><summary>detail</summary>ICCV 2025</details>|
-|**2025-9-1**|**Robust Anomaly Detection through Multi-Modal Autoencoder Fusion for Small Vehicle Damage Detection**|Sara Khan et.al|[paper](https://arxiv.org/abs/2509.01719)|-|-|
-|**2025-9-1**|**Unsupervised Identification and Replay-based Detection (UIRD) for New Category Anomaly Detection in ECG Signal**|Zhangyue Shi et.al|[paper](https://arxiv.org/abs/2509.01512)|-|-|
-|**2025-9-1**|**Anomaly detection in network flows using unsupervised online machine learning**|Alberto Miguel-Diez et.al|[paper](https://arxiv.org/abs/2509.01375)|-|-|
-|**2025-9-1**|**ACD-CLIP: Decoupling Representation and Dynamic Fusion for Zero-Shot Anomaly Detection**|Ke Ma et.al|[paper](https://arxiv.org/abs/2508.07819)|-|-|
+|**2025-9-2**|**LogGuardQ: A Cognitive-Enhanced Reinforcement Learning Framework for Cybersecurity Anomaly Detection in Security Logs**|Umberto Gonçalves de Sousa et.al|[paper](https://arxiv.org/abs/2509.10511)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-15**|**SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation**|Hui Li et.al|[paper](https://arxiv.org/abs/2509.12086)|-|-|
 |**2025-9-12**|**Scalable Training for Vector-Quantized Networks with 100% Codebook Utilization**|Yifan Chang et.al|[paper](https://arxiv.org/abs/2509.10140)|-|-|
 |**2025-9-11**|**A Vector-Quantized Foundation Model for Patient Behavior Monitoring**|Rodrigo Oliver et.al|[paper](https://arxiv.org/abs/2503.15221)|-|-|
 |**2025-9-4**|**Kernel $k$-Medoids as General Vector Quantization**|Thore Gerlach et.al|[paper](https://arxiv.org/abs/2506.04786)|-|-|
@@ -187,5 +188,4 @@
 |**2025-7-9**|**VQ-SGen: A Vector Quantized Stroke Representation for Creative Sketch Generation**|Jiawei Wang et.al|[paper](https://arxiv.org/abs/2411.16446)|[code](https://enigma-li.github.io/projects/VQ-SGen/VQ-SGen.html)|<details><summary>detail</summary>Project Page: https://enigma-li</details>|
 |**2025-7-8**|**EdgeCodec: Onboard Lightweight High Fidelity Neural Compressor with Residual Vector Quantization**|Benjamin Hodo et.al|[paper](https://arxiv.org/abs/2507.06040)|-|<details><summary>detail</summary>7 Pages</details>|
 |**2025-7-2**|**Unsupervised Panoptic Interpretation of Latent Spaces in GANs Using Space-Filling Vector Quantization**|Mohammad Hassan Vali et.al|[paper](https://arxiv.org/abs/2410.20573)|-|-|
-|**2025-7-1**|**Hierarchical Patch Compression for ColPali: Efficient Multi-Vector Document Retrieval with Dynamic Pruning and Quantization**|Duong Bach et.al|[paper](https://arxiv.org/abs/2506.21601)|[code](https://github.com/DngBack/HPC-ColPali.)|-|
 
