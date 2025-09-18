@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.09.17
+## Updated on 2025.09.18
 
 ## Defect Detection
 
@@ -73,7 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-17**|**AD-DINOv3: Enhancing DINOv3 for Zero-Shot Anomaly Detection with Anomaly-Aware Calibration**|Jingyi Yuan et.al|[paper](https://arxiv.org/abs/2509.14084)|-|-|
+|**2025-9-17**|**Anomaly Detection in Offshore Open Radio Access Network Using Long Short-Term Memory Models on a Novel Artificial Intelligence-Driven Cloud-Native Data Platform**|Abdelrahim Ahmad et.al|[paper](https://arxiv.org/abs/2409.02849)|[code](https://doi.org/10.1016/j.engappai.2025.112274)|-|
+|**2025-9-16**|**Unsupervised Anomaly Detection in ALS EPICS Event Logs**|Antonin Sulc et.al|[paper](https://arxiv.org/abs/2509.13621)|-|-|
 |**2025-9-16**|**Real-time, Adaptive Radiological Anomaly Detection and Isotope Identification Using Non-negative Matrix Factorization**|Chandler Jones et.al|[paper](https://arxiv.org/abs/2507.10715)|-|-|
+|**2025-9-16**|**A Domain Knowledge Informed Approach for Anomaly Detection of Electric Vehicle Interior Sounds**|Deepti Kunte et.al|[paper](https://arxiv.org/abs/2509.13390)|-|<details><summary>detail</summary>Submitted to: Mechanical Systems and Signal Processing</details>|
 |**2025-9-16**|**Taming Anomalies with Down-Up Sampling Networks: Group Center Preserving Reconstruction for 3D Anomaly Detection**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2507.03903)|-|<details><summary>detail</summary>ACM MM25 Accepted</details>|
 |**2025-9-16**|**AREPAS: Anomaly Detection in Fine-Grained Anatomy with Reconstruction-Based Semantic Patch-Scoring**|Branko Mitic et.al|[paper](https://arxiv.org/abs/2509.12905)|-|-|
 |**2025-9-16**|**Leveraging Intermediate Representations of Time Series Foundation Models for Anomaly Detection**|Chan Sik Han et.al|[paper](https://arxiv.org/abs/2509.12650)|-|-|
@@ -94,10 +98,6 @@
 |**2025-9-8**|**A Survey of Generalization of Graph Anomaly Detection: From Transfer Learning to Foundation Models**|Junjun Pan et.al|[paper](https://arxiv.org/abs/2509.06609)|-|<details><summary>detail</summary>Accepted by ICKG 2025</details>|
 |**2025-9-8**|**CAPMix: Robust Time Series Anomaly Detection Based on Abnormal Assumptions with Dual-Space Mixup**|Xudong Mou et.al|[paper](https://arxiv.org/abs/2509.06419)|[code](https://github.com/alsike22/CAPMix.)|-|
 |**2025-9-7**|**ALPHA: LLM-Enabled Active Learning for Human-Free Network Anomaly Detection**|Xuanhao Luo et.al|[paper](https://arxiv.org/abs/2509.05936)|-|<details><summary>detail</summary>44th IEEE International Performance Computing and Communications Conference (IPCCC 2025)</details>|
-|**2025-9-7**|**DACAD: Domain Adaptation Contrastive Learning for Anomaly Detection in Multivariate Time Series**|Zahra Zamanzadeh Darban et.al|[paper](https://arxiv.org/abs/2404.11269)|-|-|
-|**2025-9-6**|**Dual-Mode Deep Anomaly Detection for Medical Manufacturing: Structural Similarity and Feature Distance**|Julio Zanon Diaz et.al|[paper](https://arxiv.org/abs/2509.05796)|-|-|
-|**2025-9-6**|**DQS: A Low-Budget Query Strategy for Enhancing Unsupervised Data-driven Anomaly Detection Approaches**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2509.05663)|-|<details><summary>detail</summary>Submitted to the Reliability Engineering & System Safety journal</details>|
-|**2025-9-5**|**Towards Efficient Pixel Labeling for Industrial Anomaly Detection and Localization**|Jingqi Wu et.al|[paper](https://arxiv.org/abs/2509.05034)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-16**|**Improving 3D Gaussian Splatting Compression by Scene-Adaptive Lattice Vector Quantization**|Hao Xu et.al|[paper](https://arxiv.org/abs/2509.13482)|[code](https://github.com/hxu160/SALVQ)|<details><summary>detail</summary>Code available at https://github</details>|
 |**2025-9-15**|**SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation**|Hui Li et.al|[paper](https://arxiv.org/abs/2509.12086)|-|-|
 |**2025-9-12**|**Scalable Training for Vector-Quantized Networks with 100% Codebook Utilization**|Yifan Chang et.al|[paper](https://arxiv.org/abs/2509.10140)|-|-|
 |**2025-9-11**|**A Vector-Quantized Foundation Model for Patient Behavior Monitoring**|Rodrigo Oliver et.al|[paper](https://arxiv.org/abs/2503.15221)|-|-|
@@ -187,5 +188,4 @@
 |**2025-7-9**|**Semi-fragile watermarking of remote sensing images using DWT, vector quantization and automatic tiling**|Jordi Serra-Ruiz et.al|[paper](https://arxiv.org/abs/2507.07250)|-|-|
 |**2025-7-9**|**VQ-SGen: A Vector Quantized Stroke Representation for Creative Sketch Generation**|Jiawei Wang et.al|[paper](https://arxiv.org/abs/2411.16446)|[code](https://enigma-li.github.io/projects/VQ-SGen/VQ-SGen.html)|<details><summary>detail</summary>Project Page: https://enigma-li</details>|
 |**2025-7-8**|**EdgeCodec: Onboard Lightweight High Fidelity Neural Compressor with Residual Vector Quantization**|Benjamin Hodo et.al|[paper](https://arxiv.org/abs/2507.06040)|-|<details><summary>detail</summary>7 Pages</details>|
-|**2025-7-2**|**Unsupervised Panoptic Interpretation of Latent Spaces in GANs Using Space-Filling Vector Quantization**|Mohammad Hassan Vali et.al|[paper](https://arxiv.org/abs/2410.20573)|-|-|
 
