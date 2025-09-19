@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.09.18
+## Updated on 2025.09.19
 
 ## Defect Detection
 
@@ -73,7 +73,16 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2025-9-17**|**AD-DINOv3: Enhancing DINOv3 for Zero-Shot Anomaly Detection with Anomaly-Aware Calibration**|Jingyi Yuan et.al|[paper](https://arxiv.org/abs/2509.14084)|-|-|
+|**2025-9-18**|**Watermarking and Anomaly Detection in Machine Learning Models for LORA RF Fingerprinting**|Aarushi Mahajan et.al|[paper](https://arxiv.org/abs/2509.15170)|-|<details><summary>detail</summary>IEEE International Conference on Acoustics</details>|
+|**2025-9-18**|**AnoF-Diff: One-Step Diffusion-Based Anomaly Detection for Forceful Tool Use**|Yating Lin et.al|[paper](https://arxiv.org/abs/2509.15153)|-|-|
+|**2025-9-18**|**Beyond Marginals: Learning Joint Spatio-Temporal Patterns for Multivariate Anomaly Detection**|Padmaksha Roy et.al|[paper](https://arxiv.org/abs/2509.15033)|-|<details><summary>detail</summary>Journal ref:Transactions on Machine Learning Research 2025</details>|
+|**2025-9-18**|**Dual-Mode Deep Anomaly Detection for Medical Manufacturing: Structural Similarity and Feature Distance**|Julio Zanon Diaz et.al|[paper](https://arxiv.org/abs/2509.05796)|-|-|
+|**2025-9-18**|**Spatio-Temporal Anomaly Detection with Graph Networks for Data Quality Monitoring of the Hadron Calorimeter**|Mulugeta Weldezgina Asres et.al|[paper](https://arxiv.org/abs/2311.04190)|[code](https://github.com/muleina/CMS_HCAL_ML_OnlineDQM)|-|
+|**2025-9-18**|**Data Quality Monitoring for the Hadron Calorimeters Using Transfer Learning for Anomaly Detection**|Mulugeta Weldezgina Asres et.al|[paper](https://arxiv.org/abs/2408.16612)|[code](https://github.com/muleina/CMS_HCAL_ML_OnlineDQM)|-|
+|**2025-9-18**|**Cloud-Edge Collaborative Data Anomaly Detection in Industrial Sensor Networks**|Tao Yang et.al|[paper](https://arxiv.org/abs/2204.09942)|-|-|
+|**2025-9-18**|**RationAnomaly: Log Anomaly Detection with Rationality via Chain-of-Thought and Reinforcement Learning**|Song Xu et.al|[paper](https://arxiv.org/abs/2509.14693)|-|-|
+|**2025-9-17**|**AD-DINOv3: Enhancing DINOv3 for Zero-Shot Anomaly Detection with Anomaly-Aware Calibration**|Jingyi Yuan et.al|[paper](https://arxiv.org/abs/2509.14084)|[code](https://github.com/Kaisor-Yuan/AD-DINOv3.)|-|
+|**2025-9-17**|**Preference Isolation Forest for Structure-based Anomaly Detection**|Filippo Leveni et.al|[paper](https://arxiv.org/abs/2505.10876)|-|<details><summary>detail</summary>Pattern Recognition (2025)</details>|
 |**2025-9-17**|**Anomaly Detection in Offshore Open Radio Access Network Using Long Short-Term Memory Models on a Novel Artificial Intelligence-Driven Cloud-Native Data Platform**|Abdelrahim Ahmad et.al|[paper](https://arxiv.org/abs/2409.02849)|[code](https://doi.org/10.1016/j.engappai.2025.112274)|-|
 |**2025-9-16**|**Unsupervised Anomaly Detection in ALS EPICS Event Logs**|Antonin Sulc et.al|[paper](https://arxiv.org/abs/2509.13621)|-|-|
 |**2025-9-16**|**Real-time, Adaptive Radiological Anomaly Detection and Isotope Identification Using Non-negative Matrix Factorization**|Chandler Jones et.al|[paper](https://arxiv.org/abs/2507.10715)|-|-|
@@ -89,15 +98,6 @@
 |**2025-9-14**|**CRoC: Context Refactoring Contrast for Graph Anomaly Detection with Limited Supervision**|Siyue Xie et.al|[paper](https://arxiv.org/abs/2508.12278)|-|<details><summary>detail</summary>Accepted by ECAI 2025</details>|
 |**2025-9-13**|**Action Hints: Semantic Typicality and Context Uniqueness for Generalizable Skeleton-based Video Anomaly Detection**|Canhui Tang et.al|[paper](https://arxiv.org/abs/2509.11058)|-|-|
 |**2025-9-12**|**MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection**|Gang Li et.al|[paper](https://arxiv.org/abs/2509.10282)|-|<details><summary>detail</summary>Page 14</details>|
-|**2025-9-12**|**Interpretable Data-driven Anomaly Detection in Industrial Processes with ExIFFI**|Davide Frizzo et.al|[paper](https://arxiv.org/abs/2405.01158)|-|<details><summary>detail</summary>This is an extension of the previous version of the paper</details>|
-|**2025-9-11**|**Modular, On-Site Solutions with Lightweight Anomaly Detection for Sustainable Nutrient Management in Agriculture**|Abigail R. Cohen et.al|[paper](https://arxiv.org/abs/2509.12247)|-|-|
-|**2025-9-10**|**Deep Context-Conditioned Anomaly Detection for Tabular Data**|Spencer King et.al|[paper](https://arxiv.org/abs/2509.09030)|-|<details><summary>detail</summary>Submitted to WSDM 2026</details>|
-|**2025-9-9**|**Synthetic Data Generation with Lorenzetti for Time Series Anomaly Detection in High-Energy Physics Calorimeters**|Laura Boggia et.al|[paper](https://arxiv.org/abs/2509.07451)|-|-|
-|**2025-9-9**|**Hybrid GCN-GRU Model for Anomaly Detection in Cryptocurrency Transactions**|Gyuyeon Na et.al|[paper](https://arxiv.org/abs/2509.07392)|-|-|
-|**2025-9-8**|**Hypergraph-Guided Regex Filter Synthesis for Event-Based Anomaly Detection**|Margarida Ferreira et.al|[paper](https://arxiv.org/abs/2509.06911)|-|-|
-|**2025-9-8**|**A Survey of Generalization of Graph Anomaly Detection: From Transfer Learning to Foundation Models**|Junjun Pan et.al|[paper](https://arxiv.org/abs/2509.06609)|-|<details><summary>detail</summary>Accepted by ICKG 2025</details>|
-|**2025-9-8**|**CAPMix: Robust Time Series Anomaly Detection Based on Abnormal Assumptions with Dual-Space Mixup**|Xudong Mou et.al|[paper](https://arxiv.org/abs/2509.06419)|[code](https://github.com/alsike22/CAPMix.)|-|
-|**2025-9-7**|**ALPHA: LLM-Enabled Active Learning for Human-Free Network Anomaly Detection**|Xuanhao Luo et.al|[paper](https://arxiv.org/abs/2509.05936)|-|<details><summary>detail</summary>44th IEEE International Performance Computing and Communications Conference (IPCCC 2025)</details>|
 
 ## 3D Anomaly Detection
 
