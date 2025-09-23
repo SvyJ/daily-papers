@@ -7,14 +7,15 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.09.22
+## Updated on 2025.09.23
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-22**|**TinyDef-DETR: A DETR-based Framework for Defect Detection in Transmission Lines from UAV Imagery**|Feng Shen et.al|[paper](https://arxiv.org/abs/2509.06035)|-|-|
 |**2025-9-19**|**ISP-AD: A Large-Scale Real-World Dataset for Advancing Industrial Anomaly Detection with Synthetic and Real Defects**|Paul J. Krassnig et.al|[paper](https://arxiv.org/abs/2503.04997)|[code](https://doi.org/10.5281/zenodo.14911042)|-|
-|**2025-9-15**|**TinyDef-DETR: A DETR-based Framework for Defect Detection in Transmission Lines from UAV Imagery**|Jiaming Cui et.al|[paper](https://arxiv.org/abs/2509.06035)|-|-|
+|**2025-9-6**|**On the Detection of Internal Defects in Structured Media**|Bryl Nico M. Ong et.al|[paper](https://arxiv.org/abs/2509.16216)|-|-|
 |**2025-9-4**|**YOLO Ensemble for UAV-based Multispectral Defect Detection in Wind Turbine Components**|Serhii Svystun et.al|[paper](https://arxiv.org/abs/2509.04156)|-|<details><summary>detail</summary>The 13th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications</details>|
 |**2025-9-3**|**Joint Training of Image Generator and Detector for Road Defect Detection**|Kuan-Chuan Peng et.al|[paper](https://arxiv.org/abs/2509.03465)|-|<details><summary>detail</summary>This paper is accepted to ICCV 2025 Workshop on Representation Learning with Very Limited Resources: When Data</details>|
 |**2025-9-2**|**Resilient Multimodal Industrial Surface Defect Detection with Uncertain Sensors Availability**|Shuai Jiang et.al|[paper](https://arxiv.org/abs/2509.02962)|[code](https://github.com/SvyJ/MISDD-MM.)|<details><summary>detail</summary>IEEE/ASME Transactions on Mechatronics</details>|
@@ -37,7 +38,6 @@
 |**2025-7-21**|**ExDD: Explicit Dual Distribution Learning for Surface Defect Detection via Diffusion Synthesis**|Muhammad Aqeel et.al|[paper](https://arxiv.org/abs/2507.15335)|-|<details><summary>detail</summary>ICIAP 2025</details>|
 |**2025-7-15**|**A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects**|Yuqi Cheng et.al|[paper](https://arxiv.org/abs/2507.13378)|-|-|
 |**2025-7-14**|**Advancing Automatic Photovoltaic Defect Detection using Semi-Supervised Semantic Segmentation of Electroluminescence Images**|Abhishek Jha et.al|[paper](https://arxiv.org/abs/2404.13693)|[code](https://github.com/abj247/PV-S3.)|-|
-|**2025-7-10**|**NexViTAD: Few-shot Unsupervised Cross-Domain Defect Detection via Vision Foundation Models and Multi-Task Learning**|Tianwei Mu et.al|[paper](https://arxiv.org/abs/2507.07579)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,17 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-22**|**Budgeted Adversarial Attack against Graph-Based Anomaly Detection in Sensor Networks**|Sanju Xaviar et.al|[paper](https://arxiv.org/abs/2509.17987)|-|-|
+|**2025-9-22**|**Medical priority fusion: achieving dual optimization of sensitivity and interpretability in nipt anomaly detection**|Xiuqi Ge et.al|[paper](https://arxiv.org/abs/2509.17924)|-|-|
+|**2025-9-22**|**Tailored Transformation Invariance for Industrial Anomaly Detection**|Mariette Schönfeld et.al|[paper](https://arxiv.org/abs/2509.17670)|[code](https://github.com/marietteschonfeld/LWinNN)|-|
+|**2025-9-22**|**From Benchmarks to Reality: Advancing Visual Anomaly Detection by the VAND 3.0 Challenge**|Lars Heckler-Kram et.al|[paper](https://arxiv.org/abs/2509.17615)|-|-|
+|**2025-9-22**|**Robust Anomaly Detection Under Normality Distribution Shift in Dynamic Graphs**|Xiaoyang Xu et.al|[paper](https://arxiv.org/abs/2509.17400)|-|-|
+|**2025-9-21**|**RationAnomaly: Log Anomaly Detection with Rationality via Chain-of-Thought and Reinforcement Learning**|Song Xu et.al|[paper](https://arxiv.org/abs/2509.14693)|-|-|
+|**2025-9-21**|**Prospective Multi-Graph Cohesion for Multivariate Time Series Anomaly Detection**|Jiazhen Chen et.al|[paper](https://arxiv.org/abs/2509.17235)|-|<details><summary>detail</summary>Accepted by the 18th ACM International Conference on Web Search and Data Mining (ACM WSDM 2025)</details>|
+|**2025-9-21**|**Intention-aware Hierarchical Diffusion Model for Long-term Trajectory Anomaly Detection**|Chen Wang et.al|[paper](https://arxiv.org/abs/2509.17068)|-|-|
+|**2025-9-20**|**DCAD-2000: A Multilingual Dataset across 2000+ Languages with Data Cleaning as Anomaly Detection**|Yingli Shen et.al|[paper](https://arxiv.org/abs/2502.11546)|-|-|
+|**2025-9-20**|**AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM**|Sunghyun Ahn et.al|[paper](https://arxiv.org/abs/2503.04504)|-|-|
+|**2025-9-19**|**BlockScan: Detecting Anomalies in Blockchain Transactions**|Jiahao Yu et.al|[paper](https://arxiv.org/abs/2410.04039)|-|-|
 |**2025-9-19**|**ISP-AD: A Large-Scale Real-World Dataset for Advancing Industrial Anomaly Detection with Synthetic and Real Defects**|Paul J. Krassnig et.al|[paper](https://arxiv.org/abs/2503.04997)|[code](https://doi.org/10.5281/zenodo.14911042)|-|
 |**2025-9-19**|**Quantum Enhanced Anomaly Detection for ADS-B Data using Hybrid Deep Learning**|Rani Naaman et.al|[paper](https://arxiv.org/abs/2509.15991)|-|<details><summary>detail</summary>This is the author's version of the work accepted for publication in the IEEE-AIAA Digital Avionics Systems Conference (DASC) 2025</details>|
 |**2025-9-19**|**Two Is Better Than One: Aligned Representation Pairs for Anomaly Detection**|Alain Ryser et.al|[paper](https://arxiv.org/abs/2405.18848)|[code](https://openreview.net/forum?id=Bt0zdsnWYc)|<details><summary>detail</summary>Published in Transactions on Machine Learning Research (TMLR) https://openreview</details>|
@@ -85,19 +96,8 @@
 |**2025-9-18**|**Dual-Mode Deep Anomaly Detection for Medical Manufacturing: Structural Similarity and Feature Distance**|Julio Zanon Diaz et.al|[paper](https://arxiv.org/abs/2509.05796)|-|-|
 |**2025-9-18**|**Data Quality Monitoring for the Hadron Calorimeters Using Transfer Learning for Anomaly Detection**|Mulugeta Weldezgina Asres et.al|[paper](https://arxiv.org/abs/2408.16612)|[code](https://github.com/muleina/CMS_HCAL_ML_OnlineDQM)|-|
 |**2025-9-18**|**Cloud-Edge Collaborative Data Anomaly Detection in Industrial Sensor Networks**|Tao Yang et.al|[paper](https://arxiv.org/abs/2204.09942)|-|-|
-|**2025-9-18**|**RationAnomaly: Log Anomaly Detection with Rationality via Chain-of-Thought and Reinforcement Learning**|Song Xu et.al|[paper](https://arxiv.org/abs/2509.14693)|-|-|
 |**2025-9-17**|**AD-DINOv3: Enhancing DINOv3 for Zero-Shot Anomaly Detection with Anomaly-Aware Calibration**|Jingyi Yuan et.al|[paper](https://arxiv.org/abs/2509.14084)|[code](https://github.com/Kaisor-Yuan/AD-DINOv3.)|-|
 |**2025-9-17**|**Preference Isolation Forest for Structure-based Anomaly Detection**|Filippo Leveni et.al|[paper](https://arxiv.org/abs/2505.10876)|-|<details><summary>detail</summary>Pattern Recognition (2025)</details>|
-|**2025-9-17**|**Anomaly Detection in Offshore Open Radio Access Network Using Long Short-Term Memory Models on a Novel Artificial Intelligence-Driven Cloud-Native Data Platform**|Abdelrahim Ahmad et.al|[paper](https://arxiv.org/abs/2409.02849)|[code](https://doi.org/10.1016/j.engappai.2025.112274)|-|
-|**2025-9-16**|**Unsupervised Anomaly Detection in ALS EPICS Event Logs**|Antonin Sulc et.al|[paper](https://arxiv.org/abs/2509.13621)|-|-|
-|**2025-9-16**|**Real-time, Adaptive Radiological Anomaly Detection and Isotope Identification Using Non-negative Matrix Factorization**|Chandler Jones et.al|[paper](https://arxiv.org/abs/2507.10715)|-|-|
-|**2025-9-16**|**A Domain Knowledge Informed Approach for Anomaly Detection of Electric Vehicle Interior Sounds**|Deepti Kunte et.al|[paper](https://arxiv.org/abs/2509.13390)|-|<details><summary>detail</summary>Submitted to: Mechanical Systems and Signal Processing</details>|
-|**2025-9-16**|**Taming Anomalies with Down-Up Sampling Networks: Group Center Preserving Reconstruction for 3D Anomaly Detection**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2507.03903)|-|<details><summary>detail</summary>ACM MM25 Accepted</details>|
-|**2025-9-16**|**AREPAS: Anomaly Detection in Fine-Grained Anatomy with Reconstruction-Based Semantic Patch-Scoring**|Branko Mitic et.al|[paper](https://arxiv.org/abs/2509.12905)|-|-|
-|**2025-9-16**|**Leveraging Intermediate Representations of Time Series Foundation Models for Anomaly Detection**|Chan Sik Han et.al|[paper](https://arxiv.org/abs/2509.12650)|-|-|
-|**2025-9-15**|**DUAL-VAD: Dual Benchmarks and Anomaly-Focused Sampling for Video Anomaly Detection**|Seoik Jung et.al|[paper](https://arxiv.org/abs/2509.11605)|-|-|
-|**2025-9-15**|**Cross-Modal Deep Metric Learning for Time Series Anomaly Detection**|Wei Li et.al|[paper](https://arxiv.org/abs/2509.12540)|-|-|
-|**2025-9-15**|**Explainable Unsupervised Multi-Anomaly Detection and Temporal Localization in Nuclear Times Series Data with a Dual Attention-Based Autoencoder**|Konstantinos Vasili et.al|[paper](https://arxiv.org/abs/2509.12372)|-|-|
 
 ## 3D Anomaly Detection
 
