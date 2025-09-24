@@ -7,13 +7,14 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.09.23
+## Updated on 2025.09.24
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2025-9-22**|**TinyDef-DETR: A DETR-based Framework for Defect Detection in Transmission Lines from UAV Imagery**|Feng Shen et.al|[paper](https://arxiv.org/abs/2509.06035)|-|-|
+|**2025-9-23**|**Advancing Metallic Surface Defect Detection via Anomaly-Guided Pretraining on a Large Industrial Dataset**|Chuni Liu et.al|[paper](https://arxiv.org/abs/2509.18919)|[code](https://clovermini.github.io/AGSSP-Dev/.)|-|
+|**2025-9-23**|**TinyDef-DETR: A DETR-based Framework for Defect Detection in Transmission Lines from UAV Imagery**|Feng Shen et.al|[paper](https://arxiv.org/abs/2509.06035)|-|-|
 |**2025-9-19**|**ISP-AD: A Large-Scale Real-World Dataset for Advancing Industrial Anomaly Detection with Synthetic and Real Defects**|Paul J. Krassnig et.al|[paper](https://arxiv.org/abs/2503.04997)|[code](https://doi.org/10.5281/zenodo.14911042)|-|
 |**2025-9-6**|**On the Detection of Internal Defects in Structured Media**|Bryl Nico M. Ong et.al|[paper](https://arxiv.org/abs/2509.16216)|-|-|
 |**2025-9-4**|**YOLO Ensemble for UAV-based Multispectral Defect Detection in Wind Turbine Components**|Serhii Svystun et.al|[paper](https://arxiv.org/abs/2509.04156)|-|<details><summary>detail</summary>The 13th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications</details>|
@@ -37,7 +38,6 @@
 |**2025-7-21**|**RoadFusion: Latent Diffusion Model for Pavement Defect Detection**|Muhammad Aqeel et.al|[paper](https://arxiv.org/abs/2507.15346)|-|<details><summary>detail</summary>ICIAP 2025</details>|
 |**2025-7-21**|**ExDD: Explicit Dual Distribution Learning for Surface Defect Detection via Diffusion Synthesis**|Muhammad Aqeel et.al|[paper](https://arxiv.org/abs/2507.15335)|-|<details><summary>detail</summary>ICIAP 2025</details>|
 |**2025-7-15**|**A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects**|Yuqi Cheng et.al|[paper](https://arxiv.org/abs/2507.13378)|-|-|
-|**2025-7-14**|**Advancing Automatic Photovoltaic Defect Detection using Semi-Supervised Semantic Segmentation of Electroluminescence Images**|Abhishek Jha et.al|[paper](https://arxiv.org/abs/2404.13693)|[code](https://github.com/abj247/PV-S3.)|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-23**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
+|**2025-9-23**|**3D-ADAM: A Dataset for 3D Anomaly Detection in Additive Manufacturing**|Paul McHard et.al|[paper](https://arxiv.org/abs/2507.07838)|-|-|
+|**2025-9-23**|**Advancing Metallic Surface Defect Detection via Anomaly-Guided Pretraining on a Large Industrial Dataset**|Chuni Liu et.al|[paper](https://arxiv.org/abs/2509.18919)|[code](https://clovermini.github.io/AGSSP-Dev/.)|-|
+|**2025-9-23**|**HDM: Hybrid Diffusion Model for Unified Image Anomaly Detection**|Zekang Weng et.al|[paper](https://arxiv.org/abs/2502.19200)|-|<details><summary>detail</summary>The paper is withdrawn owing to issues found in the experimental results</details>|
+|**2025-9-23**|**Injecting Explainability and Lightweight Design into Weakly Supervised Video Anomaly Detection Systems**|Wen-Dong Jiang et.al|[paper](https://arxiv.org/abs/2412.20201)|-|-|
+|**2025-9-22**|**Graph Enhanced Trajectory Anomaly Detection**|Jonathan Kabala Mbuya et.al|[paper](https://arxiv.org/abs/2509.18386)|-|-|
 |**2025-9-22**|**Budgeted Adversarial Attack against Graph-Based Anomaly Detection in Sensor Networks**|Sanju Xaviar et.al|[paper](https://arxiv.org/abs/2509.17987)|-|-|
 |**2025-9-22**|**Medical priority fusion: achieving dual optimization of sensitivity and interpretability in nipt anomaly detection**|Xiuqi Ge et.al|[paper](https://arxiv.org/abs/2509.17924)|-|-|
 |**2025-9-22**|**Tailored Transformation Invariance for Industrial Anomaly Detection**|Mariette Schönfeld et.al|[paper](https://arxiv.org/abs/2509.17670)|[code](https://github.com/marietteschonfeld/LWinNN)|-|
@@ -92,20 +98,15 @@
 |**2025-9-19**|**Hybrid Temporal Differential Consistency Autoencoder for Efficient and Sustainable Anomaly Detection in Cyber-Physical Systems**|Michael Somma et.al|[paper](https://arxiv.org/abs/2504.06320)|-|-|
 |**2025-9-18**|**Watermarking and Anomaly Detection in Machine Learning Models for LORA RF Fingerprinting**|Aarushi Mahajan et.al|[paper](https://arxiv.org/abs/2509.15170)|-|<details><summary>detail</summary>IEEE International Conference on Acoustics</details>|
 |**2025-9-18**|**AnoF-Diff: One-Step Diffusion-Based Anomaly Detection for Forceful Tool Use**|Yating Lin et.al|[paper](https://arxiv.org/abs/2509.15153)|-|-|
-|**2025-9-18**|**Beyond Marginals: Learning Joint Spatio-Temporal Patterns for Multivariate Anomaly Detection**|Padmaksha Roy et.al|[paper](https://arxiv.org/abs/2509.15033)|-|<details><summary>detail</summary>Journal ref:Transactions on Machine Learning Research 2025</details>|
-|**2025-9-18**|**Dual-Mode Deep Anomaly Detection for Medical Manufacturing: Structural Similarity and Feature Distance**|Julio Zanon Diaz et.al|[paper](https://arxiv.org/abs/2509.05796)|-|-|
-|**2025-9-18**|**Data Quality Monitoring for the Hadron Calorimeters Using Transfer Learning for Anomaly Detection**|Mulugeta Weldezgina Asres et.al|[paper](https://arxiv.org/abs/2408.16612)|[code](https://github.com/muleina/CMS_HCAL_ML_OnlineDQM)|-|
-|**2025-9-18**|**Cloud-Edge Collaborative Data Anomaly Detection in Industrial Sensor Networks**|Tao Yang et.al|[paper](https://arxiv.org/abs/2204.09942)|-|-|
-|**2025-9-17**|**AD-DINOv3: Enhancing DINOv3 for Zero-Shot Anomaly Detection with Anomaly-Aware Calibration**|Jingyi Yuan et.al|[paper](https://arxiv.org/abs/2509.14084)|[code](https://github.com/Kaisor-Yuan/AD-DINOv3.)|-|
-|**2025-9-17**|**Preference Isolation Forest for Structure-based Anomaly Detection**|Filippo Leveni et.al|[paper](https://arxiv.org/abs/2505.10876)|-|<details><summary>detail</summary>Pattern Recognition (2025)</details>|
 
 ## 3D Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-23**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
+|**2025-9-23**|**3D-ADAM: A Dataset for 3D Anomaly Detection in Additive Manufacturing**|Paul McHard et.al|[paper](https://arxiv.org/abs/2507.07838)|-|-|
 |**2025-9-16**|**Taming Anomalies with Down-Up Sampling Networks: Group Center Preserving Reconstruction for 3D Anomaly Detection**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2507.03903)|-|<details><summary>detail</summary>ACM MM25 Accepted</details>|
 |**2025-9-12**|**MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection**|Gang Li et.al|[paper](https://arxiv.org/abs/2509.10282)|-|<details><summary>detail</summary>Page 14</details>|
-|**2025-9-3**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
 |**2025-8-28**|**IAENet: An Importance-Aware Ensemble Model for 3D Point Cloud-Based Anomaly Detection**|Xuanming Cao et.al|[paper](https://arxiv.org/abs/2508.20492)|-|-|
 |**2025-8-19**|**Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2507.09214)|[code](https://github.com/shiyi-mu/S3AD-Code).)|<details><summary>detail</summary>under review</details>|
 |**2025-8-2**|**C3D-AD: Toward Continual 3D Anomaly Detection via Kernel Attention with Learnable Advisor**|Haoquan Lu et.al|[paper](https://arxiv.org/abs/2508.01311)|[code](https://github.com/hzzzzzhappy/CL3AD)|<details><summary>detail</summary>We have provided the code for C3D-AD with checkpoints and BASELINE at this link: https://github</details>|
@@ -116,7 +117,6 @@
 |**2025-7-25**|**BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection**|An Xiang et.al|[paper](https://arxiv.org/abs/2507.19253)|[code](https://github.com/Xantastic/BridgeNet)|-|
 |**2025-7-24**|**MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection**|Jiayi Cheng et.al|[paper](https://arxiv.org/abs/2505.01969)|[code](https://github.com/iCAN-SZU/MC3D-AD.)|-|
 |**2025-7-17**|**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**|Zi Wang et.al|[paper](https://arxiv.org/abs/2507.13110)|-|-|
-|**2025-7-10**|**3D-ADAM: A Dataset for 3D Anomaly Detection in Advanced Manufacturing**|Paul McHard et.al|[paper](https://arxiv.org/abs/2507.07838)|-|-|
 |**2025-7-10**|**Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects**|Yuqi Cheng et.al|[paper](https://arxiv.org/abs/2507.07435)|-|-|
 |**2025-6-3**|**DAS3D: Dual-modality Anomaly Synthesis for 3D Anomaly Detection**|Kecen Li et.al|[paper](https://arxiv.org/abs/2410.09821)|[code](https://github.com/SunnierLee/DAS3D)|<details><summary>detail</summary>Code available at https://github</details>|
 |**2025-5-27**|**Mentor3AD: Feature Reconstruction-based 3D Anomaly Detection via Multi-modality Mentor Learning**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2505.21420)|-|<details><summary>detail</summary>arXiv admin comment: This version has been removed by arXiv administrators as the submitter did not have the rights to agree to the license at the time of submission</details>|
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-22**|**Individualized non-uniform quantization for vector search**|Mariano Tepper et.al|[paper](https://arxiv.org/abs/2509.18471)|-|-|
 |**2025-9-16**|**Improving 3D Gaussian Splatting Compression by Scene-Adaptive Lattice Vector Quantization**|Hao Xu et.al|[paper](https://arxiv.org/abs/2509.13482)|[code](https://github.com/hxu160/SALVQ)|<details><summary>detail</summary>Code available at https://github</details>|
 |**2025-9-15**|**SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation**|Hui Li et.al|[paper](https://arxiv.org/abs/2509.12086)|-|-|
 |**2025-9-12**|**Scalable Training for Vector-Quantized Networks with 100% Codebook Utilization**|Yifan Chang et.al|[paper](https://arxiv.org/abs/2509.10140)|-|-|
@@ -187,5 +188,4 @@
 |**2025-7-9**|**Adversarial Defenses via Vector Quantization**|Zhiyi Dong et.al|[paper](https://arxiv.org/abs/2305.13651)|[code](https://doi.org/10.1016/j.neucom.2025.130703)|<details><summary>detail</summary>This is the author-accepted version of our paper published in Neurocomputing</details>|
 |**2025-7-9**|**Semi-fragile watermarking of remote sensing images using DWT, vector quantization and automatic tiling**|Jordi Serra-Ruiz et.al|[paper](https://arxiv.org/abs/2507.07250)|-|-|
 |**2025-7-9**|**VQ-SGen: A Vector Quantized Stroke Representation for Creative Sketch Generation**|Jiawei Wang et.al|[paper](https://arxiv.org/abs/2411.16446)|[code](https://enigma-li.github.io/projects/VQ-SGen/VQ-SGen.html)|<details><summary>detail</summary>Project Page: https://enigma-li</details>|
-|**2025-7-8**|**EdgeCodec: Onboard Lightweight High Fidelity Neural Compressor with Residual Vector Quantization**|Benjamin Hodo et.al|[paper](https://arxiv.org/abs/2507.06040)|-|<details><summary>detail</summary>7 Pages</details>|
 
