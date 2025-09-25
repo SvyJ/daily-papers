@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.09.24
+## Updated on 2025.09.25
 
 ## Defect Detection
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-24**|**An Improved Time Series Anomaly Detection by Applying Structural Similarity**|Tiejun Wang et.al|[paper](https://arxiv.org/abs/2509.20184)|-|-|
+|**2025-9-24**|**Anomaly Detection by Clustering DINO Embeddings using a Dirichlet Process Mixture**|Nico Schulthess et.al|[paper](https://arxiv.org/abs/2509.19997)|[code](https://github.com/NicoSchulthess/anomalydino-dpmm.)|<details><summary>detail</summary>Paper accepted at MICCAI 2025</details>|
+|**2025-9-24**|**Pi-Transformer: A Physics-informed Attention Mechanism for Time Series Anomaly Detection**|Sepehr Maleki et.al|[paper](https://arxiv.org/abs/2509.19985)|[code](https://github.com/sepehr-m/Pi-Transformer)|-|
+|**2025-9-24**|**Anomaly Detection in Complex Dynamical Systems: A Systematic Framework Using Embedding Theory and Physics-Inspired Consistency**|Michael Somma et.al|[paper](https://arxiv.org/abs/2502.19307)|-|-|
 |**2025-9-23**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
 |**2025-9-23**|**3D-ADAM: A Dataset for 3D Anomaly Detection in Additive Manufacturing**|Paul McHard et.al|[paper](https://arxiv.org/abs/2507.07838)|-|-|
 |**2025-9-23**|**Advancing Metallic Surface Defect Detection via Anomaly-Guided Pretraining on a Large Industrial Dataset**|Chuni Liu et.al|[paper](https://arxiv.org/abs/2509.18919)|[code](https://clovermini.github.io/AGSSP-Dev/.)|-|
@@ -94,10 +98,6 @@
 |**2025-9-19**|**Quantum Enhanced Anomaly Detection for ADS-B Data using Hybrid Deep Learning**|Rani Naaman et.al|[paper](https://arxiv.org/abs/2509.15991)|-|<details><summary>detail</summary>This is the author's version of the work accepted for publication in the IEEE-AIAA Digital Avionics Systems Conference (DASC) 2025</details>|
 |**2025-9-19**|**Two Is Better Than One: Aligned Representation Pairs for Anomaly Detection**|Alain Ryser et.al|[paper](https://arxiv.org/abs/2405.18848)|[code](https://openreview.net/forum?id=Bt0zdsnWYc)|<details><summary>detail</summary>Published in Transactions on Machine Learning Research (TMLR) https://openreview</details>|
 |**2025-9-19**|**An Adversarial Robust Behavior Sequence Anomaly Detection Approach Based on Critical Behavior Unit Learning**|Dongyang Zhan et.al|[paper](https://arxiv.org/abs/2509.15756)|-|-|
-|**2025-9-19**|**Spatio-Temporal Anomaly Detection with Graph Networks for Data Quality Monitoring of the Hadron Calorimeter**|Mulugeta Weldezgina Asres et.al|[paper](https://arxiv.org/abs/2311.04190)|[code](https://github.com/muleina/CMS_HCAL_ML_OnlineDQM)|-|
-|**2025-9-19**|**Hybrid Temporal Differential Consistency Autoencoder for Efficient and Sustainable Anomaly Detection in Cyber-Physical Systems**|Michael Somma et.al|[paper](https://arxiv.org/abs/2504.06320)|-|-|
-|**2025-9-18**|**Watermarking and Anomaly Detection in Machine Learning Models for LORA RF Fingerprinting**|Aarushi Mahajan et.al|[paper](https://arxiv.org/abs/2509.15170)|-|<details><summary>detail</summary>IEEE International Conference on Acoustics</details>|
-|**2025-9-18**|**AnoF-Diff: One-Step Diffusion-Based Anomaly Detection for Forceful Tool Use**|Yating Lin et.al|[paper](https://arxiv.org/abs/2509.15153)|-|-|
 
 ## 3D Anomaly Detection
 
