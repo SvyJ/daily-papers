@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.09.29
+## Updated on 2025.09.30
 
 ## Defect Detection
 
@@ -73,8 +73,13 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-29**|**Generalist Multi-Class Anomaly Detection via Distillation to Two Heterogeneous Student Networks**|Hangil Park et.al|[paper](https://arxiv.org/abs/2509.24448)|-|-|
+|**2025-9-29**|**ScatterAD: Temporal-Topological Scattering Mechanism for Time Series Anomaly Detection**|Tao Yin et.al|[paper](https://arxiv.org/abs/2509.24414)|[code](https://github.com/jk-sounds/ScatterAD.)|<details><summary>detail</summary>39th Conference on Neural Information Processing Systems (NeurIPS 2025)</details>|
+|**2025-9-29**|**AXIS: Explainable Time Series Anomaly Detection with Large Language Models**|Tian Lan et.al|[paper](https://arxiv.org/abs/2509.24378)|-|-|
+|**2025-9-28**|**Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy**|Tian Lan et.al|[paper](https://arxiv.org/abs/2509.21190)|-|-|
+|**2025-9-28**|**ResAD++: Towards Class Agnostic Anomaly Detection via Residual Feature Learning**|Xincheng Yao et.al|[paper](https://arxiv.org/abs/2509.23741)|[code](https://github.com/xcyao00/ResAD.)|<details><summary>detail</summary>This paper is an extended version of our NeurIPS 2024 paper</details>|
+|**2025-9-26**|**From Noise to Knowledge: A Comparative Study of Acoustic Anomaly Detection Models in Pumped-storage Hydropower Plants**|Karim Khamaisi et.al|[paper](https://arxiv.org/abs/2509.22881)|-|-|
 |**2025-9-26**|**HyCoVAD: A Hybrid SSL-LLM Model for Complex Video Anomaly Detection**|Mohammad Mahdi Hemmatyar et.al|[paper](https://arxiv.org/abs/2509.22544)|-|-|
-|**2025-9-25**|**Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy**|Tian Lan et.al|[paper](https://arxiv.org/abs/2509.21190)|-|-|
 |**2025-9-25**|**FracAug: Fractional Augmentation boost Graph-level Anomaly Detection under Limited Supervision**|Xiangyu Dong et.al|[paper](https://arxiv.org/abs/2509.20978)|-|-|
 |**2025-9-25**|**A Deep Learning Framework for Evaluating Dynamic Network Generative Models and Anomaly Detection**|Alireza Rashnu et.al|[paper](https://arxiv.org/abs/2406.11901)|-|<details><summary>detail</summary>Journal ref:Journal of Innovations in Computer Science and Engineering (JICSE)</details>|
 |**2025-9-24**|**Unsupervised Log Anomaly Detection with Few Unique Tokens**|Antonin Sulc et.al|[paper](https://arxiv.org/abs/2310.08951)|-|-|
@@ -93,11 +98,6 @@
 |**2025-9-22**|**Tailored Transformation Invariance for Industrial Anomaly Detection**|Mariette Schönfeld et.al|[paper](https://arxiv.org/abs/2509.17670)|[code](https://github.com/marietteschonfeld/LWinNN)|-|
 |**2025-9-22**|**From Benchmarks to Reality: Advancing Visual Anomaly Detection by the VAND 3.0 Challenge**|Lars Heckler-Kram et.al|[paper](https://arxiv.org/abs/2509.17615)|-|-|
 |**2025-9-22**|**Robust Anomaly Detection Under Normality Distribution Shift in Dynamic Graphs**|Xiaoyang Xu et.al|[paper](https://arxiv.org/abs/2509.17400)|-|-|
-|**2025-9-21**|**RationAnomaly: Log Anomaly Detection with Rationality via Chain-of-Thought and Reinforcement Learning**|Song Xu et.al|[paper](https://arxiv.org/abs/2509.14693)|-|-|
-|**2025-9-21**|**Prospective Multi-Graph Cohesion for Multivariate Time Series Anomaly Detection**|Jiazhen Chen et.al|[paper](https://arxiv.org/abs/2509.17235)|-|<details><summary>detail</summary>Accepted by the 18th ACM International Conference on Web Search and Data Mining (ACM WSDM 2025)</details>|
-|**2025-9-21**|**Intention-aware Hierarchical Diffusion Model for Long-term Trajectory Anomaly Detection**|Chen Wang et.al|[paper](https://arxiv.org/abs/2509.17068)|-|-|
-|**2025-9-20**|**DCAD-2000: A Multilingual Dataset across 2000+ Languages with Data Cleaning as Anomaly Detection**|Yingli Shen et.al|[paper](https://arxiv.org/abs/2502.11546)|-|-|
-|**2025-9-20**|**AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM**|Sunghyun Ahn et.al|[paper](https://arxiv.org/abs/2503.04504)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-28**|**Texture Vector-Quantization and Reconstruction Aware Prediction for Generative Super-Resolution**|Qifan Li et.al|[paper](https://arxiv.org/abs/2509.23774)|-|-|
 |**2025-9-26**|**Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning**|Zian Zhai et.al|[paper](https://arxiv.org/abs/2508.06588)|-|-|
 |**2025-9-26**|**Pushing Toward the Simplex Vertices: A Simple Remedy for Code Collapse in Smoothed Vector Quantization**|Takashi Morita et.al|[paper](https://arxiv.org/abs/2509.22161)|-|-|
 |**2025-9-26**|**AUV: Teaching Audio Universal Vector Quantization with Single Nested Codebook**|Yushen Chen et.al|[paper](https://arxiv.org/abs/2509.21968)|[code](https://swivid.github.io/AUV/.)|<details><summary>detail</summary>Submitted to ICASSP 2026</details>|
@@ -187,5 +188,4 @@
 |**2025-7-30**|**ViM-VQ: Efficient Post-Training Vector Quantization for Visual Mamba**|Juncan Deng et.al|[paper](https://arxiv.org/abs/2503.09509)|-|-|
 |**2025-7-30**|**Addressing Representation Collapse in Vector Quantized Models with One Linear Layer**|Yongxin Zhu et.al|[paper](https://arxiv.org/abs/2411.02038)|-|<details><summary>detail</summary>ICCV2025</details>|
 |**2025-7-26**|**All-in-One Medical Image Restoration with Latent Diffusion-Enhanced Vector-Quantized Codebook Prior**|Haowei Chen et.al|[paper](https://arxiv.org/abs/2507.19874)|-|-|
-|**2025-7-20**|**Vector Quantization Prompting for Continual Learning**|Li Jiao et.al|[paper](https://arxiv.org/abs/2410.20444)|[code](https://github.com/jiaolifengmi/VQ-Prompt)|<details><summary>detail</summary>Accepted by NeurIPS 2024</details>|
 
