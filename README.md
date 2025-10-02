@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.10.01
+## Updated on 2025.10.02
 
 ## Defect Detection
 
@@ -43,6 +43,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-1**|**Defect Segmentation in OCT scans of ceramic parts for non-destructive inspection using deep learning**|Andrés Laveda-Martínez et.al|[paper](https://arxiv.org/abs/2510.00745)|-|-|
 |**2025-9-11**|**Unsupervised Integrated-Circuit Defect Segmentation via Image-Intrinsic Normality**|Botong Zhao et.al|[paper](https://arxiv.org/abs/2509.09375)|-|-|
 |**2025-8-14**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2025-8-11**|**KARMA: Efficient Structural Defect Segmentation via Kolmogorov-Arnold Representation Learning**|Md Meftahul Ferdaus et.al|[paper](https://arxiv.org/abs/2508.08186)|[code](https://github.com/faeyelab/karma.)|<details><summary>detail</summary>submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence</details>|
@@ -67,12 +68,15 @@
 |**2024-4-17**|**CarcassFormer: An End-to-end Transformer-based Framework for Simultaneous Localization, Segmentation and Classification of Poultry Carcass Defect**|Minh Tran et.al|[paper](https://arxiv.org/abs/2404.11429)|[code](https://github.com/UARK-AICV/CarcassFormer)|<details><summary>detail</summary>Poultry Science Journal</details>|
 |**2024-3-17**|**LERENet: Eliminating Intra-class Differences for Metal Surface Defect Few-shot Semantic Segmentation**|Hanze Ding et.al|[paper](https://arxiv.org/abs/2403.11122)|-|-|
 |**2024-2-6**|**Multi-class Road Defect Detection and Segmentation using Spatial and Channel-wise Attention for Autonomous Road Repairing**|Jongmin Yu et.al|[paper](https://arxiv.org/abs/2402.04064)|-|<details><summary>detail</summary>the ICRA 2024</details>|
-|**2023-12-21**|**Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation**|Rasha Alshawi et.al|[paper](https://arxiv.org/abs/2312.14053)|-|<details><summary>detail</summary>under review in IEEE Transactions on Artificial Intelligence</details>|
 
 ## Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-1**|**Normal-Abnormal Guided Generalist Anomaly Detection**|Yuexin Wang et.al|[paper](https://arxiv.org/abs/2510.00495)|[code](https://github.com/JasonKyng/NAGL.)|-|
+|**2025-9-30**|**Robust Spatiotemporally Contiguous Anomaly Detection Using Tensor Decomposition**|Rachita Mondal et.al|[paper](https://arxiv.org/abs/2510.00460)|-|-|
+|**2025-9-30**|**MissionHD: Hyperdimensional Refinement of Distribution-Deficient Reasoning Graphs for Video Anomaly Detection**|Sanggeon Yun et.al|[paper](https://arxiv.org/abs/2508.14746)|-|-|
+|**2025-9-30**|**Improved Hyperspectral Anomaly Detection via Unsupervised Subspace Modeling in the Signed Cumulative Distribution Transform Domain**|Abu Hasnat Mohammad Rubaiyat et.al|[paper](https://arxiv.org/abs/2510.00148)|-|-|
 |**2025-9-30**|**PANDA: Towards Generalist Video Anomaly Detection via Agentic AI Engineer**|Zhiwei Yang et.al|[paper](https://arxiv.org/abs/2509.26386)|[code](https://github.com/showlab/PANDA.)|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
 |**2025-9-30**|**SoK: Systematic analysis of adversarial threats against deep learning approaches for autonomous anomaly detection systems in SDN-IoT networks**|Tharindu Lakshan Yasarathna et.al|[paper](https://arxiv.org/abs/2509.26350)|-|-|
 |**2025-9-30**|**Anomaly detection for generic failure monitoring in robotic assembly, screwing and manipulation**|Niklas Grambow et.al|[paper](https://arxiv.org/abs/2509.26308)|-|-|
@@ -94,10 +98,6 @@
 |**2025-9-24**|**Anomaly Detection by Clustering DINO Embeddings using a Dirichlet Process Mixture**|Nico Schulthess et.al|[paper](https://arxiv.org/abs/2509.19997)|[code](https://github.com/NicoSchulthess/anomalydino-dpmm.)|<details><summary>detail</summary>Paper accepted at MICCAI 2025</details>|
 |**2025-9-24**|**Pi-Transformer: A Physics-informed Attention Mechanism for Time Series Anomaly Detection**|Sepehr Maleki et.al|[paper](https://arxiv.org/abs/2509.19985)|[code](https://github.com/sepehr-m/Pi-Transformer)|-|
 |**2025-9-24**|**Anomaly Detection in Complex Dynamical Systems: A Systematic Framework Using Embedding Theory and Physics-Inspired Consistency**|Michael Somma et.al|[paper](https://arxiv.org/abs/2502.19307)|-|-|
-|**2025-9-23**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
-|**2025-9-23**|**3D-ADAM: A Dataset for 3D Anomaly Detection in Additive Manufacturing**|Paul McHard et.al|[paper](https://arxiv.org/abs/2507.07838)|-|-|
-|**2025-9-23**|**Advancing Metallic Surface Defect Detection via Anomaly-Guided Pretraining on a Large Industrial Dataset**|Chuni Liu et.al|[paper](https://arxiv.org/abs/2509.18919)|[code](https://clovermini.github.io/AGSSP-Dev/.)|-|
-|**2025-9-23**|**HDM: Hybrid Diffusion Model for Unified Image Anomaly Detection**|Zekang Weng et.al|[paper](https://arxiv.org/abs/2502.19200)|-|<details><summary>detail</summary>The paper is withdrawn owing to issues found in the experimental results</details>|
 
 ## 3D Anomaly Detection
 
