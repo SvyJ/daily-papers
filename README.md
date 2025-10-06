@@ -7,16 +7,16 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.10.05
+## Updated on 2025.10.06
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-2**|**YOLO-Based Defect Detection for Metal Sheets**|Po-Heng Chou et.al|[paper](https://arxiv.org/abs/2509.25659)|-|-|
 |**2025-10-2**|**Automated Defect Detection for Mass-Produced Electronic Components Based on YOLO Object Detection Models**|Wei-Lung Mao et.al|[paper](https://arxiv.org/abs/2510.01914)|-|-|
 |**2025-9-30**|**Multi-View Camera System for Variant-Aware Autonomous Vehicle Inspection and Defect Detection**|Yash Kulkarni et.al|[paper](https://arxiv.org/abs/2509.26454)|-|-|
 |**2025-9-30**|**TinyDef-DETR: A DETR-based Framework for Defect Detection in Transmission Lines from UAV Imagery**|Feng Shen et.al|[paper](https://arxiv.org/abs/2509.06035)|-|-|
-|**2025-9-29**|**YOLO-Based Defect Detection for Metal Sheets**|Po-Heng Chou et.al|[paper](https://arxiv.org/abs/2509.25659)|-|-|
 |**2025-9-25**|**Unsupervised Defect Detection for Surgical Instruments**|Joseph Huang et.al|[paper](https://arxiv.org/abs/2509.21561)|-|-|
 |**2025-9-25**|**A Real-Time On-Device Defect Detection Framework for Laser Power-Meter Sensors via Unsupervised Learning**|Dongqi Zheng et.al|[paper](https://arxiv.org/abs/2509.20946)|-|-|
 |**2025-9-23**|**Advancing Metallic Surface Defect Detection via Anomaly-Guided Pretraining on a Large Industrial Dataset**|Chuni Liu et.al|[paper](https://arxiv.org/abs/2509.18919)|[code](https://clovermini.github.io/AGSSP-Dev/.)|-|
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-3**|**CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering**|Zhe Zhang et.al|[paper](https://arxiv.org/abs/2505.01476)|[code](https://github.com/ZHE-SAPI/CostFilter-AD.)|-|
+|**2025-10-2**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
+|**2025-10-2**|**Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection**|Jiawen Zhu et.al|[paper](https://arxiv.org/abs/2410.10289)|[code](https://github.com/mala-lab/FAPrompt.)|<details><summary>detail</summary>ICCV 2025</details>|
 |**2025-10-2**|**PUL-Inter-slice Defender: An Anomaly Detection Solution for Distributed Slice Mobility Attacks**|Ricardo Misael Ayala Molina et.al|[paper](https://arxiv.org/abs/2510.02236)|-|-|
 |**2025-10-2**|**Unlocking Vision-Language Models for Video Anomaly Detection via Fine-Grained Prompting**|Shu Zou et.al|[paper](https://arxiv.org/abs/2510.02155)|-|-|
 |**2025-10-2**|**MissionHD: Hyperdimensional Refinement of Distribution-Deficient Reasoning Graphs for Video Anomaly Detection**|Sanggeon Yun et.al|[paper](https://arxiv.org/abs/2508.14746)|-|-|
@@ -95,15 +98,12 @@
 |**2025-9-28**|**Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy**|Tian Lan et.al|[paper](https://arxiv.org/abs/2509.21190)|-|-|
 |**2025-9-28**|**ResAD++: Towards Class Agnostic Anomaly Detection via Residual Feature Learning**|Xincheng Yao et.al|[paper](https://arxiv.org/abs/2509.23741)|[code](https://github.com/xcyao00/ResAD.)|<details><summary>detail</summary>This paper is an extended version of our NeurIPS 2024 paper</details>|
 |**2025-9-26**|**From Noise to Knowledge: A Comparative Study of Acoustic Anomaly Detection Models in Pumped-storage Hydropower Plants**|Karim Khamaisi et.al|[paper](https://arxiv.org/abs/2509.22881)|-|-|
-|**2025-9-26**|**HyCoVAD: A Hybrid SSL-LLM Model for Complex Video Anomaly Detection**|Mohammad Mahdi Hemmatyar et.al|[paper](https://arxiv.org/abs/2509.22544)|-|-|
-|**2025-9-25**|**FracAug: Fractional Augmentation boost Graph-level Anomaly Detection under Limited Supervision**|Xiangyu Dong et.al|[paper](https://arxiv.org/abs/2509.20978)|-|-|
-|**2025-9-25**|**A Deep Learning Framework for Evaluating Dynamic Network Generative Models and Anomaly Detection**|Alireza Rashnu et.al|[paper](https://arxiv.org/abs/2406.11901)|-|<details><summary>detail</summary>Journal ref:Journal of Innovations in Computer Science and Engineering (JICSE)</details>|
 
 ## 3D Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2025-9-23**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
+|**2025-10-2**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
 |**2025-9-23**|**3D-ADAM: A Dataset for 3D Anomaly Detection in Additive Manufacturing**|Paul McHard et.al|[paper](https://arxiv.org/abs/2507.07838)|-|-|
 |**2025-9-16**|**Taming Anomalies with Down-Up Sampling Networks: Group Center Preserving Reconstruction for 3D Anomaly Detection**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2507.03903)|-|<details><summary>detail</summary>ACM MM25 Accepted</details>|
 |**2025-9-12**|**MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection**|Gang Li et.al|[paper](https://arxiv.org/abs/2509.10282)|-|<details><summary>detail</summary>Page 14</details>|
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-3**|**Addressing Representation Collapse in Vector Quantized Models with One Linear Layer**|Yongxin Zhu et.al|[paper](https://arxiv.org/abs/2411.02038)|[code](https://github.com/youngsheen/SimVQ.)|<details><summary>detail</summary>ICCV2025</details>|
 |**2025-10-1**|**Purrception: Variational Flow Matching for Vector-Quantized Image Generation**|Răzvan-Andrei Matişan et.al|[paper](https://arxiv.org/abs/2510.01478)|-|-|
 |**2025-9-30**|**DiVeQ: Differentiable Vector Quantization Using the Reparameterization Trick**|Mohammad Hassan Vali et.al|[paper](https://arxiv.org/abs/2509.26469)|-|-|
 |**2025-9-30**|**Texture Vector-Quantization and Reconstruction Aware Prediction for Generative Super-Resolution**|Qifan Li et.al|[paper](https://arxiv.org/abs/2509.23774)|-|-|
@@ -187,5 +188,4 @@
 |**2025-8-5**|**CIVQLLIE: Causal Intervention with Vector Quantization for Low-Light Image Enhancement**|Tongshun Zhang et.al|[paper](https://arxiv.org/abs/2508.03338)|-|-|
 |**2025-8-5**|**BrainECHO: Semantic Brain Signal Decoding through Vector-Quantized Spectrogram Reconstruction for Whisper-Enhanced Text Generation**|Jilong Li et.al|[paper](https://arxiv.org/abs/2410.14971)|-|-|
 |**2025-8-3**|**SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting**|Shuaiting Li et.al|[paper](https://arxiv.org/abs/2503.08668)|[code](https://github.com/list0830/SSVQ.)|<details><summary>detail</summary>ICCV'25 camera ready</details>|
-|**2025-7-31**|**VQ-DeepISC: Vector Quantized-Enabled Digital Semantic Communication with Channel Adaptive Image Transmission**|Jianqiao Chen et.al|[paper](https://arxiv.org/abs/2508.03740)|-|-|
 
