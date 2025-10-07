@@ -7,14 +7,14 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.10.06
+## Updated on 2025.10.07
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-3**|**Automated Defect Detection for Mass-Produced Electronic Components Based on YOLO Object Detection Models**|Wei-Lung Mao et.al|[paper](https://arxiv.org/abs/2510.01914)|-|-|
 |**2025-10-2**|**YOLO-Based Defect Detection for Metal Sheets**|Po-Heng Chou et.al|[paper](https://arxiv.org/abs/2509.25659)|-|-|
-|**2025-10-2**|**Automated Defect Detection for Mass-Produced Electronic Components Based on YOLO Object Detection Models**|Wei-Lung Mao et.al|[paper](https://arxiv.org/abs/2510.01914)|-|-|
 |**2025-9-30**|**Multi-View Camera System for Variant-Aware Autonomous Vehicle Inspection and Defect Detection**|Yash Kulkarni et.al|[paper](https://arxiv.org/abs/2509.26454)|-|-|
 |**2025-9-30**|**TinyDef-DETR: A DETR-based Framework for Defect Detection in Transmission Lines from UAV Imagery**|Feng Shen et.al|[paper](https://arxiv.org/abs/2509.06035)|-|-|
 |**2025-9-25**|**Unsupervised Defect Detection for Surgical Instruments**|Joseph Huang et.al|[paper](https://arxiv.org/abs/2509.21561)|-|-|
@@ -73,8 +73,15 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-6**|**ViP$^2$-CLIP: Visual-Perception Prompting with Unified Alignment for Zero-Shot Anomaly Detection**|Ziteng Yang et.al|[paper](https://arxiv.org/abs/2505.17692)|-|-|
+|**2025-10-6**|**Anomaly-Aware YOLO: A Frugal yet Robust Approach to Infrared Small Target Detection**|Alina Ciocarlan et.al|[paper](https://arxiv.org/abs/2510.04741)|-|-|
+|**2025-10-4**|**THEMIS: Unlocking Pretrained Knowledge with Foundation Model Embeddings for Anomaly Detection in Time Series**|Yadav Mahesh Lorik et.al|[paper](https://arxiv.org/abs/2510.03911)|-|<details><summary>detail</summary>Oral Presentation</details>|
+|**2025-10-4**|**Adaptive and Explainable AI Agents for Anomaly Detection in Critical IoT Infrastructure using LLM-Enhanced Contextual Reasoning**|Raghav Sharma et.al|[paper](https://arxiv.org/abs/2510.03859)|-|-|
+|**2025-10-3**|**Towards Generalizable Context-aware Anomaly Detection: A Large-scale Benchmark in Cloud Environments**|Xinkai Zou et.al|[paper](https://arxiv.org/abs/2508.01844)|[code](https://jayzou3773.github.io/cloudanobench-agent/)|-|
+|**2025-10-3**|**Reasoning-based Anomaly Detection Framework: A Real-time, Scalable, and Automated Approach to Anomaly Detection Across Domains**|Anupam Panwar et.al|[paper](https://arxiv.org/abs/2510.03486)|-|-|
 |**2025-10-3**|**CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering**|Zhe Zhang et.al|[paper](https://arxiv.org/abs/2505.01476)|[code](https://github.com/ZHE-SAPI/CostFilter-AD.)|-|
 |**2025-10-2**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
+|**2025-10-2**|**Unified Unsupervised Anomaly Detection via Matching Cost Filtering**|Zhe Zhang et.al|[paper](https://arxiv.org/abs/2510.03363)|[code](https://github.com/ZHE-SAPI/CostFilter-AD.)|-|
 |**2025-10-2**|**Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection**|Jiawen Zhu et.al|[paper](https://arxiv.org/abs/2410.10289)|[code](https://github.com/mala-lab/FAPrompt.)|<details><summary>detail</summary>ICCV 2025</details>|
 |**2025-10-2**|**PUL-Inter-slice Defender: An Anomaly Detection Solution for Distributed Slice Mobility Attacks**|Ricardo Misael Ayala Molina et.al|[paper](https://arxiv.org/abs/2510.02236)|-|-|
 |**2025-10-2**|**Unlocking Vision-Language Models for Video Anomaly Detection via Fine-Grained Prompting**|Shu Zou et.al|[paper](https://arxiv.org/abs/2510.02155)|-|-|
@@ -91,13 +98,6 @@
 |**2025-9-30**|**UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression**|Yuan Zhao et.al|[paper](https://arxiv.org/abs/2509.25934)|[code](https://github.com/yuanzhao-CVLAB/UniMMAD.)|<details><summary>detail</summary>manuscript</details>|
 |**2025-9-30**|**PatchEAD: Unifying Industrial Visual Prompting Frameworks for Patch-Exclusive Anomaly Detection**|Po-Han Huang et.al|[paper](https://arxiv.org/abs/2509.25856)|-|-|
 |**2025-9-29**|**Towards Convexity in Anomaly Detection: A New Formulation of SSLM with Unique Optimal Solutions**|Hongying Liu et.al|[paper](https://arxiv.org/abs/2410.23774)|-|-|
-|**2025-9-29**|**Unsupervised Detection of Spatiotemporal Anomalies in PMU Data Using Transformer-Based BiGAN**|Muhammad Imran Hossain et.al|[paper](https://arxiv.org/abs/2509.25612)|-|-|
-|**2025-9-29**|**Generalist Multi-Class Anomaly Detection via Distillation to Two Heterogeneous Student Networks**|Hangil Park et.al|[paper](https://arxiv.org/abs/2509.24448)|-|-|
-|**2025-9-29**|**ScatterAD: Temporal-Topological Scattering Mechanism for Time Series Anomaly Detection**|Tao Yin et.al|[paper](https://arxiv.org/abs/2509.24414)|[code](https://github.com/jk-sounds/ScatterAD.)|<details><summary>detail</summary>39th Conference on Neural Information Processing Systems (NeurIPS 2025)</details>|
-|**2025-9-29**|**AXIS: Explainable Time Series Anomaly Detection with Large Language Models**|Tian Lan et.al|[paper](https://arxiv.org/abs/2509.24378)|-|-|
-|**2025-9-28**|**Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy**|Tian Lan et.al|[paper](https://arxiv.org/abs/2509.21190)|-|-|
-|**2025-9-28**|**ResAD++: Towards Class Agnostic Anomaly Detection via Residual Feature Learning**|Xincheng Yao et.al|[paper](https://arxiv.org/abs/2509.23741)|[code](https://github.com/xcyao00/ResAD.)|<details><summary>detail</summary>This paper is an extended version of our NeurIPS 2024 paper</details>|
-|**2025-9-26**|**From Noise to Knowledge: A Comparative Study of Acoustic Anomaly Detection Models in Pumped-storage Hydropower Plants**|Karim Khamaisi et.al|[paper](https://arxiv.org/abs/2509.22881)|-|-|
 
 ## 3D Anomaly Detection
 
