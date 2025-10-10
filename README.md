@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.10.09
+## Updated on 2025.10.10
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-8**|**Transformer-Based Indirect Structural Health Monitoring of Rail Infrastructure with Attention-Driven Detection and Localization of Transient Defects**|Sizhe Ma et.al|[paper](https://arxiv.org/abs/2510.07606)|-|<details><summary>detail</summary>Preprint presented at the 15th International Workshop on Structural Health Monitoring (IWSHM)</details>|
 |**2025-10-8**|**Automated Neural Architecture Design for Industrial Defect Detection**|Yuxi Liu et.al|[paper](https://arxiv.org/abs/2510.06669)|[code](https://github.com/Yuxi104/AutoNAD.)|-|
 |**2025-10-7**|**Kaputt: A Large-Scale Dataset for Visual Defect Detection**|Sebastian Höfer et.al|[paper](https://arxiv.org/abs/2510.05903)|[code](https://www.kaputt-dataset.com.)|<details><summary>detail</summary>ICCV 2025</details>|
 |**2025-10-3**|**Automated Defect Detection for Mass-Produced Electronic Components Based on YOLO Object Detection Models**|Wei-Lung Mao et.al|[paper](https://arxiv.org/abs/2510.01914)|-|-|
@@ -37,7 +38,6 @@
 |**2025-8-14**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2025-8-12**|**Masked Autoencoder Self Pre-Training for Defect Detection in Microelectronics**|Nikolai Röhrich et.al|[paper](https://arxiv.org/abs/2504.10021)|-|-|
 |**2025-8-10**|**A Steel Surface Defect Detection Method Based on Lightweight Convolution Optimization**|Cong Chen et.al|[paper](https://arxiv.org/abs/2507.15476)|[code](https://doi.org/10.14569/IJACSA.2025.0160619)|<details><summary>detail</summary>This is a preprint of an article accepted for publication in the International Journal of Advanced Computer Science and Applications (IJACSA)</details>|
-|**2025-8-8**|**Advancing Welding Defect Detection in Maritime Operations via Adapt-WeldNet and Defect Detection Interpretability Analysis**|Kamal Basha S et.al|[paper](https://arxiv.org/abs/2508.00381)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-9**|**RASALoRE: Region Aware Spatial Attention with Location-based Random Embeddings for Weakly Supervised Anomaly Detection in Brain MRI Scans**|Bheeshm Sharma et.al|[paper](https://arxiv.org/abs/2510.08052)|[code](https://github.com/BheeshmSharma/RASALoRE-BMVC-2025/.)|<details><summary>detail</summary>Accepted in BMVC-2025</details>|
+|**2025-10-9**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
+|**2025-10-9**|**ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection**|Qunyi Zhang et.al|[paper](https://arxiv.org/abs/2510.07927)|-|-|
+|**2025-10-9**|**Meta-Learning Based Few-Shot Graph-Level Anomaly Detection**|Liting Li et.al|[paper](https://arxiv.org/abs/2510.07847)|-|<details><summary>detail</summary>Accepted by ARRML2025</details>|
+|**2025-10-9**|**LogAction: Consistent Cross-system Anomaly Detection through Logs via Active Domain Adaptation**|Chiming Duan et.al|[paper](https://arxiv.org/abs/2510.03288)|[code](https://logaction.github.io)|<details><summary>detail</summary>The 40th IEEE/ACM International Conference on Automated Software Engineering</details>|
+|**2025-10-8**|**LLM meets ML: Data-efficient Anomaly Detection on Unstable Logs**|Fatemeh Hadadi et.al|[paper](https://arxiv.org/abs/2406.07467)|-|<details><summary>detail</summary>Accepted by ACM Transactions on Software Engineering and Methodology (TOSEM) 2025</details>|
 |**2025-10-8**|**GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics**|Guan-Yan Yang et.al|[paper](https://arxiv.org/abs/2510.07109)|-|<details><summary>detail</summary>This paper has been accepted for publication in IEEE Transactions on Consumer Electronics</details>|
 |**2025-10-8**|**Unified Unsupervised Anomaly Detection via Matching Cost Filtering**|Zhe Zhang et.al|[paper](https://arxiv.org/abs/2510.03363)|[code](https://github.com/ZHE-SAPI/CostFilter-AD.)|-|
 |**2025-10-8**|**Vacuum Spiker: A Spiking Neural Network-Based Model for Efficient Anomaly Detection in Time Series**|Iago Xabier Vázquez et.al|[paper](https://arxiv.org/abs/2510.06910)|-|-|
@@ -85,7 +91,6 @@
 |**2025-10-3**|**Towards Generalizable Context-aware Anomaly Detection: A Large-scale Benchmark in Cloud Environments**|Xinkai Zou et.al|[paper](https://arxiv.org/abs/2508.01844)|[code](https://jayzou3773.github.io/cloudanobench-agent/)|-|
 |**2025-10-3**|**Reasoning-based Anomaly Detection Framework: A Real-time, Scalable, and Automated Approach to Anomaly Detection Across Domains**|Anupam Panwar et.al|[paper](https://arxiv.org/abs/2510.03486)|-|-|
 |**2025-10-3**|**CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering**|Zhe Zhang et.al|[paper](https://arxiv.org/abs/2505.01476)|[code](https://github.com/ZHE-SAPI/CostFilter-AD.)|-|
-|**2025-10-2**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
 |**2025-10-2**|**Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection**|Jiawen Zhu et.al|[paper](https://arxiv.org/abs/2410.10289)|[code](https://github.com/mala-lab/FAPrompt.)|<details><summary>detail</summary>ICCV 2025</details>|
 |**2025-10-2**|**PUL-Inter-slice Defender: An Anomaly Detection Solution for Distributed Slice Mobility Attacks**|Ricardo Misael Ayala Molina et.al|[paper](https://arxiv.org/abs/2510.02236)|-|-|
 |**2025-10-2**|**Unlocking Vision-Language Models for Video Anomaly Detection via Fine-Grained Prompting**|Shu Zou et.al|[paper](https://arxiv.org/abs/2510.02155)|-|-|
@@ -93,17 +98,12 @@
 |**2025-10-2**|**ReTabAD: A Benchmark for Restoring Semantic Context in Tabular Anomaly Detection**|Sanghyu Yoon et.al|[paper](https://arxiv.org/abs/2510.02060)|-|-|
 |**2025-10-2**|**Normality Calibration in Semi-supervised Graph Anomaly Detection**|Guolei Zeng et.al|[paper](https://arxiv.org/abs/2510.02014)|-|-|
 |**2025-10-2**|**Moon: A Modality Conversion-based Efficient Multivariate Time Series Anomaly Detection**|Yuanyuan Yao et.al|[paper](https://arxiv.org/abs/2510.01970)|-|-|
-|**2025-10-2**|**Normal-Abnormal Guided Generalist Anomaly Detection**|Yuexin Wang et.al|[paper](https://arxiv.org/abs/2510.00495)|[code](https://github.com/JasonKyng/NAGL.)|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
-|**2025-9-30**|**Robust Spatiotemporally Contiguous Anomaly Detection Using Tensor Decomposition**|Rachita Mondal et.al|[paper](https://arxiv.org/abs/2510.00460)|-|-|
-|**2025-9-30**|**Improved Hyperspectral Anomaly Detection via Unsupervised Subspace Modeling in the Signed Cumulative Distribution Transform Domain**|Abu Hasnat Mohammad Rubaiyat et.al|[paper](https://arxiv.org/abs/2510.00148)|-|-|
-|**2025-9-30**|**PANDA: Towards Generalist Video Anomaly Detection via Agentic AI Engineer**|Zhiwei Yang et.al|[paper](https://arxiv.org/abs/2509.26386)|[code](https://github.com/showlab/PANDA.)|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
-|**2025-9-30**|**SoK: Systematic analysis of adversarial threats against deep learning approaches for autonomous anomaly detection systems in SDN-IoT networks**|Tharindu Lakshan Yasarathna et.al|[paper](https://arxiv.org/abs/2509.26350)|-|-|
 
 ## 3D Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2025-10-2**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
+|**2025-10-9**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
 |**2025-9-23**|**3D-ADAM: A Dataset for 3D Anomaly Detection in Additive Manufacturing**|Paul McHard et.al|[paper](https://arxiv.org/abs/2507.07838)|-|-|
 |**2025-9-16**|**Taming Anomalies with Down-Up Sampling Networks: Group Center Preserving Reconstruction for 3D Anomaly Detection**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2507.03903)|-|<details><summary>detail</summary>ACM MM25 Accepted</details>|
 |**2025-9-12**|**MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection**|Gang Li et.al|[paper](https://arxiv.org/abs/2509.10282)|-|<details><summary>detail</summary>Page 14</details>|
