@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.10.12
+## Updated on 2025.10.13
 
 ## Defect Detection
 
@@ -73,6 +73,13 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-10**|**DQS: A Low-Budget Query Strategy for Enhancing Unsupervised Data-driven Anomaly Detection Approaches**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2509.05663)|-|<details><summary>detail</summary>Submitted to the Information Sciences journal</details>|
+|**2025-10-10**|**ACD-CLIP: Decoupling Representation and Dynamic Fusion for Zero-Shot Anomaly Detection**|Ke Ma et.al|[paper](https://arxiv.org/abs/2508.07819)|[code](https://github.com/cockmake/ACD-CLIP.)|-|
+|**2025-10-10**|**TriP-LLM: A Tri-Branch Patch-wise Large Language Model Framework for Time-Series Anomaly Detection**|Yuan-Cheng Yu et.al|[paper](https://arxiv.org/abs/2508.00047)|[code](https://github.com/YYZStart/TriP-LLM.git)|<details><summary>detail</summary>Accepted version of the paper published in IEEE Access (2025)</details>|
+|**2025-10-10**|**Improving Anomaly Detection in Industrial Time Series: The Role of Segmentation and Heterogeneous Ensemble**|Emilio Mastriani et.al|[paper](https://arxiv.org/abs/2510.09079)|-|<details><summary>detail</summary>Conference paper</details>|
+|**2025-10-10**|**Visual Anomaly Detection for Reliable Robotic Implantation of Flexible Microelectrode Array**|Yitong Chen et.al|[paper](https://arxiv.org/abs/2510.09071)|-|<details><summary>detail</summary>Accept by IROS 2025</details>|
+|**2025-10-9**|**AD-LLM: Benchmarking Large Language Models for Anomaly Detection**|Tiankai Yang et.al|[paper](https://arxiv.org/abs/2412.11142)|-|<details><summary>detail</summary>Findings of the Association for Computational Linguistics (ACL 2025)</details>|
+|**2025-10-9**|**NLP-ADBench: NLP Anomaly Detection Benchmark**|Yuangang Li et.al|[paper](https://arxiv.org/abs/2412.04784)|[code](https://github.com/USC-FORTIS/NLP-ADBench,)|<details><summary>detail</summary>EMNLP Findings 2025</details>|
 |**2025-10-9**|**RASALoRE: Region Aware Spatial Attention with Location-based Random Embeddings for Weakly Supervised Anomaly Detection in Brain MRI Scans**|Bheeshm Sharma et.al|[paper](https://arxiv.org/abs/2510.08052)|[code](https://github.com/BheeshmSharma/RASALoRE-BMVC-2025/.)|<details><summary>detail</summary>Accepted in BMVC-2025</details>|
 |**2025-10-9**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
 |**2025-10-9**|**ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection**|Qunyi Zhang et.al|[paper](https://arxiv.org/abs/2510.07927)|-|-|
@@ -91,13 +98,6 @@
 |**2025-10-3**|**Towards Generalizable Context-aware Anomaly Detection: A Large-scale Benchmark in Cloud Environments**|Xinkai Zou et.al|[paper](https://arxiv.org/abs/2508.01844)|[code](https://jayzou3773.github.io/cloudanobench-agent/)|-|
 |**2025-10-3**|**Reasoning-based Anomaly Detection Framework: A Real-time, Scalable, and Automated Approach to Anomaly Detection Across Domains**|Anupam Panwar et.al|[paper](https://arxiv.org/abs/2510.03486)|-|-|
 |**2025-10-3**|**CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering**|Zhe Zhang et.al|[paper](https://arxiv.org/abs/2505.01476)|[code](https://github.com/ZHE-SAPI/CostFilter-AD.)|-|
-|**2025-10-2**|**Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection**|Jiawen Zhu et.al|[paper](https://arxiv.org/abs/2410.10289)|[code](https://github.com/mala-lab/FAPrompt.)|<details><summary>detail</summary>ICCV 2025</details>|
-|**2025-10-2**|**PUL-Inter-slice Defender: An Anomaly Detection Solution for Distributed Slice Mobility Attacks**|Ricardo Misael Ayala Molina et.al|[paper](https://arxiv.org/abs/2510.02236)|-|-|
-|**2025-10-2**|**Unlocking Vision-Language Models for Video Anomaly Detection via Fine-Grained Prompting**|Shu Zou et.al|[paper](https://arxiv.org/abs/2510.02155)|-|-|
-|**2025-10-2**|**MissionHD: Hyperdimensional Refinement of Distribution-Deficient Reasoning Graphs for Video Anomaly Detection**|Sanggeon Yun et.al|[paper](https://arxiv.org/abs/2508.14746)|-|-|
-|**2025-10-2**|**ReTabAD: A Benchmark for Restoring Semantic Context in Tabular Anomaly Detection**|Sanghyu Yoon et.al|[paper](https://arxiv.org/abs/2510.02060)|-|-|
-|**2025-10-2**|**Normality Calibration in Semi-supervised Graph Anomaly Detection**|Guolei Zeng et.al|[paper](https://arxiv.org/abs/2510.02014)|-|-|
-|**2025-10-2**|**Moon: A Modality Conversion-based Efficient Multivariate Time Series Anomaly Detection**|Yuanyuan Yao et.al|[paper](https://arxiv.org/abs/2510.01970)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-10**|**SQ-GAN: Semantic Image Communications Using Masked Vector Quantization**|Francesco Pezone et.al|[paper](https://arxiv.org/abs/2502.09520)|-|<details><summary>detail</summary>arXiv admin note: substantial text overlap with arXiv:2502</details>|
 |**2025-10-7**|**VecInfer: Efficient LLM Inference with Low-Bit KV Cache via Outlier-Suppressed Vector Quantization**|Dingyu Yao et.al|[paper](https://arxiv.org/abs/2510.06175)|-|-|
 |**2025-10-3**|**Addressing Representation Collapse in Vector Quantized Models with One Linear Layer**|Yongxin Zhu et.al|[paper](https://arxiv.org/abs/2411.02038)|[code](https://github.com/youngsheen/SimVQ.)|<details><summary>detail</summary>ICCV2025</details>|
 |**2025-10-1**|**Purrception: Variational Flow Matching for Vector-Quantized Image Generation**|Răzvan-Andrei Matişan et.al|[paper](https://arxiv.org/abs/2510.01478)|-|-|
@@ -187,5 +188,4 @@
 |**2025-8-7**|**Vector Quantized-Elites: Unsupervised and Problem-Agnostic Quality-Diversity Optimization**|Constantinos Tsakonas et.al|[paper](https://arxiv.org/abs/2504.08057)|-|-|
 |**2025-8-7**|**Task Vector Quantization for Memory-Efficient Model Merging**|Youngeun Kim et.al|[paper](https://arxiv.org/abs/2503.06921)|-|-|
 |**2025-8-5**|**CIVQLLIE: Causal Intervention with Vector Quantization for Low-Light Image Enhancement**|Tongshun Zhang et.al|[paper](https://arxiv.org/abs/2508.03338)|-|-|
-|**2025-8-5**|**BrainECHO: Semantic Brain Signal Decoding through Vector-Quantized Spectrogram Reconstruction for Whisper-Enhanced Text Generation**|Jilong Li et.al|[paper](https://arxiv.org/abs/2410.14971)|-|-|
 
