@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.10.13
+## Updated on 2025.10.14
 
 ## Defect Detection
 
@@ -73,6 +73,18 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-13**|**TraceAegis: Securing LLM-Based Agents via Hierarchical and Behavioral Anomaly Detection**|Jiahao Liu et.al|[paper](https://arxiv.org/abs/2510.11203)|-|-|
+|**2025-10-13**|**A Comprehensive Forecasting-Based Framework for Time Series Anomaly Detection: Benchmarking on the Numenta Anomaly Benchmark (NAB)**|Mohammad Karami et.al|[paper](https://arxiv.org/abs/2510.11141)|-|-|
+|**2025-10-13**|**Causal Disentanglement Learning for Accurate Anomaly Detection in Multivariate Time Series**|Wonah Kim et.al|[paper](https://arxiv.org/abs/2510.11084)|-|-|
+|**2025-10-13**|**Enhancing Zero-Shot Anomaly Detection: CLIP-SAM Collaboration with Cascaded Prompts**|Yanning Hou et.al|[paper](https://arxiv.org/abs/2510.11028)|-|<details><summary>detail</summary>Accepted by PRCV</details>|
+|**2025-10-12**|**LPCVAE: A Conditional VAE with Long-Term Dependency and Probabilistic Time-Frequency Fusion for Time Series Anomaly Detection**|Hanchang Cheng et.al|[paper](https://arxiv.org/abs/2510.10915)|-|-|
+|**2025-10-12**|**Uncovering Anomalous Events for Marine Environmental Monitoring via Visual Anomaly Detection**|Laura Weihl et.al|[paper](https://arxiv.org/abs/2510.10750)|-|-|
+|**2025-10-12**|**On the Problem of Consistent Anomalies in Zero-Shot Industrial Anomaly Detection**|Tai Le-Gia et.al|[paper](https://arxiv.org/abs/2510.10456)|-|<details><summary>detail</summary>Published in TMLR (10/2025)</details>|
+|**2025-10-11**|**Semantic Visual Anomaly Detection and Reasoning in AI-Generated Images**|Chuangchuang Tan et.al|[paper](https://arxiv.org/abs/2510.10231)|-|-|
+|**2025-10-11**|**FedMon: Federated eBPF Monitoring for Distributed Anomaly Detection in Multi-Cluster Cloud Environments**|Sehar Zehra et.al|[paper](https://arxiv.org/abs/2510.10126)|-|-|
+|**2025-10-10**|**An Unsupervised Time Series Anomaly Detection Approach for Efficient Online Process Monitoring of Additive Manufacturing**|Frida Cantu et.al|[paper](https://arxiv.org/abs/2510.09977)|-|<details><summary>detail</summary>2025 IEEE 21st International Conference on Automation Science and Engineering</details>|
+|**2025-10-10**|**Learning Representations of Event Time Series with Sparse Autoencoders for Anomaly Detection, Similarity Search, and Unsupervised Classification**|Steven Dillmann et.al|[paper](https://arxiv.org/abs/2507.11620)|[code](https://github.com/StevenDillmann/ml-xraytransients-mnras)|<details><summary>detail</summary>the 2025 ICML Workshop on Machine Learning for Astrophysics</details>|
+|**2025-10-10**|**Rethinking Medical Anomaly Detection in Brain MRI: An Image Quality Assessment Perspective**|Zixuan Pan et.al|[paper](https://arxiv.org/abs/2408.08228)|-|<details><summary>detail</summary>Accepted by BIBM 2025</details>|
 |**2025-10-10**|**DQS: A Low-Budget Query Strategy for Enhancing Unsupervised Data-driven Anomaly Detection Approaches**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2509.05663)|-|<details><summary>detail</summary>Submitted to the Information Sciences journal</details>|
 |**2025-10-10**|**ACD-CLIP: Decoupling Representation and Dynamic Fusion for Zero-Shot Anomaly Detection**|Ke Ma et.al|[paper](https://arxiv.org/abs/2508.07819)|[code](https://github.com/cockmake/ACD-CLIP.)|-|
 |**2025-10-10**|**TriP-LLM: A Tri-Branch Patch-wise Large Language Model Framework for Time-Series Anomaly Detection**|Yuan-Cheng Yu et.al|[paper](https://arxiv.org/abs/2508.00047)|[code](https://github.com/YYZStart/TriP-LLM.git)|<details><summary>detail</summary>Accepted version of the paper published in IEEE Access (2025)</details>|
@@ -86,18 +98,6 @@
 |**2025-10-9**|**Meta-Learning Based Few-Shot Graph-Level Anomaly Detection**|Liting Li et.al|[paper](https://arxiv.org/abs/2510.07847)|-|<details><summary>detail</summary>Accepted by ARRML2025</details>|
 |**2025-10-9**|**LogAction: Consistent Cross-system Anomaly Detection through Logs via Active Domain Adaptation**|Chiming Duan et.al|[paper](https://arxiv.org/abs/2510.03288)|[code](https://logaction.github.io)|<details><summary>detail</summary>The 40th IEEE/ACM International Conference on Automated Software Engineering</details>|
 |**2025-10-8**|**LLM meets ML: Data-efficient Anomaly Detection on Unstable Logs**|Fatemeh Hadadi et.al|[paper](https://arxiv.org/abs/2406.07467)|-|<details><summary>detail</summary>Accepted by ACM Transactions on Software Engineering and Methodology (TOSEM) 2025</details>|
-|**2025-10-8**|**GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics**|Guan-Yan Yang et.al|[paper](https://arxiv.org/abs/2510.07109)|-|<details><summary>detail</summary>This paper has been accepted for publication in IEEE Transactions on Consumer Electronics</details>|
-|**2025-10-8**|**Unified Unsupervised Anomaly Detection via Matching Cost Filtering**|Zhe Zhang et.al|[paper](https://arxiv.org/abs/2510.03363)|[code](https://github.com/ZHE-SAPI/CostFilter-AD.)|-|
-|**2025-10-8**|**Vacuum Spiker: A Spiking Neural Network-Based Model for Efficient Anomaly Detection in Time Series**|Iago Xabier Vázquez et.al|[paper](https://arxiv.org/abs/2510.06910)|-|-|
-|**2025-10-8**|**DPGIIL: Dirichlet Process-Deep Generative Model-Integrated Incremental Learning for Clustering in Transmissibility-based Online Structural Anomaly Detection**|Lin-Feng Mei et.al|[paper](https://arxiv.org/abs/2412.04781)|-|-|
-|**2025-10-7**|**An Attention-Augmented VAE-BiLSTM Framework for Anomaly Detection in 12-Lead ECG Signals**|Marc Garreta Basora et.al|[paper](https://arxiv.org/abs/2510.05919)|-|-|
-|**2025-10-6**|**ViP$^2$-CLIP: Visual-Perception Prompting with Unified Alignment for Zero-Shot Anomaly Detection**|Ziteng Yang et.al|[paper](https://arxiv.org/abs/2505.17692)|-|-|
-|**2025-10-6**|**Anomaly-Aware YOLO: A Frugal yet Robust Approach to Infrared Small Target Detection**|Alina Ciocarlan et.al|[paper](https://arxiv.org/abs/2510.04741)|-|-|
-|**2025-10-4**|**THEMIS: Unlocking Pretrained Knowledge with Foundation Model Embeddings for Anomaly Detection in Time Series**|Yadav Mahesh Lorik et.al|[paper](https://arxiv.org/abs/2510.03911)|-|<details><summary>detail</summary>Oral Presentation</details>|
-|**2025-10-4**|**Adaptive and Explainable AI Agents for Anomaly Detection in Critical IoT Infrastructure using LLM-Enhanced Contextual Reasoning**|Raghav Sharma et.al|[paper](https://arxiv.org/abs/2510.03859)|-|-|
-|**2025-10-3**|**Towards Generalizable Context-aware Anomaly Detection: A Large-scale Benchmark in Cloud Environments**|Xinkai Zou et.al|[paper](https://arxiv.org/abs/2508.01844)|[code](https://jayzou3773.github.io/cloudanobench-agent/)|-|
-|**2025-10-3**|**Reasoning-based Anomaly Detection Framework: A Real-time, Scalable, and Automated Approach to Anomaly Detection Across Domains**|Anupam Panwar et.al|[paper](https://arxiv.org/abs/2510.03486)|-|-|
-|**2025-10-3**|**CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering**|Zhe Zhang et.al|[paper](https://arxiv.org/abs/2505.01476)|[code](https://github.com/ZHE-SAPI/CostFilter-AD.)|-|
 
 ## 3D Anomaly Detection
 
