@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.10.14
+## Updated on 2025.10.15
 
 ## Defect Detection
 
@@ -73,6 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-14**|**CrossAD: Time Series Anomaly Detection with Cross-scale Associations and Cross-window Modeling**|Beibu Li et.al|[paper](https://arxiv.org/abs/2510.12489)|-|<details><summary>detail</summary>Accepted by the thirty-ninth annual conference on Neural Information Processing Systems</details>|
+|**2025-10-14**|**Attack-Specialized Deep Learning with Ensemble Fusion for Network Anomaly Detection**|Nisith Dissanayake et.al|[paper](https://arxiv.org/abs/2510.12455)|-|-|
+|**2025-10-14**|**Levarging Learning Bias for Noisy Anomaly Detection**|Yuxin Zhang et.al|[paper](https://arxiv.org/abs/2508.07441)|[code](https://github.com/hustzhangyuxin/LLBNAD.)|-|
+|**2025-10-13**|**BeSTAD: Behavior-Aware Spatio-Temporal Anomaly Detection for Human Mobility Data**|Junyi Xie et.al|[paper](https://arxiv.org/abs/2510.12076)|-|<details><summary>detail</summary>accepted by The 2nd ACM SIGSPATIAL International Workshop on Geospatial Anomaly Detection</details>|
+|**2025-10-13**|**Combining Euclidean and Hyperbolic Representations for Node-level Anomaly Detection**|Simone Mungari et.al|[paper](https://arxiv.org/abs/2510.11827)|-|-|
 |**2025-10-13**|**TraceAegis: Securing LLM-Based Agents via Hierarchical and Behavioral Anomaly Detection**|Jiahao Liu et.al|[paper](https://arxiv.org/abs/2510.11203)|-|-|
 |**2025-10-13**|**A Comprehensive Forecasting-Based Framework for Time Series Anomaly Detection: Benchmarking on the Numenta Anomaly Benchmark (NAB)**|Mohammad Karami et.al|[paper](https://arxiv.org/abs/2510.11141)|-|-|
 |**2025-10-13**|**Causal Disentanglement Learning for Accurate Anomaly Detection in Multivariate Time Series**|Wonah Kim et.al|[paper](https://arxiv.org/abs/2510.11084)|-|-|
@@ -93,11 +98,6 @@
 |**2025-10-9**|**AD-LLM: Benchmarking Large Language Models for Anomaly Detection**|Tiankai Yang et.al|[paper](https://arxiv.org/abs/2412.11142)|-|<details><summary>detail</summary>Findings of the Association for Computational Linguistics (ACL 2025)</details>|
 |**2025-10-9**|**NLP-ADBench: NLP Anomaly Detection Benchmark**|Yuangang Li et.al|[paper](https://arxiv.org/abs/2412.04784)|[code](https://github.com/USC-FORTIS/NLP-ADBench,)|<details><summary>detail</summary>EMNLP Findings 2025</details>|
 |**2025-10-9**|**RASALoRE: Region Aware Spatial Attention with Location-based Random Embeddings for Weakly Supervised Anomaly Detection in Brain MRI Scans**|Bheeshm Sharma et.al|[paper](https://arxiv.org/abs/2510.08052)|[code](https://github.com/BheeshmSharma/RASALoRE-BMVC-2025/.)|<details><summary>detail</summary>Accepted in BMVC-2025</details>|
-|**2025-10-9**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
-|**2025-10-9**|**ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection**|Qunyi Zhang et.al|[paper](https://arxiv.org/abs/2510.07927)|-|-|
-|**2025-10-9**|**Meta-Learning Based Few-Shot Graph-Level Anomaly Detection**|Liting Li et.al|[paper](https://arxiv.org/abs/2510.07847)|-|<details><summary>detail</summary>Accepted by ARRML2025</details>|
-|**2025-10-9**|**LogAction: Consistent Cross-system Anomaly Detection through Logs via Active Domain Adaptation**|Chiming Duan et.al|[paper](https://arxiv.org/abs/2510.03288)|[code](https://logaction.github.io)|<details><summary>detail</summary>The 40th IEEE/ACM International Conference on Automated Software Engineering</details>|
-|**2025-10-8**|**LLM meets ML: Data-efficient Anomaly Detection on Unstable Logs**|Fatemeh Hadadi et.al|[paper](https://arxiv.org/abs/2406.07467)|-|<details><summary>detail</summary>Accepted by ACM Transactions on Software Engineering and Methodology (TOSEM) 2025</details>|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-14**|**CARVQ: Corrective Adaptor with Group Residual Vector Quantization for LLM Embedding Compression**|Dayin Gou et.al|[paper](https://arxiv.org/abs/2510.12721)|-|<details><summary>detail</summary>EMNLP Findings 2025</details>|
 |**2025-10-10**|**SQ-GAN: Semantic Image Communications Using Masked Vector Quantization**|Francesco Pezone et.al|[paper](https://arxiv.org/abs/2502.09520)|-|<details><summary>detail</summary>arXiv admin note: substantial text overlap with arXiv:2502</details>|
 |**2025-10-7**|**VecInfer: Efficient LLM Inference with Low-Bit KV Cache via Outlier-Suppressed Vector Quantization**|Dingyu Yao et.al|[paper](https://arxiv.org/abs/2510.06175)|-|-|
 |**2025-10-3**|**Addressing Representation Collapse in Vector Quantized Models with One Linear Layer**|Yongxin Zhu et.al|[paper](https://arxiv.org/abs/2411.02038)|[code](https://github.com/youngsheen/SimVQ.)|<details><summary>detail</summary>ICCV2025</details>|
@@ -187,5 +188,4 @@
 |**2025-8-19**|**Vector-Quantized Vision Foundation Models for Object-Centric Learning**|Rongzhen Zhao et.al|[paper](https://arxiv.org/abs/2502.20263)|[code](https://github.com/Genera1Z/VQ-VFM-OCL.)|<details><summary>detail</summary>Accepted by ACM MM 2025</details>|
 |**2025-8-7**|**Vector Quantized-Elites: Unsupervised and Problem-Agnostic Quality-Diversity Optimization**|Constantinos Tsakonas et.al|[paper](https://arxiv.org/abs/2504.08057)|-|-|
 |**2025-8-7**|**Task Vector Quantization for Memory-Efficient Model Merging**|Youngeun Kim et.al|[paper](https://arxiv.org/abs/2503.06921)|-|-|
-|**2025-8-5**|**CIVQLLIE: Causal Intervention with Vector Quantization for Low-Light Image Enhancement**|Tongshun Zhang et.al|[paper](https://arxiv.org/abs/2508.03338)|-|-|
 
