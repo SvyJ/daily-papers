@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.10.15
+## Updated on 2025.10.16
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-15**|**Sample-Centric Multi-Task Learning for Detection and Segmentation of Industrial Surface Defects**|Hang-Cheng Dong et.al|[paper](https://arxiv.org/abs/2510.13226)|-|-|
 |**2025-10-8**|**Transformer-Based Indirect Structural Health Monitoring of Rail Infrastructure with Attention-Driven Detection and Localization of Transient Defects**|Sizhe Ma et.al|[paper](https://arxiv.org/abs/2510.07606)|-|<details><summary>detail</summary>Preprint presented at the 15th International Workshop on Structural Health Monitoring (IWSHM)</details>|
 |**2025-10-8**|**Automated Neural Architecture Design for Industrial Defect Detection**|Yuxi Liu et.al|[paper](https://arxiv.org/abs/2510.06669)|[code](https://github.com/Yuxi104/AutoNAD.)|-|
 |**2025-10-7**|**Kaputt: A Large-Scale Dataset for Visual Defect Detection**|Sebastian Höfer et.al|[paper](https://arxiv.org/abs/2510.05903)|[code](https://www.kaputt-dataset.com.)|<details><summary>detail</summary>ICCV 2025</details>|
@@ -37,12 +38,12 @@
 |**2025-8-15**|**Defects4Log: Benchmarking LLMs for Logging Code Defect Detection and Reasoning**|Xin Wang et.al|[paper](https://arxiv.org/abs/2508.11305)|-|-|
 |**2025-8-14**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2025-8-12**|**Masked Autoencoder Self Pre-Training for Defect Detection in Microelectronics**|Nikolai Röhrich et.al|[paper](https://arxiv.org/abs/2504.10021)|-|-|
-|**2025-8-10**|**A Steel Surface Defect Detection Method Based on Lightweight Convolution Optimization**|Cong Chen et.al|[paper](https://arxiv.org/abs/2507.15476)|[code](https://doi.org/10.14569/IJACSA.2025.0160619)|<details><summary>detail</summary>This is a preprint of an article accepted for publication in the International Journal of Advanced Computer Science and Applications (IJACSA)</details>|
 
 ## Defect Segmentation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-15**|**Sample-Centric Multi-Task Learning for Detection and Segmentation of Industrial Surface Defects**|Hang-Cheng Dong et.al|[paper](https://arxiv.org/abs/2510.13226)|-|-|
 |**2025-10-6**|**Attention-Enhanced Prototypical Learning for Few-Shot Infrastructure Defect Segmentation**|Christina Thrainer et.al|[paper](https://arxiv.org/abs/2510.05266)|-|-|
 |**2025-10-1**|**Defect Segmentation in OCT scans of ceramic parts for non-destructive inspection using deep learning**|Andrés Laveda-Martínez et.al|[paper](https://arxiv.org/abs/2510.00745)|-|-|
 |**2025-9-11**|**Unsupervised Integrated-Circuit Defect Segmentation via Image-Intrinsic Normality**|Botong Zhao et.al|[paper](https://arxiv.org/abs/2509.09375)|-|-|
@@ -67,12 +68,16 @@
 |**2024-8-19**|**Dynamic Label Injection for Imbalanced Industrial Defect Segmentation**|Emanuele Caruso et.al|[paper](https://arxiv.org/abs/2408.10031)|[code](https://github.com/covisionlab/dynamic-label-injection.git)|<details><summary>detail</summary>ECCV 2024 VISION Workshop</details>|
 |**2024-6-26**|**An unsupervised approach towards promptable defect segmentation in laser-based additive manufacturing by Segment Anything**|Israt Zarin Era et.al|[paper](https://arxiv.org/abs/2312.04063)|-|-|
 |**2024-4-17**|**CarcassFormer: An End-to-end Transformer-based Framework for Simultaneous Localization, Segmentation and Classification of Poultry Carcass Defect**|Minh Tran et.al|[paper](https://arxiv.org/abs/2404.11429)|[code](https://github.com/UARK-AICV/CarcassFormer)|<details><summary>detail</summary>Poultry Science Journal</details>|
-|**2024-3-17**|**LERENet: Eliminating Intra-class Differences for Metal Surface Defect Few-shot Semantic Segmentation**|Hanze Ding et.al|[paper](https://arxiv.org/abs/2403.11122)|-|-|
 
 ## Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-15**|**Towards Adversarial Robustness and Uncertainty Quantification in DINOv2-based Few-Shot Anomaly Detection**|Akib Mohammed Khan et.al|[paper](https://arxiv.org/abs/2510.13643)|-|-|
+|**2025-10-15**|**Contrastive Learning-Based Dependency Modeling for Anomaly Detection in Cloud Services**|Yue Xing et.al|[paper](https://arxiv.org/abs/2510.13368)|-|-|
+|**2025-10-15**|**Isolation-based Spherical Ensemble Representations for Anomaly Detection**|Yang Cao et.al|[paper](https://arxiv.org/abs/2510.13311)|-|-|
+|**2025-10-15**|**Text Anomaly Detection with Simplified Isolation Kernel**|Yang Cao et.al|[paper](https://arxiv.org/abs/2510.13197)|[code](https://github.com/charles-cao/SIK.)|<details><summary>detail</summary>EMNLP Findings 2025</details>|
+|**2025-10-14**|**IterMask3D: Unsupervised Anomaly Detection and Segmentation with Test-Time Iterative Mask Refinement in 3D Brain MR**|Ziyun Liang et.al|[paper](https://arxiv.org/abs/2504.04911)|[code](https://github.com/ZiyunLiang/IterMask3D.)|<details><summary>detail</summary>Published in Medical Image Analysis</details>|
 |**2025-10-14**|**CrossAD: Time Series Anomaly Detection with Cross-scale Associations and Cross-window Modeling**|Beibu Li et.al|[paper](https://arxiv.org/abs/2510.12489)|-|<details><summary>detail</summary>Accepted by the thirty-ninth annual conference on Neural Information Processing Systems</details>|
 |**2025-10-14**|**Attack-Specialized Deep Learning with Ensemble Fusion for Network Anomaly Detection**|Nisith Dissanayake et.al|[paper](https://arxiv.org/abs/2510.12455)|-|-|
 |**2025-10-14**|**Levarging Learning Bias for Noisy Anomaly Detection**|Yuxin Zhang et.al|[paper](https://arxiv.org/abs/2508.07441)|[code](https://github.com/hustzhangyuxin/LLBNAD.)|-|
@@ -93,16 +98,12 @@
 |**2025-10-10**|**DQS: A Low-Budget Query Strategy for Enhancing Unsupervised Data-driven Anomaly Detection Approaches**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2509.05663)|-|<details><summary>detail</summary>Submitted to the Information Sciences journal</details>|
 |**2025-10-10**|**ACD-CLIP: Decoupling Representation and Dynamic Fusion for Zero-Shot Anomaly Detection**|Ke Ma et.al|[paper](https://arxiv.org/abs/2508.07819)|[code](https://github.com/cockmake/ACD-CLIP.)|-|
 |**2025-10-10**|**TriP-LLM: A Tri-Branch Patch-wise Large Language Model Framework for Time-Series Anomaly Detection**|Yuan-Cheng Yu et.al|[paper](https://arxiv.org/abs/2508.00047)|[code](https://github.com/YYZStart/TriP-LLM.git)|<details><summary>detail</summary>Accepted version of the paper published in IEEE Access (2025)</details>|
-|**2025-10-10**|**Improving Anomaly Detection in Industrial Time Series: The Role of Segmentation and Heterogeneous Ensemble**|Emilio Mastriani et.al|[paper](https://arxiv.org/abs/2510.09079)|-|<details><summary>detail</summary>Conference paper</details>|
-|**2025-10-10**|**Visual Anomaly Detection for Reliable Robotic Implantation of Flexible Microelectrode Array**|Yitong Chen et.al|[paper](https://arxiv.org/abs/2510.09071)|-|<details><summary>detail</summary>Accept by IROS 2025</details>|
-|**2025-10-9**|**AD-LLM: Benchmarking Large Language Models for Anomaly Detection**|Tiankai Yang et.al|[paper](https://arxiv.org/abs/2412.11142)|-|<details><summary>detail</summary>Findings of the Association for Computational Linguistics (ACL 2025)</details>|
-|**2025-10-9**|**NLP-ADBench: NLP Anomaly Detection Benchmark**|Yuangang Li et.al|[paper](https://arxiv.org/abs/2412.04784)|[code](https://github.com/USC-FORTIS/NLP-ADBench,)|<details><summary>detail</summary>EMNLP Findings 2025</details>|
-|**2025-10-9**|**RASALoRE: Region Aware Spatial Attention with Location-based Random Embeddings for Weakly Supervised Anomaly Detection in Brain MRI Scans**|Bheeshm Sharma et.al|[paper](https://arxiv.org/abs/2510.08052)|[code](https://github.com/BheeshmSharma/RASALoRE-BMVC-2025/.)|<details><summary>detail</summary>Accepted in BMVC-2025</details>|
 
 ## 3D Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-14**|**IterMask3D: Unsupervised Anomaly Detection and Segmentation with Test-Time Iterative Mask Refinement in 3D Brain MR**|Ziyun Liang et.al|[paper](https://arxiv.org/abs/2504.04911)|[code](https://github.com/ZiyunLiang/IterMask3D.)|<details><summary>detail</summary>Published in Medical Image Analysis</details>|
 |**2025-10-9**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
 |**2025-9-23**|**3D-ADAM: A Dataset for 3D Anomaly Detection in Additive Manufacturing**|Paul McHard et.al|[paper](https://arxiv.org/abs/2507.07838)|-|-|
 |**2025-9-16**|**Taming Anomalies with Down-Up Sampling Networks: Group Center Preserving Reconstruction for 3D Anomaly Detection**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2507.03903)|-|<details><summary>detail</summary>ACM MM25 Accepted</details>|
@@ -122,7 +123,6 @@
 |**2025-5-27**|**Mentor3AD: Feature Reconstruction-based 3D Anomaly Detection via Multi-modality Mentor Learning**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2505.21420)|-|<details><summary>detail</summary>arXiv admin comment: This version has been removed by arXiv administrators as the submitter did not have the rights to agree to the license at the time of submission</details>|
 |**2025-5-15**|**Examining the Source of Defects from a Mechanical Perspective for 3D Anomaly Detection**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2505.05901)|[code](https://github.com/hzzzzzhappy/MC4AD)|-|
 |**2025-4-19**|**Real-IAD D3: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection**|Wenbing Zhu et.al|[paper](https://arxiv.org/abs/2504.14221)|[code](https://realiad4ad.github.io/Real-IAD)|-|
-|**2025-4-7**|**IterMask3D: Unsupervised Anomaly Detection and Segmentation with Test-Time Iterative Mask Refinement in 3D Brain MR**|Ziyun Liang et.al|[paper](https://arxiv.org/abs/2504.04911)|-|-|
 |**2025-3-30**|**Self-Supervised Masked Mesh Learning for Unsupervised Anomaly Detection on 3D Cortical Surfaces**|Hao-Chun Yang et.al|[paper](https://arxiv.org/abs/2412.05580)|-|-|
 |**2025-3-21**|**A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Image Anomaly Detection**|Yuxuan Lin et.al|[paper](https://arxiv.org/abs/2410.21982)|[code](https://github.com/Sunny5250/Awesome-Multi-Setting-UIAD.)|<details><summary>detail</summary>Accepted by Information Fusion</details>|
 |**2025-3-10**|**Look Inside for More: Internal Spatial Modality Perception for 3D Anomaly Detection**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2412.13461)|-|<details><summary>detail</summary>AAAI2025 Poster</details>|
@@ -163,6 +163,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-15**|**Group-Wise Optimization for Self-Extensible Codebooks in Vector Quantized Models**|Hong-Kai Zheng et.al|[paper](https://arxiv.org/abs/2510.13331)|-|-|
+|**2025-10-15**|**GranQ: Efficient Channel-wise Quantization via Vectorized Pre-Scaling for Zero-Shot QAT**|Inpyo Hong et.al|[paper](https://arxiv.org/abs/2503.18339)|-|-|
 |**2025-10-14**|**CARVQ: Corrective Adaptor with Group Residual Vector Quantization for LLM Embedding Compression**|Dayin Gou et.al|[paper](https://arxiv.org/abs/2510.12721)|-|<details><summary>detail</summary>EMNLP Findings 2025</details>|
 |**2025-10-10**|**SQ-GAN: Semantic Image Communications Using Masked Vector Quantization**|Francesco Pezone et.al|[paper](https://arxiv.org/abs/2502.09520)|-|<details><summary>detail</summary>arXiv admin note: substantial text overlap with arXiv:2502</details>|
 |**2025-10-7**|**VecInfer: Efficient LLM Inference with Low-Bit KV Cache via Outlier-Suppressed Vector Quantization**|Dingyu Yao et.al|[paper](https://arxiv.org/abs/2510.06175)|-|-|
@@ -186,6 +188,4 @@
 |**2025-8-23**|**VQL: An End-to-End Context-Aware Vector Quantization Attention for Ultra-Long User Behavior Modeling**|Kaiyuan Li et.al|[paper](https://arxiv.org/abs/2508.17125)|-|-|
 |**2025-8-20**|**Making Pose Representations More Expressive and Disentangled via Residual Vector Quantization**|Sukhyun Jeong et.al|[paper](https://arxiv.org/abs/2508.14561)|-|-|
 |**2025-8-19**|**Vector-Quantized Vision Foundation Models for Object-Centric Learning**|Rongzhen Zhao et.al|[paper](https://arxiv.org/abs/2502.20263)|[code](https://github.com/Genera1Z/VQ-VFM-OCL.)|<details><summary>detail</summary>Accepted by ACM MM 2025</details>|
-|**2025-8-7**|**Vector Quantized-Elites: Unsupervised and Problem-Agnostic Quality-Diversity Optimization**|Constantinos Tsakonas et.al|[paper](https://arxiv.org/abs/2504.08057)|-|-|
-|**2025-8-7**|**Task Vector Quantization for Memory-Efficient Model Merging**|Youngeun Kim et.al|[paper](https://arxiv.org/abs/2503.06921)|-|-|
 
