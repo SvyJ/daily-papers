@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.10.19
+## Updated on 2025.10.20
 
 ## Defect Detection
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-17**|**Quantized FCA: Efficient Zero-Shot Texture Anomaly Detection**|Andrei-Timotei Ardelean et.al|[paper](https://arxiv.org/abs/2510.15602)|[code](https://reality.tf.fau.de/pub/ardelean2025quantized.html)|-|
+|**2025-10-17**|**Leveraging Learning Bias for Noisy Anomaly Detection**|Yuxin Zhang et.al|[paper](https://arxiv.org/abs/2508.07441)|[code](https://github.com/hustzhangyuxin/LLBNAD.)|-|
+|**2025-10-17**|**Normal-Abnormal Guided Generalist Anomaly Detection**|Yuexin Wang et.al|[paper](https://arxiv.org/abs/2510.00495)|[code](https://github.com/JasonKyng/NAGL.)|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
+|**2025-10-16**|**OCR-APT: Reconstructing APT Stories from Audit Logs using Subgraph Anomaly Detection and LLMs**|Ahmed Aly et.al|[paper](https://arxiv.org/abs/2510.15188)|-|-|
 |**2025-10-16**|**Leveraging Multimodal LLM Descriptions of Activity for Explainable Semi-Supervised Video Anomaly Detection**|Furkan Mumcu et.al|[paper](https://arxiv.org/abs/2510.14896)|-|-|
 |**2025-10-16**|**Online Reliable Anomaly Detection via Neuromorphic Sensing and Communications**|Junya Shiraishi et.al|[paper](https://arxiv.org/abs/2510.14688)|-|-|
 |**2025-10-16**|**HyCoVAD: A Hybrid SSL-LLM Model for Complex Video Anomaly Detection**|Mohammad Mahdi Hemmatyar et.al|[paper](https://arxiv.org/abs/2509.22544)|-|<details><summary>detail</summary>The submission was made prematurely</details>|
@@ -86,7 +90,6 @@
 |**2025-10-14**|**IterMask3D: Unsupervised Anomaly Detection and Segmentation with Test-Time Iterative Mask Refinement in 3D Brain MR**|Ziyun Liang et.al|[paper](https://arxiv.org/abs/2504.04911)|[code](https://github.com/ZiyunLiang/IterMask3D.)|<details><summary>detail</summary>Published in Medical Image Analysis</details>|
 |**2025-10-14**|**CrossAD: Time Series Anomaly Detection with Cross-scale Associations and Cross-window Modeling**|Beibu Li et.al|[paper](https://arxiv.org/abs/2510.12489)|-|<details><summary>detail</summary>Accepted by the thirty-ninth annual conference on Neural Information Processing Systems</details>|
 |**2025-10-14**|**Attack-Specialized Deep Learning with Ensemble Fusion for Network Anomaly Detection**|Nisith Dissanayake et.al|[paper](https://arxiv.org/abs/2510.12455)|-|-|
-|**2025-10-14**|**Levarging Learning Bias for Noisy Anomaly Detection**|Yuxin Zhang et.al|[paper](https://arxiv.org/abs/2508.07441)|[code](https://github.com/hustzhangyuxin/LLBNAD.)|-|
 |**2025-10-13**|**BeSTAD: Behavior-Aware Spatio-Temporal Anomaly Detection for Human Mobility Data**|Junyi Xie et.al|[paper](https://arxiv.org/abs/2510.12076)|-|<details><summary>detail</summary>accepted by The 2nd ACM SIGSPATIAL International Workshop on Geospatial Anomaly Detection</details>|
 |**2025-10-13**|**Combining Euclidean and Hyperbolic Representations for Node-level Anomaly Detection**|Simone Mungari et.al|[paper](https://arxiv.org/abs/2510.11827)|-|-|
 |**2025-10-13**|**TraceAegis: Securing LLM-Based Agents via Hierarchical and Behavioral Anomaly Detection**|Jiahao Liu et.al|[paper](https://arxiv.org/abs/2510.11203)|-|-|
@@ -95,9 +98,6 @@
 |**2025-10-13**|**Enhancing Zero-Shot Anomaly Detection: CLIP-SAM Collaboration with Cascaded Prompts**|Yanning Hou et.al|[paper](https://arxiv.org/abs/2510.11028)|-|<details><summary>detail</summary>Accepted by PRCV</details>|
 |**2025-10-12**|**LPCVAE: A Conditional VAE with Long-Term Dependency and Probabilistic Time-Frequency Fusion for Time Series Anomaly Detection**|Hanchang Cheng et.al|[paper](https://arxiv.org/abs/2510.10915)|-|-|
 |**2025-10-12**|**Uncovering Anomalous Events for Marine Environmental Monitoring via Visual Anomaly Detection**|Laura Weihl et.al|[paper](https://arxiv.org/abs/2510.10750)|-|-|
-|**2025-10-12**|**On the Problem of Consistent Anomalies in Zero-Shot Industrial Anomaly Detection**|Tai Le-Gia et.al|[paper](https://arxiv.org/abs/2510.10456)|-|<details><summary>detail</summary>Published in TMLR (10/2025)</details>|
-|**2025-10-11**|**Semantic Visual Anomaly Detection and Reasoning in AI-Generated Images**|Chuangchuang Tan et.al|[paper](https://arxiv.org/abs/2510.10231)|-|-|
-|**2025-10-11**|**FedMon: Federated eBPF Monitoring for Distributed Anomaly Detection in Multi-Cluster Cloud Environments**|Sehar Zehra et.al|[paper](https://arxiv.org/abs/2510.10126)|-|-|
 
 ## 3D Anomaly Detection
 
