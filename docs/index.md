@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.10.21
+## Updated on 2025.10.22
 
 ## Defect Detection
 
@@ -73,6 +73,14 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-21**|**Rebellious Student: A Complementary Learning Framework for Background Feature Enhancement in Hyperspectral Anomaly Detection**|Wenping Jin et.al|[paper](https://arxiv.org/abs/2510.18781)|[code](https://github.com/xjpp2016/FERS.)|-|
+|**2025-10-21**|**DCAD-2000: A Multilingual Dataset across 2000+ Languages with Data Cleaning as Anomaly Detection**|Yingli Shen et.al|[paper](https://arxiv.org/abs/2502.11546)|-|<details><summary>detail</summary>NeurIPS 2025 Datasets and Benchmarks Track</details>|
+|**2025-10-21**|**ShortcutBreaker: Low-Rank Noisy Bottleneck with Global Perturbation Attention for Multi-Class Unsupervised Anomaly Detection**|Peng Tang et.al|[paper](https://arxiv.org/abs/2510.18342)|-|<details><summary>detail</summary>Under Review</details>|
+|**2025-10-21**|**Scalable, Explainable and Provably Robust Anomaly Detection with One-Step Flow Matching**|Zhong Li et.al|[paper](https://arxiv.org/abs/2510.18328)|-|<details><summary>detail</summary>Paper accepted by NeurIPS 2025</details>|
+|**2025-10-20**|**BlockScan: Detecting Anomalies in Blockchain Transactions**|Jiahao Yu et.al|[paper](https://arxiv.org/abs/2410.04039)|-|-|
+|**2025-10-20**|**VelocityNet: Real-Time Crowd Anomaly Detection via Person-Specific Velocity Analysis**|Fatima AlGhamdi et.al|[paper](https://arxiv.org/abs/2510.18187)|-|-|
+|**2025-10-20**|**Batch Distillation Data for Developing Machine Learning Anomaly Detection Methods**|Justus Arweiler et.al|[paper](https://arxiv.org/abs/2510.18075)|-|-|
+|**2025-10-20**|**SAVANT: Semantic Analysis with Vision-Augmented Anomaly deTection**|Roberto Brusnicki et.al|[paper](https://arxiv.org/abs/2510.18034)|-|-|
 |**2025-10-20**|**One Dinomaly2 Detect Them All: A Unified Framework for Full-Spectrum Unsupervised Anomaly Detection**|Jia Guo et.al|[paper](https://arxiv.org/abs/2510.17611)|-|<details><summary>detail</summary>Extended version of CVPR2025</details>|
 |**2025-10-20**|**Formally Exploring Time-Series Anomaly Detection Evaluation Metrics**|Dennis Wagner et.al|[paper](https://arxiv.org/abs/2510.17562)|-|-|
 |**2025-10-20**|**OCR-APT: Reconstructing APT Stories from Audit Logs using Subgraph Anomaly Detection and LLMs**|Ahmed Aly et.al|[paper](https://arxiv.org/abs/2510.15188)|[code](https://doi.org/10.1145/3719027.3765219)|<details><summary>detail</summary>This is the authors' extended version of the paper accepted for publication at the ACM SIGSAC Conference on Computer and Communications Security (CCS 2025)</details>|
@@ -90,14 +98,6 @@
 |**2025-10-17**|**Leveraging Learning Bias for Noisy Anomaly Detection**|Yuxin Zhang et.al|[paper](https://arxiv.org/abs/2508.07441)|[code](https://github.com/hustzhangyuxin/LLBNAD.)|-|
 |**2025-10-17**|**Normal-Abnormal Guided Generalist Anomaly Detection**|Yuexin Wang et.al|[paper](https://arxiv.org/abs/2510.00495)|[code](https://github.com/JasonKyng/NAGL.)|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
 |**2025-10-16**|**Leveraging Multimodal LLM Descriptions of Activity for Explainable Semi-Supervised Video Anomaly Detection**|Furkan Mumcu et.al|[paper](https://arxiv.org/abs/2510.14896)|-|-|
-|**2025-10-16**|**A Novel GPT-Based Framework for Anomaly Detection in System Logs**|Zeng Zhang et.al|[paper](https://arxiv.org/abs/2510.16044)|-|-|
-|**2025-10-16**|**Online Reliable Anomaly Detection via Neuromorphic Sensing and Communications**|Junya Shiraishi et.al|[paper](https://arxiv.org/abs/2510.14688)|-|-|
-|**2025-10-16**|**HyCoVAD: A Hybrid SSL-LLM Model for Complex Video Anomaly Detection**|Mohammad Mahdi Hemmatyar et.al|[paper](https://arxiv.org/abs/2509.22544)|-|<details><summary>detail</summary>The submission was made prematurely</details>|
-|**2025-10-16**|**Incomplete Multimodal Industrial Anomaly Detection via Cross-Modal Distillation**|Wenbo Sui et.al|[paper](https://arxiv.org/abs/2405.13571)|-|<details><summary>detail</summary>For a published version refer to the Information Fusion</details>|
-|**2025-10-16**|**Unsupervised Deep Generative Models for Anomaly Detection in Neuroimaging: A Systematic Scoping Review**|Youwan Mahé et.al|[paper](https://arxiv.org/abs/2510.14462)|-|-|
-|**2025-10-16**|**Enhancing Time-Series Anomaly Detection by Integrating Spectral-Residual Bottom-Up Attention with Reservoir Computing**|Hayato Nihei et.al|[paper](https://arxiv.org/abs/2510.14287)|-|-|
-|**2025-10-15**|**IAD-GPT: Advancing Visual Knowledge in Multimodal Large Language Model for Industrial Anomaly Detection**|Zewen Li et.al|[paper](https://arxiv.org/abs/2510.16036)|[code](https://github.com/LiZeWen1225/IAD-GPT)|<details><summary>detail</summary>Accepted by IEEE Transactions on Instrumentation and Measurement (TIM)</details>|
-|**2025-10-15**|**Towards Adversarial Robustness and Uncertainty Quantification in DINOv2-based Few-Shot Anomaly Detection**|Akib Mohammed Khan et.al|[paper](https://arxiv.org/abs/2510.13643)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-21**|**Channel-Aware Vector Quantization for Robust Semantic Communication on Discrete Channels**|Zian Meng et.al|[paper](https://arxiv.org/abs/2510.18604)|-|-|
 |**2025-10-18**|**AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models**|Zeyu Li et.al|[paper](https://arxiv.org/abs/2506.19505)|-|-|
 |**2025-10-16**|**Vector Quantization in the Brain: Grid-like Codes in World Models**|Xiangyuan Peng et.al|[paper](https://arxiv.org/abs/2510.16039)|-|-|
 |**2025-10-16**|**Group-Wise Optimization for Self-Extensible Codebooks in Vector Quantized Models**|Hong-Kai Zheng et.al|[paper](https://arxiv.org/abs/2510.13331)|-|-|
@@ -187,5 +188,4 @@
 |**2025-9-11**|**A Vector-Quantized Foundation Model for Patient Behavior Monitoring**|Rodrigo Oliver et.al|[paper](https://arxiv.org/abs/2503.15221)|-|-|
 |**2025-9-4**|**Kernel $k$-Medoids as General Vector Quantization**|Thore Gerlach et.al|[paper](https://arxiv.org/abs/2506.04786)|-|-|
 |**2025-8-25**|**Scene-Aware Vectorized Memory Multi-Agent Framework with Cross-Modal Differentiated Quantization VLMs for Visually Impaired Assistance**|Xiangxiang Wang et.al|[paper](https://arxiv.org/abs/2508.18177)|-|-|
-|**2025-8-23**|**VQL: An End-to-End Context-Aware Vector Quantization Attention for Ultra-Long User Behavior Modeling**|Kaiyuan Li et.al|[paper](https://arxiv.org/abs/2508.17125)|-|-|
 
