@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.10.22
+## Updated on 2025.10.23
 
 ## Defect Detection
 
@@ -73,6 +73,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-21**|**Securing IoT Communications via Anomaly Traffic Detection: Synergy of Genetic Algorithm and Ensemble Method**|Behnam Seyedi et.al|[paper](https://arxiv.org/abs/2510.19121)|-|-|
+|**2025-10-21**|**An Encode-then-Decompose Approach to Unsupervised Time Series Anomaly Detection on Contaminated Training Data--Extended Version**|Buang Zhang et.al|[paper](https://arxiv.org/abs/2510.18998)|-|-|
 |**2025-10-21**|**Rebellious Student: A Complementary Learning Framework for Background Feature Enhancement in Hyperspectral Anomaly Detection**|Wenping Jin et.al|[paper](https://arxiv.org/abs/2510.18781)|[code](https://github.com/xjpp2016/FERS.)|-|
 |**2025-10-21**|**DCAD-2000: A Multilingual Dataset across 2000+ Languages with Data Cleaning as Anomaly Detection**|Yingli Shen et.al|[paper](https://arxiv.org/abs/2502.11546)|-|<details><summary>detail</summary>NeurIPS 2025 Datasets and Benchmarks Track</details>|
 |**2025-10-21**|**ShortcutBreaker: Low-Rank Noisy Bottleneck with Global Perturbation Attention for Multi-Class Unsupervised Anomaly Detection**|Peng Tang et.al|[paper](https://arxiv.org/abs/2510.18342)|-|<details><summary>detail</summary>Under Review</details>|
@@ -96,8 +98,6 @@
 |**2025-10-17**|**Robust Anomaly Detection through Multi-Modal Autoencoder Fusion for Small Vehicle Damage Detection**|Sara Khan et.al|[paper](https://arxiv.org/abs/2509.01719)|-|-|
 |**2025-10-17**|**Quantized FCA: Efficient Zero-Shot Texture Anomaly Detection**|Andrei-Timotei Ardelean et.al|[paper](https://arxiv.org/abs/2510.15602)|[code](https://reality.tf.fau.de/pub/ardelean2025quantized.html)|-|
 |**2025-10-17**|**Leveraging Learning Bias for Noisy Anomaly Detection**|Yuxin Zhang et.al|[paper](https://arxiv.org/abs/2508.07441)|[code](https://github.com/hustzhangyuxin/LLBNAD.)|-|
-|**2025-10-17**|**Normal-Abnormal Guided Generalist Anomaly Detection**|Yuexin Wang et.al|[paper](https://arxiv.org/abs/2510.00495)|[code](https://github.com/JasonKyng/NAGL.)|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
-|**2025-10-16**|**Leveraging Multimodal LLM Descriptions of Activity for Explainable Semi-Supervised Video Anomaly Detection**|Furkan Mumcu et.al|[paper](https://arxiv.org/abs/2510.14896)|-|-|
 
 ## 3D Anomaly Detection
 
