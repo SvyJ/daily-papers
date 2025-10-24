@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.10.23
+## Updated on 2025.10.24
 
 ## Defect Detection
 
@@ -73,9 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-23**|**Uncovering Anomalous Events for Marine Environmental Monitoring via Visual Anomaly Detection**|Laura Weihl et.al|[paper](https://arxiv.org/abs/2510.10750)|-|-|
+|**2025-10-23**|**Rebellious Student: A Complementary Learning Framework for Background Feature Enhancement in Hyperspectral Anomaly Detection**|Wenping Jin et.al|[paper](https://arxiv.org/abs/2510.18781)|[code](https://github.com/xjpp2016/FERS.)|-|
+|**2025-10-23**|**GMFVAD: Using Grained Multi-modal Feature to Improve Video Anomaly Detection**|Guangyu Dai et.al|[paper](https://arxiv.org/abs/2510.20268)|-|-|
 |**2025-10-21**|**Securing IoT Communications via Anomaly Traffic Detection: Synergy of Genetic Algorithm and Ensemble Method**|Behnam Seyedi et.al|[paper](https://arxiv.org/abs/2510.19121)|-|-|
 |**2025-10-21**|**An Encode-then-Decompose Approach to Unsupervised Time Series Anomaly Detection on Contaminated Training Data--Extended Version**|Buang Zhang et.al|[paper](https://arxiv.org/abs/2510.18998)|-|-|
-|**2025-10-21**|**Rebellious Student: A Complementary Learning Framework for Background Feature Enhancement in Hyperspectral Anomaly Detection**|Wenping Jin et.al|[paper](https://arxiv.org/abs/2510.18781)|[code](https://github.com/xjpp2016/FERS.)|-|
 |**2025-10-21**|**DCAD-2000: A Multilingual Dataset across 2000+ Languages with Data Cleaning as Anomaly Detection**|Yingli Shen et.al|[paper](https://arxiv.org/abs/2502.11546)|-|<details><summary>detail</summary>NeurIPS 2025 Datasets and Benchmarks Track</details>|
 |**2025-10-21**|**ShortcutBreaker: Low-Rank Noisy Bottleneck with Global Perturbation Attention for Multi-Class Unsupervised Anomaly Detection**|Peng Tang et.al|[paper](https://arxiv.org/abs/2510.18342)|-|<details><summary>detail</summary>Under Review</details>|
 |**2025-10-21**|**Scalable, Explainable and Provably Robust Anomaly Detection with One-Step Flow Matching**|Zhong Li et.al|[paper](https://arxiv.org/abs/2510.18328)|-|<details><summary>detail</summary>Paper accepted by NeurIPS 2025</details>|
@@ -96,8 +98,6 @@
 |**2025-10-18**|**MIRAD - A comprehensive real-world robust anomaly detection dataset for Mass Individualization**|Pulin Li et.al|[paper](https://arxiv.org/abs/2510.16370)|[code](https://github.com/wu33learn/MIRAD.)|<details><summary>detail</summary>https://github</details>|
 |**2025-10-17**|**Cerberus: Real-Time Video Anomaly Detection via Cascaded Vision-Language Models**|Yue Zheng et.al|[paper](https://arxiv.org/abs/2510.16290)|-|-|
 |**2025-10-17**|**Robust Anomaly Detection through Multi-Modal Autoencoder Fusion for Small Vehicle Damage Detection**|Sara Khan et.al|[paper](https://arxiv.org/abs/2509.01719)|-|-|
-|**2025-10-17**|**Quantized FCA: Efficient Zero-Shot Texture Anomaly Detection**|Andrei-Timotei Ardelean et.al|[paper](https://arxiv.org/abs/2510.15602)|[code](https://reality.tf.fau.de/pub/ardelean2025quantized.html)|-|
-|**2025-10-17**|**Leveraging Learning Bias for Noisy Anomaly Detection**|Yuxin Zhang et.al|[paper](https://arxiv.org/abs/2508.07441)|[code](https://github.com/hustzhangyuxin/LLBNAD.)|-|
 
 ## 3D Anomaly Detection
 
