@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.10.28
+## Updated on 2025.10.29
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-28**|**Unsupervised Machine-Learning Pipeline for Data-Driven Defect Detection and Characterisation: Application to Displacement Cascades**|Samuel Del Fré et.al|[paper](https://arxiv.org/abs/2510.24523)|-|-|
 |**2025-10-21**|**Comparative Analysis of Object Detection Algorithms for Surface Defect Detection**|Arpan Maity et.al|[paper](https://arxiv.org/abs/2510.21811)|-|-|
 |**2025-10-16**|**Real-Time Surgical Instrument Defect Detection via Non-Destructive Testing**|Qurrat Ul Ain et.al|[paper](https://arxiv.org/abs/2510.14525)|-|-|
 |**2025-10-16**|**TinyDef-DETR: A Transformer-Based Framework for Defect Detection in Transmission Lines from UAV Imagery**|Feng Shen et.al|[paper](https://arxiv.org/abs/2509.06035)|-|-|
@@ -37,7 +38,6 @@
 |**2025-9-2**|**FusWay: Multimodal hybrid fusion approach. Application to Railway Defect Detection**|Alexey Zhukov et.al|[paper](https://arxiv.org/abs/2509.06987)|-|-|
 |**2025-9-1**|**TransMatch: A Transfer-Learning Framework for Defect Detection in Laser Powder Bed Fusion Additive Manufacturing**|Mohsen Asghari Ilani et.al|[paper](https://arxiv.org/abs/2509.01754)|-|-|
 |**2025-8-31**|**Surface Defect Detection with Gabor Filter Using Reconstruction-Based Blurring U-Net-ViT**|Jongwook Si et.al|[paper](https://arxiv.org/abs/2509.00827)|-|-|
-|**2025-8-26**|**No Label Left Behind: A Unified Surface Defect Detection Model for all Supervision Regimes**|Blaž Rolih et.al|[paper](https://arxiv.org/abs/2508.19060)|[code](https://github.com/blaz-r/SuperSimpleNet)|<details><summary>detail</summary>Accepted by The Journal of Intelligent Manufacturing</details>|
 
 ## Defect Segmentation
 
@@ -73,14 +73,21 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-28**|**VADTree: Explainable Training-Free Video Anomaly Detection via Hierarchical Granularity-Aware Tree**|Wenlong Li et.al|[paper](https://arxiv.org/abs/2510.22693)|[code](https://github.com/wenlongli10/VADTree.)|<details><summary>detail</summary>NeurIPS 2025 poster</details>|
+|**2025-10-28**|**Adaptive Anomaly Detection in Network Flows with Low-Rank Tensor Decompositions and Deep Unrolling**|Lukas Schynol et.al|[paper](https://arxiv.org/abs/2409.11529)|-|-|
+|**2025-10-28**|**Towards Real Unsupervised Anomaly Detection Via Confident Meta-Learning**|Muhammad Aqeel et.al|[paper](https://arxiv.org/abs/2508.02293)|[code](https://github.com/aqeeelmirza/CoMet)|<details><summary>detail</summary>IEEE/CVF International Conference on Computer Vision (ICCV2025)</details>|
+|**2025-10-28**|**PANDA: Towards Generalist Video Anomaly Detection via Agentic AI Engineer**|Zhiwei Yang et.al|[paper](https://arxiv.org/abs/2509.26386)|[code](https://github.com/showlab/PANDA.)|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
+|**2025-10-28**|**ARIMA_PLUS: Large-scale, Accurate, Automatic and Interpretable In-Database Time Series Forecasting and Anomaly Detection in Google BigQuery**|Xi Cheng et.al|[paper](https://arxiv.org/abs/2510.24452)|-|-|
+|**2025-10-28**|**MTFL: Multi-Timescale Feature Learning for Weakly-Supervised Anomaly Detection in Surveillance Videos**|Yiling Zhang et.al|[paper](https://arxiv.org/abs/2410.05900)|-|-|
+|**2025-10-28**|**Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images**|Jinsol Song et.al|[paper](https://arxiv.org/abs/2508.15256)|[code](https://github.com/QuIIL/ICCV2025_Ano-NAViLa)|<details><summary>detail</summary>ICCV 2025</details>|
+|**2025-10-28**|**Federated Structured Sparse PCA for Anomaly Detection in IoT Networks**|Chenyi Huang et.al|[paper](https://arxiv.org/abs/2503.23981)|[code](https://github.com/xianchaoxiu/FedSSP.)|-|
+|**2025-10-27**|**In Search of the Unknown Unknowns: A Multi-Metric Distance Ensemble for Out of Distribution Anomaly Detection in Astronomical Surveys**|Siddharth Chaini et.al|[paper](https://arxiv.org/abs/2510.23702)|[code](https://github.com/sidchaini/distclassipy/,)|-|
 |**2025-10-27**|**GRAD: Real-Time Gated Recurrent Anomaly Detection in Autonomous Vehicle Sensors Using Reinforced EMA and Multi-Stage Sliding Window Techniques**|Mohammad Hossein Jafari Naeimi et.al|[paper](https://arxiv.org/abs/2510.23327)|-|-|
 |**2025-10-27**|**Robust Modality-incomplete Anomaly Detection: A Modality-instructive Framework with Benchmark**|Bingchen Miao et.al|[paper](https://arxiv.org/abs/2410.01737)|-|-|
 |**2025-10-27**|**CodeAD: Synthesize Code of Rules for Log-based Anomaly Detection with LLMs**|Junjie Huang et.al|[paper](https://arxiv.org/abs/2510.22986)|-|-|
 |**2025-10-26**|**TokenCLIP: Token-wise Prompt Learning for Zero-shot Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2510.21171)|-|-|
 |**2025-10-26**|**Diffuse to Detect: A Generalizable Framework for Anomaly Detection with Diffusion Models Applications to UAVs and Beyond**|Mingze Gong et.al|[paper](https://arxiv.org/abs/2510.22928)|-|-|
 |**2025-10-26**|**DQS: A Low-Budget Query Strategy for Enhancing Unsupervised Data-driven Anomaly Detection Approaches**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2509.05663)|-|<details><summary>detail</summary>Submitted to the Journal of Big Data</details>|
-|**2025-10-26**|**VADTree: Explainable Training-Free Video Anomaly Detection via Hierarchical Granularity-Aware Tree**|Wenlong Li et.al|[paper](https://arxiv.org/abs/2510.22693)|[code](https://github.com/wenlongli10/VADTree.)|<details><summary>detail</summary>NeurIPS 2025 Camera Ready</details>|
-|**2025-10-26**|**Federated Structured Sparse PCA for Anomaly Detection in IoT Networks**|Chenyi Huang et.al|[paper](https://arxiv.org/abs/2503.23981)|-|<details><summary>detail</summary>The experiments have been improved</details>|
 |**2025-10-26**|**CLEANet: Robust and Efficient Anomaly Detection in Contaminated Multivariate Time Series**|Songhan Zhang et.al|[paper](https://arxiv.org/abs/2510.22619)|-|-|
 |**2025-10-24**|**Human-Centric Anomaly Detection in Surveillance Videos Using YOLO-World and Spatio-Temporal Deep Learning**|Mohammad Ali Etemadi Naeen et.al|[paper](https://arxiv.org/abs/2510.22056)|-|<details><summary>detail</summary>ACM Class:I</details>|
 |**2025-10-24**|**PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies**|Mojtaba Nafez et.al|[paper](https://arxiv.org/abs/2506.09237)|[code](https://github.com/rohban-lab/PatchGuard)|<details><summary>detail</summary>the Conference on Computer Vision and Pattern Recognition (CVPR) 2025</details>|
@@ -91,13 +98,6 @@
 |**2025-10-24**|**One Dinomaly2 Detect Them All: A Unified Framework for Full-Spectrum Unsupervised Anomaly Detection**|Jia Guo et.al|[paper](https://arxiv.org/abs/2510.17611)|-|<details><summary>detail</summary>Extended version of CVPR2025</details>|
 |**2025-10-23**|**Uncovering Anomalous Events for Marine Environmental Monitoring via Visual Anomaly Detection**|Laura Weihl et.al|[paper](https://arxiv.org/abs/2510.10750)|-|-|
 |**2025-10-23**|**Rebellious Student: A Complementary Learning Framework for Background Feature Enhancement in Hyperspectral Anomaly Detection**|Wenping Jin et.al|[paper](https://arxiv.org/abs/2510.18781)|[code](https://github.com/xjpp2016/FERS.)|-|
-|**2025-10-23**|**GMFVAD: Using Grained Multi-modal Feature to Improve Video Anomaly Detection**|Guangyu Dai et.al|[paper](https://arxiv.org/abs/2510.20268)|-|-|
-|**2025-10-22**|**Quantum Autoencoders for Anomaly Detection in Cybersecurity**|Rohan Senthil et.al|[paper](https://arxiv.org/abs/2510.21837)|-|-|
-|**2025-10-21**|**Securing IoT Communications via Anomaly Traffic Detection: Synergy of Genetic Algorithm and Ensemble Method**|Behnam Seyedi et.al|[paper](https://arxiv.org/abs/2510.19121)|-|-|
-|**2025-10-21**|**An Encode-then-Decompose Approach to Unsupervised Time Series Anomaly Detection on Contaminated Training Data--Extended Version**|Buang Zhang et.al|[paper](https://arxiv.org/abs/2510.18998)|-|-|
-|**2025-10-21**|**ShortcutBreaker: Low-Rank Noisy Bottleneck with Global Perturbation Attention for Multi-Class Unsupervised Anomaly Detection**|Peng Tang et.al|[paper](https://arxiv.org/abs/2510.18342)|-|<details><summary>detail</summary>Under Review</details>|
-|**2025-10-21**|**Scalable, Explainable and Provably Robust Anomaly Detection with One-Step Flow Matching**|Zhong Li et.al|[paper](https://arxiv.org/abs/2510.18328)|-|<details><summary>detail</summary>Paper accepted by NeurIPS 2025</details>|
-|**2025-10-20**|**BlockScan: Detecting Anomalies in Blockchain Transactions**|Jiahao Yu et.al|[paper](https://arxiv.org/abs/2410.04039)|-|-|
 
 ## 3D Anomaly Detection
 
