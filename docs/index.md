@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.11.02
+## Updated on 2025.11.03
 
 ## Defect Detection
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-10-31**|**Rethinking Telemetry Design for Fine-Grained Anomaly Detection in 5G User Planes**|Niloy Saha et.al|[paper](https://arxiv.org/abs/2510.27664)|-|-|
+|**2025-10-31**|**Rethinking Metrics and Benchmarks of Video Anomaly Detection**|Zihao Liu et.al|[paper](https://arxiv.org/abs/2505.19022)|[code](https://github.com/Kamino666/RethinkingVAD.)|-|
+|**2025-10-31**|**Binary Anomaly Detection in Streaming IoT Traffic under Concept Drift**|Rodrigo Matos Carnier et.al|[paper](https://arxiv.org/abs/2510.27304)|-|-|
+|**2025-10-30**|**Detecting Anomalies in Machine Learning Infrastructure via Hardware Telemetry**|Ziji Chen et.al|[paper](https://arxiv.org/abs/2510.26008)|-|-|
 |**2025-10-30**|**MSAD: A Deep Dive into Model Selection for Time series Anomaly Detection**|Emmanouil Sylligardos et.al|[paper](https://arxiv.org/abs/2510.26643)|-|-|
 |**2025-10-30**|**Enhancing ECG Classification Robustness with Lightweight Unsupervised Anomaly Detection Filters**|Mustafa Fuad Rifet Ibrahim et.al|[paper](https://arxiv.org/abs/2510.26501)|-|<details><summary>detail</summary>Submitted to the 24th International Conference on Pervasive Computing and Communications (PerCom 2026)</details>|
 |**2025-10-30**|**Quantum Gated Recurrent GAN with Gaussian Uncertainty for Network Anomaly Detection**|Wajdi Hammami et.al|[paper](https://arxiv.org/abs/2510.26487)|-|-|
@@ -80,7 +84,6 @@
 |**2025-10-30**|**A Survey of Heterogeneous Graph Neural Networks for Cybersecurity Anomaly Detection**|Laura Jiang et.al|[paper](https://arxiv.org/abs/2510.26307)|-|-|
 |**2025-10-30**|**Language-guided Open-world Video Anomaly Detection under Weak Supervision**|Zihao Liu et.al|[paper](https://arxiv.org/abs/2503.13160)|[code](https://github.com/Kamino666/LaGoVAD-PreVAD.)|-|
 |**2025-10-30**|**Segmentation over Complexity: Evaluating Ensemble and Hybrid Approaches for Anomaly Detection in Industrial Time Series**|Emilio Mastriani et.al|[paper](https://arxiv.org/abs/2510.26159)|-|<details><summary>detail</summary>This paper is currently under review for presentation at the IEEE SAMI 2026 Conference</details>|
-|**2025-10-29**|**Detecting Anomalies in Machine Learning Infrastructure via Hardware Telemetry**|Ziji Chen et.al|[paper](https://arxiv.org/abs/2510.26008)|-|-|
 |**2025-10-29**|**CAVE: Detecting and Explaining Commonsense Anomalies in Visual Environments**|Rishika Bhagwatkar et.al|[paper](https://arxiv.org/abs/2510.26006)|-|<details><summary>detail</summary>Journal ref:2025 Conference on Empirical Methods in Natural Language Processing</details>|
 |**2025-10-29**|**Flex-GAD : Flexible Graph Anomaly Detection**|Apu Chakraborty et.al|[paper](https://arxiv.org/abs/2510.25809)|-|-|
 |**2025-10-28**|**VADTree: Explainable Training-Free Video Anomaly Detection via Hierarchical Granularity-Aware Tree**|Wenlong Li et.al|[paper](https://arxiv.org/abs/2510.22693)|[code](https://github.com/wenlongli10/VADTree.)|<details><summary>detail</summary>NeurIPS 2025 poster</details>|
@@ -95,9 +98,6 @@
 |**2025-10-27**|**GRAD: Real-Time Gated Recurrent Anomaly Detection in Autonomous Vehicle Sensors Using Reinforced EMA and Multi-Stage Sliding Window Techniques**|Mohammad Hossein Jafari Naeimi et.al|[paper](https://arxiv.org/abs/2510.23327)|-|-|
 |**2025-10-27**|**Robust Modality-incomplete Anomaly Detection: A Modality-instructive Framework with Benchmark**|Bingchen Miao et.al|[paper](https://arxiv.org/abs/2410.01737)|-|-|
 |**2025-10-27**|**CodeAD: Synthesize Code of Rules for Log-based Anomaly Detection with LLMs**|Junjie Huang et.al|[paper](https://arxiv.org/abs/2510.22986)|-|-|
-|**2025-10-26**|**TokenCLIP: Token-wise Prompt Learning for Zero-shot Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2510.21171)|-|-|
-|**2025-10-26**|**Diffuse to Detect: A Generalizable Framework for Anomaly Detection with Diffusion Models Applications to UAVs and Beyond**|Mingze Gong et.al|[paper](https://arxiv.org/abs/2510.22928)|-|-|
-|**2025-10-26**|**DQS: A Low-Budget Query Strategy for Enhancing Unsupervised Data-driven Anomaly Detection Approaches**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2509.05663)|-|<details><summary>detail</summary>Submitted to the Journal of Big Data</details>|
 
 ## 3D Anomaly Detection
 
