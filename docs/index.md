@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.11.03
+## Updated on 2025.11.04
 
 ## Defect Detection
 
@@ -73,6 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-1**|**TRACES: Temporal Recall with Contextual Embeddings for Real-Time Video Anomaly Detection**|Yousuf Ahmed Siddiqui et.al|[paper](https://arxiv.org/abs/2511.00580)|-|-|
+|**2025-11-1**|**Synthetic Data Generation with Lorenzetti for Time Series Anomaly Detection in High-Energy Physics Calorimeters**|Laura Boggia et.al|[paper](https://arxiv.org/abs/2509.07451)|-|-|
+|**2025-11-1**|**Real-IAD Variety: Pushing Industrial Anomaly Detection Dataset to a Modern Era**|Wenbing Zhu et.al|[paper](https://arxiv.org/abs/2511.00540)|-|-|
+|**2025-11-1**|**Text-guided Fine-Grained Video Anomaly Detection**|Jihao Gu et.al|[paper](https://arxiv.org/abs/2511.00524)|-|-|
+|**2025-11-1**|**An Efficient Anomaly Detection Framework for Wireless Sensor Networks Using Markov Process**|Rahul Mishra et.al|[paper](https://arxiv.org/abs/2511.00481)|-|-|
+|**2025-11-1**|**Deep Learning Approach to Anomaly Detection in Enterprise ETL Processes with Autoencoders**|Xin Chen et.al|[paper](https://arxiv.org/abs/2511.00462)|-|-|
 |**2025-10-31**|**Rethinking Telemetry Design for Fine-Grained Anomaly Detection in 5G User Planes**|Niloy Saha et.al|[paper](https://arxiv.org/abs/2510.27664)|-|-|
 |**2025-10-31**|**Rethinking Metrics and Benchmarks of Video Anomaly Detection**|Zihao Liu et.al|[paper](https://arxiv.org/abs/2505.19022)|[code](https://github.com/Kamino666/RethinkingVAD.)|-|
 |**2025-10-31**|**Binary Anomaly Detection in Streaming IoT Traffic under Concept Drift**|Rodrigo Matos Carnier et.al|[paper](https://arxiv.org/abs/2510.27304)|-|-|
@@ -92,12 +98,6 @@
 |**2025-10-28**|**PANDA: Towards Generalist Video Anomaly Detection via Agentic AI Engineer**|Zhiwei Yang et.al|[paper](https://arxiv.org/abs/2509.26386)|[code](https://github.com/showlab/PANDA.)|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
 |**2025-10-28**|**ARIMA_PLUS: Large-scale, Accurate, Automatic and Interpretable In-Database Time Series Forecasting and Anomaly Detection in Google BigQuery**|Xi Cheng et.al|[paper](https://arxiv.org/abs/2510.24452)|-|-|
 |**2025-10-28**|**MTFL: Multi-Timescale Feature Learning for Weakly-Supervised Anomaly Detection in Surveillance Videos**|Yiling Zhang et.al|[paper](https://arxiv.org/abs/2410.05900)|-|-|
-|**2025-10-28**|**Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images**|Jinsol Song et.al|[paper](https://arxiv.org/abs/2508.15256)|[code](https://github.com/QuIIL/ICCV2025_Ano-NAViLa)|<details><summary>detail</summary>ICCV 2025</details>|
-|**2025-10-28**|**Federated Structured Sparse PCA for Anomaly Detection in IoT Networks**|Chenyi Huang et.al|[paper](https://arxiv.org/abs/2503.23981)|[code](https://github.com/xianchaoxiu/FedSSP.)|-|
-|**2025-10-27**|**In Search of the Unknown Unknowns: A Multi-Metric Distance Ensemble for Out of Distribution Anomaly Detection in Astronomical Surveys**|Siddharth Chaini et.al|[paper](https://arxiv.org/abs/2510.23702)|[code](https://github.com/sidchaini/distclassipy/,)|-|
-|**2025-10-27**|**GRAD: Real-Time Gated Recurrent Anomaly Detection in Autonomous Vehicle Sensors Using Reinforced EMA and Multi-Stage Sliding Window Techniques**|Mohammad Hossein Jafari Naeimi et.al|[paper](https://arxiv.org/abs/2510.23327)|-|-|
-|**2025-10-27**|**Robust Modality-incomplete Anomaly Detection: A Modality-instructive Framework with Benchmark**|Bingchen Miao et.al|[paper](https://arxiv.org/abs/2410.01737)|-|-|
-|**2025-10-27**|**CodeAD: Synthesize Code of Rules for Log-based Anomaly Detection with LLMs**|Junjie Huang et.al|[paper](https://arxiv.org/abs/2510.22986)|-|-|
 
 ## 3D Anomaly Detection
 
