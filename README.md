@@ -7,16 +7,17 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.11.04
+## Updated on 2025.11.05
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-4**|**Unsupervised Learning for Industrial Defect Detection: A Case Study on Shearographic Data**|Jessica Plassmann et.al|[paper](https://arxiv.org/abs/2511.02541)|-|-|
+|**2025-11-3**|**TinyDef-DETR: A Transformer-Based Framework for Defect Detection in Transmission Lines from UAV Imagery**|Feng Shen et.al|[paper](https://arxiv.org/abs/2509.06035)|-|-|
 |**2025-10-28**|**Unsupervised Machine-Learning Pipeline for Data-Driven Defect Detection and Characterisation: Application to Displacement Cascades**|Samuel Del Fré et.al|[paper](https://arxiv.org/abs/2510.24523)|-|-|
 |**2025-10-21**|**Comparative Analysis of Object Detection Algorithms for Surface Defect Detection**|Arpan Maity et.al|[paper](https://arxiv.org/abs/2510.21811)|-|-|
 |**2025-10-16**|**Real-Time Surgical Instrument Defect Detection via Non-Destructive Testing**|Qurrat Ul Ain et.al|[paper](https://arxiv.org/abs/2510.14525)|-|-|
-|**2025-10-16**|**TinyDef-DETR: A Transformer-Based Framework for Defect Detection in Transmission Lines from UAV Imagery**|Feng Shen et.al|[paper](https://arxiv.org/abs/2509.06035)|-|-|
 |**2025-10-16**|**BoardVision: Deployment-ready and Robust Motherboard Defect Detection with YOLO+Faster-RCNN Ensemble**|Brandon Hill et.al|[paper](https://arxiv.org/abs/2510.14389)|-|<details><summary>detail</summary>This paper has been submitted to IEEE/CVF WACV 2026 Applications track and is currently under review</details>|
 |**2025-10-15**|**InfraGPT Smart Infrastructure: An End-to-End VLM-Based Framework for Detecting and Managing Urban Defects**|Ibrahim Sheikh Mohamed et.al|[paper](https://arxiv.org/abs/2510.16017)|-|-|
 |**2025-10-15**|**Sample-Centric Multi-Task Learning for Detection and Segmentation of Industrial Surface Defects**|Hang-Cheng Dong et.al|[paper](https://arxiv.org/abs/2510.13226)|-|-|
@@ -37,7 +38,6 @@
 |**2025-9-2**|**Vision-Based Object Detection for UAV Solar Panel Inspection Using an Enhanced Defects Dataset**|Ashen Rodrigo et.al|[paper](https://arxiv.org/abs/2509.05348)|[code](https://github.com/IsuruMunasinghe98/solar-panel-inspection-dataset.)|-|
 |**2025-9-2**|**FusWay: Multimodal hybrid fusion approach. Application to Railway Defect Detection**|Alexey Zhukov et.al|[paper](https://arxiv.org/abs/2509.06987)|-|-|
 |**2025-9-1**|**TransMatch: A Transfer-Learning Framework for Defect Detection in Laser Powder Bed Fusion Additive Manufacturing**|Mohsen Asghari Ilani et.al|[paper](https://arxiv.org/abs/2509.01754)|-|-|
-|**2025-8-31**|**Surface Defect Detection with Gabor Filter Using Reconstruction-Based Blurring U-Net-ViT**|Jongwook Si et.al|[paper](https://arxiv.org/abs/2509.00827)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-4**|**Anomaly Detection-Based UE-Centric Inter-Cell Interference Suppression**|Kwonyeol Park et.al|[paper](https://arxiv.org/abs/2511.02320)|-|-|
+|**2025-11-4**|**Federated Quantum Kernel Learning for Anomaly Detection in Multivariate IoT Time-Series**|Kuan-Cheng Chen et.al|[paper](https://arxiv.org/abs/2511.02301)|-|-|
+|**2025-11-4**|**Network Anomaly Traffic Detection via Multi-view Feature Fusion**|Song Hao et.al|[paper](https://arxiv.org/abs/2409.08020)|[code](https://www.jc2.org.cn/CN/10.20278/j.jc2.2096-0204.2024.0196)|<details><summary>detail</summary>in Chinese language</details>|
+|**2025-11-3**|**An Open-Access Benchmark of Statistical and Machine-Learning Anomaly Detection Methods for Battery Applications**|Mei-Chin Pang et.al|[paper](https://arxiv.org/abs/2511.01745)|-|-|
 |**2025-11-1**|**TRACES: Temporal Recall with Contextual Embeddings for Real-Time Video Anomaly Detection**|Yousuf Ahmed Siddiqui et.al|[paper](https://arxiv.org/abs/2511.00580)|-|-|
 |**2025-11-1**|**Synthetic Data Generation with Lorenzetti for Time Series Anomaly Detection in High-Energy Physics Calorimeters**|Laura Boggia et.al|[paper](https://arxiv.org/abs/2509.07451)|-|-|
 |**2025-11-1**|**Real-IAD Variety: Pushing Industrial Anomaly Detection Dataset to a Modern Era**|Wenbing Zhu et.al|[paper](https://arxiv.org/abs/2511.00540)|-|-|
@@ -94,10 +98,6 @@
 |**2025-10-29**|**Flex-GAD : Flexible Graph Anomaly Detection**|Apu Chakraborty et.al|[paper](https://arxiv.org/abs/2510.25809)|-|-|
 |**2025-10-28**|**VADTree: Explainable Training-Free Video Anomaly Detection via Hierarchical Granularity-Aware Tree**|Wenlong Li et.al|[paper](https://arxiv.org/abs/2510.22693)|[code](https://github.com/wenlongli10/VADTree.)|<details><summary>detail</summary>NeurIPS 2025 poster</details>|
 |**2025-10-28**|**Adaptive Anomaly Detection in Network Flows with Low-Rank Tensor Decompositions and Deep Unrolling**|Lukas Schynol et.al|[paper](https://arxiv.org/abs/2409.11529)|-|-|
-|**2025-10-28**|**Towards Real Unsupervised Anomaly Detection Via Confident Meta-Learning**|Muhammad Aqeel et.al|[paper](https://arxiv.org/abs/2508.02293)|[code](https://github.com/aqeeelmirza/CoMet)|<details><summary>detail</summary>IEEE/CVF International Conference on Computer Vision (ICCV2025)</details>|
-|**2025-10-28**|**PANDA: Towards Generalist Video Anomaly Detection via Agentic AI Engineer**|Zhiwei Yang et.al|[paper](https://arxiv.org/abs/2509.26386)|[code](https://github.com/showlab/PANDA.)|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
-|**2025-10-28**|**ARIMA_PLUS: Large-scale, Accurate, Automatic and Interpretable In-Database Time Series Forecasting and Anomaly Detection in Google BigQuery**|Xi Cheng et.al|[paper](https://arxiv.org/abs/2510.24452)|-|-|
-|**2025-10-28**|**MTFL: Multi-Timescale Feature Learning for Weakly-Supervised Anomaly Detection in Surveillance Videos**|Yiling Zhang et.al|[paper](https://arxiv.org/abs/2410.05900)|-|-|
 
 ## 3D Anomaly Detection
 
