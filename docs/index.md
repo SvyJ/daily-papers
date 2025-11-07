@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.11.06
+## Updated on 2025.11.07
 
 ## Defect Detection
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-6**|**DeNoise: Learning Robust Graph Representations for Unsupervised Graph-Level Anomaly Detection**|Qingfeng Chen et.al|[paper](https://arxiv.org/abs/2511.04086)|-|-|
+|**2025-11-5**|**AnomalyAID: Reliable Interpretation for Semi-supervised Network Anomaly Detection**|Yachao Yuan et.al|[paper](https://arxiv.org/abs/2411.11293)|[code](https://github.com/M-Code-Space/AnomalyAID.)|-|
+|**2025-11-5**|**Multiscale Astrocyte Network Calcium Dynamics for Biologically Plausible Intelligence in Anomaly Detection**|Berk Iskar et.al|[paper](https://arxiv.org/abs/2511.03993)|-|-|
+|**2025-11-5**|**I Detect What I Don't Know: Incremental Anomaly Learning with Stochastic Weight Averaging-Gaussian for Oracle-Free Medical Imaging**|Nand Kumar Yadav et.al|[paper](https://arxiv.org/abs/2511.03912)|-|-|
 |**2025-11-5**|**SHIELD: Securing Healthcare IoT with Efficient Machine Learning Techniques for Anomaly Detection**|Mahek Desai et.al|[paper](https://arxiv.org/abs/2511.03661)|-|<details><summary>detail</summary>Journal ref:2025 IEEE World AI IoT Congress (AIIoT)</details>|
 |**2025-11-5**|**Text-guided Fine-Grained Video Anomaly Detection**|Jihao Gu et.al|[paper](https://arxiv.org/abs/2511.00524)|-|-|
 |**2025-11-5**|**Data Quality Monitoring for the Hadron Calorimeters Using Transfer Learning for Anomaly Detection**|Mulugeta Weldezgina Asres et.al|[paper](https://arxiv.org/abs/2408.16612)|[code](https://github.com/muleina/CMS\_HCAL\_ML\_OnlineDQM)|-|
@@ -94,10 +98,6 @@
 |**2025-10-31**|**Binary Anomaly Detection in Streaming IoT Traffic under Concept Drift**|Rodrigo Matos Carnier et.al|[paper](https://arxiv.org/abs/2510.27304)|-|-|
 |**2025-10-30**|**Detecting Anomalies in Machine Learning Infrastructure via Hardware Telemetry**|Ziji Chen et.al|[paper](https://arxiv.org/abs/2510.26008)|-|-|
 |**2025-10-30**|**MSAD: A Deep Dive into Model Selection for Time series Anomaly Detection**|Emmanouil Sylligardos et.al|[paper](https://arxiv.org/abs/2510.26643)|-|-|
-|**2025-10-30**|**Enhancing ECG Classification Robustness with Lightweight Unsupervised Anomaly Detection Filters**|Mustafa Fuad Rifet Ibrahim et.al|[paper](https://arxiv.org/abs/2510.26501)|-|<details><summary>detail</summary>Submitted to the 24th International Conference on Pervasive Computing and Communications (PerCom 2026)</details>|
-|**2025-10-30**|**Quantum Gated Recurrent GAN with Gaussian Uncertainty for Network Anomaly Detection**|Wajdi Hammami et.al|[paper](https://arxiv.org/abs/2510.26487)|-|-|
-|**2025-10-30**|**Towards Fine-Grained Vision-Language Alignment for Few-Shot Anomaly Detection**|Yuanting Fan et.al|[paper](https://arxiv.org/abs/2510.26464)|-|-|
-|**2025-10-30**|**A Survey of Heterogeneous Graph Neural Networks for Cybersecurity Anomaly Detection**|Laura Jiang et.al|[paper](https://arxiv.org/abs/2510.26307)|-|-|
 
 ## 3D Anomaly Detection
 
