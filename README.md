@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.11.09
+## Updated on 2025.11.10
 
 ## Defect Detection
 
@@ -43,7 +43,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2025-10-29**|**KARMA: Efficient Structural Defect Segmentation via Kolmogorov-Arnold Representation Learning**|Md Meftahul Ferdaus et.al|[paper](https://arxiv.org/abs/2508.08186)|[code](https://github.com/faeyelab/karma.)|<details><summary>detail</summary>This work has been submitted to the IEEE for possible publication</details>|
+|**2025-11-6**|**KARMA: Efficient Structural Defect Segmentation via Kolmogorov-Arnold Representation Learning**|Md Meftahul Ferdaus et.al|[paper](https://arxiv.org/abs/2508.08186)|[code](https://github.com/faeyelab/karma.)|<details><summary>detail</summary>This work has been submitted to the IEEE for possible publication</details>|
 |**2025-10-15**|**Sample-Centric Multi-Task Learning for Detection and Segmentation of Industrial Surface Defects**|Hang-Cheng Dong et.al|[paper](https://arxiv.org/abs/2510.13226)|-|-|
 |**2025-10-6**|**Attention-Enhanced Prototypical Learning for Few-Shot Infrastructure Defect Segmentation**|Christina Thrainer et.al|[paper](https://arxiv.org/abs/2510.05266)|-|-|
 |**2025-10-1**|**Defect Segmentation in OCT scans of ceramic parts for non-destructive inspection using deep learning**|Andrés Laveda-Martínez et.al|[paper](https://arxiv.org/abs/2510.00745)|-|-|
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-7**|**ADPretrain: Advancing Industrial Anomaly Detection via Anomaly Representation Pretraining**|Xincheng Yao et.al|[paper](https://arxiv.org/abs/2511.05245)|[code](https://github.com/xcyao00/ADPretrain.)|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
+|**2025-11-7**|**BLADE: Behavior-Level Anomaly Detection Using Network Traffic in Web Services**|Zhibo Dong et.al|[paper](https://arxiv.org/abs/2511.05193)|-|<details><summary>detail</summary>Accepted by IEEE MSN 2025</details>|
+|**2025-11-6**|**Knowledge-based anomaly detection for identifying network-induced shape artifacts**|Rucha Deshpande et.al|[paper](https://arxiv.org/abs/2511.04729)|-|-|
 |**2025-11-6**|**DeNoise: Learning Robust Graph Representations for Unsupervised Graph-Level Anomaly Detection**|Qingfeng Chen et.al|[paper](https://arxiv.org/abs/2511.04086)|-|-|
 |**2025-11-5**|**AnomalyAID: Reliable Interpretation for Semi-supervised Network Anomaly Detection**|Yachao Yuan et.al|[paper](https://arxiv.org/abs/2411.11293)|[code](https://github.com/M-Code-Space/AnomalyAID.)|-|
 |**2025-11-5**|**Multiscale Astrocyte Network Calcium Dynamics for Biologically Plausible Intelligence in Anomaly Detection**|Berk Iskar et.al|[paper](https://arxiv.org/abs/2511.03993)|-|-|
@@ -95,9 +98,6 @@
 |**2025-11-1**|**Deep Learning Approach to Anomaly Detection in Enterprise ETL Processes with Autoencoders**|Xin Chen et.al|[paper](https://arxiv.org/abs/2511.00462)|-|-|
 |**2025-10-31**|**Rethinking Telemetry Design for Fine-Grained Anomaly Detection in 5G User Planes**|Niloy Saha et.al|[paper](https://arxiv.org/abs/2510.27664)|-|-|
 |**2025-10-31**|**Rethinking Metrics and Benchmarks of Video Anomaly Detection**|Zihao Liu et.al|[paper](https://arxiv.org/abs/2505.19022)|[code](https://github.com/Kamino666/RethinkingVAD.)|-|
-|**2025-10-31**|**Binary Anomaly Detection in Streaming IoT Traffic under Concept Drift**|Rodrigo Matos Carnier et.al|[paper](https://arxiv.org/abs/2510.27304)|-|-|
-|**2025-10-30**|**Detecting Anomalies in Machine Learning Infrastructure via Hardware Telemetry**|Ziji Chen et.al|[paper](https://arxiv.org/abs/2510.26008)|-|-|
-|**2025-10-30**|**MSAD: A Deep Dive into Model Selection for Time series Anomaly Detection**|Emmanouil Sylligardos et.al|[paper](https://arxiv.org/abs/2510.26643)|-|-|
 
 ## 3D Anomaly Detection
 
