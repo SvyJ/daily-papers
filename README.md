@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.11.10
+## Updated on 2025.11.11
 
 ## Defect Detection
 
@@ -43,6 +43,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-8**|**Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology**|Bingyang Guo et.al|[paper](https://arxiv.org/abs/2511.05853)|-|-|
 |**2025-11-6**|**KARMA: Efficient Structural Defect Segmentation via Kolmogorov-Arnold Representation Learning**|Md Meftahul Ferdaus et.al|[paper](https://arxiv.org/abs/2508.08186)|[code](https://github.com/faeyelab/karma.)|<details><summary>detail</summary>This work has been submitted to the IEEE for possible publication</details>|
 |**2025-10-15**|**Sample-Centric Multi-Task Learning for Detection and Segmentation of Industrial Surface Defects**|Hang-Cheng Dong et.al|[paper](https://arxiv.org/abs/2510.13226)|-|-|
 |**2025-10-6**|**Attention-Enhanced Prototypical Learning for Few-Shot Infrastructure Defect Segmentation**|Christina Thrainer et.al|[paper](https://arxiv.org/abs/2510.05266)|-|-|
@@ -67,12 +68,17 @@
 |**2024-8-19**|**Imbalance-Aware Culvert-Sewer Defect Segmentation Using an Enhanced Feature Pyramid Network**|Rasha Alshawi et.al|[paper](https://arxiv.org/abs/2408.10181)|-|-|
 |**2024-8-19**|**Dynamic Label Injection for Imbalanced Industrial Defect Segmentation**|Emanuele Caruso et.al|[paper](https://arxiv.org/abs/2408.10031)|[code](https://github.com/covisionlab/dynamic-label-injection.git)|<details><summary>detail</summary>ECCV 2024 VISION Workshop</details>|
 |**2024-6-26**|**An unsupervised approach towards promptable defect segmentation in laser-based additive manufacturing by Segment Anything**|Israt Zarin Era et.al|[paper](https://arxiv.org/abs/2312.04063)|-|-|
-|**2024-4-17**|**CarcassFormer: An End-to-end Transformer-based Framework for Simultaneous Localization, Segmentation and Classification of Poultry Carcass Defect**|Minh Tran et.al|[paper](https://arxiv.org/abs/2404.11429)|[code](https://github.com/UARK-AICV/CarcassFormer)|<details><summary>detail</summary>Poultry Science Journal</details>|
 
 ## Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-8**|**Function Based Isolation Forest (FuBIF): A Unifying Framework for Interpretable Isolation-Based Anomaly Detection**|Alessio Arcudi et.al|[paper](https://arxiv.org/abs/2511.06054)|-|-|
+|**2025-11-8**|**Kunlun Anomaly Troubleshooter: Enabling Kernel-Level Anomaly Detection and Causal Reasoning for Large Model Distributed Inference**|Yuyang Liu et.al|[paper](https://arxiv.org/abs/2511.05978)|-|<details><summary>detail</summary>Preprint version</details>|
+|**2025-11-8**|**Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory**|Yuxuan Lin et.al|[paper](https://arxiv.org/abs/2511.05966)|[code](https://github.com/Sunny5250/CIF.)|<details><summary>detail</summary>Accepted by AAAI 2026</details>|
+|**2025-11-8**|**Generality Is Not Enough: Zero-Label Cross-System Log-Based Anomaly Detection via Knowledge-Level Collaboration**|Xinlong Zhao et.al|[paper](https://arxiv.org/abs/2511.05882)|-|-|
+|**2025-11-8**|**FusionLog: Cross-System Log-based Anomaly Detection via Fusion of General and Proprietary Knowledge**|Xinlong Zhao et.al|[paper](https://arxiv.org/abs/2511.05878)|-|-|
+|**2025-11-8**|**ZeroLog: Zero-Label Generalizable Cross-System Log-based Anomaly Detection**|Xinlong Zhao et.al|[paper](https://arxiv.org/abs/2511.05862)|-|-|
 |**2025-11-7**|**ADPretrain: Advancing Industrial Anomaly Detection via Anomaly Representation Pretraining**|Xincheng Yao et.al|[paper](https://arxiv.org/abs/2511.05245)|[code](https://github.com/xcyao00/ADPretrain.)|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
 |**2025-11-7**|**BLADE: Behavior-Level Anomaly Detection Using Network Traffic in Web Services**|Zhibo Dong et.al|[paper](https://arxiv.org/abs/2511.05193)|-|<details><summary>detail</summary>Accepted by IEEE MSN 2025</details>|
 |**2025-11-6**|**Knowledge-based anomaly detection for identifying network-induced shape artifacts**|Rucha Deshpande et.al|[paper](https://arxiv.org/abs/2511.04729)|-|-|
@@ -90,14 +96,8 @@
 |**2025-11-4**|**Anomaly Detection-Based UE-Centric Inter-Cell Interference Suppression**|Kwonyeol Park et.al|[paper](https://arxiv.org/abs/2511.02320)|-|-|
 |**2025-11-4**|**Federated Quantum Kernel Learning for Anomaly Detection in Multivariate IoT Time-Series**|Kuan-Cheng Chen et.al|[paper](https://arxiv.org/abs/2511.02301)|-|-|
 |**2025-11-4**|**Network Anomaly Traffic Detection via Multi-view Feature Fusion**|Song Hao et.al|[paper](https://arxiv.org/abs/2409.08020)|[code](https://www.jc2.org.cn/CN/10.20278/j.jc2.2096-0204.2024.0196)|<details><summary>detail</summary>in Chinese language</details>|
+|**2025-11-3**|**M2S2L: Mamba-based Multi-Scale Spatial-temporal Learning for Video Anomaly Detection**|Yang Liu et.al|[paper](https://arxiv.org/abs/2511.05564)|-|<details><summary>detail</summary>IEEE VCIP 2025</details>|
 |**2025-11-3**|**An Open-Access Benchmark of Statistical and Machine-Learning Anomaly Detection Methods for Battery Applications**|Mei-Chin Pang et.al|[paper](https://arxiv.org/abs/2511.01745)|-|-|
-|**2025-11-1**|**TRACES: Temporal Recall with Contextual Embeddings for Real-Time Video Anomaly Detection**|Yousuf Ahmed Siddiqui et.al|[paper](https://arxiv.org/abs/2511.00580)|-|-|
-|**2025-11-1**|**Synthetic Data Generation with Lorenzetti for Time Series Anomaly Detection in High-Energy Physics Calorimeters**|Laura Boggia et.al|[paper](https://arxiv.org/abs/2509.07451)|-|-|
-|**2025-11-1**|**Real-IAD Variety: Pushing Industrial Anomaly Detection Dataset to a Modern Era**|Wenbing Zhu et.al|[paper](https://arxiv.org/abs/2511.00540)|-|-|
-|**2025-11-1**|**An Efficient Anomaly Detection Framework for Wireless Sensor Networks Using Markov Process**|Rahul Mishra et.al|[paper](https://arxiv.org/abs/2511.00481)|-|-|
-|**2025-11-1**|**Deep Learning Approach to Anomaly Detection in Enterprise ETL Processes with Autoencoders**|Xin Chen et.al|[paper](https://arxiv.org/abs/2511.00462)|-|-|
-|**2025-10-31**|**Rethinking Telemetry Design for Fine-Grained Anomaly Detection in 5G User Planes**|Niloy Saha et.al|[paper](https://arxiv.org/abs/2510.27664)|-|-|
-|**2025-10-31**|**Rethinking Metrics and Benchmarks of Video Anomaly Detection**|Zihao Liu et.al|[paper](https://arxiv.org/abs/2505.19022)|[code](https://github.com/Kamino666/RethinkingVAD.)|-|
 
 ## 3D Anomaly Detection
 
@@ -133,6 +133,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-8**|**Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory**|Yuxuan Lin et.al|[paper](https://arxiv.org/abs/2511.05966)|[code](https://github.com/Sunny5250/CIF.)|<details><summary>detail</summary>Accepted by AAAI 2026</details>|
 |**2025-10-16**|**Leveraging Multimodal LLM Descriptions of Activity for Explainable Semi-Supervised Video Anomaly Detection**|Furkan Mumcu et.al|[paper](https://arxiv.org/abs/2510.14896)|-|-|
 |**2025-10-16**|**Incomplete Multimodal Industrial Anomaly Detection via Cross-Modal Distillation**|Wenbo Sui et.al|[paper](https://arxiv.org/abs/2405.13571)|-|<details><summary>detail</summary>For a published version refer to the Information Fusion</details>|
 |**2025-10-15**|**IAD-GPT: Advancing Visual Knowledge in Multimodal Large Language Model for Industrial Anomaly Detection**|Zewen Li et.al|[paper](https://arxiv.org/abs/2510.16036)|[code](https://github.com/LiZeWen1225/IAD-GPT)|<details><summary>detail</summary>Accepted by IEEE Transactions on Instrumentation and Measurement (TIM)</details>|
@@ -157,12 +158,12 @@
 |**2025-2-18**|**Anomaly Detection in Smart Power Grids with Graph-Regularized MS-SVDD: a Multimodal Subspace Learning Approach**|Thomas Debelle et.al|[paper](https://arxiv.org/abs/2502.15793)|-|-|
 |**2025-2-10**|**Multimodal Task Representation Memory Bank vs. Catastrophic Forgetting in Anomaly Detection**|You Zhou et.al|[paper](https://arxiv.org/abs/2502.06194)|-|-|
 |**2025-2-9**|**A 3D Multimodal Feature for Infrastructure Anomaly Detection**|Yixiong Jing et.al|[paper](https://arxiv.org/abs/2502.05779)|[code](https://github.com/Jingyixiong/3D-Multi-FPFHI.)|-|
-|**2025-1-27**|**Can Multimodal Large Language Models be Guided to Improve Industrial Anomaly Detection?**|Zhiling Chen et.al|[paper](https://arxiv.org/abs/2501.15795)|-|-|
 
 ## Vector Quantization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-9**|**Vector-Quantized Vision Foundation Models for Object-Centric Learning**|Rongzhen Zhao et.al|[paper](https://arxiv.org/abs/2502.20263)|[code](https://github.com/Genera1Z/VQ-VFM-OCL.)|<details><summary>detail</summary>ACM MM 2025</details>|
 |**2025-10-23**|**Learning Grouped Lattice Vector Quantizers for Low-Bit LLM Compression**|Xi Zhang et.al|[paper](https://arxiv.org/abs/2510.20984)|[code](https://github.com/xzhang9308/GLVQ.)|<details><summary>detail</summary>NeurIPS 2025 Poster</details>|
 |**2025-10-21**|**Channel-Aware Vector Quantization for Robust Semantic Communication on Discrete Channels**|Zian Meng et.al|[paper](https://arxiv.org/abs/2510.18604)|-|-|
 |**2025-10-18**|**AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models**|Zeyu Li et.al|[paper](https://arxiv.org/abs/2506.19505)|-|-|
@@ -187,5 +188,4 @@
 |**2025-9-15**|**SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation**|Hui Li et.al|[paper](https://arxiv.org/abs/2509.12086)|-|-|
 |**2025-9-12**|**Scalable Training for Vector-Quantized Networks with 100% Codebook Utilization**|Yifan Chang et.al|[paper](https://arxiv.org/abs/2509.10140)|-|-|
 |**2025-9-11**|**A Vector-Quantized Foundation Model for Patient Behavior Monitoring**|Rodrigo Oliver et.al|[paper](https://arxiv.org/abs/2503.15221)|-|-|
-|**2025-9-4**|**Kernel $k$-Medoids as General Vector Quantization**|Thore Gerlach et.al|[paper](https://arxiv.org/abs/2506.04786)|-|-|
 
