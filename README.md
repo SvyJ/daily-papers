@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.11.12
+## Updated on 2025.11.13
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-12**|**PATH: A Discrete-sequence Dataset for Evaluating Online Unsupervised Anomaly Detection Approaches for Multivariate Time Series**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2411.13951)|-|-|
+|**2025-11-12**|**TeVAE: A Variational Autoencoder Approach for Discrete Online Anomaly Detection in Variable-state Multivariate Time-series Data**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2407.06849)|-|-|
+|**2025-11-11**|**I Detect What I Don't Know: Incremental Anomaly Learning with Stochastic Weight Averaging-Gaussian for Oracle-Free Medical Imaging**|Nand Kumar Yadav et.al|[paper](https://arxiv.org/abs/2511.03912)|-|-|
 |**2025-11-11**|**AXIS: Explainable Time Series Anomaly Detection with Large Language Models**|Tian Lan et.al|[paper](https://arxiv.org/abs/2509.24378)|-|-|
 |**2025-11-11**|**Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy**|Tian Lan et.al|[paper](https://arxiv.org/abs/2509.21190)|-|-|
 |**2025-11-11**|**VLMDiff: Leveraging Vision-Language Models for Multi-Class Anomaly Detection with Diffusion**|Samet Hicsonmez et.al|[paper](https://arxiv.org/abs/2511.08173)|[code](https://github.com/giddyyupp/VLMDiff.)|<details><summary>detail</summary>WACV 2026</details>|
@@ -81,6 +84,7 @@
 |**2025-11-10**|**Noise & pattern: identity-anchored Tikhonov regularization for robust structural anomaly detection**|Alexander Bauer et.al|[paper](https://arxiv.org/abs/2511.07233)|-|-|
 |**2025-11-10**|**COGNOS: Universal Enhancement for Time Series Anomaly Detection via Constrained Gaussian-Noise Optimization and Smoothing**|Wenlong Shang et.al|[paper](https://arxiv.org/abs/2511.06894)|-|-|
 |**2025-11-10**|**AnomalyAID: Reliable Interpretation for Semi-supervised Network Anomaly Detection**|Yachao Yuan et.al|[paper](https://arxiv.org/abs/2411.11293)|-|-|
+|**2025-11-9**|**CADIC: Continual Anomaly Detection Based on Incremental Coreset**|Gen Yang et.al|[paper](https://arxiv.org/abs/2511.08634)|-|-|
 |**2025-11-9**|**UniADC: A Unified Framework for Anomaly Detection and Classification**|Ximiao Zhang et.al|[paper](https://arxiv.org/abs/2511.06644)|[code](https://github.com/cnulab/UniADC.)|-|
 |**2025-11-8**|**Function Based Isolation Forest (FuBIF): A Unifying Framework for Interpretable Isolation-Based Anomaly Detection**|Alessio Arcudi et.al|[paper](https://arxiv.org/abs/2511.06054)|-|-|
 |**2025-11-8**|**Kunlun Anomaly Troubleshooter: Enabling Kernel-Level Anomaly Detection and Causal Reasoning for Large Model Distributed Inference**|Yuyang Liu et.al|[paper](https://arxiv.org/abs/2511.05978)|-|<details><summary>detail</summary>Preprint version</details>|
@@ -94,10 +98,6 @@
 |**2025-11-6**|**Knowledge-based anomaly detection for identifying network-induced shape artifacts**|Rucha Deshpande et.al|[paper](https://arxiv.org/abs/2511.04729)|-|-|
 |**2025-11-6**|**DeNoise: Learning Robust Graph Representations for Unsupervised Graph-Level Anomaly Detection**|Qingfeng Chen et.al|[paper](https://arxiv.org/abs/2511.04086)|-|-|
 |**2025-11-5**|**Multiscale Astrocyte Network Calcium Dynamics for Biologically Plausible Intelligence in Anomaly Detection**|Berk Iskar et.al|[paper](https://arxiv.org/abs/2511.03993)|-|-|
-|**2025-11-5**|**I Detect What I Don't Know: Incremental Anomaly Learning with Stochastic Weight Averaging-Gaussian for Oracle-Free Medical Imaging**|Nand Kumar Yadav et.al|[paper](https://arxiv.org/abs/2511.03912)|-|-|
-|**2025-11-5**|**SHIELD: Securing Healthcare IoT with Efficient Machine Learning Techniques for Anomaly Detection**|Mahek Desai et.al|[paper](https://arxiv.org/abs/2511.03661)|-|<details><summary>detail</summary>Journal ref:2025 IEEE World AI IoT Congress (AIIoT)</details>|
-|**2025-11-5**|**Text-guided Fine-Grained Video Anomaly Detection**|Jihao Gu et.al|[paper](https://arxiv.org/abs/2511.00524)|-|-|
-|**2025-11-5**|**Data Quality Monitoring for the Hadron Calorimeters Using Transfer Learning for Anomaly Detection**|Mulugeta Weldezgina Asres et.al|[paper](https://arxiv.org/abs/2408.16612)|[code](https://github.com/muleina/CMS\_HCAL\_ML\_OnlineDQM)|-|
 
 ## 3D Anomaly Detection
 
