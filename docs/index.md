@@ -7,15 +7,15 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.11.13
+## Updated on 2025.11.14
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-13**|**TinyDef-DETR: A Transformer-Based Framework for Defect Detection in Transmission Lines from UAV Imagery**|Feng Shen et.al|[paper](https://arxiv.org/abs/2509.06035)|-|-|
 |**2025-11-4**|**Image-Intrinsic Priors for Integrated Circuit Defect Detection and Novel Class Discovery via Self-Supervised Learning**|Botong. Zhao et.al|[paper](https://arxiv.org/abs/2511.03120)|-|-|
 |**2025-11-4**|**Unsupervised Learning for Industrial Defect Detection: A Case Study on Shearographic Data**|Jessica Plassmann et.al|[paper](https://arxiv.org/abs/2511.02541)|-|-|
-|**2025-11-3**|**TinyDef-DETR: A Transformer-Based Framework for Defect Detection in Transmission Lines from UAV Imagery**|Feng Shen et.al|[paper](https://arxiv.org/abs/2509.06035)|-|-|
 |**2025-10-28**|**Unsupervised Machine-Learning Pipeline for Data-Driven Defect Detection and Characterisation: Application to Displacement Cascades**|Samuel Del Fré et.al|[paper](https://arxiv.org/abs/2510.24523)|-|-|
 |**2025-10-21**|**Comparative Analysis of Object Detection Algorithms for Surface Defect Detection**|Arpan Maity et.al|[paper](https://arxiv.org/abs/2510.21811)|-|-|
 |**2025-10-16**|**Real-Time Surgical Instrument Defect Detection via Non-Destructive Testing**|Qurrat Ul Ain et.al|[paper](https://arxiv.org/abs/2510.14525)|-|-|
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-13**|**Dual-Mode Deep Anomaly Detection for Medical Manufacturing: Structural Similarity and Feature Distance**|Julio Zanon Diaz et.al|[paper](https://arxiv.org/abs/2509.05796)|-|-|
+|**2025-11-13**|**Learning to Tell Apart: Weakly Supervised Video Anomaly Detection via Disentangled Semantic Alignment**|Wenti Yin et.al|[paper](https://arxiv.org/abs/2511.10334)|[code](https://github.com/lessiYin/DSANet)|<details><summary>detail</summary>AAAI 2026</details>|
+|**2025-11-12**|**Towards Multiple Missing Values-resistant Unsupervised Graph Anomaly Detection**|Jiazhen Chen et.al|[paper](https://arxiv.org/abs/2511.09917)|-|<details><summary>detail</summary>Accepted by 40th AAAI Conference on Artificial Intelligence (AAAI 2026)</details>|
+|**2025-11-12**|**xLSTMAD: A Powerful xLSTM-based Method for Anomaly Detection**|Kamil Faber et.al|[paper](https://arxiv.org/abs/2506.22837)|[code](https://github.com/Nyderx/xlstmad)|-|
 |**2025-11-12**|**PATH: A Discrete-sequence Dataset for Evaluating Online Unsupervised Anomaly Detection Approaches for Multivariate Time Series**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2411.13951)|-|-|
 |**2025-11-12**|**TeVAE: A Variational Autoencoder Approach for Discrete Online Anomaly Detection in Variable-state Multivariate Time-series Data**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2407.06849)|-|-|
 |**2025-11-11**|**I Detect What I Don't Know: Incremental Anomaly Learning with Stochastic Weight Averaging-Gaussian for Oracle-Free Medical Imaging**|Nand Kumar Yadav et.al|[paper](https://arxiv.org/abs/2511.03912)|-|-|
@@ -94,10 +98,6 @@
 |**2025-11-8**|**ZeroLog: Zero-Label Generalizable Cross-System Log-based Anomaly Detection**|Xinlong Zhao et.al|[paper](https://arxiv.org/abs/2511.05862)|-|-|
 |**2025-11-8**|**Towards Personalized Quantum Federated Learning for Anomaly Detection**|Ratun Rahman et.al|[paper](https://arxiv.org/abs/2511.07471)|-|<details><summary>detail</summary>IEEE Transactions on Network Science and Engineering</details>|
 |**2025-11-7**|**ADPretrain: Advancing Industrial Anomaly Detection via Anomaly Representation Pretraining**|Xincheng Yao et.al|[paper](https://arxiv.org/abs/2511.05245)|[code](https://github.com/xcyao00/ADPretrain.)|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
-|**2025-11-7**|**BLADE: Behavior-Level Anomaly Detection Using Network Traffic in Web Services**|Zhibo Dong et.al|[paper](https://arxiv.org/abs/2511.05193)|-|<details><summary>detail</summary>Accepted by IEEE MSN 2025</details>|
-|**2025-11-6**|**Knowledge-based anomaly detection for identifying network-induced shape artifacts**|Rucha Deshpande et.al|[paper](https://arxiv.org/abs/2511.04729)|-|-|
-|**2025-11-6**|**DeNoise: Learning Robust Graph Representations for Unsupervised Graph-Level Anomaly Detection**|Qingfeng Chen et.al|[paper](https://arxiv.org/abs/2511.04086)|-|-|
-|**2025-11-5**|**Multiscale Astrocyte Network Calcium Dynamics for Biologically Plausible Intelligence in Anomaly Detection**|Berk Iskar et.al|[paper](https://arxiv.org/abs/2511.03993)|-|-|
 
 ## 3D Anomaly Detection
 
