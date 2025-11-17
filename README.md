@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.11.16
+## Updated on 2025.11.17
 
 ## Defect Detection
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-14**|**Causal Digital Twins for Cyber-Physical Security: A Framework for Robust Anomaly Detection in Industrial Control Systems**|Mohammadhossein Homaei et.al|[paper](https://arxiv.org/abs/2510.09616)|-|<details><summary>detail</summary>22 Pages</details>|
+|**2025-11-14**|**Explainable Deep Convolutional Multi-Type Anomaly Detection**|Alex George et.al|[paper](https://arxiv.org/abs/2511.11165)|-|-|
+|**2025-11-14**|**Anomaly Detection in High-Dimensional Bank Account Balances via Robust Methods**|Federico Maddanu et.al|[paper](https://arxiv.org/abs/2511.11143)|-|-|
+|**2025-11-13**|**Architecting software monitors for control-flow anomaly detection through large language models and conformance checking**|Francesco Vitale et.al|[paper](https://arxiv.org/abs/2511.10876)|-|-|
 |**2025-11-13**|**Dual-Mode Deep Anomaly Detection for Medical Manufacturing: Structural Similarity and Feature Distance**|Julio Zanon Diaz et.al|[paper](https://arxiv.org/abs/2509.05796)|-|-|
 |**2025-11-13**|**Learning to Tell Apart: Weakly Supervised Video Anomaly Detection via Disentangled Semantic Alignment**|Wenti Yin et.al|[paper](https://arxiv.org/abs/2511.10334)|[code](https://github.com/lessiYin/DSANet)|<details><summary>detail</summary>AAAI 2026</details>|
 |**2025-11-12**|**Towards Multiple Missing Values-resistant Unsupervised Graph Anomaly Detection**|Jiazhen Chen et.al|[paper](https://arxiv.org/abs/2511.09917)|-|<details><summary>detail</summary>Accepted by 40th AAAI Conference on Artificial Intelligence (AAAI 2026)</details>|
@@ -94,10 +98,6 @@
 |**2025-11-8**|**Kunlun Anomaly Troubleshooter: Enabling Kernel-Level Anomaly Detection and Causal Reasoning for Large Model Distributed Inference**|Yuyang Liu et.al|[paper](https://arxiv.org/abs/2511.05978)|-|<details><summary>detail</summary>Preprint version</details>|
 |**2025-11-8**|**Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory**|Yuxuan Lin et.al|[paper](https://arxiv.org/abs/2511.05966)|[code](https://github.com/Sunny5250/CIF.)|<details><summary>detail</summary>Accepted by AAAI 2026</details>|
 |**2025-11-8**|**Generality Is Not Enough: Zero-Label Cross-System Log-Based Anomaly Detection via Knowledge-Level Collaboration**|Xinlong Zhao et.al|[paper](https://arxiv.org/abs/2511.05882)|-|-|
-|**2025-11-8**|**FusionLog: Cross-System Log-based Anomaly Detection via Fusion of General and Proprietary Knowledge**|Xinlong Zhao et.al|[paper](https://arxiv.org/abs/2511.05878)|-|-|
-|**2025-11-8**|**ZeroLog: Zero-Label Generalizable Cross-System Log-based Anomaly Detection**|Xinlong Zhao et.al|[paper](https://arxiv.org/abs/2511.05862)|-|-|
-|**2025-11-8**|**Towards Personalized Quantum Federated Learning for Anomaly Detection**|Ratun Rahman et.al|[paper](https://arxiv.org/abs/2511.07471)|-|<details><summary>detail</summary>IEEE Transactions on Network Science and Engineering</details>|
-|**2025-11-7**|**ADPretrain: Advancing Industrial Anomaly Detection via Anomaly Representation Pretraining**|Xincheng Yao et.al|[paper](https://arxiv.org/abs/2511.05245)|[code](https://github.com/xcyao00/ADPretrain.)|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
 
 ## 3D Anomaly Detection
 
