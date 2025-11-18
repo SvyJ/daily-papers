@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.11.17
+## Updated on 2025.11.18
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-15**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2025-11-13**|**TinyDef-DETR: A Transformer-Based Framework for Defect Detection in Transmission Lines from UAV Imagery**|Feng Shen et.al|[paper](https://arxiv.org/abs/2509.06035)|-|-|
 |**2025-11-4**|**Image-Intrinsic Priors for Integrated Circuit Defect Detection and Novel Class Discovery via Self-Supervised Learning**|Botong. Zhao et.al|[paper](https://arxiv.org/abs/2511.03120)|-|-|
 |**2025-11-4**|**Unsupervised Learning for Industrial Defect Detection: A Case Study on Shearographic Data**|Jessica Plassmann et.al|[paper](https://arxiv.org/abs/2511.02541)|-|-|
@@ -37,19 +38,18 @@
 |**2025-9-3**|**Joint Training of Image Generator and Detector for Road Defect Detection**|Kuan-Chuan Peng et.al|[paper](https://arxiv.org/abs/2509.03465)|-|<details><summary>detail</summary>This paper is accepted to ICCV 2025 Workshop on Representation Learning with Very Limited Resources: When Data</details>|
 |**2025-9-2**|**Resilient Multimodal Industrial Surface Defect Detection with Uncertain Sensors Availability**|Shuai Jiang et.al|[paper](https://arxiv.org/abs/2509.02962)|[code](https://github.com/SvyJ/MISDD-MM.)|<details><summary>detail</summary>IEEE/ASME Transactions on Mechatronics</details>|
 |**2025-9-2**|**Vision-Based Object Detection for UAV Solar Panel Inspection Using an Enhanced Defects Dataset**|Ashen Rodrigo et.al|[paper](https://arxiv.org/abs/2509.05348)|[code](https://github.com/IsuruMunasinghe98/solar-panel-inspection-dataset.)|-|
-|**2025-9-2**|**FusWay: Multimodal hybrid fusion approach. Application to Railway Defect Detection**|Alexey Zhukov et.al|[paper](https://arxiv.org/abs/2509.06987)|-|-|
 
 ## Defect Segmentation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-15**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2025-11-8**|**Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology**|Bingyang Guo et.al|[paper](https://arxiv.org/abs/2511.05853)|-|-|
 |**2025-11-6**|**KARMA: Efficient Structural Defect Segmentation via Kolmogorov-Arnold Representation Learning**|Md Meftahul Ferdaus et.al|[paper](https://arxiv.org/abs/2508.08186)|[code](https://github.com/faeyelab/karma.)|<details><summary>detail</summary>This work has been submitted to the IEEE for possible publication</details>|
 |**2025-10-15**|**Sample-Centric Multi-Task Learning for Detection and Segmentation of Industrial Surface Defects**|Hang-Cheng Dong et.al|[paper](https://arxiv.org/abs/2510.13226)|-|-|
 |**2025-10-6**|**Attention-Enhanced Prototypical Learning for Few-Shot Infrastructure Defect Segmentation**|Christina Thrainer et.al|[paper](https://arxiv.org/abs/2510.05266)|-|-|
 |**2025-10-1**|**Defect Segmentation in OCT scans of ceramic parts for non-destructive inspection using deep learning**|Andrés Laveda-Martínez et.al|[paper](https://arxiv.org/abs/2510.00745)|-|-|
 |**2025-9-11**|**Unsupervised Integrated-Circuit Defect Segmentation via Image-Intrinsic Normality**|Botong Zhao et.al|[paper](https://arxiv.org/abs/2509.09375)|-|-|
-|**2025-8-14**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2025-8-6**|**MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning**|Ylli Sadikaj et.al|[paper](https://arxiv.org/abs/2504.06740)|-|-|
 |**2025-7-23**|**Exploring Active Learning for Semiconductor Defect Segmentation**|Lile Cai et.al|[paper](https://arxiv.org/abs/2507.17359)|-|<details><summary>detail</summary>accepted to ICIP 2022</details>|
 |**2025-7-14**|**Advancing Automatic Photovoltaic Defect Detection using Semi-Supervised Semantic Segmentation of Electroluminescence Images**|Abhishek Jha et.al|[paper](https://arxiv.org/abs/2404.13693)|[code](https://github.com/abj247/PV-S3.)|-|
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-16**|**Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory**|Yuxuan Lin et.al|[paper](https://arxiv.org/abs/2511.05966)|[code](https://github.com/Sunny5250/CIF.)|<details><summary>detail</summary>Accepted by AAAI 2026</details>|
+|**2025-11-15**|**CEDL: Centre-Enhanced Discriminative Learning for Anomaly Detection**|Zahra Zamanzadeh Darban et.al|[paper](https://arxiv.org/abs/2511.12388)|-|-|
+|**2025-11-15**|**Dynamic Reward Scaling for Multivariate Time Series Anomaly Detection: A VAE-Enhanced Reinforcement Learning Approach**|Bahareh Golchin et.al|[paper](https://arxiv.org/abs/2511.12351)|-|-|
 |**2025-11-14**|**Causal Digital Twins for Cyber-Physical Security: A Framework for Robust Anomaly Detection in Industrial Control Systems**|Mohammadhossein Homaei et.al|[paper](https://arxiv.org/abs/2510.09616)|-|<details><summary>detail</summary>22 Pages</details>|
 |**2025-11-14**|**Explainable Deep Convolutional Multi-Type Anomaly Detection**|Alex George et.al|[paper](https://arxiv.org/abs/2511.11165)|-|-|
 |**2025-11-14**|**Anomaly Detection in High-Dimensional Bank Account Balances via Robust Methods**|Federico Maddanu et.al|[paper](https://arxiv.org/abs/2511.11143)|-|-|
@@ -95,9 +98,6 @@
 |**2025-11-9**|**CADIC: Continual Anomaly Detection Based on Incremental Coreset**|Gen Yang et.al|[paper](https://arxiv.org/abs/2511.08634)|-|-|
 |**2025-11-9**|**UniADC: A Unified Framework for Anomaly Detection and Classification**|Ximiao Zhang et.al|[paper](https://arxiv.org/abs/2511.06644)|[code](https://github.com/cnulab/UniADC.)|-|
 |**2025-11-8**|**Function Based Isolation Forest (FuBIF): A Unifying Framework for Interpretable Isolation-Based Anomaly Detection**|Alessio Arcudi et.al|[paper](https://arxiv.org/abs/2511.06054)|-|-|
-|**2025-11-8**|**Kunlun Anomaly Troubleshooter: Enabling Kernel-Level Anomaly Detection and Causal Reasoning for Large Model Distributed Inference**|Yuyang Liu et.al|[paper](https://arxiv.org/abs/2511.05978)|-|<details><summary>detail</summary>Preprint version</details>|
-|**2025-11-8**|**Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory**|Yuxuan Lin et.al|[paper](https://arxiv.org/abs/2511.05966)|[code](https://github.com/Sunny5250/CIF.)|<details><summary>detail</summary>Accepted by AAAI 2026</details>|
-|**2025-11-8**|**Generality Is Not Enough: Zero-Label Cross-System Log-Based Anomaly Detection via Knowledge-Level Collaboration**|Xinlong Zhao et.al|[paper](https://arxiv.org/abs/2511.05882)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -133,8 +133,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-16**|**Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory**|Yuxuan Lin et.al|[paper](https://arxiv.org/abs/2511.05966)|[code](https://github.com/Sunny5250/CIF.)|<details><summary>detail</summary>Accepted by AAAI 2026</details>|
 |**2025-11-10**|**RobustA: Robust Anomaly Detection in Multimodal Data**|Salem AlMarri et.al|[paper](https://arxiv.org/abs/2511.07276)|-|<details><summary>detail</summary>Submitted to IEEE Transactions on Image Processing</details>|
-|**2025-11-8**|**Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory**|Yuxuan Lin et.al|[paper](https://arxiv.org/abs/2511.05966)|[code](https://github.com/Sunny5250/CIF.)|<details><summary>detail</summary>Accepted by AAAI 2026</details>|
 |**2025-10-16**|**Leveraging Multimodal LLM Descriptions of Activity for Explainable Semi-Supervised Video Anomaly Detection**|Furkan Mumcu et.al|[paper](https://arxiv.org/abs/2510.14896)|-|-|
 |**2025-10-16**|**Incomplete Multimodal Industrial Anomaly Detection via Cross-Modal Distillation**|Wenbo Sui et.al|[paper](https://arxiv.org/abs/2405.13571)|-|<details><summary>detail</summary>For a published version refer to the Information Fusion</details>|
 |**2025-10-15**|**IAD-GPT: Advancing Visual Knowledge in Multimodal Large Language Model for Industrial Anomaly Detection**|Zewen Li et.al|[paper](https://arxiv.org/abs/2510.16036)|[code](https://github.com/LiZeWen1225/IAD-GPT)|<details><summary>detail</summary>Accepted by IEEE Transactions on Instrumentation and Measurement (TIM)</details>|
