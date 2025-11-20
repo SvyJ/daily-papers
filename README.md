@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.11.19
+## Updated on 2025.11.20
 
 ## Defect Detection
 
@@ -73,6 +73,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-19**|**STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2511.15339)|-|<details><summary>detail</summary>8 Pages</details>|
+|**2025-11-18**|**Fourier-KAN-Mamba: A Novel State-Space Equation Approach for Time-Series Anomaly Detection**|Xiancheng Wang et.al|[paper](https://arxiv.org/abs/2511.15083)|-|-|
 |**2025-11-18**|**Not All Regions Are Equal: Attention-Guided Perturbation Network for Industrial Anomaly Detection**|Tingfeng Huang et.al|[paper](https://arxiv.org/abs/2408.07490)|-|-|
 |**2025-11-18**|**Contextual Learning for Anomaly Detection in Tabular Data**|Spencer King et.al|[paper](https://arxiv.org/abs/2509.09030)|-|<details><summary>detail</summary>Submitted to TMLR</details>|
 |**2025-11-17**|**LogPurge: Log Data Purification for Anomaly Detection via Rule-Enhanced Filtering**|Shenglin Zhang et.al|[paper](https://arxiv.org/abs/2511.14062)|-|-|
@@ -96,8 +98,6 @@
 |**2025-11-12**|**xLSTMAD: A Powerful xLSTM-based Method for Anomaly Detection**|Kamil Faber et.al|[paper](https://arxiv.org/abs/2506.22837)|[code](https://github.com/Nyderx/xlstmad)|-|
 |**2025-11-12**|**PATH: A Discrete-sequence Dataset for Evaluating Online Unsupervised Anomaly Detection Approaches for Multivariate Time Series**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2411.13951)|-|-|
 |**2025-11-12**|**TeVAE: A Variational Autoencoder Approach for Discrete Online Anomaly Detection in Variable-state Multivariate Time-series Data**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2407.06849)|-|-|
-|**2025-11-11**|**I Detect What I Don't Know: Incremental Anomaly Learning with Stochastic Weight Averaging-Gaussian for Oracle-Free Medical Imaging**|Nand Kumar Yadav et.al|[paper](https://arxiv.org/abs/2511.03912)|-|-|
-|**2025-11-11**|**AXIS: Explainable Time Series Anomaly Detection with Large Language Models**|Tian Lan et.al|[paper](https://arxiv.org/abs/2509.24378)|-|-|
 
 ## 3D Anomaly Detection
 
