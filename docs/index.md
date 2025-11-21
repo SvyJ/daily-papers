@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.11.20
+## Updated on 2025.11.21
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-20**|**PersonaDrift: A Benchmark for Temporal Anomaly Detection in Language-Based Dementia Monitoring**|Joy Lai et.al|[paper](https://arxiv.org/abs/2511.16445)|-|-|
+|**2025-11-20**|**Labels Matter More Than Models: Quantifying the Benefit of Supervised Time Series Anomaly Detection**|Zhijie Zhong et.al|[paper](https://arxiv.org/abs/2511.16145)|[code](https://github.com/EmorZz1G/STAND.)|-|
+|**2025-11-19**|**AquaSentinel: Next-Generation AI System Integrating Sensor Networks for Urban Underground Water Pipeline Anomaly Detection via Collaborative MoE-LLM Agent Architecture**|Qiming Guo et.al|[paper](https://arxiv.org/abs/2511.15870)|-|-|
 |**2025-11-19**|**STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2511.15339)|-|<details><summary>detail</summary>8 Pages</details>|
 |**2025-11-18**|**Fourier-KAN-Mamba: A Novel State-Space Equation Approach for Time-Series Anomaly Detection**|Xiancheng Wang et.al|[paper](https://arxiv.org/abs/2511.15083)|-|-|
 |**2025-11-18**|**Not All Regions Are Equal: Attention-Guided Perturbation Network for Industrial Anomaly Detection**|Tingfeng Huang et.al|[paper](https://arxiv.org/abs/2408.07490)|-|-|
@@ -95,9 +98,6 @@
 |**2025-11-13**|**Dual-Mode Deep Anomaly Detection for Medical Manufacturing: Structural Similarity and Feature Distance**|Julio Zanon Diaz et.al|[paper](https://arxiv.org/abs/2509.05796)|-|-|
 |**2025-11-13**|**Learning to Tell Apart: Weakly Supervised Video Anomaly Detection via Disentangled Semantic Alignment**|Wenti Yin et.al|[paper](https://arxiv.org/abs/2511.10334)|[code](https://github.com/lessiYin/DSANet)|<details><summary>detail</summary>AAAI 2026</details>|
 |**2025-11-12**|**Towards Multiple Missing Values-resistant Unsupervised Graph Anomaly Detection**|Jiazhen Chen et.al|[paper](https://arxiv.org/abs/2511.09917)|-|<details><summary>detail</summary>Accepted by 40th AAAI Conference on Artificial Intelligence (AAAI 2026)</details>|
-|**2025-11-12**|**xLSTMAD: A Powerful xLSTM-based Method for Anomaly Detection**|Kamil Faber et.al|[paper](https://arxiv.org/abs/2506.22837)|[code](https://github.com/Nyderx/xlstmad)|-|
-|**2025-11-12**|**PATH: A Discrete-sequence Dataset for Evaluating Online Unsupervised Anomaly Detection Approaches for Multivariate Time Series**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2411.13951)|-|-|
-|**2025-11-12**|**TeVAE: A Variational Autoencoder Approach for Discrete Online Anomaly Detection in Variable-state Multivariate Time-series Data**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2407.06849)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-20**|**Q-MLLM: Vector Quantization for Robust Multimodal Large Language Model Security**|Wei Zhao et.al|[paper](https://arxiv.org/abs/2511.16229)|[code](https://github.com/Amadeuszhao/QMLLM.)|<details><summary>detail</summary>Accepted by NDSS 2026</details>|
+|**2025-11-19**|**Vector Quantized-Elites: Unsupervised and Problem-Agnostic Quality-Diversity Optimization**|Constantinos Tsakonas et.al|[paper](https://arxiv.org/abs/2504.08057)|-|-|
 |**2025-11-18**|**Dimension vs. Precision: A Comparative Analysis of Autoencoders and Quantization for Efficient Vector Retrieval on BEIR SciFact**|Satyanarayan Pati et.al|[paper](https://arxiv.org/abs/2511.13057)|-|-|
 |**2025-11-9**|**Vector-Quantized Vision Foundation Models for Object-Centric Learning**|Rongzhen Zhao et.al|[paper](https://arxiv.org/abs/2502.20263)|[code](https://github.com/Genera1Z/VQ-VFM-OCL.)|<details><summary>detail</summary>ACM MM 2025</details>|
 |**2025-10-23**|**Learning Grouped Lattice Vector Quantizers for Low-Bit LLM Compression**|Xi Zhang et.al|[paper](https://arxiv.org/abs/2510.20984)|[code](https://github.com/xzhang9308/GLVQ.)|<details><summary>detail</summary>NeurIPS 2025 Poster</details>|
@@ -186,6 +188,4 @@
 |**2025-9-23**|**RSAVQ: Riemannian Sensitivity-Aware Vector Quantization for Large Language Models**|Zukang Xu et.al|[paper](https://arxiv.org/abs/2510.01240)|-|-|
 |**2025-9-22**|**Individualized non-uniform quantization for vector search**|Mariano Tepper et.al|[paper](https://arxiv.org/abs/2509.18471)|-|-|
 |**2025-9-16**|**Improving 3D Gaussian Splatting Compression by Scene-Adaptive Lattice Vector Quantization**|Hao Xu et.al|[paper](https://arxiv.org/abs/2509.13482)|[code](https://github.com/hxu160/SALVQ)|<details><summary>detail</summary>Code available at https://github</details>|
-|**2025-9-15**|**SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation**|Hui Li et.al|[paper](https://arxiv.org/abs/2509.12086)|-|-|
-|**2025-9-12**|**Scalable Training for Vector-Quantized Networks with 100% Codebook Utilization**|Yifan Chang et.al|[paper](https://arxiv.org/abs/2509.10140)|-|-|
 
