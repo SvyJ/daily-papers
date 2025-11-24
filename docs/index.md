@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.11.23
+## Updated on 2025.11.24
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-21**|**Modeling Anomaly Detection in Cloud Services: Analysis of the Properties that Impact Latency and Resource Consumption**|Gabriel Job Antunes Grabher et.al|[paper](https://arxiv.org/abs/2511.17119)|-|<details><summary>detail</summary>Journal ref:IEEE/ACM 18th International Conference on Utility and Cloud Computing (UCC'25)</details>|
+|**2025-11-21**|**Sparse Reasoning is Enough: Biological-Inspired Framework for Video Anomaly Detection with Large Pre-trained Models**|He Huang et.al|[paper](https://arxiv.org/abs/2511.17094)|-|-|
+|**2025-11-20**|**CroTad: A Contrastive Reinforcement Learning Framework for Online Trajectory Anomaly Detection**|Rui Xue et.al|[paper](https://arxiv.org/abs/2511.16929)|-|-|
 |**2025-11-20**|**PersonaDrift: A Benchmark for Temporal Anomaly Detection in Language-Based Dementia Monitoring**|Joy Lai et.al|[paper](https://arxiv.org/abs/2511.16445)|-|-|
 |**2025-11-20**|**Labels Matter More Than Models: Quantifying the Benefit of Supervised Time Series Anomaly Detection**|Zhijie Zhong et.al|[paper](https://arxiv.org/abs/2511.16145)|[code](https://github.com/EmorZz1G/STAND.)|-|
 |**2025-11-19**|**AquaSentinel: Next-Generation AI System Integrating Sensor Networks for Urban Underground Water Pipeline Anomaly Detection via Collaborative MoE-LLM Agent Architecture**|Qiming Guo et.al|[paper](https://arxiv.org/abs/2511.15870)|-|-|
@@ -95,9 +98,6 @@
 |**2025-11-14**|**Explainable Deep Convolutional Multi-Type Anomaly Detection**|Alex George et.al|[paper](https://arxiv.org/abs/2511.11165)|-|-|
 |**2025-11-14**|**Anomaly Detection in High-Dimensional Bank Account Balances via Robust Methods**|Federico Maddanu et.al|[paper](https://arxiv.org/abs/2511.11143)|-|-|
 |**2025-11-13**|**Architecting software monitors for control-flow anomaly detection through large language models and conformance checking**|Francesco Vitale et.al|[paper](https://arxiv.org/abs/2511.10876)|-|-|
-|**2025-11-13**|**Dual-Mode Deep Anomaly Detection for Medical Manufacturing: Structural Similarity and Feature Distance**|Julio Zanon Diaz et.al|[paper](https://arxiv.org/abs/2509.05796)|-|-|
-|**2025-11-13**|**Learning to Tell Apart: Weakly Supervised Video Anomaly Detection via Disentangled Semantic Alignment**|Wenti Yin et.al|[paper](https://arxiv.org/abs/2511.10334)|[code](https://github.com/lessiYin/DSANet)|<details><summary>detail</summary>AAAI 2026</details>|
-|**2025-11-12**|**Towards Multiple Missing Values-resistant Unsupervised Graph Anomaly Detection**|Jiazhen Chen et.al|[paper](https://arxiv.org/abs/2511.09917)|-|<details><summary>detail</summary>Accepted by 40th AAAI Conference on Artificial Intelligence (AAAI 2026)</details>|
 
 ## 3D Anomaly Detection
 
