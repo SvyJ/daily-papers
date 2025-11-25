@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.11.24
+## Updated on 2025.11.25
 
 ## Defect Detection
 
@@ -73,6 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-23**|**EVA-Net: Interpretable Anomaly Detection for Brain Health via Learning Continuous Aging Prototypes from One-Class EEG Cohorts**|Kunyu Zhang et.al|[paper](https://arxiv.org/abs/2511.15393)|-|-|
+|**2025-11-22**|**Lightweight Autoencoder-Isolation Forest Anomaly Detection for Green IoT Edge Gateways**|Saeid Jamshidi et.al|[paper](https://arxiv.org/abs/2511.18235)|-|-|
+|**2025-11-22**|**PromptMoE: Generalizable Zero-Shot Anomaly Detection via Visually-Guided Prompt Mixtures**|Yuheng Shao et.al|[paper](https://arxiv.org/abs/2511.18116)|-|-|
+|**2025-11-22**|**Federated Anomaly Detection and Mitigation for EV Charging Forecasting Under Cyberattacks**|Oluleke Babayomi et.al|[paper](https://arxiv.org/abs/2511.17978)|-|-|
+|**2025-11-22**|**Attack-Specialized Deep Learning with Ensemble Fusion for Network Anomaly Detection**|Nisith Dissanayake et.al|[paper](https://arxiv.org/abs/2510.12455)|-|-|
+|**2025-11-21**|**InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models**|Shunsuke Sakai et.al|[paper](https://arxiv.org/abs/2504.05662)|[code](https://github.com/SkyShunsuke/InversionAD)|<details><summary>detail</summary>Code is available at https://github</details>|
 |**2025-11-21**|**Modeling Anomaly Detection in Cloud Services: Analysis of the Properties that Impact Latency and Resource Consumption**|Gabriel Job Antunes Grabher et.al|[paper](https://arxiv.org/abs/2511.17119)|-|<details><summary>detail</summary>Journal ref:IEEE/ACM 18th International Conference on Utility and Cloud Computing (UCC'25)</details>|
 |**2025-11-21**|**Sparse Reasoning is Enough: Biological-Inspired Framework for Video Anomaly Detection with Large Pre-trained Models**|He Huang et.al|[paper](https://arxiv.org/abs/2511.17094)|-|-|
 |**2025-11-20**|**CroTad: A Contrastive Reinforcement Learning Framework for Online Trajectory Anomaly Detection**|Rui Xue et.al|[paper](https://arxiv.org/abs/2511.16929)|-|-|
@@ -92,12 +98,6 @@
 |**2025-11-16**|**Scalable Hierarchical AI-Blockchain Framework for Real-Time Anomaly Detection in Large-Scale Autonomous Vehicle Networks**|Rathin Chandra Shit et.al|[paper](https://arxiv.org/abs/2511.12648)|-|<details><summary>detail</summary>Submitted to the Journal</details>|
 |**2025-11-16**|**Adaptive Dual-Layer Web Application Firewall (ADL-WAF) Leveraging Machine Learning for Enhanced Anomaly and Threat Detection**|Ahmed Sameh et.al|[paper](https://arxiv.org/abs/2511.12643)|-|-|
 |**2025-11-16**|**Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory**|Yuxuan Lin et.al|[paper](https://arxiv.org/abs/2511.05966)|[code](https://github.com/Sunny5250/CIF.)|<details><summary>detail</summary>Accepted by AAAI 2026</details>|
-|**2025-11-15**|**CEDL: Centre-Enhanced Discriminative Learning for Anomaly Detection**|Zahra Zamanzadeh Darban et.al|[paper](https://arxiv.org/abs/2511.12388)|-|-|
-|**2025-11-15**|**Dynamic Reward Scaling for Multivariate Time Series Anomaly Detection: A VAE-Enhanced Reinforcement Learning Approach**|Bahareh Golchin et.al|[paper](https://arxiv.org/abs/2511.12351)|-|-|
-|**2025-11-14**|**Causal Digital Twins for Cyber-Physical Security: A Framework for Robust Anomaly Detection in Industrial Control Systems**|Mohammadhossein Homaei et.al|[paper](https://arxiv.org/abs/2510.09616)|-|<details><summary>detail</summary>22 Pages</details>|
-|**2025-11-14**|**Explainable Deep Convolutional Multi-Type Anomaly Detection**|Alex George et.al|[paper](https://arxiv.org/abs/2511.11165)|-|-|
-|**2025-11-14**|**Anomaly Detection in High-Dimensional Bank Account Balances via Robust Methods**|Federico Maddanu et.al|[paper](https://arxiv.org/abs/2511.11143)|-|-|
-|**2025-11-13**|**Architecting software monitors for control-flow anomaly detection through large language models and conformance checking**|Francesco Vitale et.al|[paper](https://arxiv.org/abs/2511.10876)|-|-|
 
 ## 3D Anomaly Detection
 
