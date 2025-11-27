@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.11.26
+## Updated on 2025.11.27
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-25**|**Automated Neural Architecture Design for Industrial Defect Detection**|Yuxi Liu et.al|[paper](https://arxiv.org/abs/2510.06669)|[code](https://github.com/Yuxi104/AutoNAD.)|-|
 |**2025-11-17**|**Saliency-Guided Deep Learning for Bridge Defect Detection in Drone Imagery**|Loucif Hebbache et.al|[paper](https://arxiv.org/abs/2511.14040)|-|-|
 |**2025-11-15**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2025-11-13**|**TinyDef-DETR: A Transformer-Based Framework for Defect Detection in Transmission Lines from UAV Imagery**|Feng Shen et.al|[paper](https://arxiv.org/abs/2509.06035)|-|-|
@@ -25,7 +26,6 @@
 |**2025-10-15**|**InfraGPT Smart Infrastructure: An End-to-End VLM-Based Framework for Detecting and Managing Urban Defects**|Ibrahim Sheikh Mohamed et.al|[paper](https://arxiv.org/abs/2510.16017)|-|-|
 |**2025-10-15**|**Sample-Centric Multi-Task Learning for Detection and Segmentation of Industrial Surface Defects**|Hang-Cheng Dong et.al|[paper](https://arxiv.org/abs/2510.13226)|-|-|
 |**2025-10-8**|**Transformer-Based Indirect Structural Health Monitoring of Rail Infrastructure with Attention-Driven Detection and Localization of Transient Defects**|Sizhe Ma et.al|[paper](https://arxiv.org/abs/2510.07606)|-|<details><summary>detail</summary>Preprint presented at the 15th International Workshop on Structural Health Monitoring (IWSHM)</details>|
-|**2025-10-8**|**Automated Neural Architecture Design for Industrial Defect Detection**|Yuxi Liu et.al|[paper](https://arxiv.org/abs/2510.06669)|[code](https://github.com/Yuxi104/AutoNAD.)|-|
 |**2025-10-7**|**Kaputt: A Large-Scale Dataset for Visual Defect Detection**|Sebastian Höfer et.al|[paper](https://arxiv.org/abs/2510.05903)|[code](https://www.kaputt-dataset.com.)|<details><summary>detail</summary>ICCV 2025</details>|
 |**2025-10-3**|**Automated Defect Detection for Mass-Produced Electronic Components Based on YOLO Object Detection Models**|Wei-Lung Mao et.al|[paper](https://arxiv.org/abs/2510.01914)|-|-|
 |**2025-10-2**|**YOLO-Based Defect Detection for Metal Sheets**|Po-Heng Chou et.al|[paper](https://arxiv.org/abs/2509.25659)|-|-|
@@ -73,12 +73,16 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-26**|**Modular, On-Site Solutions with Lightweight Anomaly Detection for Sustainable Nutrient Management in Agriculture**|Abigail R. Cohen et.al|[paper](https://arxiv.org/abs/2509.12247)|-|-|
+|**2025-11-26**|**GiBy: A Giant-Step Baby-Step Classifier For Anomaly Detection In Industrial Control Systems**|Sarad Venugopalan et.al|[paper](https://arxiv.org/abs/2504.20906)|-|-|
+|**2025-11-26**|**Anomaly Detection with Adaptive and Aggressive Rejection for Contaminated Training Data**|Jungi Lee et.al|[paper](https://arxiv.org/abs/2511.21378)|-|-|
+|**2025-11-26**|**Hybrid SIFT-SNN for Efficient Anomaly Detection of Traffic Flow-Control Infrastructure**|Munish Rathee et.al|[paper](https://arxiv.org/abs/2511.21337)|-|-|
+|**2025-11-25**|**Ranking-Enhanced Anomaly Detection Using Active Learning-Assisted Attention Adversarial Dual AutoEncoders**|Sidahmed Benabderrahmane et.al|[paper](https://arxiv.org/abs/2511.20480)|-|-|
 |**2025-11-25**|**Harnessing Vision-Language Models for Time Series Anomaly Detection**|Zelin He et.al|[paper](https://arxiv.org/abs/2506.06836)|-|<details><summary>detail</summary>AAAI 2026 (Oral)</details>|
 |**2025-11-25**|**DRL-Guided Neural Batch Sampling for Semi-Supervised Pixel-Level Anomaly Detection**|Amirhossein Khadivi Noghredeh et.al|[paper](https://arxiv.org/abs/2511.20270)|-|-|
 |**2025-11-25**|**ADNet: A Large-Scale and Extensible Multi-Domain Benchmark for Anomaly Detection Across 380 Real-World Categories**|Hai Ling et.al|[paper](https://arxiv.org/abs/2511.20169)|[code](https://grainnet.github.io/ADNet)|-|
 |**2025-11-25**|**Zero-Shot Anomaly Detection with Dual-Branch Prompt Selection**|Zihan Wang et.al|[paper](https://arxiv.org/abs/2508.00777)|-|<details><summary>detail</summary>BMVC 2025</details>|
 |**2025-11-25**|**Explainable Visual Anomaly Detection via Concept Bottleneck Models**|Arianna Stropeni et.al|[paper](https://arxiv.org/abs/2511.20088)|-|-|
-|**2025-11-24**|**GiBy: A Giant-Step Baby-Step Classifier For Anomaly Detection In Industrial Control Systems**|Sarad Venugopalan et.al|[paper](https://arxiv.org/abs/2504.20906)|-|-|
 |**2025-11-24**|**TokenCLIP: Token-wise Prompt Learning for Zero-shot Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2510.21171)|-|-|
 |**2025-11-24**|**Teacher Encoder-Student Decoder Denoising Guided Segmentation Network for Anomaly Detection**|Shixuan Song et.al|[paper](https://arxiv.org/abs/2501.12104)|-|<details><summary>detail</summary>Journal ref:Neural Information Processing</details>|
 |**2025-11-24**|**Anomaly Detection in Autonomous Driving: A Survey**|Daniel Bogdoll et.al|[paper](https://arxiv.org/abs/2204.07974)|-|<details><summary>detail</summary>Daniel Bogdoll and Maximilian Nitsche contributed equally</details>|
@@ -94,10 +98,6 @@
 |**2025-11-22**|**Attack-Specialized Deep Learning with Ensemble Fusion for Network Anomaly Detection**|Nisith Dissanayake et.al|[paper](https://arxiv.org/abs/2510.12455)|-|-|
 |**2025-11-21**|**InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models**|Shunsuke Sakai et.al|[paper](https://arxiv.org/abs/2504.05662)|[code](https://github.com/SkyShunsuke/InversionAD)|<details><summary>detail</summary>Code is available at https://github</details>|
 |**2025-11-21**|**Modeling Anomaly Detection in Cloud Services: Analysis of the Properties that Impact Latency and Resource Consumption**|Gabriel Job Antunes Grabher et.al|[paper](https://arxiv.org/abs/2511.17119)|-|<details><summary>detail</summary>Journal ref:IEEE/ACM 18th International Conference on Utility and Cloud Computing (UCC'25)</details>|
-|**2025-11-21**|**Sparse Reasoning is Enough: Biological-Inspired Framework for Video Anomaly Detection with Large Pre-trained Models**|He Huang et.al|[paper](https://arxiv.org/abs/2511.17094)|-|-|
-|**2025-11-20**|**CroTad: A Contrastive Reinforcement Learning Framework for Online Trajectory Anomaly Detection**|Rui Xue et.al|[paper](https://arxiv.org/abs/2511.16929)|-|-|
-|**2025-11-20**|**PersonaDrift: A Benchmark for Temporal Anomaly Detection in Language-Based Dementia Monitoring**|Joy Lai et.al|[paper](https://arxiv.org/abs/2511.16445)|-|-|
-|**2025-11-20**|**Labels Matter More Than Models: Quantifying the Benefit of Supervised Time Series Anomaly Detection**|Zhijie Zhong et.al|[paper](https://arxiv.org/abs/2511.16145)|[code](https://github.com/EmorZz1G/STAND.)|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-25**|**RAVQ-HoloNet: Rate-Adaptive Vector-Quantized Hologram Compression**|Shima Rafiei et.al|[paper](https://arxiv.org/abs/2511.21035)|-|-|
 |**2025-11-24**|**Multiscale Vector-Quantized Variational Autoencoder for Endoscopic Image Synthesis**|Dimitrios E. Diamantis et.al|[paper](https://arxiv.org/abs/2511.19578)|-|<details><summary>detail</summary>Accepted in IEEE Int</details>|
 |**2025-11-20**|**Q-MLLM: Vector Quantization for Robust Multimodal Large Language Model Security**|Wei Zhao et.al|[paper](https://arxiv.org/abs/2511.16229)|[code](https://github.com/Amadeuszhao/QMLLM.)|<details><summary>detail</summary>Accepted by NDSS 2026</details>|
 |**2025-11-19**|**Vector Quantized-Elites: Unsupervised and Problem-Agnostic Quality-Diversity Optimization**|Constantinos Tsakonas et.al|[paper](https://arxiv.org/abs/2504.08057)|-|-|
@@ -187,5 +188,4 @@
 |**2025-9-26**|**AUV: Teaching Audio Universal Vector Quantization with Single Nested Codebook**|Yushen Chen et.al|[paper](https://arxiv.org/abs/2509.21968)|[code](https://swivid.github.io/AUV/.)|<details><summary>detail</summary>Submitted to ICASSP 2026</details>|
 |**2025-9-25**|**Residual Vector Quantization For Communication-Efficient Multi-Agent Perception**|Dereje Shenkut et.al|[paper](https://arxiv.org/abs/2509.21464)|-|-|
 |**2025-9-23**|**RSAVQ: Riemannian Sensitivity-Aware Vector Quantization for Large Language Models**|Zukang Xu et.al|[paper](https://arxiv.org/abs/2510.01240)|-|-|
-|**2025-9-22**|**Individualized non-uniform quantization for vector search**|Mariano Tepper et.al|[paper](https://arxiv.org/abs/2509.18471)|-|-|
 
