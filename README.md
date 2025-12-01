@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.11.30
+## Updated on 2025.12.01
 
 ## Defect Detection
 
@@ -73,6 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-28**|**Federated Semi-Supervised and Semi-Asynchronous Learning for Anomaly Detection in IoT Networks**|Wenbin Zhai et.al|[paper](https://arxiv.org/abs/2308.11981)|-|-|
+|**2025-11-28**|**Quantifying Statistical Significance of Deep Nearest Neighbor Anomaly Detection via Selective Inference**|Mizuki Niihori et.al|[paper](https://arxiv.org/abs/2502.12978)|-|-|
+|**2025-11-27**|**AnoRefiner: Anomaly-Aware Group-Wise Refinement for Zero-Shot Industrial Anomaly Detection**|Dayou Huang et.al|[paper](https://arxiv.org/abs/2511.22595)|[code](https://github.com/HUST-SLOW/AnoRefiner.)|-|
+|**2025-11-27**|**ABounD: Adversarial Boundary-Driven Few-Shot Learning for Multi-Class Anomaly Detection**|Runzhi Deng et.al|[paper](https://arxiv.org/abs/2511.22436)|-|-|
+|**2025-11-26**|**Modeling Quantum Autoencoder Trainable Kernel for IoT Anomaly Detection**|Swathi Chandrasekhar et.al|[paper](https://arxiv.org/abs/2511.21932)|-|-|
+|**2025-11-26**|**Unsupervised Anomaly Detection for Smart IoT Devices: Performance and Resource Comparison**|Md. Sad Abdullah Sami et.al|[paper](https://arxiv.org/abs/2511.21842)|-|-|
 |**2025-11-26**|**Modular, On-Site Solutions with Lightweight Anomaly Detection for Sustainable Nutrient Management in Agriculture**|Abigail R. Cohen et.al|[paper](https://arxiv.org/abs/2509.12247)|-|-|
 |**2025-11-26**|**GiBy: A Giant-Step Baby-Step Classifier For Anomaly Detection In Industrial Control Systems**|Sarad Venugopalan et.al|[paper](https://arxiv.org/abs/2504.20906)|-|-|
 |**2025-11-26**|**Anomaly Detection with Adaptive and Aggressive Rejection for Contaminated Training Data**|Jungi Lee et.al|[paper](https://arxiv.org/abs/2511.21378)|-|-|
@@ -92,12 +98,6 @@
 |**2025-11-23**|**Multimodal Real-Time Anomaly Detection and Industrial Applications**|Aman Verma et.al|[paper](https://arxiv.org/abs/2511.18698)|-|-|
 |**2025-11-23**|**Functional Localization Enforced Deep Anomaly Detection Using Fundus Images**|Jan Benedikt Ruhland et.al|[paper](https://arxiv.org/abs/2511.18627)|-|-|
 |**2025-11-23**|**EVA-Net: Interpretable Anomaly Detection for Brain Health via Learning Continuous Aging Prototypes from One-Class EEG Cohorts**|Kunyu Zhang et.al|[paper](https://arxiv.org/abs/2511.15393)|-|-|
-|**2025-11-22**|**Lightweight Autoencoder-Isolation Forest Anomaly Detection for Green IoT Edge Gateways**|Saeid Jamshidi et.al|[paper](https://arxiv.org/abs/2511.18235)|-|-|
-|**2025-11-22**|**PromptMoE: Generalizable Zero-Shot Anomaly Detection via Visually-Guided Prompt Mixtures**|Yuheng Shao et.al|[paper](https://arxiv.org/abs/2511.18116)|-|-|
-|**2025-11-22**|**Federated Anomaly Detection and Mitigation for EV Charging Forecasting Under Cyberattacks**|Oluleke Babayomi et.al|[paper](https://arxiv.org/abs/2511.17978)|-|-|
-|**2025-11-22**|**Attack-Specialized Deep Learning with Ensemble Fusion for Network Anomaly Detection**|Nisith Dissanayake et.al|[paper](https://arxiv.org/abs/2510.12455)|-|-|
-|**2025-11-21**|**InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models**|Shunsuke Sakai et.al|[paper](https://arxiv.org/abs/2504.05662)|[code](https://github.com/SkyShunsuke/InversionAD)|<details><summary>detail</summary>Code is available at https://github</details>|
-|**2025-11-21**|**Modeling Anomaly Detection in Cloud Services: Analysis of the Properties that Impact Latency and Resource Consumption**|Gabriel Job Antunes Grabher et.al|[paper](https://arxiv.org/abs/2511.17119)|-|<details><summary>detail</summary>Journal ref:IEEE/ACM 18th International Conference on Utility and Cloud Computing (UCC'25)</details>|
 
 ## 3D Anomaly Detection
 
