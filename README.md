@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.12.01
+## Updated on 2025.12.02
 
 ## Defect Detection
 
@@ -73,6 +73,13 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-30**|**Anomaly Detection in High-Dimensional Bank Account Balances via Robust Methods**|Federico Maddanu et.al|[paper](https://arxiv.org/abs/2511.11143)|-|-|
+|**2025-11-30**|**FC-ADL: Efficient Microservice Anomaly Detection and Localisation Through Functional Connectivity**|Giles Winchester et.al|[paper](https://arxiv.org/abs/2512.00844)|-|-|
+|**2025-11-29**|**Large Language Models for Power System Security: A Novel Multi-Modal Approach for Anomaly Detection in Energy Management Systems**|Aydin Zaboli et.al|[paper](https://arxiv.org/abs/2508.10044)|-|<details><summary>detail</summary>10 Figures</details>|
+|**2025-11-29**|**HyCoVAD: A Hybrid SSL-LLM Model for Complex Video Anomaly Detection**|Mohammad Mahdi Hemmatyar et.al|[paper](https://arxiv.org/abs/2509.22544)|-|-|
+|**2025-11-29**|**AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2310.18961)|[code](https://github.com/zqhang/AnomalyCLIP.)|<details><summary>detail</summary>Accepted by ICLR 2024</details>|
+|**2025-11-28**|**SD-CGAN: Conditional Sinkhorn Divergence GAN for DDoS Anomaly Detection in IoT Networks**|Henry Onyeka et.al|[paper](https://arxiv.org/abs/2512.00251)|-|-|
+|**2025-11-28**|**Explainable Deep Convolutional Multi-Type Anomaly Detection**|Alex George et.al|[paper](https://arxiv.org/abs/2511.11165)|-|-|
 |**2025-11-28**|**Federated Semi-Supervised and Semi-Asynchronous Learning for Anomaly Detection in IoT Networks**|Wenbin Zhai et.al|[paper](https://arxiv.org/abs/2308.11981)|-|-|
 |**2025-11-28**|**Quantifying Statistical Significance of Deep Nearest Neighbor Anomaly Detection via Selective Inference**|Mizuki Niihori et.al|[paper](https://arxiv.org/abs/2502.12978)|-|-|
 |**2025-11-27**|**AnoRefiner: Anomaly-Aware Group-Wise Refinement for Zero-Shot Industrial Anomaly Detection**|Dayou Huang et.al|[paper](https://arxiv.org/abs/2511.22595)|[code](https://github.com/HUST-SLOW/AnoRefiner.)|-|
@@ -91,13 +98,6 @@
 |**2025-11-25**|**Explainable Visual Anomaly Detection via Concept Bottleneck Models**|Arianna Stropeni et.al|[paper](https://arxiv.org/abs/2511.20088)|-|-|
 |**2025-11-24**|**TokenCLIP: Token-wise Prompt Learning for Zero-shot Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2510.21171)|-|-|
 |**2025-11-24**|**Teacher Encoder-Student Decoder Denoising Guided Segmentation Network for Anomaly Detection**|Shixuan Song et.al|[paper](https://arxiv.org/abs/2501.12104)|-|<details><summary>detail</summary>Journal ref:Neural Information Processing</details>|
-|**2025-11-24**|**Anomaly Detection in Autonomous Driving: A Survey**|Daniel Bogdoll et.al|[paper](https://arxiv.org/abs/2204.07974)|-|<details><summary>detail</summary>Daniel Bogdoll and Maximilian Nitsche contributed equally</details>|
-|**2025-11-24**|**Unsupervised Multi-View Visual Anomaly Detection via Progressive Homography-Guided Alignment**|Xintao Chen et.al|[paper](https://arxiv.org/abs/2511.18766)|-|-|
-|**2025-11-23**|**A Problem-Oriented Taxonomy of Evaluation Metrics for Time Series Anomaly Detection**|Kaixiang Yang et.al|[paper](https://arxiv.org/abs/2511.18739)|-|-|
-|**2025-11-23**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
-|**2025-11-23**|**Multimodal Real-Time Anomaly Detection and Industrial Applications**|Aman Verma et.al|[paper](https://arxiv.org/abs/2511.18698)|-|-|
-|**2025-11-23**|**Functional Localization Enforced Deep Anomaly Detection Using Fundus Images**|Jan Benedikt Ruhland et.al|[paper](https://arxiv.org/abs/2511.18627)|-|-|
-|**2025-11-23**|**EVA-Net: Interpretable Anomaly Detection for Brain Health via Learning Continuous Aging Prototypes from One-Class EEG Cohorts**|Kunyu Zhang et.al|[paper](https://arxiv.org/abs/2511.15393)|-|-|
 
 ## 3D Anomaly Detection
 
