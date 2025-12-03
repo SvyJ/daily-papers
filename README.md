@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.12.02
+## Updated on 2025.12.03
 
 ## Defect Detection
 
@@ -73,6 +73,14 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-2**|**MSAD: A Deep Dive into Model Selection for Time series Anomaly Detection**|Emmanouil Sylligardos et.al|[paper](https://arxiv.org/abs/2510.26643)|-|-|
+|**2025-12-2**|**Synthetic Data Generation with Lorenzetti for Time Series Anomaly Detection in High-Energy Physics Calorimeters**|Laura Boggia et.al|[paper](https://arxiv.org/abs/2509.07451)|-|-|
+|**2025-12-2**|**FGC-Comp: Adaptive Neighbor-Grouped Attribute Completion for Graph-based Anomaly Detection**|Junpeng Wu et.al|[paper](https://arxiv.org/abs/2512.02705)|-|-|
+|**2025-12-2**|**On the Problem of Consistent Anomalies in Zero-Shot Anomaly Detection**|Tai Le-Gia et.al|[paper](https://arxiv.org/abs/2512.02520)|-|<details><summary>detail</summary>PhD Dissertation</details>|
+|**2025-12-1**|**ICAD-LLM: One-for-All Anomaly Detection via In-Context Learning with Large Language Models**|Zhongyuan Wu et.al|[paper](https://arxiv.org/abs/2512.01672)|-|-|
+|**2025-12-1**|**Deep Unsupervised Anomaly Detection in Brain Imaging: Large-Scale Benchmarking and Bias Analysis**|Alexander Frotscher et.al|[paper](https://arxiv.org/abs/2512.01534)|-|-|
+|**2025-12-1**|**Winning Solutions for the Rayan AI Contest: Compositional Retrieval, Zero-Shot Anomaly Detection, and Backdoor Detection**|Ali Nafisi et.al|[paper](https://arxiv.org/abs/2512.01498)|-|-|
+|**2025-12-1**|**Video Anomaly Detection with Semantics-Aware Information Bottleneck**|Juntong Li et.al|[paper](https://arxiv.org/abs/2506.02535)|[code](https://qzfm.github.io/sib_vad_project_page/)|-|
 |**2025-11-30**|**Anomaly Detection in High-Dimensional Bank Account Balances via Robust Methods**|Federico Maddanu et.al|[paper](https://arxiv.org/abs/2511.11143)|-|-|
 |**2025-11-30**|**FC-ADL: Efficient Microservice Anomaly Detection and Localisation Through Functional Connectivity**|Giles Winchester et.al|[paper](https://arxiv.org/abs/2512.00844)|-|-|
 |**2025-11-29**|**Large Language Models for Power System Security: A Novel Multi-Modal Approach for Anomaly Detection in Energy Management Systems**|Aydin Zaboli et.al|[paper](https://arxiv.org/abs/2508.10044)|-|<details><summary>detail</summary>10 Figures</details>|
@@ -90,14 +98,6 @@
 |**2025-11-26**|**GiBy: A Giant-Step Baby-Step Classifier For Anomaly Detection In Industrial Control Systems**|Sarad Venugopalan et.al|[paper](https://arxiv.org/abs/2504.20906)|-|-|
 |**2025-11-26**|**Anomaly Detection with Adaptive and Aggressive Rejection for Contaminated Training Data**|Jungi Lee et.al|[paper](https://arxiv.org/abs/2511.21378)|-|-|
 |**2025-11-26**|**Hybrid SIFT-SNN for Efficient Anomaly Detection of Traffic Flow-Control Infrastructure**|Munish Rathee et.al|[paper](https://arxiv.org/abs/2511.21337)|-|-|
-|**2025-11-25**|**Ranking-Enhanced Anomaly Detection Using Active Learning-Assisted Attention Adversarial Dual AutoEncoders**|Sidahmed Benabderrahmane et.al|[paper](https://arxiv.org/abs/2511.20480)|-|-|
-|**2025-11-25**|**Harnessing Vision-Language Models for Time Series Anomaly Detection**|Zelin He et.al|[paper](https://arxiv.org/abs/2506.06836)|-|<details><summary>detail</summary>AAAI 2026 (Oral)</details>|
-|**2025-11-25**|**DRL-Guided Neural Batch Sampling for Semi-Supervised Pixel-Level Anomaly Detection**|Amirhossein Khadivi Noghredeh et.al|[paper](https://arxiv.org/abs/2511.20270)|-|-|
-|**2025-11-25**|**ADNet: A Large-Scale and Extensible Multi-Domain Benchmark for Anomaly Detection Across 380 Real-World Categories**|Hai Ling et.al|[paper](https://arxiv.org/abs/2511.20169)|[code](https://grainnet.github.io/ADNet)|-|
-|**2025-11-25**|**Zero-Shot Anomaly Detection with Dual-Branch Prompt Selection**|Zihan Wang et.al|[paper](https://arxiv.org/abs/2508.00777)|-|<details><summary>detail</summary>BMVC 2025</details>|
-|**2025-11-25**|**Explainable Visual Anomaly Detection via Concept Bottleneck Models**|Arianna Stropeni et.al|[paper](https://arxiv.org/abs/2511.20088)|-|-|
-|**2025-11-24**|**TokenCLIP: Token-wise Prompt Learning for Zero-shot Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2510.21171)|-|-|
-|**2025-11-24**|**Teacher Encoder-Student Decoder Denoising Guided Segmentation Network for Anomaly Detection**|Shixuan Song et.al|[paper](https://arxiv.org/abs/2501.12104)|-|<details><summary>detail</summary>Journal ref:Neural Information Processing</details>|
 
 ## 3D Anomaly Detection
 
@@ -148,7 +148,6 @@
 |**2025-7-23**|**HiProbe-VAD: Video Anomaly Detection via Hidden States Probing in Tuning-Free Multimodal LLMs**|Zhaolin Cai et.al|[paper](https://arxiv.org/abs/2507.17394)|-|<details><summary>detail</summary>Accepted by ACM MM 2025</details>|
 |**2025-6-23**|**Multimodal Anomaly Detection with a Mixture-of-Experts**|Christoph Willibald et.al|[paper](https://arxiv.org/abs/2506.19077)|-|-|
 |**2025-6-20**|**When Every Millisecond Counts: Real-Time Anomaly Detection via the Multimodal Asynchronous Hybrid Network**|Dong Xiao et.al|[paper](https://arxiv.org/abs/2506.17457)|-|<details><summary>detail</summary>ICML 2025 Spotlight</details>|
-|**2025-6-4**|**MemoryOut: Learning Principal Features via Multimodal Sparse Filtering Network for Semi-supervised Video Anomaly Detection**|Juntong Li et.al|[paper](https://arxiv.org/abs/2506.02535)|[code](https://qzfm.github.io/sfn_vad_project_page/.)|-|
 |**2025-5-28**|**OmniAD: Detect and Understand Industrial Anomaly via Multimodal Reasoning**|Shifang Zhao et.al|[paper](https://arxiv.org/abs/2505.22039)|-|-|
 |**2025-5-19**|**Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**|Kiarash Naghavi Khanghah et.al|[paper](https://arxiv.org/abs/2505.13828)|-|<details><summary>detail</summary>ASME 2025 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference IDETC/CIE2025</details>|
 |**2025-5-8**|**Uncertainty-Weighted Image-Event Multimodal Fusion for Video Anomaly Detection**|Sungheon Jeong et.al|[paper](https://arxiv.org/abs/2505.02393)|[code](https://github.com/EavnJeong/IEF-VAD.)|-|
@@ -158,6 +157,7 @@
 |**2025-2-24**|**Can Multimodal LLMs Perform Time Series Anomaly Detection?**|Xiongxiao Xu et.al|[paper](https://arxiv.org/abs/2502.17812)|[code](https://github.com/mllm-ts/VisualTimeAnomaly)|-|
 |**2025-2-20**|**MMAD: A Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection**|Xi Jiang et.al|[paper](https://arxiv.org/abs/2410.09453)|[code](https://github.com/jam-cc/MMAD)|<details><summary>detail</summary>Accepted by ICLR 2025</details>|
 |**2025-2-18**|**Anomaly Detection in Smart Power Grids with Graph-Regularized MS-SVDD: a Multimodal Subspace Learning Approach**|Thomas Debelle et.al|[paper](https://arxiv.org/abs/2502.15793)|-|-|
+|**2025-2-10**|**Multimodal Task Representation Memory Bank vs. Catastrophic Forgetting in Anomaly Detection**|You Zhou et.al|[paper](https://arxiv.org/abs/2502.06194)|-|-|
 
 ## Vector Quantization
 
