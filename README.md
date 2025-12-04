@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.12.03
+## Updated on 2025.12.04
 
 ## Defect Detection
 
@@ -73,14 +73,19 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-3**|**TARA Test-by-Adaptive-Ranks for Quantum Anomaly Detection with Conformal Prediction Guarantees**|Davut Emre Tasar et.al|[paper](https://arxiv.org/abs/2512.04016)|-|-|
+|**2025-12-2**|**Hierarchical Attention for Sparse Volumetric Anomaly Detection in Subclinical Keratoconus**|Lynn Kandakji et.al|[paper](https://arxiv.org/abs/2512.03346)|-|-|
 |**2025-12-2**|**MSAD: A Deep Dive into Model Selection for Time series Anomaly Detection**|Emmanouil Sylligardos et.al|[paper](https://arxiv.org/abs/2510.26643)|-|-|
 |**2025-12-2**|**Synthetic Data Generation with Lorenzetti for Time Series Anomaly Detection in High-Energy Physics Calorimeters**|Laura Boggia et.al|[paper](https://arxiv.org/abs/2509.07451)|-|-|
 |**2025-12-2**|**FGC-Comp: Adaptive Neighbor-Grouped Attribute Completion for Graph-based Anomaly Detection**|Junpeng Wu et.al|[paper](https://arxiv.org/abs/2512.02705)|-|-|
+|**2025-12-2**|**Temporal Graph Neural Networks for Early Anomaly Detection and Performance Prediction via PV System Monitoring Data**|Srijani Mukherjee et.al|[paper](https://arxiv.org/abs/2512.03114)|-|<details><summary>detail</summary>Journal ref:42nd European Photovoltaic Solar Energy Conference and Exhibition (EU-PVSEC)</details>|
 |**2025-12-2**|**On the Problem of Consistent Anomalies in Zero-Shot Anomaly Detection**|Tai Le-Gia et.al|[paper](https://arxiv.org/abs/2512.02520)|-|<details><summary>detail</summary>PhD Dissertation</details>|
+|**2025-12-1**|**ALARM: Automated MLLM-Based Anomaly Detection in Complex-EnviRonment Monitoring with Uncertainty Quantification**|Congjing Zhang et.al|[paper](https://arxiv.org/abs/2512.03101)|-|-|
 |**2025-12-1**|**ICAD-LLM: One-for-All Anomaly Detection via In-Context Learning with Large Language Models**|Zhongyuan Wu et.al|[paper](https://arxiv.org/abs/2512.01672)|-|-|
 |**2025-12-1**|**Deep Unsupervised Anomaly Detection in Brain Imaging: Large-Scale Benchmarking and Bias Analysis**|Alexander Frotscher et.al|[paper](https://arxiv.org/abs/2512.01534)|-|-|
 |**2025-12-1**|**Winning Solutions for the Rayan AI Contest: Compositional Retrieval, Zero-Shot Anomaly Detection, and Backdoor Detection**|Ali Nafisi et.al|[paper](https://arxiv.org/abs/2512.01498)|-|-|
 |**2025-12-1**|**Video Anomaly Detection with Semantics-Aware Information Bottleneck**|Juntong Li et.al|[paper](https://arxiv.org/abs/2506.02535)|[code](https://qzfm.github.io/sib_vad_project_page/)|-|
+|**2025-11-30**|**A Hybrid Deep Learning and Anomaly Detection Framework for Real-Time Malicious URL Classification**|Berkani Khaled et.al|[paper](https://arxiv.org/abs/2512.03462)|-|-|
 |**2025-11-30**|**Anomaly Detection in High-Dimensional Bank Account Balances via Robust Methods**|Federico Maddanu et.al|[paper](https://arxiv.org/abs/2511.11143)|-|-|
 |**2025-11-30**|**FC-ADL: Efficient Microservice Anomaly Detection and Localisation Through Functional Connectivity**|Giles Winchester et.al|[paper](https://arxiv.org/abs/2512.00844)|-|-|
 |**2025-11-29**|**Large Language Models for Power System Security: A Novel Multi-Modal Approach for Anomaly Detection in Energy Management Systems**|Aydin Zaboli et.al|[paper](https://arxiv.org/abs/2508.10044)|-|<details><summary>detail</summary>10 Figures</details>|
@@ -93,11 +98,6 @@
 |**2025-11-27**|**AnoRefiner: Anomaly-Aware Group-Wise Refinement for Zero-Shot Industrial Anomaly Detection**|Dayou Huang et.al|[paper](https://arxiv.org/abs/2511.22595)|[code](https://github.com/HUST-SLOW/AnoRefiner.)|-|
 |**2025-11-27**|**ABounD: Adversarial Boundary-Driven Few-Shot Learning for Multi-Class Anomaly Detection**|Runzhi Deng et.al|[paper](https://arxiv.org/abs/2511.22436)|-|-|
 |**2025-11-26**|**Modeling Quantum Autoencoder Trainable Kernel for IoT Anomaly Detection**|Swathi Chandrasekhar et.al|[paper](https://arxiv.org/abs/2511.21932)|-|-|
-|**2025-11-26**|**Unsupervised Anomaly Detection for Smart IoT Devices: Performance and Resource Comparison**|Md. Sad Abdullah Sami et.al|[paper](https://arxiv.org/abs/2511.21842)|-|-|
-|**2025-11-26**|**Modular, On-Site Solutions with Lightweight Anomaly Detection for Sustainable Nutrient Management in Agriculture**|Abigail R. Cohen et.al|[paper](https://arxiv.org/abs/2509.12247)|-|-|
-|**2025-11-26**|**GiBy: A Giant-Step Baby-Step Classifier For Anomaly Detection In Industrial Control Systems**|Sarad Venugopalan et.al|[paper](https://arxiv.org/abs/2504.20906)|-|-|
-|**2025-11-26**|**Anomaly Detection with Adaptive and Aggressive Rejection for Contaminated Training Data**|Jungi Lee et.al|[paper](https://arxiv.org/abs/2511.21378)|-|-|
-|**2025-11-26**|**Hybrid SIFT-SNN for Efficient Anomaly Detection of Traffic Flow-Control Infrastructure**|Munish Rathee et.al|[paper](https://arxiv.org/abs/2511.21337)|-|-|
 
 ## 3D Anomaly Detection
 
