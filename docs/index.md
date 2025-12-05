@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.12.04
+## Updated on 2025.12.05
 
 ## Defect Detection
 
@@ -73,6 +73,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-4**|**Logic-Driven Cybersecurity: A Novel Framework for System Log Anomaly Detection using Answer Set Programming**|Fang Li et.al|[paper](https://arxiv.org/abs/2512.04908)|-|<details><summary>detail</summary>Submitted to FLOPS 2026</details>|
+|**2025-12-4**|**Federated Learning for Anomaly Detection in Maritime Movement Data**|Anita Graser et.al|[paper](https://arxiv.org/abs/2512.04635)|-|<details><summary>detail</summary>MDM2024</details>|
 |**2025-12-3**|**TARA Test-by-Adaptive-Ranks for Quantum Anomaly Detection with Conformal Prediction Guarantees**|Davut Emre Tasar et.al|[paper](https://arxiv.org/abs/2512.04016)|-|-|
 |**2025-12-2**|**Hierarchical Attention for Sparse Volumetric Anomaly Detection in Subclinical Keratoconus**|Lynn Kandakji et.al|[paper](https://arxiv.org/abs/2512.03346)|-|-|
 |**2025-12-2**|**MSAD: A Deep Dive into Model Selection for Time series Anomaly Detection**|Emmanouil Sylligardos et.al|[paper](https://arxiv.org/abs/2510.26643)|-|-|
@@ -96,8 +98,6 @@
 |**2025-11-28**|**Federated Semi-Supervised and Semi-Asynchronous Learning for Anomaly Detection in IoT Networks**|Wenbin Zhai et.al|[paper](https://arxiv.org/abs/2308.11981)|-|-|
 |**2025-11-28**|**Quantifying Statistical Significance of Deep Nearest Neighbor Anomaly Detection via Selective Inference**|Mizuki Niihori et.al|[paper](https://arxiv.org/abs/2502.12978)|-|-|
 |**2025-11-27**|**AnoRefiner: Anomaly-Aware Group-Wise Refinement for Zero-Shot Industrial Anomaly Detection**|Dayou Huang et.al|[paper](https://arxiv.org/abs/2511.22595)|[code](https://github.com/HUST-SLOW/AnoRefiner.)|-|
-|**2025-11-27**|**ABounD: Adversarial Boundary-Driven Few-Shot Learning for Multi-Class Anomaly Detection**|Runzhi Deng et.al|[paper](https://arxiv.org/abs/2511.22436)|-|-|
-|**2025-11-26**|**Modeling Quantum Autoencoder Trainable Kernel for IoT Anomaly Detection**|Swathi Chandrasekhar et.al|[paper](https://arxiv.org/abs/2511.21932)|-|-|
 
 ## 3D Anomaly Detection
 
