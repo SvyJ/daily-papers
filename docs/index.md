@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.12.09
+## Updated on 2025.12.10
 
 ## Defect Detection
 
@@ -73,6 +73,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-9**|**FedLAD: A Modular and Adaptive Testbed for Federated Log Anomaly Detection**|Yihan Liao et.al|[paper](https://arxiv.org/abs/2512.08277)|[code](https://github.com/AA-cityu/FedLAD.)|<details><summary>detail</summary>Accepted Artifact at ACSOS 2025</details>|
+|**2025-12-8**|**OIPR: Evaluation for Time-series Anomaly Detection Inspired by Operator Interest**|Yuhan Jing et.al|[paper](https://arxiv.org/abs/2503.01260)|-|-|
 |**2025-12-7**|**MINES: Explainable Anomaly Detection through Web API Invariant Inference**|Wenjie Zhang et.al|[paper](https://arxiv.org/abs/2512.06906)|-|-|
 |**2025-12-7**|**AquaFusionNet: Lightweight VisionSensor Fusion Framework for Real-Time Pathogen Detection and Water Quality Anomaly Prediction on Edge Devices**|Sepyan Purnama Kristanto et.al|[paper](https://arxiv.org/abs/2512.06848)|-|<details><summary>detail</summary>9Pages</details>|
 |**2025-12-7**|**Pseudo Anomalies Are All You Need: Diffusion-Based Generation for Weakly-Supervised Video Anomaly Detection**|Satoshi Hashimoto et.al|[paper](https://arxiv.org/abs/2512.06845)|-|-|
@@ -96,8 +98,6 @@
 |**2025-12-1**|**Winning Solutions for the Rayan AI Contest: Compositional Retrieval, Zero-Shot Anomaly Detection, and Backdoor Detection**|Ali Nafisi et.al|[paper](https://arxiv.org/abs/2512.01498)|-|-|
 |**2025-12-1**|**Video Anomaly Detection with Semantics-Aware Information Bottleneck**|Juntong Li et.al|[paper](https://arxiv.org/abs/2506.02535)|[code](https://qzfm.github.io/sib_vad_project_page/)|-|
 |**2025-11-30**|**A Hybrid Deep Learning and Anomaly Detection Framework for Real-Time Malicious URL Classification**|Berkani Khaled et.al|[paper](https://arxiv.org/abs/2512.03462)|-|-|
-|**2025-11-30**|**Anomaly Detection in High-Dimensional Bank Account Balances via Robust Methods**|Federico Maddanu et.al|[paper](https://arxiv.org/abs/2511.11143)|-|-|
-|**2025-11-30**|**FC-ADL: Efficient Microservice Anomaly Detection and Localisation Through Functional Connectivity**|Giles Winchester et.al|[paper](https://arxiv.org/abs/2512.00844)|-|-|
 
 ## 3D Anomaly Detection
 
