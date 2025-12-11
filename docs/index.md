@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.12.10
+## Updated on 2025.12.11
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-10**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|-|
 |**2025-12-5**|**SPFFNet: Strip Perception and Feature Fusion Spatial Pyramid Pooling for Fabric Defect Detection**|Peizhe Zhao et.al|[paper](https://arxiv.org/abs/2502.01445)|-|-|
 |**2025-12-5**|**Automated Annotation of Shearographic Measurements Enabling Weakly Supervised Defect Detection**|Jessica Plassmann et.al|[paper](https://arxiv.org/abs/2512.06171)|-|-|
 |**2025-11-25**|**Automated Neural Architecture Design for Industrial Defect Detection**|Yuxi Liu et.al|[paper](https://arxiv.org/abs/2510.06669)|[code](https://github.com/Yuxi104/AutoNAD.)|-|
@@ -37,12 +38,12 @@
 |**2025-9-23**|**Advancing Metallic Surface Defect Detection via Anomaly-Guided Pretraining on a Large Industrial Dataset**|Chuni Liu et.al|[paper](https://arxiv.org/abs/2509.18919)|[code](https://clovermini.github.io/AGSSP-Dev/.)|-|
 |**2025-9-19**|**ISP-AD: A Large-Scale Real-World Dataset for Advancing Industrial Anomaly Detection with Synthetic and Real Defects**|Paul J. Krassnig et.al|[paper](https://arxiv.org/abs/2503.04997)|[code](https://doi.org/10.5281/zenodo.14911042)|-|
 |**2025-9-6**|**On the Detection of Internal Defects in Structured Media**|Bryl Nico M. Ong et.al|[paper](https://arxiv.org/abs/2509.16216)|-|-|
-|**2025-9-4**|**YOLO Ensemble for UAV-based Multispectral Defect Detection in Wind Turbine Components**|Serhii Svystun et.al|[paper](https://arxiv.org/abs/2509.04156)|-|<details><summary>detail</summary>The 13th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications</details>|
 
 ## Defect Segmentation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-10**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|-|
 |**2025-11-24**|**A Storage-Efficient Feature for 3D Concrete Defect Segmentation to Replace Normal Vector**|Linxin Hua et.al|[paper](https://arxiv.org/abs/2511.19760)|-|-|
 |**2025-11-15**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2025-11-8**|**Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology**|Bingyang Guo et.al|[paper](https://arxiv.org/abs/2511.05853)|-|-|
@@ -67,12 +68,14 @@
 |**2024-9-20**|**Cycle-Consistency Uncertainty Estimation for Visual Prompting based One-Shot Defect Segmentation**|Geonuk Kim et.al|[paper](https://arxiv.org/abs/2409.13984)|-|<details><summary>detail</summary>ECCV 2024 VISION workshop Most Innovative Prize</details>|
 |**2024-8-31**|**Change-Aware Siamese Network for Surface Defects Segmentation under Complex Background**|Biyuan Liu et.al|[paper](https://arxiv.org/abs/2409.00589)|-|-|
 |**2024-8-19**|**Imbalance-Aware Culvert-Sewer Defect Segmentation Using an Enhanced Feature Pyramid Network**|Rasha Alshawi et.al|[paper](https://arxiv.org/abs/2408.10181)|-|-|
-|**2024-8-19**|**Dynamic Label Injection for Imbalanced Industrial Defect Segmentation**|Emanuele Caruso et.al|[paper](https://arxiv.org/abs/2408.10031)|[code](https://github.com/covisionlab/dynamic-label-injection.git)|<details><summary>detail</summary>ECCV 2024 VISION Workshop</details>|
 
 ## Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-10**|**LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection**|Jingwei Ye et.al|[paper](https://arxiv.org/abs/2512.09627)|-|-|
+|**2025-12-10**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|-|
+|**2025-12-9**|**Explainable Anomaly Detection for Industrial IoT Data Streams**|Ana Rita Paupério et.al|[paper](https://arxiv.org/abs/2512.08885)|-|<details><summary>detail</summary>41st ACM/SIGAPP Symposium On Applied Computing (SAC 2026)</details>|
 |**2025-12-9**|**FedLAD: A Modular and Adaptive Testbed for Federated Log Anomaly Detection**|Yihan Liao et.al|[paper](https://arxiv.org/abs/2512.08277)|[code](https://github.com/AA-cityu/FedLAD.)|<details><summary>detail</summary>Accepted Artifact at ACSOS 2025</details>|
 |**2025-12-8**|**OIPR: Evaluation for Time-series Anomaly Detection Inspired by Operator Interest**|Yuhan Jing et.al|[paper](https://arxiv.org/abs/2503.01260)|-|-|
 |**2025-12-7**|**MINES: Explainable Anomaly Detection through Web API Invariant Inference**|Wenjie Zhang et.al|[paper](https://arxiv.org/abs/2512.06906)|-|-|
@@ -95,9 +98,6 @@
 |**2025-12-1**|**ALARM: Automated MLLM-Based Anomaly Detection in Complex-EnviRonment Monitoring with Uncertainty Quantification**|Congjing Zhang et.al|[paper](https://arxiv.org/abs/2512.03101)|-|-|
 |**2025-12-1**|**ICAD-LLM: One-for-All Anomaly Detection via In-Context Learning with Large Language Models**|Zhongyuan Wu et.al|[paper](https://arxiv.org/abs/2512.01672)|-|-|
 |**2025-12-1**|**Deep Unsupervised Anomaly Detection in Brain Imaging: Large-Scale Benchmarking and Bias Analysis**|Alexander Frotscher et.al|[paper](https://arxiv.org/abs/2512.01534)|-|-|
-|**2025-12-1**|**Winning Solutions for the Rayan AI Contest: Compositional Retrieval, Zero-Shot Anomaly Detection, and Backdoor Detection**|Ali Nafisi et.al|[paper](https://arxiv.org/abs/2512.01498)|-|-|
-|**2025-12-1**|**Video Anomaly Detection with Semantics-Aware Information Bottleneck**|Juntong Li et.al|[paper](https://arxiv.org/abs/2506.02535)|[code](https://qzfm.github.io/sib_vad_project_page/)|-|
-|**2025-11-30**|**A Hybrid Deep Learning and Anomaly Detection Framework for Real-Time Malicious URL Classification**|Berkani Khaled et.al|[paper](https://arxiv.org/abs/2512.03462)|-|-|
 
 ## 3D Anomaly Detection
 
