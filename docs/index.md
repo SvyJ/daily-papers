@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.12.11
+## Updated on 2025.12.12
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-11**|**Unsupervised Learning for Industrial Defect Detection: A Case Study on Shearographic Data**|Jessica Plassmann et.al|[paper](https://arxiv.org/abs/2511.02541)|-|-|
 |**2025-12-10**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|-|
 |**2025-12-5**|**SPFFNet: Strip Perception and Feature Fusion Spatial Pyramid Pooling for Fabric Defect Detection**|Peizhe Zhao et.al|[paper](https://arxiv.org/abs/2502.01445)|-|-|
 |**2025-12-5**|**Automated Annotation of Shearographic Measurements Enabling Weakly Supervised Defect Detection**|Jessica Plassmann et.al|[paper](https://arxiv.org/abs/2512.06171)|-|-|
@@ -21,7 +22,6 @@
 |**2025-11-15**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2025-11-13**|**TinyDef-DETR: A Transformer-Based Framework for Defect Detection in Transmission Lines from UAV Imagery**|Feng Shen et.al|[paper](https://arxiv.org/abs/2509.06035)|-|-|
 |**2025-11-4**|**Image-Intrinsic Priors for Integrated Circuit Defect Detection and Novel Class Discovery via Self-Supervised Learning**|Botong. Zhao et.al|[paper](https://arxiv.org/abs/2511.03120)|-|-|
-|**2025-11-4**|**Unsupervised Learning for Industrial Defect Detection: A Case Study on Shearographic Data**|Jessica Plassmann et.al|[paper](https://arxiv.org/abs/2511.02541)|-|-|
 |**2025-10-28**|**Unsupervised Machine-Learning Pipeline for Data-Driven Defect Detection and Characterisation: Application to Displacement Cascades**|Samuel Del Fré et.al|[paper](https://arxiv.org/abs/2510.24523)|-|-|
 |**2025-10-21**|**Comparative Analysis of Object Detection Algorithms for Surface Defect Detection**|Arpan Maity et.al|[paper](https://arxiv.org/abs/2510.21811)|-|-|
 |**2025-10-16**|**Real-Time Surgical Instrument Defect Detection via Non-Destructive Testing**|Qurrat Ul Ain et.al|[paper](https://arxiv.org/abs/2510.14525)|-|-|
@@ -73,6 +73,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-10**|**Explain First, Trust Later: LLM-Augmented Explanations for Graph-Based Crypto Anomaly Detection**|Adriana Watson et.al|[paper](https://arxiv.org/abs/2506.14933)|[code](https://github.com/awatson246/crypto-anomaly-detection-policy)|-|
+|**2025-12-10**|**Hierarchical Attention for Sparse Volumetric Anomaly Detection in Subclinical Keratoconus**|Lynn Kandakji et.al|[paper](https://arxiv.org/abs/2512.03346)|-|-|
 |**2025-12-10**|**LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection**|Jingwei Ye et.al|[paper](https://arxiv.org/abs/2512.09627)|-|-|
 |**2025-12-10**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|-|
 |**2025-12-9**|**Explainable Anomaly Detection for Industrial IoT Data Streams**|Ana Rita Paupério et.al|[paper](https://arxiv.org/abs/2512.08885)|-|<details><summary>detail</summary>41st ACM/SIGAPP Symposium On Applied Computing (SAC 2026)</details>|
@@ -89,7 +91,6 @@
 |**2025-12-4**|**Logic-Driven Cybersecurity: A Novel Framework for System Log Anomaly Detection using Answer Set Programming**|Fang Li et.al|[paper](https://arxiv.org/abs/2512.04908)|-|<details><summary>detail</summary>Submitted to FLOPS 2026</details>|
 |**2025-12-4**|**Federated Learning for Anomaly Detection in Maritime Movement Data**|Anita Graser et.al|[paper](https://arxiv.org/abs/2512.04635)|-|<details><summary>detail</summary>MDM2024</details>|
 |**2025-12-3**|**TARA Test-by-Adaptive-Ranks for Quantum Anomaly Detection with Conformal Prediction Guarantees**|Davut Emre Tasar et.al|[paper](https://arxiv.org/abs/2512.04016)|-|-|
-|**2025-12-2**|**Hierarchical Attention for Sparse Volumetric Anomaly Detection in Subclinical Keratoconus**|Lynn Kandakji et.al|[paper](https://arxiv.org/abs/2512.03346)|-|-|
 |**2025-12-2**|**MSAD: A Deep Dive into Model Selection for Time series Anomaly Detection**|Emmanouil Sylligardos et.al|[paper](https://arxiv.org/abs/2510.26643)|-|-|
 |**2025-12-2**|**Synthetic Data Generation with Lorenzetti for Time Series Anomaly Detection in High-Energy Physics Calorimeters**|Laura Boggia et.al|[paper](https://arxiv.org/abs/2509.07451)|-|-|
 |**2025-12-2**|**FGC-Comp: Adaptive Neighbor-Grouped Attribute Completion for Graph-based Anomaly Detection**|Junpeng Wu et.al|[paper](https://arxiv.org/abs/2512.02705)|-|-|
@@ -97,7 +98,6 @@
 |**2025-12-2**|**On the Problem of Consistent Anomalies in Zero-Shot Anomaly Detection**|Tai Le-Gia et.al|[paper](https://arxiv.org/abs/2512.02520)|-|<details><summary>detail</summary>PhD Dissertation</details>|
 |**2025-12-1**|**ALARM: Automated MLLM-Based Anomaly Detection in Complex-EnviRonment Monitoring with Uncertainty Quantification**|Congjing Zhang et.al|[paper](https://arxiv.org/abs/2512.03101)|-|-|
 |**2025-12-1**|**ICAD-LLM: One-for-All Anomaly Detection via In-Context Learning with Large Language Models**|Zhongyuan Wu et.al|[paper](https://arxiv.org/abs/2512.01672)|-|-|
-|**2025-12-1**|**Deep Unsupervised Anomaly Detection in Brain Imaging: Large-Scale Benchmarking and Bias Analysis**|Alexander Frotscher et.al|[paper](https://arxiv.org/abs/2512.01534)|-|-|
 
 ## 3D Anomaly Detection
 
