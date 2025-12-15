@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.12.14
+## Updated on 2025.12.15
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-12**|**Quantum Support Vector Regression for Robust Anomaly Detection**|Kilian Tscharke et.al|[paper](https://arxiv.org/abs/2505.01012)|-|<details><summary>detail</summary>International Conference on Agents and Artificial Intelligence (ICAART) 2026</details>|
+|**2025-12-12**|**Collaborative Reconstruction and Repair for Multi-class Industrial Anomaly Detection**|Qishan Wang et.al|[paper](https://arxiv.org/abs/2512.11401)|-|<details><summary>detail</summary>Data Intelligence 2025</details>|
+|**2025-12-12**|**RcAE: Recursive Reconstruction Framework for Unsupervised Industrial Anomaly Detection**|Rongcheng Wu et.al|[paper](https://arxiv.org/abs/2512.11284)|-|-|
 |**2025-12-10**|**Explain First, Trust Later: LLM-Augmented Explanations for Graph-Based Crypto Anomaly Detection**|Adriana Watson et.al|[paper](https://arxiv.org/abs/2506.14933)|[code](https://github.com/awatson246/crypto-anomaly-detection-policy)|-|
 |**2025-12-10**|**Hierarchical Attention for Sparse Volumetric Anomaly Detection in Subclinical Keratoconus**|Lynn Kandakji et.al|[paper](https://arxiv.org/abs/2512.03346)|-|-|
 |**2025-12-10**|**LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection**|Jingwei Ye et.al|[paper](https://arxiv.org/abs/2512.09627)|-|-|
@@ -95,9 +98,6 @@
 |**2025-12-2**|**Synthetic Data Generation with Lorenzetti for Time Series Anomaly Detection in High-Energy Physics Calorimeters**|Laura Boggia et.al|[paper](https://arxiv.org/abs/2509.07451)|-|-|
 |**2025-12-2**|**FGC-Comp: Adaptive Neighbor-Grouped Attribute Completion for Graph-based Anomaly Detection**|Junpeng Wu et.al|[paper](https://arxiv.org/abs/2512.02705)|-|-|
 |**2025-12-2**|**Temporal Graph Neural Networks for Early Anomaly Detection and Performance Prediction via PV System Monitoring Data**|Srijani Mukherjee et.al|[paper](https://arxiv.org/abs/2512.03114)|-|<details><summary>detail</summary>Journal ref:42nd European Photovoltaic Solar Energy Conference and Exhibition (EU-PVSEC)</details>|
-|**2025-12-2**|**On the Problem of Consistent Anomalies in Zero-Shot Anomaly Detection**|Tai Le-Gia et.al|[paper](https://arxiv.org/abs/2512.02520)|-|<details><summary>detail</summary>PhD Dissertation</details>|
-|**2025-12-1**|**ALARM: Automated MLLM-Based Anomaly Detection in Complex-EnviRonment Monitoring with Uncertainty Quantification**|Congjing Zhang et.al|[paper](https://arxiv.org/abs/2512.03101)|-|-|
-|**2025-12-1**|**ICAD-LLM: One-for-All Anomaly Detection via In-Context Learning with Large Language Models**|Zhongyuan Wu et.al|[paper](https://arxiv.org/abs/2512.01672)|-|-|
 
 ## 3D Anomaly Detection
 
