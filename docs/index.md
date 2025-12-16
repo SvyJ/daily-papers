@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.12.15
+## Updated on 2025.12.16
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-12**|**A Comparative Analysis of Semiconductor Wafer Map Defect Detection with Image Transformer**|Sushmita Nath et.al|[paper](https://arxiv.org/abs/2512.11977)|-|<details><summary>detail</summary>submit/7075585</details>|
 |**2025-12-11**|**Unsupervised Learning for Industrial Defect Detection: A Case Study on Shearographic Data**|Jessica Plassmann et.al|[paper](https://arxiv.org/abs/2511.02541)|-|-|
 |**2025-12-10**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|-|
 |**2025-12-5**|**SPFFNet: Strip Perception and Feature Fusion Spatial Pyramid Pooling for Fabric Defect Detection**|Peizhe Zhao et.al|[paper](https://arxiv.org/abs/2502.01445)|-|-|
@@ -37,7 +38,6 @@
 |**2025-9-25**|**A Real-Time On-Device Defect Detection Framework for Laser Power-Meter Sensors via Unsupervised Learning**|Dongqi Zheng et.al|[paper](https://arxiv.org/abs/2509.20946)|-|-|
 |**2025-9-23**|**Advancing Metallic Surface Defect Detection via Anomaly-Guided Pretraining on a Large Industrial Dataset**|Chuni Liu et.al|[paper](https://arxiv.org/abs/2509.18919)|[code](https://clovermini.github.io/AGSSP-Dev/.)|-|
 |**2025-9-19**|**ISP-AD: A Large-Scale Real-World Dataset for Advancing Industrial Anomaly Detection with Synthetic and Real Defects**|Paul J. Krassnig et.al|[paper](https://arxiv.org/abs/2503.04997)|[code](https://doi.org/10.5281/zenodo.14911042)|-|
-|**2025-9-6**|**On the Detection of Internal Defects in Structured Media**|Bryl Nico M. Ong et.al|[paper](https://arxiv.org/abs/2509.16216)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-14**|**A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2511.13115)|-|<details><summary>detail</summary>Preprint</details>|
+|**2025-12-13**|**GMFVAD: Using Grained Multi-modal Feature to Improve Video Anomaly Detection**|Guangyu Dai et.al|[paper](https://arxiv.org/abs/2510.20268)|-|<details><summary>detail</summary>Accepted for publication in the Proceedings of the ICONIP 2025</details>|
+|**2025-12-12**|**Log Anomaly Detection with Large Language Models via Knowledge-Enriched Fusion**|Anfeng Peng et.al|[paper](https://arxiv.org/abs/2512.11997)|-|-|
 |**2025-12-12**|**Quantum Support Vector Regression for Robust Anomaly Detection**|Kilian Tscharke et.al|[paper](https://arxiv.org/abs/2505.01012)|-|<details><summary>detail</summary>International Conference on Agents and Artificial Intelligence (ICAART) 2026</details>|
 |**2025-12-12**|**Collaborative Reconstruction and Repair for Multi-class Industrial Anomaly Detection**|Qishan Wang et.al|[paper](https://arxiv.org/abs/2512.11401)|-|<details><summary>detail</summary>Data Intelligence 2025</details>|
 |**2025-12-12**|**RcAE: Recursive Reconstruction Framework for Unsupervised Industrial Anomaly Detection**|Rongcheng Wu et.al|[paper](https://arxiv.org/abs/2512.11284)|-|-|
@@ -95,16 +98,13 @@
 |**2025-12-4**|**Federated Learning for Anomaly Detection in Maritime Movement Data**|Anita Graser et.al|[paper](https://arxiv.org/abs/2512.04635)|-|<details><summary>detail</summary>MDM2024</details>|
 |**2025-12-3**|**TARA Test-by-Adaptive-Ranks for Quantum Anomaly Detection with Conformal Prediction Guarantees**|Davut Emre Tasar et.al|[paper](https://arxiv.org/abs/2512.04016)|-|-|
 |**2025-12-2**|**MSAD: A Deep Dive into Model Selection for Time series Anomaly Detection**|Emmanouil Sylligardos et.al|[paper](https://arxiv.org/abs/2510.26643)|-|-|
-|**2025-12-2**|**Synthetic Data Generation with Lorenzetti for Time Series Anomaly Detection in High-Energy Physics Calorimeters**|Laura Boggia et.al|[paper](https://arxiv.org/abs/2509.07451)|-|-|
-|**2025-12-2**|**FGC-Comp: Adaptive Neighbor-Grouped Attribute Completion for Graph-based Anomaly Detection**|Junpeng Wu et.al|[paper](https://arxiv.org/abs/2512.02705)|-|-|
-|**2025-12-2**|**Temporal Graph Neural Networks for Early Anomaly Detection and Performance Prediction via PV System Monitoring Data**|Srijani Mukherjee et.al|[paper](https://arxiv.org/abs/2512.03114)|-|<details><summary>detail</summary>Journal ref:42nd European Photovoltaic Solar Energy Conference and Exhibition (EU-PVSEC)</details>|
 
 ## 3D Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-14**|**A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2511.13115)|-|<details><summary>detail</summary>Preprint</details>|
 |**2025-11-23**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
-|**2025-11-17**|**A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2511.13115)|-|<details><summary>detail</summary>Submitted to Elsevier</details>|
 |**2025-11-16**|**CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection**|Yaohua Zha et.al|[paper](https://arxiv.org/abs/2511.12909)|[code](https://github.com/zyh16143998882/CASL.)|<details><summary>detail</summary>AAAI 2026</details>|
 |**2025-11-5**|**IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection**|Bingyang Guo et.al|[paper](https://arxiv.org/abs/2511.03267)|-|-|
 |**2025-10-19**|**Registration is a Powerful Rotation-Invariance Learner for 3D Anomaly Detection**|Yuyang Yu et.al|[paper](https://arxiv.org/abs/2510.16865)|-|-|
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-14**|**NSNQuant: A Double Normalization Approach for Calibration-Free Low-Bit Vector Quantization of KV Cache**|Donghyun Son et.al|[paper](https://arxiv.org/abs/2505.18231)|-|-|
 |**2025-12-6**|**Vector Quantization using Gaussian Variational Autoencoder**|Tongda Xu et.al|[paper](https://arxiv.org/abs/2512.06609)|[code](https://github.com/tongdaxu/VQ-VAE-from-Gaussian-VAE.)|-|
 |**2025-12-4**|**Pushing Toward the Simplex Vertices: A Simple Remedy for Code Collapse in Smoothed Vector Quantization**|Takashi Morita et.al|[paper](https://arxiv.org/abs/2509.22161)|-|-|
 |**2025-11-25**|**RAVQ-HoloNet: Rate-Adaptive Vector-Quantized Hologram Compression**|Shima Rafiei et.al|[paper](https://arxiv.org/abs/2511.21035)|-|-|
@@ -187,5 +188,4 @@
 |**2025-9-30**|**PUREVQ-GAN: Defending Data Poisoning Attacks through Vector-Quantized Bottlenecks**|Alexander Branch et.al|[paper](https://arxiv.org/abs/2509.25792)|-|-|
 |**2025-9-26**|**Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning**|Zian Zhai et.al|[paper](https://arxiv.org/abs/2508.06588)|-|-|
 |**2025-9-26**|**AUV: Teaching Audio Universal Vector Quantization with Single Nested Codebook**|Yushen Chen et.al|[paper](https://arxiv.org/abs/2509.21968)|[code](https://swivid.github.io/AUV/.)|<details><summary>detail</summary>Submitted to ICASSP 2026</details>|
-|**2025-9-25**|**Residual Vector Quantization For Communication-Efficient Multi-Agent Perception**|Dereje Shenkut et.al|[paper](https://arxiv.org/abs/2509.21464)|-|-|
 
