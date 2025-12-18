@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.12.17
+## Updated on 2025.12.18
 
 ## Defect Detection
 
@@ -73,7 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2025-12-16**|**Hierarchical Persistence Velocity for Network Anomaly Detection: Theory and Applications to Cryptocurrency Markets**|Omid Khormali et.al|[paper](https://arxiv.org/abs/2512.14615)|-|-|
+|**2025-12-17**|**A Multivariate Statistical Framework for Detection, Classification and Pre-localization of Anomalies in Water Distribution Networks**|Oleg Melnikov et.al|[paper](https://arxiv.org/abs/2512.15685)|-|-|
+|**2025-12-17**|**VAAS: Vision-Attention Anomaly Scoring for Image Manipulation Detection in Digital Forensics**|Opeyemi Bamigbade et.al|[paper](https://arxiv.org/abs/2512.15512)|-|-|
+|**2025-12-17**|**Hierarchical Persistence Velocity for Network Anomaly Detection: Theory and Applications to Cryptocurrency Markets**|Omid Khormali et.al|[paper](https://arxiv.org/abs/2512.14615)|-|-|
+|**2025-12-17**|**A Masked Reverse Knowledge Distillation Method Incorporating Global and Local Information for Image Anomaly Detection**|Yuxin Jiang et.al|[paper](https://arxiv.org/abs/2512.15326)|-|-|
+|**2025-12-17**|**MECAD: A multi-expert architecture for continual anomaly detection**|Malihe Dahmardeh et.al|[paper](https://arxiv.org/abs/2512.15323)|-|<details><summary>detail</summary>ICIAP 2025</details>|
+|**2025-12-17**|**Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection**|Yuxin Jiang et.al|[paper](https://arxiv.org/abs/2512.15319)|[code](https://github.com/yuxin-jiang/PCSNet.)|-|
 |**2025-12-16**|**LLmFPCA-detect: LLM-powered Multivariate Functional PCA for Anomaly Detection in Sparse Longitudinal Texts**|Prasanjit Dubey et.al|[paper](https://arxiv.org/abs/2512.14604)|-|-|
 |**2025-12-15**|**AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection**|Junwen Miao et.al|[paper](https://arxiv.org/abs/2512.13671)|-|-|
 |**2025-12-15**|**3D Human-Human Interaction Anomaly Detection**|Shun Maeda et.al|[paper](https://arxiv.org/abs/2512.13560)|-|-|
@@ -93,11 +98,6 @@
 |**2025-12-10**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|-|
 |**2025-12-9**|**Explainable Anomaly Detection for Industrial IoT Data Streams**|Ana Rita Paupério et.al|[paper](https://arxiv.org/abs/2512.08885)|-|<details><summary>detail</summary>41st ACM/SIGAPP Symposium On Applied Computing (SAC 2026)</details>|
 |**2025-12-9**|**FedLAD: A Modular and Adaptive Testbed for Federated Log Anomaly Detection**|Yihan Liao et.al|[paper](https://arxiv.org/abs/2512.08277)|[code](https://github.com/AA-cityu/FedLAD.)|<details><summary>detail</summary>Accepted Artifact at ACSOS 2025</details>|
-|**2025-12-8**|**OIPR: Evaluation for Time-series Anomaly Detection Inspired by Operator Interest**|Yuhan Jing et.al|[paper](https://arxiv.org/abs/2503.01260)|-|-|
-|**2025-12-7**|**MINES: Explainable Anomaly Detection through Web API Invariant Inference**|Wenjie Zhang et.al|[paper](https://arxiv.org/abs/2512.06906)|-|-|
-|**2025-12-7**|**AquaFusionNet: Lightweight VisionSensor Fusion Framework for Real-Time Pathogen Detection and Water Quality Anomaly Prediction on Edge Devices**|Sepyan Purnama Kristanto et.al|[paper](https://arxiv.org/abs/2512.06848)|-|<details><summary>detail</summary>9Pages</details>|
-|**2025-12-7**|**Pseudo Anomalies Are All You Need: Diffusion-Based Generation for Weakly-Supervised Video Anomaly Detection**|Satoshi Hashimoto et.al|[paper](https://arxiv.org/abs/2512.06845)|-|-|
-|**2025-12-7**|**CADE: Continual Weakly-supervised Video Anomaly Detection with Ensembles**|Satoshi Hashimoto et.al|[paper](https://arxiv.org/abs/2512.06840)|-|<details><summary>detail</summary>WACV 2026</details>|
 
 ## 3D Anomaly Detection
 
