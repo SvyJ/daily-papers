@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.12.18
+## Updated on 2025.12.19
 
 ## Defect Detection
 
@@ -164,6 +164,7 @@
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
 |**2025-12-14**|**NSNQuant: A Double Normalization Approach for Calibration-Free Low-Bit Vector Quantization of KV Cache**|Donghyun Son et.al|[paper](https://arxiv.org/abs/2505.18231)|-|-|
+|**2025-12-9**|**SHARe-KAN: Holographic Vector Quantization for Memory-Bound Inference**|Jeff Smith et.al|[paper](https://arxiv.org/abs/2512.15742)|-|-|
 |**2025-12-6**|**Vector Quantization using Gaussian Variational Autoencoder**|Tongda Xu et.al|[paper](https://arxiv.org/abs/2512.06609)|[code](https://github.com/tongdaxu/VQ-VAE-from-Gaussian-VAE.)|-|
 |**2025-12-4**|**Pushing Toward the Simplex Vertices: A Simple Remedy for Code Collapse in Smoothed Vector Quantization**|Takashi Morita et.al|[paper](https://arxiv.org/abs/2509.22161)|-|-|
 |**2025-11-25**|**RAVQ-HoloNet: Rate-Adaptive Vector-Quantized Hologram Compression**|Shima Rafiei et.al|[paper](https://arxiv.org/abs/2511.21035)|-|-|
@@ -187,5 +188,4 @@
 |**2025-9-30**|**Texture Vector-Quantization and Reconstruction Aware Prediction for Generative Super-Resolution**|Qifan Li et.al|[paper](https://arxiv.org/abs/2509.23774)|-|-|
 |**2025-9-30**|**PUREVQ-GAN: Defending Data Poisoning Attacks through Vector-Quantized Bottlenecks**|Alexander Branch et.al|[paper](https://arxiv.org/abs/2509.25792)|-|-|
 |**2025-9-26**|**Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning**|Zian Zhai et.al|[paper](https://arxiv.org/abs/2508.06588)|-|-|
-|**2025-9-26**|**AUV: Teaching Audio Universal Vector Quantization with Single Nested Codebook**|Yushen Chen et.al|[paper](https://arxiv.org/abs/2509.21968)|[code](https://swivid.github.io/AUV/.)|<details><summary>detail</summary>Submitted to ICASSP 2026</details>|
 
