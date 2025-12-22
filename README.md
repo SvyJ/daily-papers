@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.12.21
+## Updated on 2025.12.22
 
 ## Defect Detection
 
@@ -73,6 +73,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-19**|**HeadHunt-VAD: Hunting Robust Anomaly-Sensitive Heads in MLLM for Tuning-Free Video Anomaly Detection**|Zhaolin Cai et.al|[paper](https://arxiv.org/abs/2512.17601)|-|-|
 |**2025-12-17**|**A Multivariate Statistical Framework for Detection, Classification and Pre-localization of Anomalies in Water Distribution Networks**|Oleg Melnikov et.al|[paper](https://arxiv.org/abs/2512.15685)|-|-|
 |**2025-12-17**|**VAAS: Vision-Attention Anomaly Scoring for Image Manipulation Detection in Digital Forensics**|Opeyemi Bamigbade et.al|[paper](https://arxiv.org/abs/2512.15512)|-|-|
 |**2025-12-17**|**Hierarchical Persistence Velocity for Network Anomaly Detection: Theory and Applications to Cryptocurrency Markets**|Omid Khormali et.al|[paper](https://arxiv.org/abs/2512.14615)|-|-|
@@ -97,7 +98,6 @@
 |**2025-12-10**|**LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection**|Jingwei Ye et.al|[paper](https://arxiv.org/abs/2512.09627)|-|-|
 |**2025-12-10**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|-|
 |**2025-12-9**|**Explainable Anomaly Detection for Industrial IoT Data Streams**|Ana Rita Paupério et.al|[paper](https://arxiv.org/abs/2512.08885)|-|<details><summary>detail</summary>41st ACM/SIGAPP Symposium On Applied Computing (SAC 2026)</details>|
-|**2025-12-9**|**FedLAD: A Modular and Adaptive Testbed for Federated Log Anomaly Detection**|Yihan Liao et.al|[paper](https://arxiv.org/abs/2512.08277)|[code](https://github.com/AA-cityu/FedLAD.)|<details><summary>detail</summary>Accepted Artifact at ACSOS 2025</details>|
 
 ## 3D Anomaly Detection
 
