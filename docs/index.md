@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.12.22
+## Updated on 2025.12.23
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-21**|**Hyperbolic Graph Embeddings: a Survey and an Evaluation on Anomaly Detection**|Souhail Abdelmouaiz Sadat et.al|[paper](https://arxiv.org/abs/2512.18826)|-|-|
+|**2025-12-21**|**Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection**|Junjun Pan et.al|[paper](https://arxiv.org/abs/2512.18733)|-|-|
+|**2025-12-20**|**Unsupervised Anomaly Detection with an Enhanced Teacher for Student-Teacher Feature Pyramid Matching**|Mohammad Zolfaghari et.al|[paper](https://arxiv.org/abs/2512.18219)|-|-|
 |**2025-12-19**|**HeadHunt-VAD: Hunting Robust Anomaly-Sensitive Heads in MLLM for Tuning-Free Video Anomaly Detection**|Zhaolin Cai et.al|[paper](https://arxiv.org/abs/2512.17601)|-|-|
 |**2025-12-17**|**A Multivariate Statistical Framework for Detection, Classification and Pre-localization of Anomalies in Water Distribution Networks**|Oleg Melnikov et.al|[paper](https://arxiv.org/abs/2512.15685)|-|-|
 |**2025-12-17**|**VAAS: Vision-Attention Anomaly Scoring for Image Manipulation Detection in Digital Forensics**|Opeyemi Bamigbade et.al|[paper](https://arxiv.org/abs/2512.15512)|-|-|
@@ -95,9 +98,6 @@
 |**2025-12-12**|**RcAE: Recursive Reconstruction Framework for Unsupervised Industrial Anomaly Detection**|Rongcheng Wu et.al|[paper](https://arxiv.org/abs/2512.11284)|-|-|
 |**2025-12-10**|**Explain First, Trust Later: LLM-Augmented Explanations for Graph-Based Crypto Anomaly Detection**|Adriana Watson et.al|[paper](https://arxiv.org/abs/2506.14933)|[code](https://github.com/awatson246/crypto-anomaly-detection-policy)|-|
 |**2025-12-10**|**Hierarchical Attention for Sparse Volumetric Anomaly Detection in Subclinical Keratoconus**|Lynn Kandakji et.al|[paper](https://arxiv.org/abs/2512.03346)|-|-|
-|**2025-12-10**|**LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection**|Jingwei Ye et.al|[paper](https://arxiv.org/abs/2512.09627)|-|-|
-|**2025-12-10**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|-|
-|**2025-12-9**|**Explainable Anomaly Detection for Industrial IoT Data Streams**|Ana Rita Paupério et.al|[paper](https://arxiv.org/abs/2512.08885)|-|<details><summary>detail</summary>41st ACM/SIGAPP Symposium On Applied Computing (SAC 2026)</details>|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-20**|**Quantization for Vector Search under Streaming Updates**|Ishaq Aden-Ali et.al|[paper](https://arxiv.org/abs/2512.18335)|-|-|
 |**2025-12-14**|**NSNQuant: A Double Normalization Approach for Calibration-Free Low-Bit Vector Quantization of KV Cache**|Donghyun Son et.al|[paper](https://arxiv.org/abs/2505.18231)|-|-|
 |**2025-12-9**|**SHARe-KAN: Holographic Vector Quantization for Memory-Bound Inference**|Jeff Smith et.al|[paper](https://arxiv.org/abs/2512.15742)|-|-|
 |**2025-12-6**|**Vector Quantization using Gaussian Variational Autoencoder**|Tongda Xu et.al|[paper](https://arxiv.org/abs/2512.06609)|[code](https://github.com/tongdaxu/VQ-VAE-from-Gaussian-VAE.)|-|
@@ -187,5 +188,4 @@
 |**2025-9-30**|**DiVeQ: Differentiable Vector Quantization Using the Reparameterization Trick**|Mohammad Hassan Vali et.al|[paper](https://arxiv.org/abs/2509.26469)|-|-|
 |**2025-9-30**|**Texture Vector-Quantization and Reconstruction Aware Prediction for Generative Super-Resolution**|Qifan Li et.al|[paper](https://arxiv.org/abs/2509.23774)|-|-|
 |**2025-9-30**|**PUREVQ-GAN: Defending Data Poisoning Attacks through Vector-Quantized Bottlenecks**|Alexander Branch et.al|[paper](https://arxiv.org/abs/2509.25792)|-|-|
-|**2025-9-26**|**Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning**|Zian Zhai et.al|[paper](https://arxiv.org/abs/2508.06588)|-|-|
 
