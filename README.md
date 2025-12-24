@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.12.23
+## Updated on 2025.12.24
 
 ## Defect Detection
 
@@ -73,10 +73,13 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-23**|**High Dimensional Data Decomposition for Anomaly Detection of Textured Images**|Ji Song et.al|[paper](https://arxiv.org/abs/2512.20432)|-|-|
+|**2025-12-23**|**HeadHunt-VAD: Hunting Robust Anomaly-Sensitive Heads in MLLM for Tuning-Free Video Anomaly Detection**|Zhaolin Cai et.al|[paper](https://arxiv.org/abs/2512.17601)|-|<details><summary>detail</summary>AAAI 2026 Oral</details>|
+|**2025-12-23**|**Spatio-Temporal Graphs Beyond Grids: Benchmark for Maritime Anomaly Detection**|Jeehong Kim et.al|[paper](https://arxiv.org/abs/2512.20086)|-|<details><summary>detail</summary>NeurIPS 2025 Workshop in AI for Science: The Reach and Limits of AI for Scientific Discovery</details>|
+|**2025-12-22**|**Real-Time Machine Learning for Embedded Anomaly Detection**|Abdelmadjid Benmachiche et.al|[paper](https://arxiv.org/abs/2512.19383)|-|-|
 |**2025-12-21**|**Hyperbolic Graph Embeddings: a Survey and an Evaluation on Anomaly Detection**|Souhail Abdelmouaiz Sadat et.al|[paper](https://arxiv.org/abs/2512.18826)|-|-|
 |**2025-12-21**|**Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection**|Junjun Pan et.al|[paper](https://arxiv.org/abs/2512.18733)|-|-|
 |**2025-12-20**|**Unsupervised Anomaly Detection with an Enhanced Teacher for Student-Teacher Feature Pyramid Matching**|Mohammad Zolfaghari et.al|[paper](https://arxiv.org/abs/2512.18219)|-|-|
-|**2025-12-19**|**HeadHunt-VAD: Hunting Robust Anomaly-Sensitive Heads in MLLM for Tuning-Free Video Anomaly Detection**|Zhaolin Cai et.al|[paper](https://arxiv.org/abs/2512.17601)|-|-|
 |**2025-12-17**|**A Multivariate Statistical Framework for Detection, Classification and Pre-localization of Anomalies in Water Distribution Networks**|Oleg Melnikov et.al|[paper](https://arxiv.org/abs/2512.15685)|-|-|
 |**2025-12-17**|**VAAS: Vision-Attention Anomaly Scoring for Image Manipulation Detection in Digital Forensics**|Opeyemi Bamigbade et.al|[paper](https://arxiv.org/abs/2512.15512)|-|-|
 |**2025-12-17**|**Hierarchical Persistence Velocity for Network Anomaly Detection: Theory and Applications to Cryptocurrency Markets**|Omid Khormali et.al|[paper](https://arxiv.org/abs/2512.14615)|-|-|
@@ -95,9 +98,6 @@
 |**2025-12-12**|**Log Anomaly Detection with Large Language Models via Knowledge-Enriched Fusion**|Anfeng Peng et.al|[paper](https://arxiv.org/abs/2512.11997)|-|-|
 |**2025-12-12**|**Quantum Support Vector Regression for Robust Anomaly Detection**|Kilian Tscharke et.al|[paper](https://arxiv.org/abs/2505.01012)|-|<details><summary>detail</summary>International Conference on Agents and Artificial Intelligence (ICAART) 2026</details>|
 |**2025-12-12**|**Collaborative Reconstruction and Repair for Multi-class Industrial Anomaly Detection**|Qishan Wang et.al|[paper](https://arxiv.org/abs/2512.11401)|-|<details><summary>detail</summary>Data Intelligence 2025</details>|
-|**2025-12-12**|**RcAE: Recursive Reconstruction Framework for Unsupervised Industrial Anomaly Detection**|Rongcheng Wu et.al|[paper](https://arxiv.org/abs/2512.11284)|-|-|
-|**2025-12-10**|**Explain First, Trust Later: LLM-Augmented Explanations for Graph-Based Crypto Anomaly Detection**|Adriana Watson et.al|[paper](https://arxiv.org/abs/2506.14933)|[code](https://github.com/awatson246/crypto-anomaly-detection-policy)|-|
-|**2025-12-10**|**Hierarchical Attention for Sparse Volumetric Anomaly Detection in Subclinical Keratoconus**|Lynn Kandakji et.al|[paper](https://arxiv.org/abs/2512.03346)|-|-|
 
 ## 3D Anomaly Detection
 
