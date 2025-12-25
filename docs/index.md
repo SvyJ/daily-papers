@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.12.24
+## Updated on 2025.12.25
 
 ## Defect Detection
 
@@ -73,6 +73,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-24**|**AnyAD: Unified Any-Modality Anomaly Detection in Incomplete Multi-Sequence MRI**|Changwei Wu et.al|[paper](https://arxiv.org/abs/2512.21264)|[code](https://github.com/wuchangw/AnyAD.)|-|
 |**2025-12-23**|**High Dimensional Data Decomposition for Anomaly Detection of Textured Images**|Ji Song et.al|[paper](https://arxiv.org/abs/2512.20432)|-|-|
 |**2025-12-23**|**HeadHunt-VAD: Hunting Robust Anomaly-Sensitive Heads in MLLM for Tuning-Free Video Anomaly Detection**|Zhaolin Cai et.al|[paper](https://arxiv.org/abs/2512.17601)|-|<details><summary>detail</summary>AAAI 2026 Oral</details>|
 |**2025-12-23**|**Spatio-Temporal Graphs Beyond Grids: Benchmark for Maritime Anomaly Detection**|Jeehong Kim et.al|[paper](https://arxiv.org/abs/2512.20086)|-|<details><summary>detail</summary>NeurIPS 2025 Workshop in AI for Science: The Reach and Limits of AI for Scientific Discovery</details>|
@@ -97,7 +98,6 @@
 |**2025-12-13**|**GMFVAD: Using Grained Multi-modal Feature to Improve Video Anomaly Detection**|Guangyu Dai et.al|[paper](https://arxiv.org/abs/2510.20268)|-|<details><summary>detail</summary>Accepted for publication in the Proceedings of the ICONIP 2025</details>|
 |**2025-12-12**|**Log Anomaly Detection with Large Language Models via Knowledge-Enriched Fusion**|Anfeng Peng et.al|[paper](https://arxiv.org/abs/2512.11997)|-|-|
 |**2025-12-12**|**Quantum Support Vector Regression for Robust Anomaly Detection**|Kilian Tscharke et.al|[paper](https://arxiv.org/abs/2505.01012)|-|<details><summary>detail</summary>International Conference on Agents and Artificial Intelligence (ICAART) 2026</details>|
-|**2025-12-12**|**Collaborative Reconstruction and Repair for Multi-class Industrial Anomaly Detection**|Qishan Wang et.al|[paper](https://arxiv.org/abs/2512.11401)|-|<details><summary>detail</summary>Data Intelligence 2025</details>|
 
 ## 3D Anomaly Detection
 
