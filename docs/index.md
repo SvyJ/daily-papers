@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.12.28
+## Updated on 2025.12.29
 
 ## Defect Detection
 
@@ -73,6 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-26**|**When Unsupervised Domain Adaptation meets One-class Anomaly Detection: Addressing the Two-fold Unsupervised Curse by Leveraging Anomaly Scarcity**|Nesryne Mejri et.al|[paper](https://arxiv.org/abs/2502.21022)|-|<details><summary>detail</summary>Added acknowledgments</details>|
+|**2025-12-26**|**GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model**|Yali Fu et.al|[paper](https://arxiv.org/abs/2503.17903)|[code](https://github.com/Yali-Fu/GLADMamba.)|<details><summary>detail</summary>Published at ECML PKDD 2025 (Research Track)</details>|
+|**2025-12-26**|**Unsupervised Anomaly Detection in Brain MRI via Disentangled Anatomy Learning**|Tao Yang et.al|[paper](https://arxiv.org/abs/2512.21924)|-|<details><summary>detail</summary>Accepted by Medical Image Analysis (2025)</details>|
+|**2025-12-25**|**Causal-HM: Restoring Physical Generative Logic in Multimodal Anomaly Detection via Hierarchical Modulation**|Xiao Liu et.al|[paper](https://arxiv.org/abs/2512.21650)|-|-|
+|**2025-12-24**|**CCAD: Compressed Global Feature Conditioned Anomaly Detection**|Xiao Jin et.al|[paper](https://arxiv.org/abs/2512.21459)|[code](https://github.com/chloeqxq/CCAD.)|-|
 |**2025-12-24**|**AnyAD: Unified Any-Modality Anomaly Detection in Incomplete Multi-Sequence MRI**|Changwei Wu et.al|[paper](https://arxiv.org/abs/2512.21264)|[code](https://github.com/wuchangw/AnyAD.)|-|
 |**2025-12-23**|**High Dimensional Data Decomposition for Anomaly Detection of Textured Images**|Ji Song et.al|[paper](https://arxiv.org/abs/2512.20432)|-|-|
 |**2025-12-23**|**HeadHunt-VAD: Hunting Robust Anomaly-Sensitive Heads in MLLM for Tuning-Free Video Anomaly Detection**|Zhaolin Cai et.al|[paper](https://arxiv.org/abs/2512.17601)|-|<details><summary>detail</summary>AAAI 2026 Oral</details>|
@@ -93,11 +98,6 @@
 |**2025-12-15**|**On-Device Continual Learning for Unsupervised Visual Anomaly Detection in Dynamic Manufacturing**|Haoyu Ren et.al|[paper](https://arxiv.org/abs/2512.13497)|-|<details><summary>detail</summary>Accepted by European Conference on EDGE AI Technologies and Applications (EEAI) 2025</details>|
 |**2025-12-15**|**DABL: Detecting Semantic Anomalies in Business Processes Using Large Language Models**|Wei Guan et.al|[paper](https://arxiv.org/abs/2406.15781)|-|<details><summary>detail</summary>Journal ref:Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)</details>|
 |**2025-12-14**|**Tau Anomaly Detection in PET Imaging via Bilateral-Guided Deterministic Diffusion Model**|Lujia Zhong et.al|[paper](https://arxiv.org/abs/2405.13199)|-|-|
-|**2025-12-14**|**A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2511.13115)|-|<details><summary>detail</summary>Preprint</details>|
-|**2025-12-14**|**DARTs: A Dual-Path Robust Framework for Anomaly Detection in High-Dimensional Multivariate Time Series**|Xuechun Liu et.al|[paper](https://arxiv.org/abs/2512.13735)|-|-|
-|**2025-12-13**|**GMFVAD: Using Grained Multi-modal Feature to Improve Video Anomaly Detection**|Guangyu Dai et.al|[paper](https://arxiv.org/abs/2510.20268)|-|<details><summary>detail</summary>Accepted for publication in the Proceedings of the ICONIP 2025</details>|
-|**2025-12-12**|**Log Anomaly Detection with Large Language Models via Knowledge-Enriched Fusion**|Anfeng Peng et.al|[paper](https://arxiv.org/abs/2512.11997)|-|-|
-|**2025-12-12**|**Quantum Support Vector Regression for Robust Anomaly Detection**|Kilian Tscharke et.al|[paper](https://arxiv.org/abs/2505.01012)|-|<details><summary>detail</summary>International Conference on Agents and Artificial Intelligence (ICAART) 2026</details>|
 
 ## 3D Anomaly Detection
 
@@ -133,6 +133,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-25**|**Causal-HM: Restoring Physical Generative Logic in Multimodal Anomaly Detection via Hierarchical Modulation**|Xiao Liu et.al|[paper](https://arxiv.org/abs/2512.21650)|-|-|
 |**2025-11-23**|**Multimodal Real-Time Anomaly Detection and Industrial Applications**|Aman Verma et.al|[paper](https://arxiv.org/abs/2511.18698)|-|-|
 |**2025-11-16**|**Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory**|Yuxuan Lin et.al|[paper](https://arxiv.org/abs/2511.05966)|[code](https://github.com/Sunny5250/CIF.)|<details><summary>detail</summary>Accepted by AAAI 2026</details>|
 |**2025-11-10**|**RobustA: Robust Anomaly Detection in Multimodal Data**|Salem AlMarri et.al|[paper](https://arxiv.org/abs/2511.07276)|-|<details><summary>detail</summary>Submitted to IEEE Transactions on Image Processing</details>|
@@ -157,7 +158,6 @@
 |**2025-2-24**|**Can Multimodal LLMs Perform Time Series Anomaly Detection?**|Xiongxiao Xu et.al|[paper](https://arxiv.org/abs/2502.17812)|[code](https://github.com/mllm-ts/VisualTimeAnomaly)|-|
 |**2025-2-20**|**MMAD: A Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection**|Xi Jiang et.al|[paper](https://arxiv.org/abs/2410.09453)|[code](https://github.com/jam-cc/MMAD)|<details><summary>detail</summary>Accepted by ICLR 2025</details>|
 |**2025-2-18**|**Anomaly Detection in Smart Power Grids with Graph-Regularized MS-SVDD: a Multimodal Subspace Learning Approach**|Thomas Debelle et.al|[paper](https://arxiv.org/abs/2502.15793)|-|-|
-|**2025-2-10**|**Multimodal Task Representation Memory Bank vs. Catastrophic Forgetting in Anomaly Detection**|You Zhou et.al|[paper](https://arxiv.org/abs/2502.06194)|-|-|
 
 ## Vector Quantization
 
