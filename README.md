@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.12.29
+## Updated on 2025.12.30
 
 ## Defect Detection
 
@@ -73,9 +73,14 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-29**|**RefineVAD: Semantic-Guided Feature Recalibration for Weakly Supervised Video Anomaly Detection**|Junhee Lee et.al|[paper](https://arxiv.org/abs/2511.13204)|-|<details><summary>detail</summary>AAAI 2026</details>|
+|**2025-12-29**|**Anomaly Detection by Effectively Leveraging Synthetic Images**|Sungho Kang et.al|[paper](https://arxiv.org/abs/2512.23227)|-|-|
+|**2025-12-26**|**FedDyMem: Efficient Federated Learning with Dynamic Memory and Memory-Reduce for Unsupervised Image Anomaly Detection**|Silin Chen et.al|[paper](https://arxiv.org/abs/2502.21012)|-|-|
+|**2025-12-26**|**Enhance Multi-Scale Spatial-Temporal Coherence for Configurable Video Anomaly Detection**|Kai Cheng et.al|[paper](https://arxiv.org/abs/2305.07328)|-|-|
 |**2025-12-26**|**When Unsupervised Domain Adaptation meets One-class Anomaly Detection: Addressing the Two-fold Unsupervised Curse by Leveraging Anomaly Scarcity**|Nesryne Mejri et.al|[paper](https://arxiv.org/abs/2502.21022)|-|<details><summary>detail</summary>Added acknowledgments</details>|
 |**2025-12-26**|**GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model**|Yali Fu et.al|[paper](https://arxiv.org/abs/2503.17903)|[code](https://github.com/Yali-Fu/GLADMamba.)|<details><summary>detail</summary>Published at ECML PKDD 2025 (Research Track)</details>|
 |**2025-12-26**|**Unsupervised Anomaly Detection in Brain MRI via Disentangled Anatomy Learning**|Tao Yang et.al|[paper](https://arxiv.org/abs/2512.21924)|-|<details><summary>detail</summary>Accepted by Medical Image Analysis (2025)</details>|
+|**2025-12-25**|**Multi-Head Spectral-Adaptive Graph Anomaly Detection**|Qingyue Cao et.al|[paper](https://arxiv.org/abs/2512.22291)|-|-|
 |**2025-12-25**|**Causal-HM: Restoring Physical Generative Logic in Multimodal Anomaly Detection via Hierarchical Modulation**|Xiao Liu et.al|[paper](https://arxiv.org/abs/2512.21650)|-|-|
 |**2025-12-24**|**CCAD: Compressed Global Feature Conditioned Anomaly Detection**|Xiao Jin et.al|[paper](https://arxiv.org/abs/2512.21459)|[code](https://github.com/chloeqxq/CCAD.)|-|
 |**2025-12-24**|**AnyAD: Unified Any-Modality Anomaly Detection in Incomplete Multi-Sequence MRI**|Changwei Wu et.al|[paper](https://arxiv.org/abs/2512.21264)|[code](https://github.com/wuchangw/AnyAD.)|-|
@@ -86,18 +91,13 @@
 |**2025-12-21**|**Hyperbolic Graph Embeddings: a Survey and an Evaluation on Anomaly Detection**|Souhail Abdelmouaiz Sadat et.al|[paper](https://arxiv.org/abs/2512.18826)|-|-|
 |**2025-12-21**|**Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection**|Junjun Pan et.al|[paper](https://arxiv.org/abs/2512.18733)|-|-|
 |**2025-12-20**|**Unsupervised Anomaly Detection with an Enhanced Teacher for Student-Teacher Feature Pyramid Matching**|Mohammad Zolfaghari et.al|[paper](https://arxiv.org/abs/2512.18219)|-|-|
+|**2025-12-19**|**Latent Sculpting for Zero-Shot Generalization: A Manifold Learning Approach to Out-of-Distribution Anomaly Detection**|Rajeeb Thapa Chhetri et.al|[paper](https://arxiv.org/abs/2512.22179)|[code](https://github.com/Rajeeb321123/Latent_sculpting_using_two_stage_method)|-|
 |**2025-12-17**|**A Multivariate Statistical Framework for Detection, Classification and Pre-localization of Anomalies in Water Distribution Networks**|Oleg Melnikov et.al|[paper](https://arxiv.org/abs/2512.15685)|-|-|
 |**2025-12-17**|**VAAS: Vision-Attention Anomaly Scoring for Image Manipulation Detection in Digital Forensics**|Opeyemi Bamigbade et.al|[paper](https://arxiv.org/abs/2512.15512)|-|-|
 |**2025-12-17**|**Hierarchical Persistence Velocity for Network Anomaly Detection: Theory and Applications to Cryptocurrency Markets**|Omid Khormali et.al|[paper](https://arxiv.org/abs/2512.14615)|-|-|
 |**2025-12-17**|**A Masked Reverse Knowledge Distillation Method Incorporating Global and Local Information for Image Anomaly Detection**|Yuxin Jiang et.al|[paper](https://arxiv.org/abs/2512.15326)|-|-|
 |**2025-12-17**|**MECAD: A multi-expert architecture for continual anomaly detection**|Malihe Dahmardeh et.al|[paper](https://arxiv.org/abs/2512.15323)|-|<details><summary>detail</summary>ICIAP 2025</details>|
 |**2025-12-17**|**Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection**|Yuxin Jiang et.al|[paper](https://arxiv.org/abs/2512.15319)|[code](https://github.com/yuxin-jiang/PCSNet.)|-|
-|**2025-12-16**|**LLmFPCA-detect: LLM-powered Multivariate Functional PCA for Anomaly Detection in Sparse Longitudinal Texts**|Prasanjit Dubey et.al|[paper](https://arxiv.org/abs/2512.14604)|-|-|
-|**2025-12-15**|**AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection**|Junwen Miao et.al|[paper](https://arxiv.org/abs/2512.13671)|-|-|
-|**2025-12-15**|**3D Human-Human Interaction Anomaly Detection**|Shun Maeda et.al|[paper](https://arxiv.org/abs/2512.13560)|-|-|
-|**2025-12-15**|**On-Device Continual Learning for Unsupervised Visual Anomaly Detection in Dynamic Manufacturing**|Haoyu Ren et.al|[paper](https://arxiv.org/abs/2512.13497)|-|<details><summary>detail</summary>Accepted by European Conference on EDGE AI Technologies and Applications (EEAI) 2025</details>|
-|**2025-12-15**|**DABL: Detecting Semantic Anomalies in Business Processes Using Large Language Models**|Wei Guan et.al|[paper](https://arxiv.org/abs/2406.15781)|-|<details><summary>detail</summary>Journal ref:Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)</details>|
-|**2025-12-14**|**Tau Anomaly Detection in PET Imaging via Bilateral-Guided Deterministic Diffusion Model**|Lujia Zhong et.al|[paper](https://arxiv.org/abs/2405.13199)|-|-|
 
 ## 3D Anomaly Detection
 
