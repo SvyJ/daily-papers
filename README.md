@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2025.12.30
+## Updated on 2025.12.31
 
 ## Defect Detection
 
@@ -73,6 +73,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-29**|**A unified framework for detecting point and collective anomalies in operating system logs via collaborative transformers**|Mohammad Nasirzadeh et.al|[paper](https://arxiv.org/abs/2512.23380)|[code](https://github.com/NasirzadehMoh/CoLog.)|-|
 |**2025-12-29**|**RefineVAD: Semantic-Guided Feature Recalibration for Weakly Supervised Video Anomaly Detection**|Junhee Lee et.al|[paper](https://arxiv.org/abs/2511.13204)|-|<details><summary>detail</summary>AAAI 2026</details>|
 |**2025-12-29**|**Anomaly Detection by Effectively Leveraging Synthetic Images**|Sungho Kang et.al|[paper](https://arxiv.org/abs/2512.23227)|-|-|
 |**2025-12-26**|**FedDyMem: Efficient Federated Learning with Dynamic Memory and Memory-Reduce for Unsupervised Image Anomaly Detection**|Silin Chen et.al|[paper](https://arxiv.org/abs/2502.21012)|-|-|
@@ -97,7 +98,6 @@
 |**2025-12-17**|**Hierarchical Persistence Velocity for Network Anomaly Detection: Theory and Applications to Cryptocurrency Markets**|Omid Khormali et.al|[paper](https://arxiv.org/abs/2512.14615)|-|-|
 |**2025-12-17**|**A Masked Reverse Knowledge Distillation Method Incorporating Global and Local Information for Image Anomaly Detection**|Yuxin Jiang et.al|[paper](https://arxiv.org/abs/2512.15326)|-|-|
 |**2025-12-17**|**MECAD: A multi-expert architecture for continual anomaly detection**|Malihe Dahmardeh et.al|[paper](https://arxiv.org/abs/2512.15323)|-|<details><summary>detail</summary>ICIAP 2025</details>|
-|**2025-12-17**|**Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection**|Yuxin Jiang et.al|[paper](https://arxiv.org/abs/2512.15319)|[code](https://github.com/yuxin-jiang/PCSNet.)|-|
 
 ## 3D Anomaly Detection
 
