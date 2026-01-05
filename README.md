@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.01.04
+## Updated on 2026.01.05
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-1**|**Application Research of a Deep Learning Model Integrating CycleGAN and YOLO in PCB Infrared Defect Detection**|Chao Yang et.al|[paper](https://arxiv.org/abs/2601.00237)|-|-|
 |**2025-12-16**|**TACK Tunnel Data (TTD): A Benchmark Dataset for Deep Learning-Based Defect Detection in Tunnels**|Andreas Sjölander et.al|[paper](https://arxiv.org/abs/2512.14477)|-|-|
 |**2025-12-12**|**A Comparative Analysis of Semiconductor Wafer Map Defect Detection with Image Transformer**|Sushmita Nath et.al|[paper](https://arxiv.org/abs/2512.11977)|-|<details><summary>detail</summary>submit/7075585</details>|
 |**2025-12-11**|**Unsupervised Learning for Industrial Defect Detection: A Case Study on Shearographic Data**|Jessica Plassmann et.al|[paper](https://arxiv.org/abs/2511.02541)|-|-|
@@ -37,7 +38,6 @@
 |**2025-9-30**|**Multi-View Camera System for Variant-Aware Autonomous Vehicle Inspection and Defect Detection**|Yash Kulkarni et.al|[paper](https://arxiv.org/abs/2509.26454)|-|-|
 |**2025-9-25**|**Unsupervised Defect Detection for Surgical Instruments**|Joseph Huang et.al|[paper](https://arxiv.org/abs/2509.21561)|-|-|
 |**2025-9-25**|**A Real-Time On-Device Defect Detection Framework for Laser Power-Meter Sensors via Unsupervised Learning**|Dongqi Zheng et.al|[paper](https://arxiv.org/abs/2509.20946)|-|-|
-|**2025-9-23**|**Advancing Metallic Surface Defect Detection via Anomaly-Guided Pretraining on a Large Industrial Dataset**|Chuni Liu et.al|[paper](https://arxiv.org/abs/2509.18919)|[code](https://clovermini.github.io/AGSSP-Dev/.)|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-1**|**Trajectory Guard -- A Lightweight, Sequence-Aware Model for Real-Time Anomaly Detection in Agentic AI**|Laksh Advani et.al|[paper](https://arxiv.org/abs/2601.00516)|-|<details><summary>detail</summary>AAAI Trustagent 2026</details>|
+|**2026-1-1**|**A Comparative Study of Adaptation Strategies for Time Series Foundation Models in Anomaly Detection**|Miseon Park et.al|[paper](https://arxiv.org/abs/2601.00446)|-|-|
+|**2026-1-1**|**Engineering Attack Vectors and Detecting Anomalies in Additive Manufacturing**|Md Mahbub Hasan et.al|[paper](https://arxiv.org/abs/2601.00384)|-|<details><summary>detail</summary>This paper has been accepted to EAI SmartSP 2025</details>|
+|**2026-1-1**|**HarmoniAD: Harmonizing Local Structures and Global Semantics for Anomaly Detection**|Naiqi Zhang et.al|[paper](https://arxiv.org/abs/2601.00327)|-|-|
+|**2025-12-31**|**AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2310.18961)|[code](https://github.com/zqhang/AnomalyCLIP.)|<details><summary>detail</summary>Accepted by ICLR 2024</details>|
 |**2025-12-30**|**Fast reconstruction-based ROI triggering via anomaly detection in the CYGNO optical TPC**|F. D. Amaro et.al|[paper](https://arxiv.org/abs/2512.24290)|-|-|
 |**2025-12-30**|**VADTree: Explainable Training-Free Video Anomaly Detection via Hierarchical Granularity-Aware Tree**|Wenlong Li et.al|[paper](https://arxiv.org/abs/2510.22693)|[code](https://github.com/wenlongli10/VADTree.)|<details><summary>detail</summary>NeurIPS 2025 poster</details>|
 |**2025-12-29**|**Anomaly detection in satellite imagery through temporal inpainting**|Bertrand Rouet-Leduc et.al|[paper](https://arxiv.org/abs/2512.23986)|-|-|
@@ -93,11 +98,6 @@
 |**2025-12-23**|**HeadHunt-VAD: Hunting Robust Anomaly-Sensitive Heads in MLLM for Tuning-Free Video Anomaly Detection**|Zhaolin Cai et.al|[paper](https://arxiv.org/abs/2512.17601)|-|<details><summary>detail</summary>AAAI 2026 Oral</details>|
 |**2025-12-23**|**Spatio-Temporal Graphs Beyond Grids: Benchmark for Maritime Anomaly Detection**|Jeehong Kim et.al|[paper](https://arxiv.org/abs/2512.20086)|-|<details><summary>detail</summary>NeurIPS 2025 Workshop in AI for Science: The Reach and Limits of AI for Scientific Discovery</details>|
 |**2025-12-22**|**Real-Time Machine Learning for Embedded Anomaly Detection**|Abdelmadjid Benmachiche et.al|[paper](https://arxiv.org/abs/2512.19383)|-|-|
-|**2025-12-21**|**Hyperbolic Graph Embeddings: a Survey and an Evaluation on Anomaly Detection**|Souhail Abdelmouaiz Sadat et.al|[paper](https://arxiv.org/abs/2512.18826)|-|-|
-|**2025-12-21**|**Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection**|Junjun Pan et.al|[paper](https://arxiv.org/abs/2512.18733)|-|-|
-|**2025-12-20**|**Unsupervised Anomaly Detection with an Enhanced Teacher for Student-Teacher Feature Pyramid Matching**|Mohammad Zolfaghari et.al|[paper](https://arxiv.org/abs/2512.18219)|-|-|
-|**2025-12-19**|**Latent Sculpting for Zero-Shot Generalization: A Manifold Learning Approach to Out-of-Distribution Anomaly Detection**|Rajeeb Thapa Chhetri et.al|[paper](https://arxiv.org/abs/2512.22179)|[code](https://github.com/Rajeeb321123/Latent_sculpting_using_two_stage_method)|-|
-|**2025-12-17**|**A Multivariate Statistical Framework for Detection, Classification and Pre-localization of Anomalies in Water Distribution Networks**|Oleg Melnikov et.al|[paper](https://arxiv.org/abs/2512.15685)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-1**|**LooC: Effective Low-Dimensional Codebook for Compositional Vector Quantization**|Jie Li et.al|[paper](https://arxiv.org/abs/2601.00222)|-|<details><summary>detail</summary>The IEEE/CVF Winter Conference on Applications of Computer Vision 2026</details>|
 |**2025-12-30**|**Hierarchical Vector-Quantized Latents for Perceptual Low-Resolution Video Compression**|Manikanta Kotthapalli et.al|[paper](https://arxiv.org/abs/2512.24547)|-|-|
 |**2025-12-20**|**Quantization for Vector Search under Streaming Updates**|Ishaq Aden-Ali et.al|[paper](https://arxiv.org/abs/2512.18335)|-|-|
 |**2025-12-14**|**NSNQuant: A Double Normalization Approach for Calibration-Free Low-Bit Vector Quantization of KV Cache**|Donghyun Son et.al|[paper](https://arxiv.org/abs/2505.18231)|-|-|
@@ -187,5 +188,4 @@
 |**2025-10-3**|**Addressing Representation Collapse in Vector Quantized Models with One Linear Layer**|Yongxin Zhu et.al|[paper](https://arxiv.org/abs/2411.02038)|[code](https://github.com/youngsheen/SimVQ.)|<details><summary>detail</summary>ICCV2025</details>|
 |**2025-10-1**|**Purrception: Variational Flow Matching for Vector-Quantized Image Generation**|Răzvan-Andrei Matişan et.al|[paper](https://arxiv.org/abs/2510.01478)|-|-|
 |**2025-9-30**|**DiVeQ: Differentiable Vector Quantization Using the Reparameterization Trick**|Mohammad Hassan Vali et.al|[paper](https://arxiv.org/abs/2509.26469)|-|-|
-|**2025-9-30**|**Texture Vector-Quantization and Reconstruction Aware Prediction for Generative Super-Resolution**|Qifan Li et.al|[paper](https://arxiv.org/abs/2509.23774)|-|-|
 
