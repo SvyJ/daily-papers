@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.01.05
+## Updated on 2026.01.06
 
 ## Defect Detection
 
@@ -73,11 +73,18 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-4**|**Digital Twin-Driven Communication-Efficient Federated Anomaly Detection for Industrial IoT**|Mohammed Ayalew Belay et.al|[paper](https://arxiv.org/abs/2601.01701)|-|-|
+|**2026-1-4**|**Attire-Based Anomaly Detection in Restricted Areas Using YOLOv8 for Enhanced CCTV Security**|Abdul Aziz A. B et.al|[paper](https://arxiv.org/abs/2404.00645)|-|-|
+|**2026-1-4**|**Applying Deep Learning to Anomaly Detection of Russian Satellite Activity for Indications Prior to Military Activity**|David Kurtenbach et.al|[paper](https://arxiv.org/abs/2509.00050)|-|<details><summary>detail</summary>Withdrawn because of inaccurate information and misrepresented findings</details>|
+|**2026-1-4**|**A Graph-based Framework for Online Time Series Anomaly Detection Using Model Ensemble**|Zewei Yu et.al|[paper](https://arxiv.org/abs/2601.01403)|-|-|
+|**2026-1-2**|**Improving Variational Autoencoder using Random Fourier Transformation: An Aviation Safety Anomaly Detection Case-Study**|Ata Akbari Asanjan et.al|[paper](https://arxiv.org/abs/2601.01016)|-|-|
+|**2026-1-2**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al|[paper](https://arxiv.org/abs/2410.00713)|-|-|
 |**2026-1-1**|**Trajectory Guard -- A Lightweight, Sequence-Aware Model for Real-Time Anomaly Detection in Agentic AI**|Laksh Advani et.al|[paper](https://arxiv.org/abs/2601.00516)|-|<details><summary>detail</summary>AAAI Trustagent 2026</details>|
 |**2026-1-1**|**A Comparative Study of Adaptation Strategies for Time Series Foundation Models in Anomaly Detection**|Miseon Park et.al|[paper](https://arxiv.org/abs/2601.00446)|-|-|
 |**2026-1-1**|**Engineering Attack Vectors and Detecting Anomalies in Additive Manufacturing**|Md Mahbub Hasan et.al|[paper](https://arxiv.org/abs/2601.00384)|-|<details><summary>detail</summary>This paper has been accepted to EAI SmartSP 2025</details>|
 |**2026-1-1**|**HarmoniAD: Harmonizing Local Structures and Global Semantics for Anomaly Detection**|Naiqi Zhang et.al|[paper](https://arxiv.org/abs/2601.00327)|-|-|
 |**2025-12-31**|**AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2310.18961)|[code](https://github.com/zqhang/AnomalyCLIP.)|<details><summary>detail</summary>Accepted by ICLR 2024</details>|
+|**2025-12-31**|**Towards eco friendly cybersecurity: machine learning based anomaly detection with carbon and energy metrics**|KC Aashish et.al|[paper](https://arxiv.org/abs/2601.00893)|-|<details><summary>detail</summary>International Journal of Applied Mathematics 2025</details>|
 |**2025-12-30**|**Fast reconstruction-based ROI triggering via anomaly detection in the CYGNO optical TPC**|F. D. Amaro et.al|[paper](https://arxiv.org/abs/2512.24290)|-|-|
 |**2025-12-30**|**VADTree: Explainable Training-Free Video Anomaly Detection via Hierarchical Granularity-Aware Tree**|Wenlong Li et.al|[paper](https://arxiv.org/abs/2510.22693)|[code](https://github.com/wenlongli10/VADTree.)|<details><summary>detail</summary>NeurIPS 2025 poster</details>|
 |**2025-12-29**|**Anomaly detection in satellite imagery through temporal inpainting**|Bertrand Rouet-Leduc et.al|[paper](https://arxiv.org/abs/2512.23986)|-|-|
@@ -91,13 +98,6 @@
 |**2025-12-26**|**GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model**|Yali Fu et.al|[paper](https://arxiv.org/abs/2503.17903)|[code](https://github.com/Yali-Fu/GLADMamba.)|<details><summary>detail</summary>Published at ECML PKDD 2025 (Research Track)</details>|
 |**2025-12-26**|**Unsupervised Anomaly Detection in Brain MRI via Disentangled Anatomy Learning**|Tao Yang et.al|[paper](https://arxiv.org/abs/2512.21924)|-|<details><summary>detail</summary>Accepted by Medical Image Analysis (2025)</details>|
 |**2025-12-25**|**Multi-Head Spectral-Adaptive Graph Anomaly Detection**|Qingyue Cao et.al|[paper](https://arxiv.org/abs/2512.22291)|-|-|
-|**2025-12-25**|**Causal-HM: Restoring Physical Generative Logic in Multimodal Anomaly Detection via Hierarchical Modulation**|Xiao Liu et.al|[paper](https://arxiv.org/abs/2512.21650)|-|-|
-|**2025-12-24**|**CCAD: Compressed Global Feature Conditioned Anomaly Detection**|Xiao Jin et.al|[paper](https://arxiv.org/abs/2512.21459)|[code](https://github.com/chloeqxq/CCAD.)|-|
-|**2025-12-24**|**AnyAD: Unified Any-Modality Anomaly Detection in Incomplete Multi-Sequence MRI**|Changwei Wu et.al|[paper](https://arxiv.org/abs/2512.21264)|[code](https://github.com/wuchangw/AnyAD.)|-|
-|**2025-12-23**|**High Dimensional Data Decomposition for Anomaly Detection of Textured Images**|Ji Song et.al|[paper](https://arxiv.org/abs/2512.20432)|-|-|
-|**2025-12-23**|**HeadHunt-VAD: Hunting Robust Anomaly-Sensitive Heads in MLLM for Tuning-Free Video Anomaly Detection**|Zhaolin Cai et.al|[paper](https://arxiv.org/abs/2512.17601)|-|<details><summary>detail</summary>AAAI 2026 Oral</details>|
-|**2025-12-23**|**Spatio-Temporal Graphs Beyond Grids: Benchmark for Maritime Anomaly Detection**|Jeehong Kim et.al|[paper](https://arxiv.org/abs/2512.20086)|-|<details><summary>detail</summary>NeurIPS 2025 Workshop in AI for Science: The Reach and Limits of AI for Scientific Discovery</details>|
-|**2025-12-22**|**Real-Time Machine Learning for Embedded Anomaly Detection**|Abdelmadjid Benmachiche et.al|[paper](https://arxiv.org/abs/2512.19383)|-|-|
 
 ## 3D Anomaly Detection
 
