@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.01.06
+## Updated on 2026.01.07
 
 ## Defect Detection
 
@@ -73,6 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-6**|**Real-Time Adaptive Anomaly Detection in Industrial IoT Environments**|Mahsa Raeiszadeh et.al|[paper](https://arxiv.org/abs/2601.03085)|-|<details><summary>detail</summary>Journal ref:IEEE Transactions on Network and Service Management</details>|
+|**2026-1-5**|**LLM-Enhanced Reinforcement Learning for Time Series Anomaly Detection**|Bahareh Golchin et.al|[paper](https://arxiv.org/abs/2601.02511)|-|-|
+|**2026-1-5**|**Quantum Enhanced Anomaly Detection for ADS-B Data using Hybrid Deep Learning**|Rani Naaman et.al|[paper](https://arxiv.org/abs/2509.15991)|-|<details><summary>detail</summary>This is the author's version of the work accepted for publication in the IEEE-AIAA Digital Avionics Systems Conference (DASC) 2025</details>|
+|**2026-1-5**|**Multivariate Time-series Anomaly Detection via Dynamic Model Pool & Ensembling**|Wei Hu et.al|[paper](https://arxiv.org/abs/2601.02037)|-|-|
+|**2026-1-5**|**GCR: Geometry-Consistent Routing for Task-Agnostic Continual Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2601.01856)|[code](https://github.com/jw-chae/GCR)|-|
 |**2026-1-4**|**Digital Twin-Driven Communication-Efficient Federated Anomaly Detection for Industrial IoT**|Mohammed Ayalew Belay et.al|[paper](https://arxiv.org/abs/2601.01701)|-|-|
 |**2026-1-4**|**Attire-Based Anomaly Detection in Restricted Areas Using YOLOv8 for Enhanced CCTV Security**|Abdul Aziz A. B et.al|[paper](https://arxiv.org/abs/2404.00645)|-|-|
 |**2026-1-4**|**Applying Deep Learning to Anomaly Detection of Russian Satellite Activity for Indications Prior to Military Activity**|David Kurtenbach et.al|[paper](https://arxiv.org/abs/2509.00050)|-|<details><summary>detail</summary>Withdrawn because of inaccurate information and misrepresented findings</details>|
@@ -93,11 +98,6 @@
 |**2025-12-29**|**RefineVAD: Semantic-Guided Feature Recalibration for Weakly Supervised Video Anomaly Detection**|Junhee Lee et.al|[paper](https://arxiv.org/abs/2511.13204)|-|<details><summary>detail</summary>AAAI 2026</details>|
 |**2025-12-29**|**Anomaly Detection by Effectively Leveraging Synthetic Images**|Sungho Kang et.al|[paper](https://arxiv.org/abs/2512.23227)|-|-|
 |**2025-12-26**|**FedDyMem: Efficient Federated Learning with Dynamic Memory and Memory-Reduce for Unsupervised Image Anomaly Detection**|Silin Chen et.al|[paper](https://arxiv.org/abs/2502.21012)|-|-|
-|**2025-12-26**|**Enhance Multi-Scale Spatial-Temporal Coherence for Configurable Video Anomaly Detection**|Kai Cheng et.al|[paper](https://arxiv.org/abs/2305.07328)|-|-|
-|**2025-12-26**|**When Unsupervised Domain Adaptation meets One-class Anomaly Detection: Addressing the Two-fold Unsupervised Curse by Leveraging Anomaly Scarcity**|Nesryne Mejri et.al|[paper](https://arxiv.org/abs/2502.21022)|-|<details><summary>detail</summary>Added acknowledgments</details>|
-|**2025-12-26**|**GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model**|Yali Fu et.al|[paper](https://arxiv.org/abs/2503.17903)|[code](https://github.com/Yali-Fu/GLADMamba.)|<details><summary>detail</summary>Published at ECML PKDD 2025 (Research Track)</details>|
-|**2025-12-26**|**Unsupervised Anomaly Detection in Brain MRI via Disentangled Anatomy Learning**|Tao Yang et.al|[paper](https://arxiv.org/abs/2512.21924)|-|<details><summary>detail</summary>Accepted by Medical Image Analysis (2025)</details>|
-|**2025-12-25**|**Multi-Head Spectral-Adaptive Graph Anomaly Detection**|Qingyue Cao et.al|[paper](https://arxiv.org/abs/2512.22291)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-6**|**Scene-Aware Vectorized Memory Multi-Agent Framework with Cross-Modal Differentiated Quantization VLMs for Visually Impaired Assistance**|Xiangxiang Wang et.al|[paper](https://arxiv.org/abs/2508.18177)|-|-|
 |**2026-1-1**|**LooC: Effective Low-Dimensional Codebook for Compositional Vector Quantization**|Jie Li et.al|[paper](https://arxiv.org/abs/2601.00222)|-|<details><summary>detail</summary>The IEEE/CVF Winter Conference on Applications of Computer Vision 2026</details>|
 |**2025-12-30**|**Hierarchical Vector-Quantized Latents for Perceptual Low-Resolution Video Compression**|Manikanta Kotthapalli et.al|[paper](https://arxiv.org/abs/2512.24547)|-|-|
 |**2025-12-20**|**Quantization for Vector Search under Streaming Updates**|Ishaq Aden-Ali et.al|[paper](https://arxiv.org/abs/2512.18335)|-|-|
@@ -187,5 +188,4 @@
 |**2025-10-7**|**VecInfer: Efficient LLM Inference with Low-Bit KV Cache via Outlier-Suppressed Vector Quantization**|Dingyu Yao et.al|[paper](https://arxiv.org/abs/2510.06175)|-|-|
 |**2025-10-3**|**Addressing Representation Collapse in Vector Quantized Models with One Linear Layer**|Yongxin Zhu et.al|[paper](https://arxiv.org/abs/2411.02038)|[code](https://github.com/youngsheen/SimVQ.)|<details><summary>detail</summary>ICCV2025</details>|
 |**2025-10-1**|**Purrception: Variational Flow Matching for Vector-Quantized Image Generation**|Răzvan-Andrei Matişan et.al|[paper](https://arxiv.org/abs/2510.01478)|-|-|
-|**2025-9-30**|**DiVeQ: Differentiable Vector Quantization Using the Reparameterization Trick**|Mohammad Hassan Vali et.al|[paper](https://arxiv.org/abs/2509.26469)|-|-|
 
