@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.01.08
+## Updated on 2026.01.09
 
 ## Defect Detection
 
@@ -73,12 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-7**|**GCR: Geometry-Consistent Routing for Task-Agnostic Continual Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2601.01856)|[code](https://github.com/jw-chae/GCR)|-|
 |**2026-1-7**|**Stochastic Voronoi Ensembles for Anomaly Detection**|Yang Cao et.al|[paper](https://arxiv.org/abs/2601.03664)|-|-|
 |**2026-1-6**|**Real-Time Adaptive Anomaly Detection in Industrial IoT Environments**|Mahsa Raeiszadeh et.al|[paper](https://arxiv.org/abs/2601.03085)|-|<details><summary>detail</summary>Journal ref:IEEE Transactions on Network and Service Management</details>|
 |**2026-1-5**|**LLM-Enhanced Reinforcement Learning for Time Series Anomaly Detection**|Bahareh Golchin et.al|[paper](https://arxiv.org/abs/2601.02511)|-|-|
 |**2026-1-5**|**Quantum Enhanced Anomaly Detection for ADS-B Data using Hybrid Deep Learning**|Rani Naaman et.al|[paper](https://arxiv.org/abs/2509.15991)|-|<details><summary>detail</summary>This is the author's version of the work accepted for publication in the IEEE-AIAA Digital Avionics Systems Conference (DASC) 2025</details>|
 |**2026-1-5**|**Multivariate Time-series Anomaly Detection via Dynamic Model Pool & Ensembling**|Wei Hu et.al|[paper](https://arxiv.org/abs/2601.02037)|-|-|
-|**2026-1-5**|**GCR: Geometry-Consistent Routing for Task-Agnostic Continual Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2601.01856)|[code](https://github.com/jw-chae/GCR)|-|
 |**2026-1-4**|**Digital Twin-Driven Communication-Efficient Federated Anomaly Detection for Industrial IoT**|Mohammed Ayalew Belay et.al|[paper](https://arxiv.org/abs/2601.01701)|-|-|
 |**2026-1-4**|**Attire-Based Anomaly Detection in Restricted Areas Using YOLOv8 for Enhanced CCTV Security**|Abdul Aziz A. B et.al|[paper](https://arxiv.org/abs/2404.00645)|-|-|
 |**2026-1-4**|**Applying Deep Learning to Anomaly Detection of Russian Satellite Activity for Indications Prior to Military Activity**|David Kurtenbach et.al|[paper](https://arxiv.org/abs/2509.00050)|-|<details><summary>detail</summary>Withdrawn because of inaccurate information and misrepresented findings</details>|
