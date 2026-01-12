@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.01.11
+## Updated on 2026.01.12
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-9**|**SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking**|Zewei Lin et.al|[paper](https://arxiv.org/abs/2601.05827)|-|-|
 |**2026-1-1**|**Application Research of a Deep Learning Model Integrating CycleGAN and YOLO in PCB Infrared Defect Detection**|Chao Yang et.al|[paper](https://arxiv.org/abs/2601.00237)|-|-|
 |**2025-12-16**|**TACK Tunnel Data (TTD): A Benchmark Dataset for Deep Learning-Based Defect Detection in Tunnels**|Andreas Sjölander et.al|[paper](https://arxiv.org/abs/2512.14477)|-|-|
 |**2025-12-12**|**A Comparative Analysis of Semiconductor Wafer Map Defect Detection with Image Transformer**|Sushmita Nath et.al|[paper](https://arxiv.org/abs/2512.11977)|-|<details><summary>detail</summary>submit/7075585</details>|
@@ -37,7 +38,6 @@
 |**2025-10-2**|**YOLO-Based Defect Detection for Metal Sheets**|Po-Heng Chou et.al|[paper](https://arxiv.org/abs/2509.25659)|-|-|
 |**2025-9-30**|**Multi-View Camera System for Variant-Aware Autonomous Vehicle Inspection and Defect Detection**|Yash Kulkarni et.al|[paper](https://arxiv.org/abs/2509.26454)|-|-|
 |**2025-9-25**|**Unsupervised Defect Detection for Surgical Instruments**|Joseph Huang et.al|[paper](https://arxiv.org/abs/2509.21561)|-|-|
-|**2025-9-25**|**A Real-Time On-Device Defect Detection Framework for Laser Power-Meter Sensors via Unsupervised Learning**|Dongqi Zheng et.al|[paper](https://arxiv.org/abs/2509.20946)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-9**|**Community-Based Model Sharing and Generalisation: Anomaly Detection in IoT Temperature Sensor Networks**|Sahibzada Saadoon Hammad et.al|[paper](https://arxiv.org/abs/2601.05984)|-|-|
+|**2026-1-9**|**Anomaly detection for generic failure monitoring in robotic assembly, screwing and manipulation**|Niklas Grambow et.al|[paper](https://arxiv.org/abs/2509.26308)|-|-|
+|**2026-1-9**|**One Language-Free Foundation Model Is Enough for Universal Vision Anomaly Detection**|Bin-Bin Gao et.al|[paper](https://arxiv.org/abs/2601.05552)|[code](https://github.com/gaobb/UniADet.)|-|
+|**2026-1-8**|**A Photorealistic Dataset and Vision-Based Algorithm for Anomaly Detection During Proximity Operations in Lunar Orbit**|Selina Leveugle et.al|[paper](https://arxiv.org/abs/2409.20435)|-|<details><summary>detail</summary>In IEEE Robotics and Automation Letters (RA-L) and presented at the IEEE International Conference on Robotics and Automation</details>|
 |**2026-1-7**|**GCR: Geometry-Consistent Routing for Task-Agnostic Continual Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2601.01856)|[code](https://github.com/jw-chae/GCR)|-|
 |**2026-1-7**|**Stochastic Voronoi Ensembles for Anomaly Detection**|Yang Cao et.al|[paper](https://arxiv.org/abs/2601.03664)|-|-|
 |**2026-1-6**|**Real-Time Adaptive Anomaly Detection in Industrial IoT Environments**|Mahsa Raeiszadeh et.al|[paper](https://arxiv.org/abs/2601.03085)|-|<details><summary>detail</summary>Journal ref:IEEE Transactions on Network and Service Management</details>|
@@ -94,10 +98,6 @@
 |**2025-12-30**|**Fast reconstruction-based ROI triggering via anomaly detection in the CYGNO optical TPC**|F. D. Amaro et.al|[paper](https://arxiv.org/abs/2512.24290)|-|-|
 |**2025-12-30**|**VADTree: Explainable Training-Free Video Anomaly Detection via Hierarchical Granularity-Aware Tree**|Wenlong Li et.al|[paper](https://arxiv.org/abs/2510.22693)|[code](https://github.com/wenlongli10/VADTree.)|<details><summary>detail</summary>NeurIPS 2025 poster</details>|
 |**2025-12-29**|**Anomaly detection in satellite imagery through temporal inpainting**|Bertrand Rouet-Leduc et.al|[paper](https://arxiv.org/abs/2512.23986)|-|-|
-|**2025-12-29**|**FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI**|Hao Li et.al|[paper](https://arxiv.org/abs/2511.12899)|[code](https://github.com/ls1rius/MRI_FDP.)|<details><summary>detail</summary>Accepted by AAAI 2026</details>|
-|**2025-12-29**|**A unified framework for detecting point and collective anomalies in operating system logs via collaborative transformers**|Mohammad Nasirzadeh et.al|[paper](https://arxiv.org/abs/2512.23380)|[code](https://github.com/NasirzadehMoh/CoLog.)|-|
-|**2025-12-29**|**RefineVAD: Semantic-Guided Feature Recalibration for Weakly Supervised Video Anomaly Detection**|Junhee Lee et.al|[paper](https://arxiv.org/abs/2511.13204)|-|<details><summary>detail</summary>AAAI 2026</details>|
-|**2025-12-29**|**Anomaly Detection by Effectively Leveraging Synthetic Images**|Sungho Kang et.al|[paper](https://arxiv.org/abs/2512.23227)|-|-|
 
 ## 3D Anomaly Detection
 
