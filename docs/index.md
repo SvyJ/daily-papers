@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.01.13
+## Updated on 2026.01.14
 
 ## Defect Detection
 
@@ -73,11 +73,15 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-13**|**TRACE: Reconstruction-Based Anomaly Detection in Ensemble and Time-Dependent Simulations**|Hamid Gadirov et.al|[paper](https://arxiv.org/abs/2601.08659)|-|-|
+|**2026-1-13**|**Cascading multi-agent anomaly detection in surveillance systems via vision-language models and embedding-based classification**|Tayyab Rehman et.al|[paper](https://arxiv.org/abs/2601.06204)|-|<details><summary>detail</summary>Author email changed</details>|
+|**2026-1-12**|**Instance-Aligned Captions for Explainable Video Anomaly Detection**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2601.08155)|-|-|
+|**2026-1-12**|**Layer-Wise Anomaly Detection in Directed Energy Deposition using High-Fidelity Fringe Projection Profilometry**|Guanzhong Hu et.al|[paper](https://arxiv.org/abs/2509.05327)|-|-|
+|**2026-1-12**|**-IPOMDP: Mitigating Deception in a Cognitive Hierarchy with Off-Policy Counterfactual Anomaly Detection**|Nitay Alon et.al|[paper](https://arxiv.org/abs/2405.01870)|-|-|
 |**2026-1-9**|**Community-Based Model Sharing and Generalisation: Anomaly Detection in IoT Temperature Sensor Networks**|Sahibzada Saadoon Hammad et.al|[paper](https://arxiv.org/abs/2601.05984)|-|-|
 |**2026-1-9**|**Anomaly detection for generic failure monitoring in robotic assembly, screwing and manipulation**|Niklas Grambow et.al|[paper](https://arxiv.org/abs/2509.26308)|-|-|
 |**2026-1-9**|**One Language-Free Foundation Model Is Enough for Universal Vision Anomaly Detection**|Bin-Bin Gao et.al|[paper](https://arxiv.org/abs/2601.05552)|[code](https://github.com/gaobb/UniADet.)|-|
 |**2026-1-8**|**A Photorealistic Dataset and Vision-Based Algorithm for Anomaly Detection During Proximity Operations in Lunar Orbit**|Selina Leveugle et.al|[paper](https://arxiv.org/abs/2409.20435)|-|<details><summary>detail</summary>In IEEE Robotics and Automation Letters (RA-L) and presented at the IEEE International Conference on Robotics and Automation</details>|
-|**2026-1-8**|**Cascading multi-agent anomaly detection in surveillance systems via vision-language models and embedding-based classification**|Tayyab Rehman et.al|[paper](https://arxiv.org/abs/2601.06204)|-|-|
 |**2026-1-7**|**GCR: Geometry-Consistent Routing for Task-Agnostic Continual Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2601.01856)|[code](https://github.com/jw-chae/GCR)|-|
 |**2026-1-7**|**Stochastic Voronoi Ensembles for Anomaly Detection**|Yang Cao et.al|[paper](https://arxiv.org/abs/2601.03664)|-|-|
 |**2026-1-6**|**Real-Time Adaptive Anomaly Detection in Industrial IoT Environments**|Mahsa Raeiszadeh et.al|[paper](https://arxiv.org/abs/2601.03085)|-|<details><summary>detail</summary>Journal ref:IEEE Transactions on Network and Service Management</details>|
@@ -94,10 +98,6 @@
 |**2026-1-1**|**A Comparative Study of Adaptation Strategies for Time Series Foundation Models in Anomaly Detection**|Miseon Park et.al|[paper](https://arxiv.org/abs/2601.00446)|-|-|
 |**2026-1-1**|**Engineering Attack Vectors and Detecting Anomalies in Additive Manufacturing**|Md Mahbub Hasan et.al|[paper](https://arxiv.org/abs/2601.00384)|-|<details><summary>detail</summary>This paper has been accepted to EAI SmartSP 2025</details>|
 |**2026-1-1**|**HarmoniAD: Harmonizing Local Structures and Global Semantics for Anomaly Detection**|Naiqi Zhang et.al|[paper](https://arxiv.org/abs/2601.00327)|-|-|
-|**2025-12-31**|**AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2310.18961)|[code](https://github.com/zqhang/AnomalyCLIP.)|<details><summary>detail</summary>Accepted by ICLR 2024</details>|
-|**2025-12-31**|**Towards eco friendly cybersecurity: machine learning based anomaly detection with carbon and energy metrics**|KC Aashish et.al|[paper](https://arxiv.org/abs/2601.00893)|-|<details><summary>detail</summary>International Journal of Applied Mathematics 2025</details>|
-|**2025-12-30**|**Fast reconstruction-based ROI triggering via anomaly detection in the CYGNO optical TPC**|F. D. Amaro et.al|[paper](https://arxiv.org/abs/2512.24290)|-|-|
-|**2025-12-30**|**VADTree: Explainable Training-Free Video Anomaly Detection via Hierarchical Granularity-Aware Tree**|Wenlong Li et.al|[paper](https://arxiv.org/abs/2510.22693)|[code](https://github.com/wenlongli10/VADTree.)|<details><summary>detail</summary>NeurIPS 2025 poster</details>|
 
 ## 3D Anomaly Detection
 
