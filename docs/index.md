@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.01.15
+## Updated on 2026.01.18
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-15**|**NATLM: Detecting Defects in NFT Smart Contracts Leveraging LLM**|Yuanzheng Niu et.al|[paper](https://arxiv.org/abs/2508.01351)|-|-|
 |**2026-1-13**|**LPCAN: Lightweight Pyramid Cross-Attention Network for Rail Surface Defect Detection Using RGB-D Data**|Jackie Alex et.al|[paper](https://arxiv.org/abs/2601.09118)|-|-|
 |**2026-1-9**|**SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking**|Zewei Lin et.al|[paper](https://arxiv.org/abs/2601.05827)|-|-|
 |**2026-1-1**|**Application Research of a Deep Learning Model Integrating CycleGAN and YOLO in PCB Infrared Defect Detection**|Chao Yang et.al|[paper](https://arxiv.org/abs/2601.00237)|-|-|
@@ -37,7 +38,6 @@
 |**2025-10-7**|**Kaputt: A Large-Scale Dataset for Visual Defect Detection**|Sebastian Höfer et.al|[paper](https://arxiv.org/abs/2510.05903)|[code](https://www.kaputt-dataset.com.)|<details><summary>detail</summary>ICCV 2025</details>|
 |**2025-10-3**|**Automated Defect Detection for Mass-Produced Electronic Components Based on YOLO Object Detection Models**|Wei-Lung Mao et.al|[paper](https://arxiv.org/abs/2510.01914)|-|-|
 |**2025-10-2**|**YOLO-Based Defect Detection for Metal Sheets**|Po-Heng Chou et.al|[paper](https://arxiv.org/abs/2509.25659)|-|-|
-|**2025-9-30**|**Multi-View Camera System for Variant-Aware Autonomous Vehicle Inspection and Defect Detection**|Yash Kulkarni et.al|[paper](https://arxiv.org/abs/2509.26454)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-15**|**GFM4GA: Graph Foundation Model for Group Anomaly Detection**|Jiujiu Chen et.al|[paper](https://arxiv.org/abs/2601.10193)|-|-|
 |**2026-1-14**|**Explainable Autoencoder-Based Anomaly Detection in IEC 61850 GOOSE Networks**|Dafne Lozano-Paredes et.al|[paper](https://arxiv.org/abs/2601.09287)|-|-|
 |**2026-1-13**|**SSVP: Synergistic Semantic-Visual Prompting for Industrial Zero-Shot Anomaly Detection**|Chenhao Fu et.al|[paper](https://arxiv.org/abs/2601.09147)|-|-|
 |**2026-1-13**|**TRACE: Reconstruction-Based Anomaly Detection in Ensemble and Time-Dependent Simulations**|Hamid Gadirov et.al|[paper](https://arxiv.org/abs/2601.08659)|-|-|
@@ -97,7 +98,6 @@
 |**2026-1-2**|**Improving Variational Autoencoder using Random Fourier Transformation: An Aviation Safety Anomaly Detection Case-Study**|Ata Akbari Asanjan et.al|[paper](https://arxiv.org/abs/2601.01016)|-|-|
 |**2026-1-2**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al|[paper](https://arxiv.org/abs/2410.00713)|-|-|
 |**2026-1-1**|**Trajectory Guard -- A Lightweight, Sequence-Aware Model for Real-Time Anomaly Detection in Agentic AI**|Laksh Advani et.al|[paper](https://arxiv.org/abs/2601.00516)|-|<details><summary>detail</summary>AAAI Trustagent 2026</details>|
-|**2026-1-1**|**A Comparative Study of Adaptation Strategies for Time Series Foundation Models in Anomaly Detection**|Miseon Park et.al|[paper](https://arxiv.org/abs/2601.00446)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-15**|**VQ-Seg: Vector-Quantized Token Perturbation for Semi-Supervised Medical Image Segmentation**|Sicheng Yang et.al|[paper](https://arxiv.org/abs/2601.10124)|[code](https://github.com/script-Yang/VQ-Seg.)|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
+|**2026-1-14**|**FaTRQ: Tiered Residual Quantization for LLM Vector Search in Far-Memory-Aware ANNS Systems**|Tianqi Zhang et.al|[paper](https://arxiv.org/abs/2601.09985)|-|-|
 |**2026-1-14**|**STORM: A Spatio-Temporal Factor Model Based on Dual Vector Quantized Variational Autoencoders for Financial Trading**|Yilei Zhao et.al|[paper](https://arxiv.org/abs/2412.09468)|-|-|
 |**2026-1-11**|**HAS-VQ: Hessian-Adaptive Sparse Vector Quantization for High-Fidelity LLM Compression**|Vladimer Khasia et.al|[paper](https://arxiv.org/abs/2601.06959)|[code](https://github.com/VladimerKhasia/HASVQ)|-|
 |**2026-1-6**|**Scene-Aware Vectorized Memory Multi-Agent Framework with Cross-Modal Differentiated Quantization VLMs for Visually Impaired Assistance**|Xiangxiang Wang et.al|[paper](https://arxiv.org/abs/2508.18177)|-|-|
@@ -186,6 +188,4 @@
 |**2025-10-16**|**Group-Wise Optimization for Self-Extensible Codebooks in Vector Quantized Models**|Hong-Kai Zheng et.al|[paper](https://arxiv.org/abs/2510.13331)|-|-|
 |**2025-10-15**|**GranQ: Efficient Channel-wise Quantization via Vectorized Pre-Scaling for Zero-Shot QAT**|Inpyo Hong et.al|[paper](https://arxiv.org/abs/2503.18339)|-|-|
 |**2025-10-14**|**CARVQ: Corrective Adaptor with Group Residual Vector Quantization for LLM Embedding Compression**|Dayin Gou et.al|[paper](https://arxiv.org/abs/2510.12721)|-|<details><summary>detail</summary>EMNLP Findings 2025</details>|
-|**2025-10-10**|**SQ-GAN: Semantic Image Communications Using Masked Vector Quantization**|Francesco Pezone et.al|[paper](https://arxiv.org/abs/2502.09520)|-|<details><summary>detail</summary>arXiv admin note: substantial text overlap with arXiv:2502</details>|
-|**2025-10-7**|**VecInfer: Efficient LLM Inference with Low-Bit KV Cache via Outlier-Suppressed Vector Quantization**|Dingyu Yao et.al|[paper](https://arxiv.org/abs/2510.06175)|-|-|
 
