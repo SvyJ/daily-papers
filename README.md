@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.01.18
+## Updated on 2026.01.19
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-16**|**SME-YOLO: A Real-Time Detector for Tiny Defect Detection on PCB Surfaces**|Meng Han et.al|[paper](https://arxiv.org/abs/2601.11402)|-|-|
 |**2026-1-15**|**NATLM: Detecting Defects in NFT Smart Contracts Leveraging LLM**|Yuanzheng Niu et.al|[paper](https://arxiv.org/abs/2508.01351)|-|-|
 |**2026-1-13**|**LPCAN: Lightweight Pyramid Cross-Attention Network for Rail Surface Defect Detection Using RGB-D Data**|Jackie Alex et.al|[paper](https://arxiv.org/abs/2601.09118)|-|-|
 |**2026-1-9**|**SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking**|Zewei Lin et.al|[paper](https://arxiv.org/abs/2601.05827)|-|-|
@@ -37,7 +38,6 @@
 |**2025-10-8**|**Transformer-Based Indirect Structural Health Monitoring of Rail Infrastructure with Attention-Driven Detection and Localization of Transient Defects**|Sizhe Ma et.al|[paper](https://arxiv.org/abs/2510.07606)|-|<details><summary>detail</summary>Preprint presented at the 15th International Workshop on Structural Health Monitoring (IWSHM)</details>|
 |**2025-10-7**|**Kaputt: A Large-Scale Dataset for Visual Defect Detection**|Sebastian Höfer et.al|[paper](https://arxiv.org/abs/2510.05903)|[code](https://www.kaputt-dataset.com.)|<details><summary>detail</summary>ICCV 2025</details>|
 |**2025-10-3**|**Automated Defect Detection for Mass-Produced Electronic Components Based on YOLO Object Detection Models**|Wei-Lung Mao et.al|[paper](https://arxiv.org/abs/2510.01914)|-|-|
-|**2025-10-2**|**YOLO-Based Defect Detection for Metal Sheets**|Po-Heng Chou et.al|[paper](https://arxiv.org/abs/2509.25659)|-|-|
 
 ## Defect Segmentation
 
@@ -73,11 +73,15 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-16**|**QUPID: A Partitioned Quantum Neural Network for Anomaly Detection in Smart Grid**|Hoang M. Ngo et.al|[paper](https://arxiv.org/abs/2601.11500)|-|-|
+|**2026-1-16**|**Balanced Edge Pruning for Graph Anomaly Detection with Noisy Labels**|Zhu Wang et.al|[paper](https://arxiv.org/abs/2407.05934)|-|-|
+|**2026-1-16**|**FTDMamba: Frequency-Assisted Temporal Dilation Mamba for Unmanned Aerial Vehicle Video Anomaly Detection**|Cheng-Zhuang Liu et.al|[paper](https://arxiv.org/abs/2601.11254)|[code](https://github.com/uavano/FTDMamba.)|-|
+|**2026-1-16**|**On-line Anomaly Detection and Qualification of Random Bit Streams**|Cesare Gerolimetto Fabrello et.al|[paper](https://arxiv.org/abs/2409.05543)|-|-|
+|**2026-1-16**|**Cascading multi-agent anomaly detection in surveillance systems via vision-language models and embedding-based classification**|Tayyab Rehman et.al|[paper](https://arxiv.org/abs/2601.06204)|-|<details><summary>detail</summary>Author email changed</details>|
 |**2026-1-15**|**GFM4GA: Graph Foundation Model for Group Anomaly Detection**|Jiujiu Chen et.al|[paper](https://arxiv.org/abs/2601.10193)|-|-|
 |**2026-1-14**|**Explainable Autoencoder-Based Anomaly Detection in IEC 61850 GOOSE Networks**|Dafne Lozano-Paredes et.al|[paper](https://arxiv.org/abs/2601.09287)|-|-|
 |**2026-1-13**|**SSVP: Synergistic Semantic-Visual Prompting for Industrial Zero-Shot Anomaly Detection**|Chenhao Fu et.al|[paper](https://arxiv.org/abs/2601.09147)|-|-|
 |**2026-1-13**|**TRACE: Reconstruction-Based Anomaly Detection in Ensemble and Time-Dependent Simulations**|Hamid Gadirov et.al|[paper](https://arxiv.org/abs/2601.08659)|-|-|
-|**2026-1-13**|**Cascading multi-agent anomaly detection in surveillance systems via vision-language models and embedding-based classification**|Tayyab Rehman et.al|[paper](https://arxiv.org/abs/2601.06204)|-|<details><summary>detail</summary>Author email changed</details>|
 |**2026-1-12**|**Instance-Aligned Captions for Explainable Video Anomaly Detection**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2601.08155)|-|-|
 |**2026-1-12**|**Layer-Wise Anomaly Detection in Directed Energy Deposition using High-Fidelity Fringe Projection Profilometry**|Guanzhong Hu et.al|[paper](https://arxiv.org/abs/2509.05327)|-|-|
 |**2026-1-12**|**-IPOMDP: Mitigating Deception in a Cognitive Hierarchy with Off-Policy Counterfactual Anomaly Detection**|Nitay Alon et.al|[paper](https://arxiv.org/abs/2405.01870)|-|-|
@@ -94,10 +98,6 @@
 |**2026-1-4**|**Digital Twin-Driven Communication-Efficient Federated Anomaly Detection for Industrial IoT**|Mohammed Ayalew Belay et.al|[paper](https://arxiv.org/abs/2601.01701)|-|-|
 |**2026-1-4**|**Attire-Based Anomaly Detection in Restricted Areas Using YOLOv8 for Enhanced CCTV Security**|Abdul Aziz A. B et.al|[paper](https://arxiv.org/abs/2404.00645)|-|-|
 |**2026-1-4**|**Applying Deep Learning to Anomaly Detection of Russian Satellite Activity for Indications Prior to Military Activity**|David Kurtenbach et.al|[paper](https://arxiv.org/abs/2509.00050)|-|<details><summary>detail</summary>Withdrawn because of inaccurate information and misrepresented findings</details>|
-|**2026-1-4**|**A Graph-based Framework for Online Time Series Anomaly Detection Using Model Ensemble**|Zewei Yu et.al|[paper](https://arxiv.org/abs/2601.01403)|-|-|
-|**2026-1-2**|**Improving Variational Autoencoder using Random Fourier Transformation: An Aviation Safety Anomaly Detection Case-Study**|Ata Akbari Asanjan et.al|[paper](https://arxiv.org/abs/2601.01016)|-|-|
-|**2026-1-2**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al|[paper](https://arxiv.org/abs/2410.00713)|-|-|
-|**2026-1-1**|**Trajectory Guard -- A Lightweight, Sequence-Aware Model for Real-Time Anomaly Detection in Agentic AI**|Laksh Advani et.al|[paper](https://arxiv.org/abs/2601.00516)|-|<details><summary>detail</summary>AAAI Trustagent 2026</details>|
 
 ## 3D Anomaly Detection
 
