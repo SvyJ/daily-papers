@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.01.20
+## Updated on 2026.01.21
 
 ## Defect Detection
 
@@ -73,6 +73,20 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-19**|**ChatAD: Reasoning-Enhanced Time-Series Anomaly Detection with Multi-Turn Instruction Evolution**|Hui Sun et.al|[paper](https://arxiv.org/abs/2601.13546)|-|-|
+|**2026-1-19**|**Single-Step Reconstruction-Free Anomaly Detection and Segmentation via Diffusion Models**|Mehrdad Moradi et.al|[paper](https://arxiv.org/abs/2508.04818)|[code](https://github.com/mehrdadmoradi124/RADAR)|-|
+|**2026-1-19**|**COGNOS: Universal Enhancement for Time Series Anomaly Detection via Constrained Gaussian-Noise Optimization and Smoothing**|Wenlong Shang et.al|[paper](https://arxiv.org/abs/2511.06894)|-|-|
+|**2026-1-19**|**Knowledge-Integrated Representation Learning for Crypto Anomaly Detection under Extreme Label Scarcity; Relational Domain-Logic Integration with Retrieval-Grounded Context and Path-Level Explanations**|Gyuyeon Na et.al|[paper](https://arxiv.org/abs/2601.12839)|-|<details><summary>detail</summary>Gyuyeon Na</details>|
+|**2026-1-19**|**A Graph Prompt Fine-Tuning Method for WSN Spatio-Temporal Correlation Anomaly Detection**|Miao Ye et.al|[paper](https://arxiv.org/abs/2601.12745)|-|-|
+|**2026-1-18**|**SSVP: Synergistic Semantic-Visual Prompting for Industrial Zero-Shot Anomaly Detection**|Chenhao Fu et.al|[paper](https://arxiv.org/abs/2601.09147)|-|-|
+|**2026-1-18**|**Toward Faithful Explanations in Acoustic Anomaly Detection**|Maab Elrashid et.al|[paper](https://arxiv.org/abs/2601.12660)|[code](https://github.com/Maab-Nimir/Faithful-Explanations-in-Acoustic-Anomaly-Detection)|<details><summary>detail</summary>the IEEE International Conference on Acoustics</details>|
+|**2026-1-18**|**Evaluating Large Language Models for Time Series Anomaly Detection in Aerospace Software**|Yang Liu et.al|[paper](https://arxiv.org/abs/2601.12448)|-|<details><summary>detail</summary>This paper has been accepted by ASE 2025</details>|
+|**2026-1-18**|**Graph Attention Networks with Physical Constraints for Anomaly Detection**|Mohammadhossein Homaei et.al|[paper](https://arxiv.org/abs/2601.12426)|-|<details><summary>detail</summary>7 Pages</details>|
+|**2026-1-18**|**Utilizing the Score of Data Distribution for Hyperspectral Anomaly Detection**|Jiahui Sheng et.al|[paper](https://arxiv.org/abs/2601.12379)|[code](https://github.com/jiahuisheng/ScoreAD.)|-|
+|**2026-1-18**|**Turbo-GoDec: Exploiting the Cluster Sparsity Prior for Hyperspectral Anomaly Detection**|Jiahui Sheng et.al|[paper](https://arxiv.org/abs/2601.12337)|[code](https://github.com/jiahuisheng/Turbo-GoDec.)|-|
+|**2026-1-17**|**Wavelet-Aware Anomaly Detection in Multi-Channel User Logs via Deviation Modulation and Resolution-Adaptive Attention**|Kaichuan Kong et.al|[paper](https://arxiv.org/abs/2601.12231)|-|<details><summary>detail</summary>Accepted by ICASSP 2026</details>|
+|**2026-1-17**|**Hybrid IDS Using Signature-Based and Anomaly-Based Detection**|Messaouda Boutassetta et.al|[paper](https://arxiv.org/abs/2601.11998)|-|-|
+|**2026-1-17**|**A Method for Detecting Spatio-temporal Correlation Anomalies of WSN Nodes Based on Topological Information Enhancement and Time-frequency Feature Extraction**|Miao Ye et.al|[paper](https://arxiv.org/abs/2601.11951)|-|-|
 |**2026-1-16**|**QUPID: A Partitioned Quantum Neural Network for Anomaly Detection in Smart Grid**|Hoang M. Ngo et.al|[paper](https://arxiv.org/abs/2601.11500)|-|-|
 |**2026-1-16**|**Balanced Edge Pruning for Graph Anomaly Detection with Noisy Labels**|Zhu Wang et.al|[paper](https://arxiv.org/abs/2407.05934)|-|-|
 |**2026-1-16**|**FTDMamba: Frequency-Assisted Temporal Dilation Mamba for Unmanned Aerial Vehicle Video Anomaly Detection**|Cheng-Zhuang Liu et.al|[paper](https://arxiv.org/abs/2601.11254)|[code](https://github.com/uavano/FTDMamba.)|-|
@@ -80,24 +94,10 @@
 |**2026-1-16**|**Cascading multi-agent anomaly detection in surveillance systems via vision-language models and embedding-based classification**|Tayyab Rehman et.al|[paper](https://arxiv.org/abs/2601.06204)|-|<details><summary>detail</summary>Author email changed</details>|
 |**2026-1-15**|**GFM4GA: Graph Foundation Model for Group Anomaly Detection**|Jiujiu Chen et.al|[paper](https://arxiv.org/abs/2601.10193)|-|-|
 |**2026-1-14**|**Explainable Autoencoder-Based Anomaly Detection in IEC 61850 GOOSE Networks**|Dafne Lozano-Paredes et.al|[paper](https://arxiv.org/abs/2601.09287)|-|-|
-|**2026-1-13**|**SSVP: Synergistic Semantic-Visual Prompting for Industrial Zero-Shot Anomaly Detection**|Chenhao Fu et.al|[paper](https://arxiv.org/abs/2601.09147)|-|-|
 |**2026-1-13**|**TRACE: Reconstruction-Based Anomaly Detection in Ensemble and Time-Dependent Simulations**|Hamid Gadirov et.al|[paper](https://arxiv.org/abs/2601.08659)|-|-|
 |**2026-1-12**|**Instance-Aligned Captions for Explainable Video Anomaly Detection**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2601.08155)|-|-|
 |**2026-1-12**|**Layer-Wise Anomaly Detection in Directed Energy Deposition using High-Fidelity Fringe Projection Profilometry**|Guanzhong Hu et.al|[paper](https://arxiv.org/abs/2509.05327)|-|-|
 |**2026-1-12**|**-IPOMDP: Mitigating Deception in a Cognitive Hierarchy with Off-Policy Counterfactual Anomaly Detection**|Nitay Alon et.al|[paper](https://arxiv.org/abs/2405.01870)|-|-|
-|**2026-1-9**|**Community-Based Model Sharing and Generalisation: Anomaly Detection in IoT Temperature Sensor Networks**|Sahibzada Saadoon Hammad et.al|[paper](https://arxiv.org/abs/2601.05984)|-|-|
-|**2026-1-9**|**Anomaly detection for generic failure monitoring in robotic assembly, screwing and manipulation**|Niklas Grambow et.al|[paper](https://arxiv.org/abs/2509.26308)|-|-|
-|**2026-1-9**|**One Language-Free Foundation Model Is Enough for Universal Vision Anomaly Detection**|Bin-Bin Gao et.al|[paper](https://arxiv.org/abs/2601.05552)|[code](https://github.com/gaobb/UniADet.)|-|
-|**2026-1-8**|**A Photorealistic Dataset and Vision-Based Algorithm for Anomaly Detection During Proximity Operations in Lunar Orbit**|Selina Leveugle et.al|[paper](https://arxiv.org/abs/2409.20435)|-|<details><summary>detail</summary>In IEEE Robotics and Automation Letters (RA-L) and presented at the IEEE International Conference on Robotics and Automation</details>|
-|**2026-1-7**|**GCR: Geometry-Consistent Routing for Task-Agnostic Continual Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2601.01856)|[code](https://github.com/jw-chae/GCR)|-|
-|**2026-1-7**|**Stochastic Voronoi Ensembles for Anomaly Detection**|Yang Cao et.al|[paper](https://arxiv.org/abs/2601.03664)|-|-|
-|**2026-1-6**|**Real-Time Adaptive Anomaly Detection in Industrial IoT Environments**|Mahsa Raeiszadeh et.al|[paper](https://arxiv.org/abs/2601.03085)|-|<details><summary>detail</summary>Journal ref:IEEE Transactions on Network and Service Management</details>|
-|**2026-1-5**|**LLM-Enhanced Reinforcement Learning for Time Series Anomaly Detection**|Bahareh Golchin et.al|[paper](https://arxiv.org/abs/2601.02511)|-|-|
-|**2026-1-5**|**Quantum Enhanced Anomaly Detection for ADS-B Data using Hybrid Deep Learning**|Rani Naaman et.al|[paper](https://arxiv.org/abs/2509.15991)|-|<details><summary>detail</summary>This is the author's version of the work accepted for publication in the IEEE-AIAA Digital Avionics Systems Conference (DASC) 2025</details>|
-|**2026-1-5**|**Multivariate Time-series Anomaly Detection via Dynamic Model Pool & Ensembling**|Wei Hu et.al|[paper](https://arxiv.org/abs/2601.02037)|-|-|
-|**2026-1-4**|**Digital Twin-Driven Communication-Efficient Federated Anomaly Detection for Industrial IoT**|Mohammed Ayalew Belay et.al|[paper](https://arxiv.org/abs/2601.01701)|-|-|
-|**2026-1-4**|**Attire-Based Anomaly Detection in Restricted Areas Using YOLOv8 for Enhanced CCTV Security**|Abdul Aziz A. B et.al|[paper](https://arxiv.org/abs/2404.00645)|-|-|
-|**2026-1-4**|**Applying Deep Learning to Anomaly Detection of Russian Satellite Activity for Indications Prior to Military Activity**|David Kurtenbach et.al|[paper](https://arxiv.org/abs/2509.00050)|-|<details><summary>detail</summary>Withdrawn because of inaccurate information and misrepresented findings</details>|
 
 ## 3D Anomaly Detection
 
@@ -163,11 +163,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-17**|**Scene-Aware Vectorized Memory Multi-Agent Framework with Cross-Modal Differentiated Quantization VLMs for Visually Impaired Assistance**|Xiangxiang Wang et.al|[paper](https://arxiv.org/abs/2508.18177)|-|-|
 |**2026-1-15**|**VQ-Seg: Vector-Quantized Token Perturbation for Semi-Supervised Medical Image Segmentation**|Sicheng Yang et.al|[paper](https://arxiv.org/abs/2601.10124)|[code](https://github.com/script-Yang/VQ-Seg.)|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
 |**2026-1-14**|**FaTRQ: Tiered Residual Quantization for LLM Vector Search in Far-Memory-Aware ANNS Systems**|Tianqi Zhang et.al|[paper](https://arxiv.org/abs/2601.09985)|-|-|
 |**2026-1-14**|**STORM: A Spatio-Temporal Factor Model Based on Dual Vector Quantized Variational Autoencoders for Financial Trading**|Yilei Zhao et.al|[paper](https://arxiv.org/abs/2412.09468)|-|-|
 |**2026-1-11**|**HAS-VQ: Hessian-Adaptive Sparse Vector Quantization for High-Fidelity LLM Compression**|Vladimer Khasia et.al|[paper](https://arxiv.org/abs/2601.06959)|[code](https://github.com/VladimerKhasia/HASVQ)|-|
-|**2026-1-6**|**Scene-Aware Vectorized Memory Multi-Agent Framework with Cross-Modal Differentiated Quantization VLMs for Visually Impaired Assistance**|Xiangxiang Wang et.al|[paper](https://arxiv.org/abs/2508.18177)|-|-|
 |**2026-1-1**|**LooC: Effective Low-Dimensional Codebook for Compositional Vector Quantization**|Jie Li et.al|[paper](https://arxiv.org/abs/2601.00222)|-|<details><summary>detail</summary>The IEEE/CVF Winter Conference on Applications of Computer Vision 2026</details>|
 |**2025-12-30**|**Hierarchical Vector-Quantized Latents for Perceptual Low-Resolution Video Compression**|Manikanta Kotthapalli et.al|[paper](https://arxiv.org/abs/2512.24547)|-|-|
 |**2025-12-20**|**Quantization for Vector Search under Streaming Updates**|Ishaq Aden-Ali et.al|[paper](https://arxiv.org/abs/2512.18335)|-|-|
