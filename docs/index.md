@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.01.21
+## Updated on 2026.01.22
 
 ## Defect Detection
 
@@ -73,6 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-21**|**Dynamic Management of a Deep Learning-Based Anomaly Detection System for 5G Networks**|Lorenzo Fernández Maimó et.al|[paper](https://arxiv.org/abs/2601.15177)|-|-|
+|**2026-1-21**|**A Real-Time Error Prevention System for Gaze-Based Interaction in Virtual Reality Based on Anomaly Detection**|Björn R. Severitt et.al|[paper](https://arxiv.org/abs/2601.15146)|-|-|
+|**2026-1-20**|**Log anomaly detection via Meta Learning and Prototypical Networks for Cross domain generalization**|Krishna Sharma et.al|[paper](https://arxiv.org/abs/2601.14336)|-|-|
+|**2026-1-20**|**Physic-HM: Restoring Physical Generative Logic in Multimodal Anomaly Detection via Hierarchical Modulation**|Xiao Liu et.al|[paper](https://arxiv.org/abs/2512.21650)|-|<details><summary>detail</summary>Working in progress</details>|
+|**2026-1-20**|**Towards Token-Level Text Anomaly Detection**|Yang Cao et.al|[paper](https://arxiv.org/abs/2601.13644)|[code](https://github.com/charles-cao/TokenCore.)|<details><summary>detail</summary>WWW 2026</details>|
 |**2026-1-19**|**ChatAD: Reasoning-Enhanced Time-Series Anomaly Detection with Multi-Turn Instruction Evolution**|Hui Sun et.al|[paper](https://arxiv.org/abs/2601.13546)|-|-|
 |**2026-1-19**|**Single-Step Reconstruction-Free Anomaly Detection and Segmentation via Diffusion Models**|Mehrdad Moradi et.al|[paper](https://arxiv.org/abs/2508.04818)|[code](https://github.com/mehrdadmoradi124/RADAR)|-|
 |**2026-1-19**|**COGNOS: Universal Enhancement for Time Series Anomaly Detection via Constrained Gaussian-Noise Optimization and Smoothing**|Wenlong Shang et.al|[paper](https://arxiv.org/abs/2511.06894)|-|-|
@@ -84,6 +89,7 @@
 |**2026-1-18**|**Graph Attention Networks with Physical Constraints for Anomaly Detection**|Mohammadhossein Homaei et.al|[paper](https://arxiv.org/abs/2601.12426)|-|<details><summary>detail</summary>7 Pages</details>|
 |**2026-1-18**|**Utilizing the Score of Data Distribution for Hyperspectral Anomaly Detection**|Jiahui Sheng et.al|[paper](https://arxiv.org/abs/2601.12379)|[code](https://github.com/jiahuisheng/ScoreAD.)|-|
 |**2026-1-18**|**Turbo-GoDec: Exploiting the Cluster Sparsity Prior for Hyperspectral Anomaly Detection**|Jiahui Sheng et.al|[paper](https://arxiv.org/abs/2601.12337)|[code](https://github.com/jiahuisheng/Turbo-GoDec.)|-|
+|**2026-1-18**|**An Optimized Decision Tree-Based Framework for Explainable IoT Anomaly Detection**| Ashikuzzaman et.al|[paper](https://arxiv.org/abs/2601.14305)|-|<details><summary>detail</summary>Acepted and Presented at IEEE 2nd International Conference on Computing</details>|
 |**2026-1-17**|**Wavelet-Aware Anomaly Detection in Multi-Channel User Logs via Deviation Modulation and Resolution-Adaptive Attention**|Kaichuan Kong et.al|[paper](https://arxiv.org/abs/2601.12231)|-|<details><summary>detail</summary>Accepted by ICASSP 2026</details>|
 |**2026-1-17**|**Hybrid IDS Using Signature-Based and Anomaly-Based Detection**|Messaouda Boutassetta et.al|[paper](https://arxiv.org/abs/2601.11998)|-|-|
 |**2026-1-17**|**A Method for Detecting Spatio-temporal Correlation Anomalies of WSN Nodes Based on Topological Information Enhancement and Time-frequency Feature Extraction**|Miao Ye et.al|[paper](https://arxiv.org/abs/2601.11951)|-|-|
@@ -92,12 +98,6 @@
 |**2026-1-16**|**FTDMamba: Frequency-Assisted Temporal Dilation Mamba for Unmanned Aerial Vehicle Video Anomaly Detection**|Cheng-Zhuang Liu et.al|[paper](https://arxiv.org/abs/2601.11254)|[code](https://github.com/uavano/FTDMamba.)|-|
 |**2026-1-16**|**On-line Anomaly Detection and Qualification of Random Bit Streams**|Cesare Gerolimetto Fabrello et.al|[paper](https://arxiv.org/abs/2409.05543)|-|-|
 |**2026-1-16**|**Cascading multi-agent anomaly detection in surveillance systems via vision-language models and embedding-based classification**|Tayyab Rehman et.al|[paper](https://arxiv.org/abs/2601.06204)|-|<details><summary>detail</summary>Author email changed</details>|
-|**2026-1-15**|**GFM4GA: Graph Foundation Model for Group Anomaly Detection**|Jiujiu Chen et.al|[paper](https://arxiv.org/abs/2601.10193)|-|-|
-|**2026-1-14**|**Explainable Autoencoder-Based Anomaly Detection in IEC 61850 GOOSE Networks**|Dafne Lozano-Paredes et.al|[paper](https://arxiv.org/abs/2601.09287)|-|-|
-|**2026-1-13**|**TRACE: Reconstruction-Based Anomaly Detection in Ensemble and Time-Dependent Simulations**|Hamid Gadirov et.al|[paper](https://arxiv.org/abs/2601.08659)|-|-|
-|**2026-1-12**|**Instance-Aligned Captions for Explainable Video Anomaly Detection**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2601.08155)|-|-|
-|**2026-1-12**|**Layer-Wise Anomaly Detection in Directed Energy Deposition using High-Fidelity Fringe Projection Profilometry**|Guanzhong Hu et.al|[paper](https://arxiv.org/abs/2509.05327)|-|-|
-|**2026-1-12**|**-IPOMDP: Mitigating Deception in a Cognitive Hierarchy with Off-Policy Counterfactual Anomaly Detection**|Nitay Alon et.al|[paper](https://arxiv.org/abs/2405.01870)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -133,7 +133,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2025-12-25**|**Causal-HM: Restoring Physical Generative Logic in Multimodal Anomaly Detection via Hierarchical Modulation**|Xiao Liu et.al|[paper](https://arxiv.org/abs/2512.21650)|-|-|
+|**2026-1-20**|**Physic-HM: Restoring Physical Generative Logic in Multimodal Anomaly Detection via Hierarchical Modulation**|Xiao Liu et.al|[paper](https://arxiv.org/abs/2512.21650)|-|<details><summary>detail</summary>Working in progress</details>|
 |**2025-11-23**|**Multimodal Real-Time Anomaly Detection and Industrial Applications**|Aman Verma et.al|[paper](https://arxiv.org/abs/2511.18698)|-|-|
 |**2025-11-16**|**Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory**|Yuxuan Lin et.al|[paper](https://arxiv.org/abs/2511.05966)|[code](https://github.com/Sunny5250/CIF.)|<details><summary>detail</summary>Accepted by AAAI 2026</details>|
 |**2025-11-10**|**RobustA: Robust Anomaly Detection in Multimodal Data**|Salem AlMarri et.al|[paper](https://arxiv.org/abs/2511.07276)|-|<details><summary>detail</summary>Submitted to IEEE Transactions on Image Processing</details>|
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-21**|**SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation**|Hui Li et.al|[paper](https://arxiv.org/abs/2509.12086)|-|-|
 |**2026-1-17**|**Scene-Aware Vectorized Memory Multi-Agent Framework with Cross-Modal Differentiated Quantization VLMs for Visually Impaired Assistance**|Xiangxiang Wang et.al|[paper](https://arxiv.org/abs/2508.18177)|-|-|
 |**2026-1-15**|**VQ-Seg: Vector-Quantized Token Perturbation for Semi-Supervised Medical Image Segmentation**|Sicheng Yang et.al|[paper](https://arxiv.org/abs/2601.10124)|[code](https://github.com/script-Yang/VQ-Seg.)|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
 |**2026-1-14**|**FaTRQ: Tiered Residual Quantization for LLM Vector Search in Far-Memory-Aware ANNS Systems**|Tianqi Zhang et.al|[paper](https://arxiv.org/abs/2601.09985)|-|-|
@@ -187,5 +188,4 @@
 |**2025-10-16**|**Vector Quantization in the Brain: Grid-like Codes in World Models**|Xiangyuan Peng et.al|[paper](https://arxiv.org/abs/2510.16039)|-|-|
 |**2025-10-16**|**Group-Wise Optimization for Self-Extensible Codebooks in Vector Quantized Models**|Hong-Kai Zheng et.al|[paper](https://arxiv.org/abs/2510.13331)|-|-|
 |**2025-10-15**|**GranQ: Efficient Channel-wise Quantization via Vectorized Pre-Scaling for Zero-Shot QAT**|Inpyo Hong et.al|[paper](https://arxiv.org/abs/2503.18339)|-|-|
-|**2025-10-14**|**CARVQ: Corrective Adaptor with Group Residual Vector Quantization for LLM Embedding Compression**|Dayin Gou et.al|[paper](https://arxiv.org/abs/2510.12721)|-|<details><summary>detail</summary>EMNLP Findings 2025</details>|
 
