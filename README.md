@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.01.22
+## Updated on 2026.01.23
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-22**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2026-1-16**|**SME-YOLO: A Real-Time Detector for Tiny Defect Detection on PCB Surfaces**|Meng Han et.al|[paper](https://arxiv.org/abs/2601.11402)|-|-|
 |**2026-1-15**|**NATLM: Detecting Defects in NFT Smart Contracts Leveraging LLM**|Yuanzheng Niu et.al|[paper](https://arxiv.org/abs/2508.01351)|-|-|
 |**2026-1-13**|**LPCAN: Lightweight Pyramid Cross-Attention Network for Rail Surface Defect Detection Using RGB-D Data**|Jackie Alex et.al|[paper](https://arxiv.org/abs/2601.09118)|-|-|
@@ -26,7 +27,6 @@
 |**2025-12-5**|**Automated Annotation of Shearographic Measurements Enabling Weakly Supervised Defect Detection**|Jessica Plassmann et.al|[paper](https://arxiv.org/abs/2512.06171)|-|-|
 |**2025-11-25**|**Automated Neural Architecture Design for Industrial Defect Detection**|Yuxi Liu et.al|[paper](https://arxiv.org/abs/2510.06669)|[code](https://github.com/Yuxi104/AutoNAD.)|-|
 |**2025-11-17**|**Saliency-Guided Deep Learning for Bridge Defect Detection in Drone Imagery**|Loucif Hebbache et.al|[paper](https://arxiv.org/abs/2511.14040)|-|-|
-|**2025-11-15**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2025-11-13**|**TinyDef-DETR: A Transformer-Based Framework for Defect Detection in Transmission Lines from UAV Imagery**|Feng Shen et.al|[paper](https://arxiv.org/abs/2509.06035)|-|-|
 |**2025-11-4**|**Image-Intrinsic Priors for Integrated Circuit Defect Detection and Novel Class Discovery via Self-Supervised Learning**|Botong. Zhao et.al|[paper](https://arxiv.org/abs/2511.03120)|-|-|
 |**2025-10-28**|**Unsupervised Machine-Learning Pipeline for Data-Driven Defect Detection and Characterisation: Application to Displacement Cascades**|Samuel Del Fré et.al|[paper](https://arxiv.org/abs/2510.24523)|-|-|
@@ -43,9 +43,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-22**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2025-12-10**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|-|
 |**2025-11-24**|**A Storage-Efficient Feature for 3D Concrete Defect Segmentation to Replace Normal Vector**|Linxin Hua et.al|[paper](https://arxiv.org/abs/2511.19760)|-|-|
-|**2025-11-15**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2025-11-8**|**Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology**|Bingyang Guo et.al|[paper](https://arxiv.org/abs/2511.05853)|-|-|
 |**2025-11-6**|**KARMA: Efficient Structural Defect Segmentation via Kolmogorov-Arnold Representation Learning**|Md Meftahul Ferdaus et.al|[paper](https://arxiv.org/abs/2508.08186)|[code](https://github.com/faeyelab/karma.)|<details><summary>detail</summary>This work has been submitted to the IEEE for possible publication</details>|
 |**2025-10-15**|**Sample-Centric Multi-Task Learning for Detection and Segmentation of Industrial Surface Defects**|Hang-Cheng Dong et.al|[paper](https://arxiv.org/abs/2510.13226)|-|-|
@@ -73,6 +73,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-22**|**PatchEAD: Unifying Industrial Visual Prompting Frameworks for Patch-Exclusive Anomaly Detection**|Po-Han Huang et.al|[paper](https://arxiv.org/abs/2509.25856)|-|-|
+|**2026-1-21**|**DevPrompt: Deviation-Based Prompt Learning for One-Normal ShotImage Anomaly Detection**|Morteza Poudineh et.al|[paper](https://arxiv.org/abs/2601.15453)|-|-|
 |**2026-1-21**|**Dynamic Management of a Deep Learning-Based Anomaly Detection System for 5G Networks**|Lorenzo Fernández Maimó et.al|[paper](https://arxiv.org/abs/2601.15177)|-|-|
 |**2026-1-21**|**A Real-Time Error Prevention System for Gaze-Based Interaction in Virtual Reality Based on Anomaly Detection**|Björn R. Severitt et.al|[paper](https://arxiv.org/abs/2601.15146)|-|-|
 |**2026-1-20**|**Log anomaly detection via Meta Learning and Prototypical Networks for Cross domain generalization**|Krishna Sharma et.al|[paper](https://arxiv.org/abs/2601.14336)|-|-|
@@ -96,8 +98,6 @@
 |**2026-1-16**|**QUPID: A Partitioned Quantum Neural Network for Anomaly Detection in Smart Grid**|Hoang M. Ngo et.al|[paper](https://arxiv.org/abs/2601.11500)|-|-|
 |**2026-1-16**|**Balanced Edge Pruning for Graph Anomaly Detection with Noisy Labels**|Zhu Wang et.al|[paper](https://arxiv.org/abs/2407.05934)|-|-|
 |**2026-1-16**|**FTDMamba: Frequency-Assisted Temporal Dilation Mamba for Unmanned Aerial Vehicle Video Anomaly Detection**|Cheng-Zhuang Liu et.al|[paper](https://arxiv.org/abs/2601.11254)|[code](https://github.com/uavano/FTDMamba.)|-|
-|**2026-1-16**|**On-line Anomaly Detection and Qualification of Random Bit Streams**|Cesare Gerolimetto Fabrello et.al|[paper](https://arxiv.org/abs/2409.05543)|-|-|
-|**2026-1-16**|**Cascading multi-agent anomaly detection in surveillance systems via vision-language models and embedding-based classification**|Tayyab Rehman et.al|[paper](https://arxiv.org/abs/2601.06204)|-|<details><summary>detail</summary>Author email changed</details>|
 
 ## 3D Anomaly Detection
 
