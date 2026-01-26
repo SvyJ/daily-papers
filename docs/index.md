@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.01.25
+## Updated on 2026.01.26
 
 ## Defect Detection
 
@@ -73,6 +73,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-23**|**Enhancing ECG Classification Robustness with Lightweight Unsupervised Anomaly Detection Filters**|Mustafa Fuad Rifet Ibrahim et.al|[paper](https://arxiv.org/abs/2510.26501)|-|-|
+|**2026-1-22**|**VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection**|Yuxin Jiang et.al|[paper](https://arxiv.org/abs/2601.16381)|-|-|
 |**2026-1-22**|**PatchEAD: Unifying Industrial Visual Prompting Frameworks for Patch-Exclusive Anomaly Detection**|Po-Han Huang et.al|[paper](https://arxiv.org/abs/2509.25856)|-|-|
 |**2026-1-21**|**DevPrompt: Deviation-Based Prompt Learning for One-Normal ShotImage Anomaly Detection**|Morteza Poudineh et.al|[paper](https://arxiv.org/abs/2601.15453)|-|-|
 |**2026-1-21**|**Dynamic Management of a Deep Learning-Based Anomaly Detection System for 5G Networks**|Lorenzo Fernández Maimó et.al|[paper](https://arxiv.org/abs/2601.15177)|-|-|
@@ -96,8 +98,6 @@
 |**2026-1-17**|**Hybrid IDS Using Signature-Based and Anomaly-Based Detection**|Messaouda Boutassetta et.al|[paper](https://arxiv.org/abs/2601.11998)|-|-|
 |**2026-1-17**|**A Method for Detecting Spatio-temporal Correlation Anomalies of WSN Nodes Based on Topological Information Enhancement and Time-frequency Feature Extraction**|Miao Ye et.al|[paper](https://arxiv.org/abs/2601.11951)|-|-|
 |**2026-1-16**|**QUPID: A Partitioned Quantum Neural Network for Anomaly Detection in Smart Grid**|Hoang M. Ngo et.al|[paper](https://arxiv.org/abs/2601.11500)|-|-|
-|**2026-1-16**|**Balanced Edge Pruning for Graph Anomaly Detection with Noisy Labels**|Zhu Wang et.al|[paper](https://arxiv.org/abs/2407.05934)|-|-|
-|**2026-1-16**|**FTDMamba: Frequency-Assisted Temporal Dilation Mamba for Unmanned Aerial Vehicle Video Anomaly Detection**|Cheng-Zhuang Liu et.al|[paper](https://arxiv.org/abs/2601.11254)|[code](https://github.com/uavano/FTDMamba.)|-|
 
 ## 3D Anomaly Detection
 
@@ -133,6 +133,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-22**|**VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection**|Yuxin Jiang et.al|[paper](https://arxiv.org/abs/2601.16381)|-|-|
 |**2026-1-20**|**Physic-HM: Restoring Physical Generative Logic in Multimodal Anomaly Detection via Hierarchical Modulation**|Xiao Liu et.al|[paper](https://arxiv.org/abs/2512.21650)|-|<details><summary>detail</summary>Working in progress</details>|
 |**2025-11-23**|**Multimodal Real-Time Anomaly Detection and Industrial Applications**|Aman Verma et.al|[paper](https://arxiv.org/abs/2511.18698)|-|-|
 |**2025-11-16**|**Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory**|Yuxuan Lin et.al|[paper](https://arxiv.org/abs/2511.05966)|[code](https://github.com/Sunny5250/CIF.)|<details><summary>detail</summary>Accepted by AAAI 2026</details>|
@@ -157,7 +158,6 @@
 |**2025-3-17**|**Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models**|Jiacong Xu et.al|[paper](https://arxiv.org/abs/2502.07601)|[code](https://xujiacong.github.io/Anomaly-OV/)|-|
 |**2025-2-24**|**Can Multimodal LLMs Perform Time Series Anomaly Detection?**|Xiongxiao Xu et.al|[paper](https://arxiv.org/abs/2502.17812)|[code](https://github.com/mllm-ts/VisualTimeAnomaly)|-|
 |**2025-2-20**|**MMAD: A Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection**|Xi Jiang et.al|[paper](https://arxiv.org/abs/2410.09453)|[code](https://github.com/jam-cc/MMAD)|<details><summary>detail</summary>Accepted by ICLR 2025</details>|
-|**2025-2-18**|**Anomaly Detection in Smart Power Grids with Graph-Regularized MS-SVDD: a Multimodal Subspace Learning Approach**|Thomas Debelle et.al|[paper](https://arxiv.org/abs/2502.15793)|-|-|
 
 ## Vector Quantization
 
