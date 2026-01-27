@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.01.26
+## Updated on 2026.01.27
 
 ## Defect Detection
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-25**|**Forward Consistency Learning with Gated Context Aggregation for Video Anomaly Detection**|Jiahao Lyu et.al|[paper](https://arxiv.org/abs/2601.18135)|-|<details><summary>detail</summary>It has been submitted to the KBS journal</details>|
+|**2026-1-25**|**Beyond a Single Perspective: Text Anomaly Detection with Multi-View Language Representations**|Yixin Liu et.al|[paper](https://arxiv.org/abs/2601.17786)|[code](https://github.com/yankehan/MCA2.)|-|
+|**2026-1-24**|**Active Hypothesis Testing for Correlated Combinatorial Anomaly Detection**|Zichuan Yang et.al|[paper](https://arxiv.org/abs/2601.17430)|[code](https://github.com/VincentdeCristo/ECC-AHT)|-|
+|**2026-1-24**|**HAAF: Hierarchical Adaptation and Alignment of Foundation Models for Few-Shot Pathology Anomaly Detection**|Chunze Yang et.al|[paper](https://arxiv.org/abs/2601.17405)|-|-|
 |**2026-1-23**|**Enhancing ECG Classification Robustness with Lightweight Unsupervised Anomaly Detection Filters**|Mustafa Fuad Rifet Ibrahim et.al|[paper](https://arxiv.org/abs/2510.26501)|-|-|
 |**2026-1-22**|**VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection**|Yuxin Jiang et.al|[paper](https://arxiv.org/abs/2601.16381)|-|-|
 |**2026-1-22**|**PatchEAD: Unifying Industrial Visual Prompting Frameworks for Patch-Exclusive Anomaly Detection**|Po-Han Huang et.al|[paper](https://arxiv.org/abs/2509.25856)|-|-|
@@ -94,10 +98,6 @@
 |**2026-1-18**|**Utilizing the Score of Data Distribution for Hyperspectral Anomaly Detection**|Jiahui Sheng et.al|[paper](https://arxiv.org/abs/2601.12379)|[code](https://github.com/jiahuisheng/ScoreAD.)|-|
 |**2026-1-18**|**Turbo-GoDec: Exploiting the Cluster Sparsity Prior for Hyperspectral Anomaly Detection**|Jiahui Sheng et.al|[paper](https://arxiv.org/abs/2601.12337)|[code](https://github.com/jiahuisheng/Turbo-GoDec.)|-|
 |**2026-1-18**|**An Optimized Decision Tree-Based Framework for Explainable IoT Anomaly Detection**| Ashikuzzaman et.al|[paper](https://arxiv.org/abs/2601.14305)|-|<details><summary>detail</summary>Acepted and Presented at IEEE 2nd International Conference on Computing</details>|
-|**2026-1-17**|**Wavelet-Aware Anomaly Detection in Multi-Channel User Logs via Deviation Modulation and Resolution-Adaptive Attention**|Kaichuan Kong et.al|[paper](https://arxiv.org/abs/2601.12231)|-|<details><summary>detail</summary>Accepted by ICASSP 2026</details>|
-|**2026-1-17**|**Hybrid IDS Using Signature-Based and Anomaly-Based Detection**|Messaouda Boutassetta et.al|[paper](https://arxiv.org/abs/2601.11998)|-|-|
-|**2026-1-17**|**A Method for Detecting Spatio-temporal Correlation Anomalies of WSN Nodes Based on Topological Information Enhancement and Time-frequency Feature Extraction**|Miao Ye et.al|[paper](https://arxiv.org/abs/2601.11951)|-|-|
-|**2026-1-16**|**QUPID: A Partitioned Quantum Neural Network for Anomaly Detection in Smart Grid**|Hoang M. Ngo et.al|[paper](https://arxiv.org/abs/2601.11500)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-26**|**Learning Grouped Lattice Vector Quantizers for Low-Bit LLM Compression**|Xi Zhang et.al|[paper](https://arxiv.org/abs/2510.20984)|[code](https://github.com/xzhang9308/GLVQ.)|<details><summary>detail</summary>NeurIPS 2025 Poster</details>|
 |**2026-1-21**|**SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation**|Hui Li et.al|[paper](https://arxiv.org/abs/2509.12086)|-|-|
 |**2026-1-17**|**Scene-Aware Vectorized Memory Multi-Agent Framework with Cross-Modal Differentiated Quantization VLMs for Visually Impaired Assistance**|Xiangxiang Wang et.al|[paper](https://arxiv.org/abs/2508.18177)|-|-|
 |**2026-1-15**|**VQ-Seg: Vector-Quantized Token Perturbation for Semi-Supervised Medical Image Segmentation**|Sicheng Yang et.al|[paper](https://arxiv.org/abs/2601.10124)|[code](https://github.com/script-Yang/VQ-Seg.)|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
@@ -182,7 +183,6 @@
 |**2025-11-19**|**Vector Quantized-Elites: Unsupervised and Problem-Agnostic Quality-Diversity Optimization**|Constantinos Tsakonas et.al|[paper](https://arxiv.org/abs/2504.08057)|-|-|
 |**2025-11-18**|**Dimension vs. Precision: A Comparative Analysis of Autoencoders and Quantization for Efficient Vector Retrieval on BEIR SciFact**|Satyanarayan Pati et.al|[paper](https://arxiv.org/abs/2511.13057)|-|-|
 |**2025-11-9**|**Vector-Quantized Vision Foundation Models for Object-Centric Learning**|Rongzhen Zhao et.al|[paper](https://arxiv.org/abs/2502.20263)|[code](https://github.com/Genera1Z/VQ-VFM-OCL.)|<details><summary>detail</summary>ACM MM 2025</details>|
-|**2025-10-23**|**Learning Grouped Lattice Vector Quantizers for Low-Bit LLM Compression**|Xi Zhang et.al|[paper](https://arxiv.org/abs/2510.20984)|[code](https://github.com/xzhang9308/GLVQ.)|<details><summary>detail</summary>NeurIPS 2025 Poster</details>|
 |**2025-10-21**|**Channel-Aware Vector Quantization for Robust Semantic Communication on Discrete Channels**|Zian Meng et.al|[paper](https://arxiv.org/abs/2510.18604)|-|-|
 |**2025-10-18**|**AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models**|Zeyu Li et.al|[paper](https://arxiv.org/abs/2506.19505)|-|-|
 |**2025-10-16**|**Vector Quantization in the Brain: Grid-like Codes in World Models**|Xiangyuan Peng et.al|[paper](https://arxiv.org/abs/2510.16039)|-|-|
