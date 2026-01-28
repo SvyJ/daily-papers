@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.01.27
+## Updated on 2026.01.28
 
 ## Defect Detection
 
@@ -73,8 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-27**|**A Multi-directional Meta-Learning Framework for Class-Generalizable Anomaly Detection**|Padmaksha Roy et.al|[paper](https://arxiv.org/abs/2601.19833)|-|-|
+|**2026-1-27**|**LLM-Assisted Logic Rule Learning: Scaling Human Expertise for Time Series Anomaly Detection**|Haoting Zhang et.al|[paper](https://arxiv.org/abs/2601.19255)|-|-|
+|**2026-1-26**|**OWLEYE: Zero-Shot Learner for Cross-Domain Graph Data Anomaly Detection**|Lecheng Zheng et.al|[paper](https://arxiv.org/abs/2601.19102)|-|<details><summary>detail</summary>Accepted by ICLR 2026</details>|
 |**2026-1-25**|**Forward Consistency Learning with Gated Context Aggregation for Video Anomaly Detection**|Jiahao Lyu et.al|[paper](https://arxiv.org/abs/2601.18135)|-|<details><summary>detail</summary>It has been submitted to the KBS journal</details>|
 |**2026-1-25**|**Beyond a Single Perspective: Text Anomaly Detection with Multi-View Language Representations**|Yixin Liu et.al|[paper](https://arxiv.org/abs/2601.17786)|[code](https://github.com/yankehan/MCA2.)|-|
+|**2026-1-24**|**VAE with Hyperspherical Coordinates: Improving Anomaly Detection from Hypervolume-Compressed Latent Space**|Alejandro Ascarate et.al|[paper](https://arxiv.org/abs/2601.18823)|-|-|
 |**2026-1-24**|**Active Hypothesis Testing for Correlated Combinatorial Anomaly Detection**|Zichuan Yang et.al|[paper](https://arxiv.org/abs/2601.17430)|[code](https://github.com/VincentdeCristo/ECC-AHT)|-|
 |**2026-1-24**|**HAAF: Hierarchical Adaptation and Alignment of Foundation Models for Few-Shot Pathology Anomaly Detection**|Chunze Yang et.al|[paper](https://arxiv.org/abs/2601.17405)|-|-|
 |**2026-1-23**|**Enhancing ECG Classification Robustness with Lightweight Unsupervised Anomaly Detection Filters**|Mustafa Fuad Rifet Ibrahim et.al|[paper](https://arxiv.org/abs/2510.26501)|-|-|
@@ -94,10 +98,6 @@
 |**2026-1-18**|**SSVP: Synergistic Semantic-Visual Prompting for Industrial Zero-Shot Anomaly Detection**|Chenhao Fu et.al|[paper](https://arxiv.org/abs/2601.09147)|-|-|
 |**2026-1-18**|**Toward Faithful Explanations in Acoustic Anomaly Detection**|Maab Elrashid et.al|[paper](https://arxiv.org/abs/2601.12660)|[code](https://github.com/Maab-Nimir/Faithful-Explanations-in-Acoustic-Anomaly-Detection)|<details><summary>detail</summary>the IEEE International Conference on Acoustics</details>|
 |**2026-1-18**|**Evaluating Large Language Models for Time Series Anomaly Detection in Aerospace Software**|Yang Liu et.al|[paper](https://arxiv.org/abs/2601.12448)|-|<details><summary>detail</summary>This paper has been accepted by ASE 2025</details>|
-|**2026-1-18**|**Graph Attention Networks with Physical Constraints for Anomaly Detection**|Mohammadhossein Homaei et.al|[paper](https://arxiv.org/abs/2601.12426)|-|<details><summary>detail</summary>7 Pages</details>|
-|**2026-1-18**|**Utilizing the Score of Data Distribution for Hyperspectral Anomaly Detection**|Jiahui Sheng et.al|[paper](https://arxiv.org/abs/2601.12379)|[code](https://github.com/jiahuisheng/ScoreAD.)|-|
-|**2026-1-18**|**Turbo-GoDec: Exploiting the Cluster Sparsity Prior for Hyperspectral Anomaly Detection**|Jiahui Sheng et.al|[paper](https://arxiv.org/abs/2601.12337)|[code](https://github.com/jiahuisheng/Turbo-GoDec.)|-|
-|**2026-1-18**|**An Optimized Decision Tree-Based Framework for Explainable IoT Anomaly Detection**| Ashikuzzaman et.al|[paper](https://arxiv.org/abs/2601.14305)|-|<details><summary>detail</summary>Acepted and Presented at IEEE 2nd International Conference on Computing</details>|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-26**|**Purrception: Variational Flow Matching for Vector-Quantized Image Generation**|Răzvan-Andrei Matişan et.al|[paper](https://arxiv.org/abs/2510.01478)|-|<details><summary>detail</summary>Published at ICLR 2026</details>|
 |**2026-1-26**|**Learning Grouped Lattice Vector Quantizers for Low-Bit LLM Compression**|Xi Zhang et.al|[paper](https://arxiv.org/abs/2510.20984)|[code](https://github.com/xzhang9308/GLVQ.)|<details><summary>detail</summary>NeurIPS 2025 Poster</details>|
 |**2026-1-21**|**SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation**|Hui Li et.al|[paper](https://arxiv.org/abs/2509.12086)|-|-|
 |**2026-1-17**|**Scene-Aware Vectorized Memory Multi-Agent Framework with Cross-Modal Differentiated Quantization VLMs for Visually Impaired Assistance**|Xiangxiang Wang et.al|[paper](https://arxiv.org/abs/2508.18177)|-|-|
@@ -187,5 +188,4 @@
 |**2025-10-18**|**AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models**|Zeyu Li et.al|[paper](https://arxiv.org/abs/2506.19505)|-|-|
 |**2025-10-16**|**Vector Quantization in the Brain: Grid-like Codes in World Models**|Xiangyuan Peng et.al|[paper](https://arxiv.org/abs/2510.16039)|-|-|
 |**2025-10-16**|**Group-Wise Optimization for Self-Extensible Codebooks in Vector Quantized Models**|Hong-Kai Zheng et.al|[paper](https://arxiv.org/abs/2510.13331)|-|-|
-|**2025-10-15**|**GranQ: Efficient Channel-wise Quantization via Vectorized Pre-Scaling for Zero-Shot QAT**|Inpyo Hong et.al|[paper](https://arxiv.org/abs/2503.18339)|-|-|
 
