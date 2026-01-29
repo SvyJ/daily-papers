@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.01.28
+## Updated on 2026.01.29
 
 ## Defect Detection
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-28**|**Unsupervised Anomaly Detection in Multi-Agent Trajectory Prediction via Transformer-Based Models**|Qing Lyu et.al|[paper](https://arxiv.org/abs/2601.20367)|-|-|
+|**2026-1-28**|**FusionLog: Cross-System Log-based Anomaly Detection via Fusion of General and Proprietary Knowledge**|Xinlong Zhao et.al|[paper](https://arxiv.org/abs/2511.05878)|-|-|
+|**2026-1-27**|**Stochastic Voronoi Ensembles for Anomaly Detection**|Yang Cao et.al|[paper](https://arxiv.org/abs/2601.03664)|-|<details><summary>detail</summary>Version 2: Added ablation study on dual-factor scoring mechanism</details>|
+|**2026-1-27**|**BayPrAnoMeta: Bayesian Proto-MAML for Few-Shot Industrial Image Anomaly Detection**|Soham Sarkar et.al|[paper](https://arxiv.org/abs/2601.19992)|-|-|
 |**2026-1-27**|**A Multi-directional Meta-Learning Framework for Class-Generalizable Anomaly Detection**|Padmaksha Roy et.al|[paper](https://arxiv.org/abs/2601.19833)|-|-|
 |**2026-1-27**|**LLM-Assisted Logic Rule Learning: Scaling Human Expertise for Time Series Anomaly Detection**|Haoting Zhang et.al|[paper](https://arxiv.org/abs/2601.19255)|-|-|
 |**2026-1-26**|**OWLEYE: Zero-Shot Learner for Cross-Domain Graph Data Anomaly Detection**|Lecheng Zheng et.al|[paper](https://arxiv.org/abs/2601.19102)|-|<details><summary>detail</summary>Accepted by ICLR 2026</details>|
@@ -94,10 +98,6 @@
 |**2026-1-19**|**Single-Step Reconstruction-Free Anomaly Detection and Segmentation via Diffusion Models**|Mehrdad Moradi et.al|[paper](https://arxiv.org/abs/2508.04818)|[code](https://github.com/mehrdadmoradi124/RADAR)|-|
 |**2026-1-19**|**COGNOS: Universal Enhancement for Time Series Anomaly Detection via Constrained Gaussian-Noise Optimization and Smoothing**|Wenlong Shang et.al|[paper](https://arxiv.org/abs/2511.06894)|-|-|
 |**2026-1-19**|**Knowledge-Integrated Representation Learning for Crypto Anomaly Detection under Extreme Label Scarcity; Relational Domain-Logic Integration with Retrieval-Grounded Context and Path-Level Explanations**|Gyuyeon Na et.al|[paper](https://arxiv.org/abs/2601.12839)|-|<details><summary>detail</summary>Gyuyeon Na</details>|
-|**2026-1-19**|**A Graph Prompt Fine-Tuning Method for WSN Spatio-Temporal Correlation Anomaly Detection**|Miao Ye et.al|[paper](https://arxiv.org/abs/2601.12745)|-|-|
-|**2026-1-18**|**SSVP: Synergistic Semantic-Visual Prompting for Industrial Zero-Shot Anomaly Detection**|Chenhao Fu et.al|[paper](https://arxiv.org/abs/2601.09147)|-|-|
-|**2026-1-18**|**Toward Faithful Explanations in Acoustic Anomaly Detection**|Maab Elrashid et.al|[paper](https://arxiv.org/abs/2601.12660)|[code](https://github.com/Maab-Nimir/Faithful-Explanations-in-Acoustic-Anomaly-Detection)|<details><summary>detail</summary>the IEEE International Conference on Acoustics</details>|
-|**2026-1-18**|**Evaluating Large Language Models for Time Series Anomaly Detection in Aerospace Software**|Yang Liu et.al|[paper](https://arxiv.org/abs/2601.12448)|-|<details><summary>detail</summary>This paper has been accepted by ASE 2025</details>|
 
 ## 3D Anomaly Detection
 
