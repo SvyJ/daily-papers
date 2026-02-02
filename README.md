@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.02.01
+## Updated on 2026.02.02
 
 ## Defect Detection
 
@@ -73,6 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-30**|**Multi-Cue Anomaly Detection and Localization under Data Contamination**|Anindya Sundar Das et.al|[paper](https://arxiv.org/abs/2601.22913)|-|-|
+|**2026-1-30**|**AnoMod: A Dataset for Anomaly Detection and Root Cause Analysis in Microservice Systems**|Ke Ping et.al|[paper](https://arxiv.org/abs/2601.22881)|-|<details><summary>detail</summary>the 23rd International Conference on Mining Software Repositories (MSR 2026)</details>|
+|**2026-1-30**|**When Anomalies Depend on Context: Learning Conditional Compatibility for Anomaly Detection**|Shashank Mishra et.al|[paper](https://arxiv.org/abs/2601.22868)|-|<details><summary>detail</summary>Preprint</details>|
+|**2026-1-30**|**Trackly: A Unified SaaS Platform for User Behavior Analytics and Real Time Rule Based Anomaly Detection**|Md Zahurul Haque et.al|[paper](https://arxiv.org/abs/2601.22800)|-|-|
+|**2026-1-30**|**Is Training Necessary for Anomaly Detection?**|Xingwu Zhang et.al|[paper](https://arxiv.org/abs/2601.22763)|[code](https://github.com/longkukuhi/RAD.)|-|
 |**2026-1-29**|**VAE with Hyperspherical Coordinates: Improving Anomaly Detection from Hypervolume-Compressed Latent Space**|Alejandro Ascarate et.al|[paper](https://arxiv.org/abs/2601.18823)|-|-|
 |**2026-1-28**|**Towards Anomaly-Aware Pre-Training and Fine-Tuning for Graph Anomaly Detection**|Yunhui Liu et.al|[paper](https://arxiv.org/abs/2504.14250)|-|<details><summary>detail</summary>Accepted by ICLR 2026</details>|
 |**2026-1-28**|**Evaluating Large Language Models for Time Series Anomaly Detection in Aerospace Software**|Yang Liu et.al|[paper](https://arxiv.org/abs/2601.12448)|-|<details><summary>detail</summary>This paper has been accepted by ASE 2025</details>|
@@ -93,11 +98,6 @@
 |**2026-1-24**|**HAAF: Hierarchical Adaptation and Alignment of Foundation Models for Few-Shot Pathology Anomaly Detection**|Chunze Yang et.al|[paper](https://arxiv.org/abs/2601.17405)|-|-|
 |**2026-1-23**|**Enhancing ECG Classification Robustness with Lightweight Unsupervised Anomaly Detection Filters**|Mustafa Fuad Rifet Ibrahim et.al|[paper](https://arxiv.org/abs/2510.26501)|-|-|
 |**2026-1-22**|**VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection**|Yuxin Jiang et.al|[paper](https://arxiv.org/abs/2601.16381)|-|-|
-|**2026-1-22**|**PatchEAD: Unifying Industrial Visual Prompting Frameworks for Patch-Exclusive Anomaly Detection**|Po-Han Huang et.al|[paper](https://arxiv.org/abs/2509.25856)|-|-|
-|**2026-1-21**|**DevPrompt: Deviation-Based Prompt Learning for One-Normal ShotImage Anomaly Detection**|Morteza Poudineh et.al|[paper](https://arxiv.org/abs/2601.15453)|-|-|
-|**2026-1-21**|**Dynamic Management of a Deep Learning-Based Anomaly Detection System for 5G Networks**|Lorenzo Fernández Maimó et.al|[paper](https://arxiv.org/abs/2601.15177)|-|-|
-|**2026-1-21**|**A Real-Time Error Prevention System for Gaze-Based Interaction in Virtual Reality Based on Anomaly Detection**|Björn R. Severitt et.al|[paper](https://arxiv.org/abs/2601.15146)|-|-|
-|**2026-1-20**|**Log anomaly detection via Meta Learning and Prototypical Networks for Cross domain generalization**|Krishna Sharma et.al|[paper](https://arxiv.org/abs/2601.14336)|-|-|
 
 ## 3D Anomaly Detection
 
