@@ -7,13 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.02.03
+## Updated on 2026.02.04
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-2-2**|**Cross-Modal Alignment and Fusion for RGB-D Transmission-Line Defect Detection**|Jiaming Cui et.al|[paper](https://arxiv.org/abs/2602.01696)|-|-|
+|**2026-2-3**|**Cross-Modal Alignment and Fusion for RGB-D Transmission-Line Defect Detection**|Jiaming Cui et.al|[paper](https://arxiv.org/abs/2602.01696)|-|-|
 |**2026-1-22**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2026-1-16**|**SME-YOLO: A Real-Time Detector for Tiny Defect Detection on PCB Surfaces**|Meng Han et.al|[paper](https://arxiv.org/abs/2601.11402)|-|-|
 |**2026-1-15**|**NATLM: Detecting Defects in NFT Smart Contracts Leveraging LLM**|Yuanzheng Niu et.al|[paper](https://arxiv.org/abs/2508.01351)|-|-|
@@ -73,7 +73,14 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-2-1**|**COMET: Codebook-based Online-adaptive Multi-scale Embedding for Time-series Anomaly Detection**|Jinwoo Park et.al|[paper](https://arxiv.org/abs/2602.01635)|-|<details><summary>detail</summary>ACM Class:I</details>|
+|**2026-2-3**|**ContraLog: Log File Anomaly Detection with Contrastive Learning and Masked Language Modeling**|Simon Dietz et.al|[paper](https://arxiv.org/abs/2602.03678)|-|-|
+|**2026-2-3**|**SAGE-5GC: Security-Aware Guidelines for Evaluating Anomaly Detection in the 5G Core Network**|Cristian Manca et.al|[paper](https://arxiv.org/abs/2602.03596)|-|<details><summary>detail</summary>ITASEC-2026</details>|
+|**2026-2-3**|**TIPS Over Tricks: Simple Prompts for Effective Zero-shot Anomaly Detection**|Alireza Salehi et.al|[paper](https://arxiv.org/abs/2602.03594)|-|<details><summary>detail</summary>This is the extended version of the paper accepted in ICASSP'26</details>|
+|**2026-2-3**|**Anomaly Detection via Mean Shift Density Enhancement**|Pritam Kar et.al|[paper](https://arxiv.org/abs/2602.03293)|-|-|
+|**2026-2-2**|**COMET: Codebook-based Online-adaptive Multi-scale Embedding for Time-series Anomaly Detection**|Jinwoo Park et.al|[paper](https://arxiv.org/abs/2602.01635)|-|<details><summary>detail</summary>ACM Class:I</details>|
+|**2026-2-2**|**UniADC: A Unified Framework for Anomaly Detection and Classification**|Ximiao Zhang et.al|[paper](https://arxiv.org/abs/2511.06644)|[code](https://github.com/cnulab/UniADC.)|-|
+|**2026-2-2**|**RPG-AE: Neuro-Symbolic Graph Autoencoders with Rare Pattern Mining for Provenance-Based Anomaly Detection**|Asif Tauhid et.al|[paper](https://arxiv.org/abs/2602.02929)|-|-|
+|**2026-2-2**|**Refining Decision Boundaries In Anomaly Detection Using Similarity Search Within the Feature Space**|Sidahmed Benabderrahmane et.al|[paper](https://arxiv.org/abs/2602.02925)|-|-|
 |**2026-2-1**|**Is Training Necessary for Anomaly Detection?**|Xingwu Zhang et.al|[paper](https://arxiv.org/abs/2601.22763)|[code](https://github.com/longkukuhi/RAD.)|-|
 |**2026-2-1**|**PaAno: Patch-Based Representation Learning for Time-Series Anomaly Detection**|Jinju Park et.al|[paper](https://arxiv.org/abs/2602.01359)|-|<details><summary>detail</summary>Accepted by the 14th International Conference on Learning Representations (ICLR 2026)</details>|
 |**2026-2-1**|**MedAD-R1: Eliciting Consistent Reasoning in Interpretible Medical Anomaly Detection via Consistency-Reinforced Policy Optimization**|Haitao Zhang et.al|[paper](https://arxiv.org/abs/2602.01081)|-|-|
@@ -91,13 +98,6 @@
 |**2026-1-28**|**AC2L-GAD: Active Counterfactual Contrastive Learning for Graph Anomaly Detection**|Kamal Berahmand et.al|[paper](https://arxiv.org/abs/2601.21171)|-|<details><summary>detail</summary>Journal ref:The ACM Web Conference (WWW 2026)</details>|
 |**2026-1-28**|**Dealing with Uncertainty in Contextual Anomaly Detection**|Luca Bindini et.al|[paper](https://arxiv.org/abs/2507.04490)|[code](https://openreview.net/forum?id=yLoXQDNwwa)|<details><summary>detail</summary>Published in Transactions on Machine Learning Research (TMLR)</details>|
 |**2026-1-28**|**SMKC: Sketch Based Kernel Correlation Images for Variable Cardinality Time Series Anomaly Detection**|Haokun Zhou et.al|[paper](https://arxiv.org/abs/2601.21050)|-|-|
-|**2026-1-28**|**An Evidence-Based Post-Hoc Adjustment Framework for Anomaly Detection Under Data Contamination**|Sukanya Patra et.al|[paper](https://arxiv.org/abs/2510.21296)|[code](https://github.com/sukanyapatra1997/EPHAD.)|<details><summary>detail</summary>Accepted in the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</details>|
-|**2026-1-28**|**Unsupervised Anomaly Detection in Multi-Agent Trajectory Prediction via Transformer-Based Models**|Qing Lyu et.al|[paper](https://arxiv.org/abs/2601.20367)|-|-|
-|**2026-1-28**|**FusionLog: Cross-System Log-based Anomaly Detection via Fusion of General and Proprietary Knowledge**|Xinlong Zhao et.al|[paper](https://arxiv.org/abs/2511.05878)|-|-|
-|**2026-1-27**|**Stochastic Voronoi Ensembles for Anomaly Detection**|Yang Cao et.al|[paper](https://arxiv.org/abs/2601.03664)|-|<details><summary>detail</summary>Version 2: Added ablation study on dual-factor scoring mechanism</details>|
-|**2026-1-27**|**D3R-Net: Dual-Domain Denoising Reconstruction Network for Robust Industrial Anomaly Detection**|Dmytro Filatov et.al|[paper](https://arxiv.org/abs/2602.00126)|-|-|
-|**2026-1-27**|**Context-Aware Autoencoders for Anomaly Detection in Maritime Surveillance**|Divya Acharya et.al|[paper](https://arxiv.org/abs/2602.00124)|-|-|
-|**2026-1-27**|**BayPrAnoMeta: Bayesian Proto-MAML for Few-Shot Industrial Image Anomaly Detection**|Soham Sarkar et.al|[paper](https://arxiv.org/abs/2601.19992)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-2-2**|**Vector Quantized Latent Concepts: A Scalable Alternative to Clustering-Based Concept Discovery**|Xuemin Yu et.al|[paper](https://arxiv.org/abs/2602.02726)|-|-|
+|**2026-2-2**|**Revisiting Adaptive Rounding with Vectorized Reparameterization for LLM Quantization**|Yuli Zhou et.al|[paper](https://arxiv.org/abs/2602.02151)|[code](https://github.com/zhoustan/VQRound.)|-|
 |**2026-2-2**|**Bandwidth-Efficient Multi-Agent Communication through Information Bottleneck and Vector Quantization**|Ahmad Farooq et.al|[paper](https://arxiv.org/abs/2602.02035)|-|<details><summary>detail</summary>the 2026 IEEE International Conference on Robotics and Automation (ICRA 2026)</details>|
 |**2026-2-2**|**ParaGSE: Parallel Generative Speech Enhancement with Group-Vector-Quantization-based Neural Speech Codec**|Fei Liu et.al|[paper](https://arxiv.org/abs/2602.01793)|-|<details><summary>detail</summary>Accepted by ICASSP 2026</details>|
 |**2026-2-1**|**Generalized Radius and Integrated Codebook Transforms for Differentiable Vector Quantization**|Haochen You et.al|[paper](https://arxiv.org/abs/2602.01140)|-|<details><summary>detail</summary>This paper has been accepted as a conference paper at CPAL 2026</details>|
@@ -186,6 +188,4 @@
 |**2025-11-20**|**Q-MLLM: Vector Quantization for Robust Multimodal Large Language Model Security**|Wei Zhao et.al|[paper](https://arxiv.org/abs/2511.16229)|[code](https://github.com/Amadeuszhao/QMLLM.)|<details><summary>detail</summary>Accepted by NDSS 2026</details>|
 |**2025-11-19**|**Vector Quantized-Elites: Unsupervised and Problem-Agnostic Quality-Diversity Optimization**|Constantinos Tsakonas et.al|[paper](https://arxiv.org/abs/2504.08057)|-|-|
 |**2025-11-18**|**Dimension vs. Precision: A Comparative Analysis of Autoencoders and Quantization for Efficient Vector Retrieval on BEIR SciFact**|Satyanarayan Pati et.al|[paper](https://arxiv.org/abs/2511.13057)|-|-|
-|**2025-11-9**|**Vector-Quantized Vision Foundation Models for Object-Centric Learning**|Rongzhen Zhao et.al|[paper](https://arxiv.org/abs/2502.20263)|[code](https://github.com/Genera1Z/VQ-VFM-OCL.)|<details><summary>detail</summary>ACM MM 2025</details>|
-|**2025-10-21**|**Channel-Aware Vector Quantization for Robust Semantic Communication on Discrete Channels**|Zian Meng et.al|[paper](https://arxiv.org/abs/2510.18604)|-|-|
 
