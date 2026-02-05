@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.02.04
+## Updated on 2026.02.05
 
 ## Defect Detection
 
@@ -73,6 +73,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-2-4**|**Multi-Cue Anomaly Detection and Localization under Data Contamination**|Anindya Sundar Das et.al|[paper](https://arxiv.org/abs/2601.22913)|-|-|
+|**2026-2-3**|**DMS2F-HAD: A Dual-branch Mamba-based Spatial-Spectral Fusion Network for Hyperspectral Anomaly Detection**|Aayushma Pant et.al|[paper](https://arxiv.org/abs/2602.04102)|-|<details><summary>detail</summary>This paper has been accepted in the WACV 2025 conference in algorithm track</details>|
 |**2026-2-3**|**ContraLog: Log File Anomaly Detection with Contrastive Learning and Masked Language Modeling**|Simon Dietz et.al|[paper](https://arxiv.org/abs/2602.03678)|-|-|
 |**2026-2-3**|**SAGE-5GC: Security-Aware Guidelines for Evaluating Anomaly Detection in the 5G Core Network**|Cristian Manca et.al|[paper](https://arxiv.org/abs/2602.03596)|-|<details><summary>detail</summary>ITASEC-2026</details>|
 |**2026-2-3**|**TIPS Over Tricks: Simple Prompts for Effective Zero-shot Anomaly Detection**|Alireza Salehi et.al|[paper](https://arxiv.org/abs/2602.03594)|-|<details><summary>detail</summary>This is the extended version of the paper accepted in ICASSP'26</details>|
@@ -85,10 +87,10 @@
 |**2026-2-1**|**PaAno: Patch-Based Representation Learning for Time-Series Anomaly Detection**|Jinju Park et.al|[paper](https://arxiv.org/abs/2602.01359)|-|<details><summary>detail</summary>Accepted by the 14th International Conference on Learning Representations (ICLR 2026)</details>|
 |**2026-2-1**|**MedAD-R1: Eliciting Consistent Reasoning in Interpretible Medical Anomaly Detection via Consistency-Reinforced Policy Optimization**|Haitao Zhang et.al|[paper](https://arxiv.org/abs/2602.01081)|-|-|
 |**2026-1-31**|**Domain Adaptation of Attention Heads for Zero-shot Anomaly Detection**|Kiyoon Jeong et.al|[paper](https://arxiv.org/abs/2505.22259)|[code](https://github.com/kiyoonjeong0305/HeadCLIP.)|-|
+|**2026-1-31**|**DINO-AD: Unsupervised Anomaly Detection with Frozen DINO-V3 Features**|Jiayu Huo et.al|[paper](https://arxiv.org/abs/2602.03870)|-|<details><summary>detail</summary>Accepted by ISBI 2026</details>|
 |**2026-1-31**|**MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval**|Chaoran Xu et.al|[paper](https://arxiv.org/abs/2602.00522)|[code](https://github.com/CROVO1026/MRAD.)|-|
 |**2026-1-30**|**Normality Calibration in Semi-supervised Graph Anomaly Detection**|Guolei Zeng et.al|[paper](https://arxiv.org/abs/2510.02014)|-|-|
 |**2026-1-30**|**Analyzing Shapley Additive Explanations to Understand Anomaly Detection Algorithm Behaviors and Their Complementarity**|Jordan Levy et.al|[paper](https://arxiv.org/abs/2602.00208)|-|<details><summary>detail</summary>Intelligent Data Analysis (IDA)</details>|
-|**2026-1-30**|**Multi-Cue Anomaly Detection and Localization under Data Contamination**|Anindya Sundar Das et.al|[paper](https://arxiv.org/abs/2601.22913)|-|-|
 |**2026-1-30**|**AnoMod: A Dataset for Anomaly Detection and Root Cause Analysis in Microservice Systems**|Ke Ping et.al|[paper](https://arxiv.org/abs/2601.22881)|-|<details><summary>detail</summary>the 23rd International Conference on Mining Software Repositories (MSR 2026)</details>|
 |**2026-1-30**|**When Anomalies Depend on Context: Learning Conditional Compatibility for Anomaly Detection**|Shashank Mishra et.al|[paper](https://arxiv.org/abs/2601.22868)|-|<details><summary>detail</summary>Preprint</details>|
 |**2026-1-30**|**Trackly: A Unified SaaS Platform for User Behavior Analytics and Real Time Rule Based Anomaly Detection**|Md Zahurul Haque et.al|[paper](https://arxiv.org/abs/2601.22800)|-|-|
@@ -96,8 +98,6 @@
 |**2026-1-28**|**Towards Anomaly-Aware Pre-Training and Fine-Tuning for Graph Anomaly Detection**|Yunhui Liu et.al|[paper](https://arxiv.org/abs/2504.14250)|-|<details><summary>detail</summary>Accepted by ICLR 2026</details>|
 |**2026-1-28**|**Evaluating Large Language Models for Time Series Anomaly Detection in Aerospace Software**|Yang Liu et.al|[paper](https://arxiv.org/abs/2601.12448)|-|<details><summary>detail</summary>This paper has been accepted by ASE 2025</details>|
 |**2026-1-28**|**AC2L-GAD: Active Counterfactual Contrastive Learning for Graph Anomaly Detection**|Kamal Berahmand et.al|[paper](https://arxiv.org/abs/2601.21171)|-|<details><summary>detail</summary>Journal ref:The ACM Web Conference (WWW 2026)</details>|
-|**2026-1-28**|**Dealing with Uncertainty in Contextual Anomaly Detection**|Luca Bindini et.al|[paper](https://arxiv.org/abs/2507.04490)|[code](https://openreview.net/forum?id=yLoXQDNwwa)|<details><summary>detail</summary>Published in Transactions on Machine Learning Research (TMLR)</details>|
-|**2026-1-28**|**SMKC: Sketch Based Kernel Correlation Images for Variable Cardinality Time Series Anomaly Detection**|Haokun Zhou et.al|[paper](https://arxiv.org/abs/2601.21050)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-2-3**|**Online Vector Quantized Attention**|Nick Alonso et.al|[paper](https://arxiv.org/abs/2602.03922)|-|-|
 |**2026-2-2**|**Vector Quantized Latent Concepts: A Scalable Alternative to Clustering-Based Concept Discovery**|Xuemin Yu et.al|[paper](https://arxiv.org/abs/2602.02726)|-|-|
 |**2026-2-2**|**Revisiting Adaptive Rounding with Vectorized Reparameterization for LLM Quantization**|Yuli Zhou et.al|[paper](https://arxiv.org/abs/2602.02151)|[code](https://github.com/zhoustan/VQRound.)|-|
 |**2026-2-2**|**Bandwidth-Efficient Multi-Agent Communication through Information Bottleneck and Vector Quantization**|Ahmad Farooq et.al|[paper](https://arxiv.org/abs/2602.02035)|-|<details><summary>detail</summary>the 2026 IEEE International Conference on Robotics and Automation (ICRA 2026)</details>|
@@ -187,5 +188,4 @@
 |**2025-11-24**|**Multiscale Vector-Quantized Variational Autoencoder for Endoscopic Image Synthesis**|Dimitrios E. Diamantis et.al|[paper](https://arxiv.org/abs/2511.19578)|-|<details><summary>detail</summary>Accepted in IEEE Int</details>|
 |**2025-11-20**|**Q-MLLM: Vector Quantization for Robust Multimodal Large Language Model Security**|Wei Zhao et.al|[paper](https://arxiv.org/abs/2511.16229)|[code](https://github.com/Amadeuszhao/QMLLM.)|<details><summary>detail</summary>Accepted by NDSS 2026</details>|
 |**2025-11-19**|**Vector Quantized-Elites: Unsupervised and Problem-Agnostic Quality-Diversity Optimization**|Constantinos Tsakonas et.al|[paper](https://arxiv.org/abs/2504.08057)|-|-|
-|**2025-11-18**|**Dimension vs. Precision: A Comparative Analysis of Autoencoders and Quantization for Efficient Vector Retrieval on BEIR SciFact**|Satyanarayan Pati et.al|[paper](https://arxiv.org/abs/2511.13057)|-|-|
 
