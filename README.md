@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.02.08
+## Updated on 2026.02.09
 
 ## Defect Detection
 
@@ -73,6 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-2-6**|**Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts**|Xinyu Zhao et.al|[paper](https://arxiv.org/abs/2602.06859)|-|-|
+|**2026-2-6**|**Calibrating Tabular Anomaly Detection via Optimal Transport**|Hangting Ye et.al|[paper](https://arxiv.org/abs/2602.06810)|-|-|
+|**2026-2-6**|**Next-generation cyberattack detection with large language models: anomaly analysis across heterogeneous logs**|Yassine Chagna et.al|[paper](https://arxiv.org/abs/2602.06777)|-|-|
+|**2026-2-6**|**Continual-MEGA: A Large-scale Benchmark for Generalizable Continual Anomaly Detection**|Geonu Lee et.al|[paper](https://arxiv.org/abs/2506.00956)|[code](https://github.com/Continual-Mega/Continual-Mega.)|-|
+|**2026-2-6**|**TrajAD: Trajectory Anomaly Detection for Trustworthy LLM Agents**|Yibing Liu et.al|[paper](https://arxiv.org/abs/2602.06443)|-|-|
+|**2026-2-5**|**Unsupervised Anomaly Detection of Diseases in the Female Pelvis for Real-Time MR Imaging**|Anika Knupfer et.al|[paper](https://arxiv.org/abs/2602.06179)|[code](https://github.com/AniKnu/UADPelvis),)|-|
 |**2026-2-5**|**Multi-AD: Cross-Domain Unsupervised Anomaly Detection for Medical and Industrial Applications**|Wahyu Rahmaniar et.al|[paper](https://arxiv.org/abs/2602.05426)|-|-|
 |**2026-2-4**|**Balanced Anomaly-guided Ego-graph Diffusion Model for Inductive Graph Anomaly Detection**|Chunyu Wei et.al|[paper](https://arxiv.org/abs/2602.05232)|-|-|
 |**2026-2-4**|**Multi-Cue Anomaly Detection and Localization under Data Contamination**|Anindya Sundar Das et.al|[paper](https://arxiv.org/abs/2601.22913)|-|-|
@@ -92,12 +98,6 @@
 |**2026-1-31**|**Domain Adaptation of Attention Heads for Zero-shot Anomaly Detection**|Kiyoon Jeong et.al|[paper](https://arxiv.org/abs/2505.22259)|[code](https://github.com/kiyoonjeong0305/HeadCLIP.)|-|
 |**2026-1-31**|**DINO-AD: Unsupervised Anomaly Detection with Frozen DINO-V3 Features**|Jiayu Huo et.al|[paper](https://arxiv.org/abs/2602.03870)|-|<details><summary>detail</summary>Accepted by ISBI 2026</details>|
 |**2026-1-31**|**MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval**|Chaoran Xu et.al|[paper](https://arxiv.org/abs/2602.00522)|[code](https://github.com/CROVO1026/MRAD.)|-|
-|**2026-1-30**|**Normality Calibration in Semi-supervised Graph Anomaly Detection**|Guolei Zeng et.al|[paper](https://arxiv.org/abs/2510.02014)|-|-|
-|**2026-1-30**|**Analyzing Shapley Additive Explanations to Understand Anomaly Detection Algorithm Behaviors and Their Complementarity**|Jordan Levy et.al|[paper](https://arxiv.org/abs/2602.00208)|-|<details><summary>detail</summary>Intelligent Data Analysis (IDA)</details>|
-|**2026-1-30**|**AnoMod: A Dataset for Anomaly Detection and Root Cause Analysis in Microservice Systems**|Ke Ping et.al|[paper](https://arxiv.org/abs/2601.22881)|-|<details><summary>detail</summary>the 23rd International Conference on Mining Software Repositories (MSR 2026)</details>|
-|**2026-1-30**|**When Anomalies Depend on Context: Learning Conditional Compatibility for Anomaly Detection**|Shashank Mishra et.al|[paper](https://arxiv.org/abs/2601.22868)|-|<details><summary>detail</summary>Preprint</details>|
-|**2026-1-30**|**Trackly: A Unified SaaS Platform for User Behavior Analytics and Real Time Rule Based Anomaly Detection**|Md Zahurul Haque et.al|[paper](https://arxiv.org/abs/2601.22800)|-|-|
-|**2026-1-29**|**VAE with Hyperspherical Coordinates: Improving Anomaly Detection from Hypervolume-Compressed Latent Space**|Alejandro Ascarate et.al|[paper](https://arxiv.org/abs/2601.18823)|-|-|
 
 ## 3D Anomaly Detection
 
