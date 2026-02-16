@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.02.15
+## Updated on 2026.02.16
 
 ## Defect Detection
 
@@ -73,6 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-2-13**|**MissionHD: Hyperdimensional Refinement of Distribution-Deficient Reasoning Graphs for Video Anomaly Detection**|Sanggeon Yun et.al|[paper](https://arxiv.org/abs/2508.14746)|-|-|
+|**2026-2-13**|**Universal Transformation of One-Class Classifiers for Unsupervised Anomaly Detection**|Declan McIntosh et.al|[paper](https://arxiv.org/abs/2602.13091)|-|<details><summary>detail</summary>6 figures</details>|
+|**2026-2-13**|**Drift-Aware Variational Autoencoder-based Anomaly Detection with Two-level Ensembling**|Jin Li et.al|[paper](https://arxiv.org/abs/2602.12976)|-|<details><summary>detail</summary>accepted</details>|
+|**2026-2-12**|**Efficient Personalized Federated PCA with Manifold Optimization for IoT Anomaly Detection**|Xianchao Xiu et.al|[paper](https://arxiv.org/abs/2602.12622)|[code](https://github.com/xianchaoxiu/FedEP)|-|
+|**2026-2-12**|**Power Interpretable Causal ODE Networks: A Unified Model for Explainable Anomaly Detection and Root Cause Analysis in Power Systems**|Yue Sun et.al|[paper](https://arxiv.org/abs/2602.12592)|-|-|
 |**2026-2-12**|**Real-IAD Variety: Pushing Industrial Anomaly Detection Dataset to a Modern Era**|Wenbing Zhu et.al|[paper](https://arxiv.org/abs/2511.00540)|-|-|
 |**2026-2-12**|**Evolutionary Router Feature Generation for Zero-Shot Graph Anomaly Detection with Mixture-of-Experts**|Haiyang Jiang et.al|[paper](https://arxiv.org/abs/2602.11622)|-|-|
 |**2026-2-11**|**Real-Time Proactive Anomaly Detection via Forward and Backward Forecast Modeling**|Luis Olmos et.al|[paper](https://arxiv.org/abs/2602.11539)|-|-|
@@ -93,11 +98,6 @@
 |**2026-2-9**|**Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts**|Xinyu Zhao et.al|[paper](https://arxiv.org/abs/2602.06859)|-|-|
 |**2026-2-8**|**Decoupled Complementary Spectral-Spatial Learning for Background Representation Enhancement in Hyperspectral Anomaly Detection**|Wenping Jin et.al|[paper](https://arxiv.org/abs/2510.18781)|[code](https://github.com/xjpp2016/FERS.)|-|
 |**2026-2-7**|**CausalTAD: Injecting Causal Knowledge into Large Language Models for Tabular Anomaly Detection**|Ruiqi Wang et.al|[paper](https://arxiv.org/abs/2602.07798)|[code](https://github.com/350234/CausalTAD.)|-|
-|**2026-2-7**|**Semantic-Deviation-Anchored Multi-Branch Fusion for Unsupervised Anomaly Detection and Localization in Unstructured Conveyor-Belt Coal Scenes**|Wenping Jin et.al|[paper](https://arxiv.org/abs/2602.07694)|[code](https://github.com/xjpp2016/USAD.)|-|
-|**2026-2-7**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al|[paper](https://arxiv.org/abs/2506.21550)|[code](https://plan-lab.github.io/mtsbench)|<details><summary>detail</summary>Journal ref:Transactions on Machine Learning Research</details>|
-|**2026-2-6**|**KRONE: Hierarchical and Modular Log Anomaly Detection**|Lei Ma et.al|[paper](https://arxiv.org/abs/2602.07303)|-|-|
-|**2026-2-6**|**Calibrating Tabular Anomaly Detection via Optimal Transport**|Hangting Ye et.al|[paper](https://arxiv.org/abs/2602.06810)|-|-|
-|**2026-2-6**|**Next-generation cyberattack detection with large language models: anomaly analysis across heterogeneous logs**|Yassine Chagna et.al|[paper](https://arxiv.org/abs/2602.06777)|-|-|
 
 ## 3D Anomaly Detection
 
