@@ -7,14 +7,15 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.02.16
+## Updated on 2026.02.17
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-2-15**|**Multi-View Camera System for Variant-Aware Autonomous Vehicle Inspection and Defect Detection**|Yash Kulkarni et.al|[paper](https://arxiv.org/abs/2509.26454)|-|-|
+|**2026-2-15**|**Cross-Modal Purification and Fusion for Small-Object RGB-D Transmission-Line Defect Detection**|Jiaming Cui et.al|[paper](https://arxiv.org/abs/2602.01696)|-|-|
 |**2026-2-11**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|-|
-|**2026-2-3**|**Cross-Modal Alignment and Fusion for RGB-D Transmission-Line Defect Detection**|Jiaming Cui et.al|[paper](https://arxiv.org/abs/2602.01696)|-|-|
 |**2026-1-22**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2026-1-16**|**SME-YOLO: A Real-Time Detector for Tiny Defect Detection on PCB Surfaces**|Meng Han et.al|[paper](https://arxiv.org/abs/2601.11402)|-|-|
 |**2026-1-15**|**NATLM: Detecting Defects in NFT Smart Contracts Leveraging LLM**|Yuanzheng Niu et.al|[paper](https://arxiv.org/abs/2508.01351)|-|-|
@@ -37,7 +38,6 @@
 |**2025-10-15**|**InfraGPT Smart Infrastructure: An End-to-End VLM-Based Framework for Detecting and Managing Urban Defects**|Ibrahim Sheikh Mohamed et.al|[paper](https://arxiv.org/abs/2510.16017)|-|-|
 |**2025-10-15**|**Sample-Centric Multi-Task Learning for Detection and Segmentation of Industrial Surface Defects**|Hang-Cheng Dong et.al|[paper](https://arxiv.org/abs/2510.13226)|-|-|
 |**2025-10-8**|**Transformer-Based Indirect Structural Health Monitoring of Rail Infrastructure with Attention-Driven Detection and Localization of Transient Defects**|Sizhe Ma et.al|[paper](https://arxiv.org/abs/2510.07606)|-|<details><summary>detail</summary>Preprint presented at the 15th International Workshop on Structural Health Monitoring (IWSHM)</details>|
-|**2025-10-7**|**Kaputt: A Large-Scale Dataset for Visual Defect Detection**|Sebastian Höfer et.al|[paper](https://arxiv.org/abs/2510.05903)|[code](https://www.kaputt-dataset.com.)|<details><summary>detail</summary>ICCV 2025</details>|
 
 ## Defect Segmentation
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-2-15**|**RPG-AE: Neuro-Symbolic Graph Autoencoders with Rare Pattern Mining for Provenance-Based Anomaly Detection**|Asif Tauhid et.al|[paper](https://arxiv.org/abs/2602.02929)|-|-|
+|**2026-2-15**|**Multi-Agent Debate: A Unified Agentic Framework for Tabular Anomaly Detection**|Pinqiao Wang et.al|[paper](https://arxiv.org/abs/2602.14251)|-|-|
+|**2026-2-14**|**AnomaMind: Agentic Time Series Anomaly Detection with Tool-Augmented Reasoning**|Xiaoyu Tao et.al|[paper](https://arxiv.org/abs/2602.13807)|[code](https://anonymous.4open.science/r/AnomaMind.)|-|
 |**2026-2-13**|**MissionHD: Hyperdimensional Refinement of Distribution-Deficient Reasoning Graphs for Video Anomaly Detection**|Sanggeon Yun et.al|[paper](https://arxiv.org/abs/2508.14746)|-|-|
 |**2026-2-13**|**Universal Transformation of One-Class Classifiers for Unsupervised Anomaly Detection**|Declan McIntosh et.al|[paper](https://arxiv.org/abs/2602.13091)|-|<details><summary>detail</summary>6 figures</details>|
 |**2026-2-13**|**Drift-Aware Variational Autoencoder-based Anomaly Detection with Two-level Ensembling**|Jin Li et.al|[paper](https://arxiv.org/abs/2602.12976)|-|<details><summary>detail</summary>accepted</details>|
@@ -95,9 +98,6 @@
 |**2026-2-9**|**LEFT: Learnable Fusion of Tri-view Tokens for Unsupervised Time Series Anomaly Detection**|Dezheng Wang et.al|[paper](https://arxiv.org/abs/2602.08638)|-|<details><summary>detail</summary>ACM Class:I</details>|
 |**2026-2-9**|**Low Rank Transformer for Multivariate Time Series Anomaly Detection and Localization**|Charalampos Shimillas et.al|[paper](https://arxiv.org/abs/2602.08467)|-|-|
 |**2026-2-9**|**Towards Transparent and Efficient Anomaly Detection in Industrial Processes through ExIFFI**|Davide Frizzo et.al|[paper](https://arxiv.org/abs/2405.01158)|-|<details><summary>detail</summary>This is the update version of the extended paper after receiving comments from reviewers</details>|
-|**2026-2-9**|**Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts**|Xinyu Zhao et.al|[paper](https://arxiv.org/abs/2602.06859)|-|-|
-|**2026-2-8**|**Decoupled Complementary Spectral-Spatial Learning for Background Representation Enhancement in Hyperspectral Anomaly Detection**|Wenping Jin et.al|[paper](https://arxiv.org/abs/2510.18781)|[code](https://github.com/xjpp2016/FERS.)|-|
-|**2026-2-7**|**CausalTAD: Injecting Causal Knowledge into Large Language Models for Tabular Anomaly Detection**|Ruiqi Wang et.al|[paper](https://arxiv.org/abs/2602.07798)|[code](https://github.com/350234/CausalTAD.)|-|
 
 ## 3D Anomaly Detection
 
