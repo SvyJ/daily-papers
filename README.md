@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.02.18
+## Updated on 2026.02.19
 
 ## Defect Detection
 
@@ -73,6 +73,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-2-18**|**VETime: Vision Enhanced Zero-Shot Time Series Anomaly Detection**|Yingyuan Yang et.al|[paper](https://arxiv.org/abs/2602.16681)|[code](https://github.com/yyyangcoder/VETime.)|-|
+|**2026-2-17**|**World Model Failure Classification and Anomaly Detection for Autonomous Inspection**|Michelle Ho et.al|[paper](https://arxiv.org/abs/2602.16182)|[code](https://autoinspection-classification.github.io)|-|
 |**2026-2-17**|**Can Multimodal LLMs Perform Time Series Anomaly Detection?**|Xiongxiao Xu et.al|[paper](https://arxiv.org/abs/2502.17812)|-|<details><summary>detail</summary>ACM Web Conference 2026 (WWW'26)</details>|
 |**2026-2-17**|**Improving Variational Autoencoder using Random Fourier Transformation: An Aviation Safety Anomaly Detection Case-Study**|Ata Akbari Asanjan et.al|[paper](https://arxiv.org/abs/2601.01016)|-|-|
 |**2026-2-16**|**Training-Free Zero-Shot Anomaly Detection in 3D Brain MRI with 2D Foundation Models**|Tai Le-Gia et.al|[paper](https://arxiv.org/abs/2602.15315)|-|<details><summary>detail</summary>Accepted for MIDL 2026</details>|
@@ -96,8 +98,6 @@
 |**2026-2-10**|**Contextual and Seasonal LSTMs for Time Series Anomaly Detection**|Lingpei Zhang et.al|[paper](https://arxiv.org/abs/2602.09690)|-|<details><summary>detail</summary>Published as a conference paper at ICLR 2026</details>|
 |**2026-2-10**|**Why the Counterintuitive Phenomenon of Likelihood Rarely Appears in Tabular Anomaly Detection with Deep Generative Models?**|Donghwan Kim et.al|[paper](https://arxiv.org/abs/2602.09593)|-|-|
 |**2026-2-10**|**HLGFA: High-Low Resolution Guided Feature Alignment for Unsupervised Anomaly Detection**|Han Zhou et.al|[paper](https://arxiv.org/abs/2602.09524)|-|-|
-|**2026-2-9**|**AI-Driven Cardiorespiratory Signal Processing: Separation, Clustering, and Anomaly Detection**|Yasaman Torabi et.al|[paper](https://arxiv.org/abs/2602.09210)|-|<details><summary>detail</summary>PhD thesis</details>|
-|**2026-2-9**|**AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection**|Junru Zhang et.al|[paper](https://arxiv.org/abs/2602.08868)|-|<details><summary>detail</summary>Preprint</details>|
 
 ## 3D Anomaly Detection
 
