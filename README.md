@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.02.19
+## Updated on 2026.02.20
 
 ## Defect Detection
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-2-19**|**Conditional Flow Matching for Continuous Anomaly Detection in Autonomous Driving on a Manifold-Aware Spectral Space**|Antonio Guillen-Perez et.al|[paper](https://arxiv.org/abs/2602.17586)|-|-|
+|**2026-2-19**|**EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models**|Xiaomeng Peng et.al|[paper](https://arxiv.org/abs/2602.17419)|[code](https://github.com/shengtun/Eagle)|-|
+|**2026-2-18**|**Cross Pseudo Labeling For Weakly Supervised Video Anomaly Detection**|Lee Dayeon et.al|[paper](https://arxiv.org/abs/2602.17077)|-|<details><summary>detail</summary>ICASSP 2026</details>|
+|**2026-2-18**|**StructCore: Structure-Aware Image-Level Scoring for Training-Free Unsupervised Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2602.17048)|-|-|
 |**2026-2-18**|**VETime: Vision Enhanced Zero-Shot Time Series Anomaly Detection**|Yingyuan Yang et.al|[paper](https://arxiv.org/abs/2602.16681)|[code](https://github.com/yyyangcoder/VETime.)|-|
 |**2026-2-17**|**World Model Failure Classification and Anomaly Detection for Autonomous Inspection**|Michelle Ho et.al|[paper](https://arxiv.org/abs/2602.16182)|[code](https://autoinspection-classification.github.io)|-|
 |**2026-2-17**|**Can Multimodal LLMs Perform Time Series Anomaly Detection?**|Xiongxiao Xu et.al|[paper](https://arxiv.org/abs/2502.17812)|-|<details><summary>detail</summary>ACM Web Conference 2026 (WWW'26)</details>|
@@ -94,10 +98,6 @@
 |**2026-2-11**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|-|
 |**2026-2-11**|**Interpretable Graph-Level Anomaly Detection via Contrast with Normal Prototypes**|Qiuran Zhao et.al|[paper](https://arxiv.org/abs/2602.10708)|-|-|
 |**2026-2-11**|**Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guidance**|Shengyang Sun et.al|[paper](https://arxiv.org/abs/2602.10549)|-|<details><summary>detail</summary>Accepted by IEEE Transactions on Multimedia</details>|
-|**2026-2-10**|**Reason-IAD: Knowledge-Guided Dynamic Latent Reasoning for Explainable Industrial Anomaly Detection**|Peng Chen et.al|[paper](https://arxiv.org/abs/2602.09850)|[code](https://github.com/chenpeng052/Reason-IAD.)|-|
-|**2026-2-10**|**Contextual and Seasonal LSTMs for Time Series Anomaly Detection**|Lingpei Zhang et.al|[paper](https://arxiv.org/abs/2602.09690)|-|<details><summary>detail</summary>Published as a conference paper at ICLR 2026</details>|
-|**2026-2-10**|**Why the Counterintuitive Phenomenon of Likelihood Rarely Appears in Tabular Anomaly Detection with Deep Generative Models?**|Donghwan Kim et.al|[paper](https://arxiv.org/abs/2602.09593)|-|-|
-|**2026-2-10**|**HLGFA: High-Low Resolution Guided Feature Alignment for Unsupervised Anomaly Detection**|Han Zhou et.al|[paper](https://arxiv.org/abs/2602.09524)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -133,6 +133,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-2-19**|**EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models**|Xiaomeng Peng et.al|[paper](https://arxiv.org/abs/2602.17419)|[code](https://github.com/shengtun/Eagle)|-|
 |**2026-2-17**|**Can Multimodal LLMs Perform Time Series Anomaly Detection?**|Xiongxiao Xu et.al|[paper](https://arxiv.org/abs/2502.17812)|-|<details><summary>detail</summary>ACM Web Conference 2026 (WWW'26)</details>|
 |**2026-2-11**|**Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guidance**|Shengyang Sun et.al|[paper](https://arxiv.org/abs/2602.10549)|-|<details><summary>detail</summary>Accepted by IEEE Transactions on Multimedia</details>|
 |**2026-2-9**|**AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection**|Junru Zhang et.al|[paper](https://arxiv.org/abs/2602.08868)|-|<details><summary>detail</summary>Preprint</details>|
@@ -157,12 +158,12 @@
 |**2025-5-19**|**Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**|Kiarash Naghavi Khanghah et.al|[paper](https://arxiv.org/abs/2505.13828)|-|<details><summary>detail</summary>ASME 2025 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference IDETC/CIE2025</details>|
 |**2025-5-8**|**Uncertainty-Weighted Image-Event Multimodal Fusion for Video Anomaly Detection**|Sungheon Jeong et.al|[paper](https://arxiv.org/abs/2505.02393)|[code](https://github.com/EavnJeong/IEF-VAD.)|-|
 |**2025-4-17**|**LAD-Reasoner: Tiny Multimodal Models are Good Reasoners for Logical Anomaly Detection**|Weijia Li et.al|[paper](https://arxiv.org/abs/2504.12749)|-|-|
-|**2025-3-21**|**A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Image Anomaly Detection**|Yuxuan Lin et.al|[paper](https://arxiv.org/abs/2410.21982)|[code](https://github.com/Sunny5250/Awesome-Multi-Setting-UIAD.)|<details><summary>detail</summary>Accepted by Information Fusion</details>|
 
 ## Vector Quantization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-2-19**|**VP-VAE: Rethinking Vector Quantization via Adaptive Vector Perturbation**|Linwei Zhai et.al|[paper](https://arxiv.org/abs/2602.17133)|-|-|
 |**2026-2-12**|**Multiscale Vector-Quantized Variational Autoencoder for Endoscopic Image Synthesis**|Dimitrios E. Diamantis et.al|[paper](https://arxiv.org/abs/2511.19578)|-|<details><summary>detail</summary>Journal ref:Proc</details>|
 |**2026-2-7**|**Residual Vector Quantization For Communication-Efficient Multi-Agent Perception**|Dereje Shenkut et.al|[paper](https://arxiv.org/abs/2509.21464)|-|<details><summary>detail</summary>ICASSP 2026</details>|
 |**2026-2-6**|**Online Vector Quantized Attention**|Nick Alonso et.al|[paper](https://arxiv.org/abs/2602.03922)|-|-|
@@ -187,5 +188,4 @@
 |**2026-1-1**|**LooC: Effective Low-Dimensional Codebook for Compositional Vector Quantization**|Jie Li et.al|[paper](https://arxiv.org/abs/2601.00222)|-|<details><summary>detail</summary>The IEEE/CVF Winter Conference on Applications of Computer Vision 2026</details>|
 |**2025-12-30**|**Hierarchical Vector-Quantized Latents for Perceptual Low-Resolution Video Compression**|Manikanta Kotthapalli et.al|[paper](https://arxiv.org/abs/2512.24547)|-|-|
 |**2025-12-20**|**Quantization for Vector Search under Streaming Updates**|Ishaq Aden-Ali et.al|[paper](https://arxiv.org/abs/2512.18335)|-|-|
-|**2025-12-14**|**NSNQuant: A Double Normalization Approach for Calibration-Free Low-Bit Vector Quantization of KV Cache**|Donghyun Son et.al|[paper](https://arxiv.org/abs/2505.18231)|-|-|
 
