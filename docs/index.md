@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.03.05
+## Updated on 2026.03.06
 
 ## Defect Detection
 
@@ -73,6 +73,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-5**|**AegisUI: Behavioral Anomaly Detection for Structured User Interface Protocols in AI Agent Systems**|Mohd Safwan Uddin et.al|[paper](https://arxiv.org/abs/2603.05031)|-|-|
+|**2026-3-4**|**Are Multimodal LLMs Ready for Surveillance? A Reality Check on Zero-Shot Anomaly Detection in the Wild**|Shanle Yao et.al|[paper](https://arxiv.org/abs/2603.04727)|-|-|
 |**2026-3-4**|**Cross-Modal Mapping and Dual-Branch Reconstruction for 2D-3D Multimodal Industrial Anomaly Detection**|Radia Daci et.al|[paper](https://arxiv.org/abs/2603.03939)|[code](https://github.com/ECGAI-Research/CMDR-IAD/)|-|
 |**2026-3-3**|**MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection**|Jun Yeong Park et.al|[paper](https://arxiv.org/abs/2603.03101)|[code](https://github.com/CoCoRessa/MoECLIP.)|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
 |**2026-3-3**|**Spatial Autoregressive Modeling of DINOv3 Embeddings for Unsupervised Anomaly Detection**|Ertunc Erdil et.al|[paper](https://arxiv.org/abs/2603.02974)|[code](https://eerdil.github.io/spatial-ar-dinov3-uad/.)|-|
@@ -96,8 +98,6 @@
 |**2026-2-26**|**Selective Denoising Diffusion Model for Time Series Anomaly Detection**|Kohei Obata et.al|[paper](https://arxiv.org/abs/2602.23662)|-|-|
 |**2026-2-26**|**Normalisation and Initialisation Strategies for Graph Neural Networks in Blockchain Anomaly Detection**|Dang Sy Duy et.al|[paper](https://arxiv.org/abs/2602.23599)|-|-|
 |**2026-2-26**|**Incremental dimension reduction for efficient and accurate visual anomaly detection**|Teng-Yok Lee et.al|[paper](https://arxiv.org/abs/2602.23595)|-|-|
-|**2026-2-26**|**Modelling and Simulation of Neuromorphic Datasets for Anomaly Detection in Computer Vision**|Mike Middleton et.al|[paper](https://arxiv.org/abs/2602.23514)|-|<details><summary>detail</summary>draft paper</details>|
-|**2026-2-26**|**Leveraging Multimodal LLM Descriptions of Activity for Explainable Semi-Supervised Video Anomaly Detection**|Furkan Mumcu et.al|[paper](https://arxiv.org/abs/2510.14896)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -133,6 +133,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-4**|**Are Multimodal LLMs Ready for Surveillance? A Reality Check on Zero-Shot Anomaly Detection in the Wild**|Shanle Yao et.al|[paper](https://arxiv.org/abs/2603.04727)|-|-|
 |**2026-3-4**|**Cross-Modal Mapping and Dual-Branch Reconstruction for 2D-3D Multimodal Industrial Anomaly Detection**|Radia Daci et.al|[paper](https://arxiv.org/abs/2603.03939)|[code](https://github.com/ECGAI-Research/CMDR-IAD/)|-|
 |**2026-3-3**|**Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective**|Kaifang Long et.al|[paper](https://arxiv.org/abs/2603.02629)|-|-|
 |**2026-2-26**|**Leveraging Multimodal LLM Descriptions of Activity for Explainable Semi-Supervised Video Anomaly Detection**|Furkan Mumcu et.al|[paper](https://arxiv.org/abs/2510.14896)|-|-|
@@ -157,7 +158,6 @@
 |**2025-6-23**|**Multimodal Anomaly Detection with a Mixture-of-Experts**|Christoph Willibald et.al|[paper](https://arxiv.org/abs/2506.19077)|-|-|
 |**2025-6-20**|**When Every Millisecond Counts: Real-Time Anomaly Detection via the Multimodal Asynchronous Hybrid Network**|Dong Xiao et.al|[paper](https://arxiv.org/abs/2506.17457)|-|<details><summary>detail</summary>ICML 2025 Spotlight</details>|
 |**2025-5-28**|**OmniAD: Detect and Understand Industrial Anomaly via Multimodal Reasoning**|Shifang Zhao et.al|[paper](https://arxiv.org/abs/2505.22039)|-|-|
-|**2025-5-19**|**Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**|Kiarash Naghavi Khanghah et.al|[paper](https://arxiv.org/abs/2505.13828)|-|<details><summary>detail</summary>ASME 2025 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference IDETC/CIE2025</details>|
 
 ## Vector Quantization
 
