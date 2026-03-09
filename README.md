@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.03.08
+## Updated on 2026.03.09
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-6**|**ExDD: Explicit Dual Distribution Learning for Surface Defect Detection via Diffusion Synthesis**|Muhammad Aqeel et.al|[paper](https://arxiv.org/abs/2507.15335)|[code](https://github.com/aqeeelmirza/ExDD-Defect-Detection)|<details><summary>detail</summary>ICIAP 2025</details>|
 |**2026-2-26**|**Multi-View Camera System for Variant-Aware Autonomous Vehicle Inspection and Defect Detection**|Yash Kulkarni et.al|[paper](https://arxiv.org/abs/2509.26454)|-|-|
 |**2026-2-20**|**Cross-Modal Purification and Fusion for Small-Object RGB-D Transmission-Line Defect Detection**|Jiaming Cui et.al|[paper](https://arxiv.org/abs/2602.01696)|-|-|
 |**2026-2-11**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|-|
@@ -37,7 +38,6 @@
 |**2025-10-16**|**BoardVision: Deployment-ready and Robust Motherboard Defect Detection with YOLO+Faster-RCNN Ensemble**|Brandon Hill et.al|[paper](https://arxiv.org/abs/2510.14389)|-|<details><summary>detail</summary>This paper has been submitted to IEEE/CVF WACV 2026 Applications track and is currently under review</details>|
 |**2025-10-15**|**InfraGPT Smart Infrastructure: An End-to-End VLM-Based Framework for Detecting and Managing Urban Defects**|Ibrahim Sheikh Mohamed et.al|[paper](https://arxiv.org/abs/2510.16017)|-|-|
 |**2025-10-15**|**Sample-Centric Multi-Task Learning for Detection and Segmentation of Industrial Surface Defects**|Hang-Cheng Dong et.al|[paper](https://arxiv.org/abs/2510.13226)|-|-|
-|**2025-10-8**|**Transformer-Based Indirect Structural Health Monitoring of Rail Infrastructure with Attention-Driven Detection and Localization of Transient Defects**|Sizhe Ma et.al|[paper](https://arxiv.org/abs/2510.07606)|-|<details><summary>detail</summary>Preprint presented at the 15th International Workshop on Structural Health Monitoring (IWSHM)</details>|
 
 ## Defect Segmentation
 
@@ -73,6 +73,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-6**|**WMoE-CLIP: Wavelet-Enhanced Mixture-of-Experts Prompt Learning for Zero-Shot Anomaly Detection**|Peng Chen et.al|[paper](https://arxiv.org/abs/2603.06313)|-|-|
+|**2026-3-6**|**DQE: A Semantic-Aware Evaluation Metric for Time Series Anomaly Detection**|Yuewei Li et.al|[paper](https://arxiv.org/abs/2603.06131)|-|-|
 |**2026-3-5**|**AegisUI: Behavioral Anomaly Detection for Structured User Interface Protocols in AI Agent Systems**|Mohd Safwan Uddin et.al|[paper](https://arxiv.org/abs/2603.05031)|-|-|
 |**2026-3-4**|**Are Multimodal LLMs Ready for Surveillance? A Reality Check on Zero-Shot Anomaly Detection in the Wild**|Shanle Yao et.al|[paper](https://arxiv.org/abs/2603.04727)|-|-|
 |**2026-3-4**|**Cross-Modal Mapping and Dual-Branch Reconstruction for 2D-3D Multimodal Industrial Anomaly Detection**|Radia Daci et.al|[paper](https://arxiv.org/abs/2603.03939)|[code](https://github.com/ECGAI-Research/CMDR-IAD/)|-|
@@ -96,8 +98,6 @@
 |**2026-2-27**|**Steering and Rectifying Latent Representation Manifolds in Frozen Multi-modal LLMs for Video Anomaly Detection**|Zhaolin Cai et.al|[paper](https://arxiv.org/abs/2602.24021)|-|<details><summary>detail</summary>Accepted by ICLR 2026</details>|
 |**2026-2-27**|**From Static Benchmarks to Dynamic Protocol: Agent-Centric Text Anomaly Detection for Evaluating LLM Reasoning**|Seungdong Yoa et.al|[paper](https://arxiv.org/abs/2602.23729)|-|<details><summary>detail</summary>ICLR 2026</details>|
 |**2026-2-26**|**Selective Denoising Diffusion Model for Time Series Anomaly Detection**|Kohei Obata et.al|[paper](https://arxiv.org/abs/2602.23662)|-|-|
-|**2026-2-26**|**Normalisation and Initialisation Strategies for Graph Neural Networks in Blockchain Anomaly Detection**|Dang Sy Duy et.al|[paper](https://arxiv.org/abs/2602.23599)|-|-|
-|**2026-2-26**|**Incremental dimension reduction for efficient and accurate visual anomaly detection**|Teng-Yok Lee et.al|[paper](https://arxiv.org/abs/2602.23595)|-|-|
 
 ## 3D Anomaly Detection
 
