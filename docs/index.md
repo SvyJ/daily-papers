@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 
 ## Defect Detection
 
@@ -73,6 +73,22 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-9**|**The Boiling Frog Threshold: Criticality and Blindness in World Model-Based Anomaly Detection Under Gradual Drift**|Zhe Hong et.al|[paper](https://arxiv.org/abs/2603.08455)|-|-|
+|**2026-3-9**|**Latent Sculpting for Zero-Shot Generalization: A Manifold Learning Approach to Out-of-Distribution Anomaly Detection**|Rajeeb Thapa Chhetri et.al|[paper](https://arxiv.org/abs/2512.22179)|[code](https://github.com/Rajeeb321123/Latent_sculpting_using_two_stage_method)|-|
+|**2026-3-9**|**Detecting AI-Generated Images via Contextual Anomaly Estimation in Masked AutoEncoders**|Minsuk Jang et.al|[paper](https://arxiv.org/abs/2511.06325)|-|<details><summary>detail</summary>MSC Class:68T07ACM Class:I</details>|
+|**2026-3-9**|**Mitigating Homophily Disparity in Graph Anomaly Detection: A Scalable and Adaptive Approach**|Yunhui Liu et.al|[paper](https://arxiv.org/abs/2603.08137)|-|<details><summary>detail</summary>Accepted by WWW 2026</details>|
+|**2026-3-9**|**Explainable Condition Monitoring via Probabilistic Anomaly Detection Applied to Helicopter Transmissions**|Aurelio Raffa Ugolini et.al|[paper](https://arxiv.org/abs/2603.08130)|-|-|
+|**2026-3-9**|**VisualAD: Language-Free Zero-Shot Anomaly Detection via Vision Transformer**|Yanning Hou et.al|[paper](https://arxiv.org/abs/2603.07952)|[code](https://github.com/7HHHHH/VisualAD)|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
+|**2026-3-8**|**An Interpretable Generative Framework for Anomaly Detection in High-Dimensional Financial Time Series**|Waldyn G Martinez et.al|[paper](https://arxiv.org/abs/2603.07864)|-|-|
+|**2026-3-8**|**Unsupervised Deep Generative Models for Anomaly Detection in Neuroimaging: A Systematic Scoping Review**|Youwan Mahé et.al|[paper](https://arxiv.org/abs/2510.14462)|-|-|
+|**2026-3-8**|**Multi-Scale Distillation for RGB-D Anomaly Detection on the PD-REAL Dataset**|Jianjian Qin et.al|[paper](https://arxiv.org/abs/2311.04095)|[code](https://github.com/Andy-cs008/PD-REAL)|-|
+|**2026-3-8**|**Integration of deep generative Anomaly Detection algorithm in high-speed industrial line**|Niccolò Ferrari et.al|[paper](https://arxiv.org/abs/2603.07577)|-|<details><summary>detail</summary>Preprint under review at a Springer Nature journal</details>|
+|**2026-3-8**|**GRD-Net: Generative-Reconstructive-Discriminative Anomaly Detection with Region of Interest Attention Module**|Niccolò Ferrari et.al|[paper](https://arxiv.org/abs/2603.07566)|-|<details><summary>detail</summary>Peer-reviewed journal version published</details>|
+|**2026-3-8**|**Online Continual Learning for Anomaly Detection in IoT under Data Distribution Shifts**|Matea Marinova et.al|[paper](https://arxiv.org/abs/2603.07507)|-|<details><summary>detail</summary>Manuscript submitted to EUSIPCO 2026</details>|
+|**2026-3-8**|**GSAT: Geometric Traversability Estimation using Self-supervised Learning with Anomaly Detection for Diverse Terrains**|Dongjin Cho et.al|[paper](https://arxiv.org/abs/2603.07480)|-|-|
+|**2026-3-7**|**Explainable Heterogeneous Anomaly Detection in Financial Networks via Adaptive Expert Routing**|Zan Li et.al|[paper](https://arxiv.org/abs/2510.17088)|-|<details><summary>detail</summary>Journal ref:XAI-FIN: International Joint Workshop on Explainable AI in Finance</details>|
+|**2026-3-7**|**PDD: Manifold-Prior Diverse Distillation for Medical Anomaly Detection**|Xijun Lu et.al|[paper](https://arxiv.org/abs/2603.07142)|[code](https://github.com/OxygenLu/PDD)|<details><summary>detail</summary>Accepted by CVPR'2026</details>|
+|**2026-3-7**|**Interpretable Maximum Margin Deep Anomaly Detection**|Zhiji Yang et.al|[paper](https://arxiv.org/abs/2603.07073)|-|-|
 |**2026-3-6**|**WMoE-CLIP: Wavelet-Enhanced Mixture-of-Experts Prompt Learning for Zero-Shot Anomaly Detection**|Peng Chen et.al|[paper](https://arxiv.org/abs/2603.06313)|-|-|
 |**2026-3-6**|**DQE: A Semantic-Aware Evaluation Metric for Time Series Anomaly Detection**|Yuewei Li et.al|[paper](https://arxiv.org/abs/2603.06131)|-|-|
 |**2026-3-5**|**AegisUI: Behavioral Anomaly Detection for Structured User Interface Protocols in AI Agent Systems**|Mohd Safwan Uddin et.al|[paper](https://arxiv.org/abs/2603.05031)|-|-|
@@ -82,22 +98,6 @@
 |**2026-3-3**|**Spatial Autoregressive Modeling of DINOv3 Embeddings for Unsupervised Anomaly Detection**|Ertunc Erdil et.al|[paper](https://arxiv.org/abs/2603.02974)|[code](https://eerdil.github.io/spatial-ar-dinov3-uad/.)|-|
 |**2026-3-3**|**Improving Anomaly Detection with Foundation-Model Synthesis and Wavelet-Domain Attention**|Wensheng Wu et.al|[paper](https://arxiv.org/abs/2603.02964)|-|-|
 |**2026-3-3**|**Language-guided Open-world Video Anomaly Detection under Weak Supervision**|Zihao Liu et.al|[paper](https://arxiv.org/abs/2503.13160)|[code](https://github.com/Kamino666/LaGoVAD-PreVAD.)|<details><summary>detail</summary>Accepted by ICLR 2026</details>|
-|**2026-3-3**|**Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective**|Kaifang Long et.al|[paper](https://arxiv.org/abs/2603.02629)|-|-|
-|**2026-3-2**|**Trivial Graph Features and Classical Learning are Enough to Detect Random Anomalies**|Matthieu Latapy et.al|[paper](https://arxiv.org/abs/2603.01841)|-|-|
-|**2026-3-2**|**GCTAM: Global and Contextual Truncated Affinity Combined Maximization Model For Unsupervised Graph Anomaly Detection**|Xiong Zhang et.al|[paper](https://arxiv.org/abs/2603.01806)|-|<details><summary>detail</summary>Accepted by IJCAI 2025</details>|
-|**2026-3-2**|**Dual Distillation for Few-Shot Anomaly Detection**|Le Dong et.al|[paper](https://arxiv.org/abs/2603.01713)|[code](https://github.com/ttttqz/D24FAD.)|<details><summary>detail</summary>ICLR 2026</details>|
-|**2026-3-1**|**UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression**|Yuan Zhao et.al|[paper](https://arxiv.org/abs/2509.25934)|[code](https://github.com/yuanzhao-CVLAB/UniMMAD.)|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
-|**2026-2-28**|**InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models**|Shunsuke Sakai et.al|[paper](https://arxiv.org/abs/2504.05662)|[code](https://invad-project.com)|<details><summary>detail</summary>CVPR2026</details>|
-|**2026-2-28**|**When Anomalies Depend on Context: Learning Conditional Compatibility for Anomaly Detection**|Shashank Mishra et.al|[paper](https://arxiv.org/abs/2601.22868)|-|<details><summary>detail</summary>Preprint</details>|
-|**2026-2-28**|**Weakly Supervised Video Anomaly Detection with Anomaly-Connected Components and Intention Reasoning**|Yu Wang et.al|[paper](https://arxiv.org/abs/2603.00550)|-|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
-|**2026-2-28**|**FiLo++: Zero-/Few-Shot Anomaly Detection by Fused Fine-Grained Descriptions and Deformable Localization**|Zhaopeng Gu et.al|[paper](https://arxiv.org/abs/2501.10067)|[code](https://github.com/CASIA-IVA-Lab/FiLo.)|-|
-|**2026-2-28**|**FiLo: Zero-Shot Anomaly Detection by Fine-Grained Description and High-Quality Localization**|Zhaopeng Gu et.al|[paper](https://arxiv.org/abs/2404.13671)|[code](https://github.com/CASIA-IVA-Lab/FiLo.)|<details><summary>detail</summary>Accepted by ACM MM 2024</details>|
-|**2026-2-27**|**Toward Reasoning on the Boundary: A Mixup-based Approach for Graph Anomaly Detection**|Hwan Kim et.al|[paper](https://arxiv.org/abs/2410.20310)|[code](https://github.com/missinghwan/ANOMIX.)|-|
-|**2026-2-27**|**An Efficient Unsupervised Federated Learning Approach for Anomaly Detection in Heterogeneous IoT Networks**|Mohsen Tajgardan et.al|[paper](https://arxiv.org/abs/2602.24209)|-|-|
-|**2026-2-27**|**TokenCLIP: Token-wise Prompt Learning for Zero-shot Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2510.21171)|-|-|
-|**2026-2-27**|**Steering and Rectifying Latent Representation Manifolds in Frozen Multi-modal LLMs for Video Anomaly Detection**|Zhaolin Cai et.al|[paper](https://arxiv.org/abs/2602.24021)|-|<details><summary>detail</summary>Accepted by ICLR 2026</details>|
-|**2026-2-27**|**From Static Benchmarks to Dynamic Protocol: Agent-Centric Text Anomaly Detection for Evaluating LLM Reasoning**|Seungdong Yoa et.al|[paper](https://arxiv.org/abs/2602.23729)|-|<details><summary>detail</summary>ICLR 2026</details>|
-|**2026-2-26**|**Selective Denoising Diffusion Model for Time Series Anomaly Detection**|Kohei Obata et.al|[paper](https://arxiv.org/abs/2602.23662)|-|-|
 
 ## 3D Anomaly Detection
 
