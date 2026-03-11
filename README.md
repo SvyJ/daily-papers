@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.03.10
+## Updated on 2026.03.11
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-10**|**GNNs for Time Series Anomaly Detection: An Open-Source Framework and a Critical Evaluation**|Federico Bello et.al|[paper](https://arxiv.org/abs/2603.09675)|-|-|
+|**2026-3-10**|**Temporal-Conditioned Normalizing Flows for Multivariate Time Series Anomaly Detection**|David Baumgartner et.al|[paper](https://arxiv.org/abs/2603.09490)|-|-|
+|**2026-3-10**|**TA-GGAD: Testing-time Adaptive Graph Model for Generalist Graph Anomaly Detection**|Xiong Zhang et.al|[paper](https://arxiv.org/abs/2603.09349)|[code](https://anonymous.4open.science/r/Anonymization-TA-GGAD/.)|-|
 |**2026-3-9**|**The Boiling Frog Threshold: Criticality and Blindness in World Model-Based Anomaly Detection Under Gradual Drift**|Zhe Hong et.al|[paper](https://arxiv.org/abs/2603.08455)|-|-|
 |**2026-3-9**|**Latent Sculpting for Zero-Shot Generalization: A Manifold Learning Approach to Out-of-Distribution Anomaly Detection**|Rajeeb Thapa Chhetri et.al|[paper](https://arxiv.org/abs/2512.22179)|[code](https://github.com/Rajeeb321123/Latent_sculpting_using_two_stage_method)|-|
 |**2026-3-9**|**Detecting AI-Generated Images via Contextual Anomaly Estimation in Masked AutoEncoders**|Minsuk Jang et.al|[paper](https://arxiv.org/abs/2511.06325)|-|<details><summary>detail</summary>MSC Class:68T07ACM Class:I</details>|
@@ -95,9 +98,6 @@
 |**2026-3-4**|**Are Multimodal LLMs Ready for Surveillance? A Reality Check on Zero-Shot Anomaly Detection in the Wild**|Shanle Yao et.al|[paper](https://arxiv.org/abs/2603.04727)|-|-|
 |**2026-3-4**|**Cross-Modal Mapping and Dual-Branch Reconstruction for 2D-3D Multimodal Industrial Anomaly Detection**|Radia Daci et.al|[paper](https://arxiv.org/abs/2603.03939)|[code](https://github.com/ECGAI-Research/CMDR-IAD/)|-|
 |**2026-3-3**|**MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection**|Jun Yeong Park et.al|[paper](https://arxiv.org/abs/2603.03101)|[code](https://github.com/CoCoRessa/MoECLIP.)|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
-|**2026-3-3**|**Spatial Autoregressive Modeling of DINOv3 Embeddings for Unsupervised Anomaly Detection**|Ertunc Erdil et.al|[paper](https://arxiv.org/abs/2603.02974)|[code](https://eerdil.github.io/spatial-ar-dinov3-uad/.)|-|
-|**2026-3-3**|**Improving Anomaly Detection with Foundation-Model Synthesis and Wavelet-Domain Attention**|Wensheng Wu et.al|[paper](https://arxiv.org/abs/2603.02964)|-|-|
-|**2026-3-3**|**Language-guided Open-world Video Anomaly Detection under Weak Supervision**|Zihao Liu et.al|[paper](https://arxiv.org/abs/2503.13160)|[code](https://github.com/Kamino666/LaGoVAD-PreVAD.)|<details><summary>detail</summary>Accepted by ICLR 2026</details>|
 
 ## 3D Anomaly Detection
 
