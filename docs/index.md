@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.03.11
+## Updated on 2026.03.12
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-11**|**StructDamage:A Large Scale Unified Crack and Surface Defect Dataset for Robust Structural Damage Detection**|Misbah Ijaz et.al|[paper](https://arxiv.org/abs/2603.10484)|-|-|
 |**2026-3-6**|**ExDD: Explicit Dual Distribution Learning for Surface Defect Detection via Diffusion Synthesis**|Muhammad Aqeel et.al|[paper](https://arxiv.org/abs/2507.15335)|[code](https://github.com/aqeeelmirza/ExDD-Defect-Detection)|<details><summary>detail</summary>ICIAP 2025</details>|
 |**2026-2-26**|**Multi-View Camera System for Variant-Aware Autonomous Vehicle Inspection and Defect Detection**|Yash Kulkarni et.al|[paper](https://arxiv.org/abs/2509.26454)|-|-|
 |**2026-2-20**|**Cross-Modal Purification and Fusion for Small-Object RGB-D Transmission-Line Defect Detection**|Jiaming Cui et.al|[paper](https://arxiv.org/abs/2602.01696)|-|-|
@@ -37,7 +38,6 @@
 |**2025-10-16**|**Real-Time Surgical Instrument Defect Detection via Non-Destructive Testing**|Qurrat Ul Ain et.al|[paper](https://arxiv.org/abs/2510.14525)|-|-|
 |**2025-10-16**|**BoardVision: Deployment-ready and Robust Motherboard Defect Detection with YOLO+Faster-RCNN Ensemble**|Brandon Hill et.al|[paper](https://arxiv.org/abs/2510.14389)|-|<details><summary>detail</summary>This paper has been submitted to IEEE/CVF WACV 2026 Applications track and is currently under review</details>|
 |**2025-10-15**|**InfraGPT Smart Infrastructure: An End-to-End VLM-Based Framework for Detecting and Managing Urban Defects**|Ibrahim Sheikh Mohamed et.al|[paper](https://arxiv.org/abs/2510.16017)|-|-|
-|**2025-10-15**|**Sample-Centric Multi-Task Learning for Detection and Segmentation of Industrial Surface Defects**|Hang-Cheng Dong et.al|[paper](https://arxiv.org/abs/2510.13226)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-11**|**ECoLAD: Deployment-Oriented Evaluation for Automotive Time-Series Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2603.10926)|-|-|
+|**2026-3-11**|**STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2511.15339)|-|<details><summary>detail</summary>appear in the 2026 IEEE Intelligent Vehicles Symposium (IV 2026)</details>|
+|**2026-3-11**|**No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection**|Zunkai Dai et.al|[paper](https://arxiv.org/abs/2602.19248)|[code](https://github.com/VitaminCreed/LAVIDA.)|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
 |**2026-3-10**|**GNNs for Time Series Anomaly Detection: An Open-Source Framework and a Critical Evaluation**|Federico Bello et.al|[paper](https://arxiv.org/abs/2603.09675)|-|-|
 |**2026-3-10**|**Temporal-Conditioned Normalizing Flows for Multivariate Time Series Anomaly Detection**|David Baumgartner et.al|[paper](https://arxiv.org/abs/2603.09490)|-|-|
 |**2026-3-10**|**TA-GGAD: Testing-time Adaptive Graph Model for Generalist Graph Anomaly Detection**|Xiong Zhang et.al|[paper](https://arxiv.org/abs/2603.09349)|[code](https://anonymous.4open.science/r/Anonymization-TA-GGAD/.)|-|
@@ -95,9 +98,6 @@
 |**2026-3-6**|**WMoE-CLIP: Wavelet-Enhanced Mixture-of-Experts Prompt Learning for Zero-Shot Anomaly Detection**|Peng Chen et.al|[paper](https://arxiv.org/abs/2603.06313)|-|-|
 |**2026-3-6**|**DQE: A Semantic-Aware Evaluation Metric for Time Series Anomaly Detection**|Yuewei Li et.al|[paper](https://arxiv.org/abs/2603.06131)|-|-|
 |**2026-3-5**|**AegisUI: Behavioral Anomaly Detection for Structured User Interface Protocols in AI Agent Systems**|Mohd Safwan Uddin et.al|[paper](https://arxiv.org/abs/2603.05031)|-|-|
-|**2026-3-4**|**Are Multimodal LLMs Ready for Surveillance? A Reality Check on Zero-Shot Anomaly Detection in the Wild**|Shanle Yao et.al|[paper](https://arxiv.org/abs/2603.04727)|-|-|
-|**2026-3-4**|**Cross-Modal Mapping and Dual-Branch Reconstruction for 2D-3D Multimodal Industrial Anomaly Detection**|Radia Daci et.al|[paper](https://arxiv.org/abs/2603.03939)|[code](https://github.com/ECGAI-Research/CMDR-IAD/)|-|
-|**2026-3-3**|**MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection**|Jun Yeong Park et.al|[paper](https://arxiv.org/abs/2603.03101)|[code](https://github.com/CoCoRessa/MoECLIP.)|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-11**|**Leech Lattice Vector Quantization for Efficient LLM Compression**|Tycho F. A. van der Ouderaa et.al|[paper](https://arxiv.org/abs/2603.11021)|-|-|
 |**2026-3-4**|**Vector-Quantized Soft Label Compression for Dataset Distillation**|Ali Abbasi et.al|[paper](https://arxiv.org/abs/2603.03808)|-|-|
 |**2026-3-3**|**ProGIC: Progressive and Lightweight Generative Image Compression with Residual Vector Quantization**|Hao Cao et.al|[paper](https://arxiv.org/abs/2603.02897)|-|-|
 |**2026-3-1**|**Purrception: Variational Flow Matching for Vector-Quantized Image Generation**|Răzvan-Andrei Matişan et.al|[paper](https://arxiv.org/abs/2510.01478)|-|<details><summary>detail</summary>Published as a conference paper at ICLR 2026</details>|
@@ -187,5 +188,4 @@
 |**2026-1-17**|**Scene-Aware Vectorized Memory Multi-Agent Framework with Cross-Modal Differentiated Quantization VLMs for Visually Impaired Assistance**|Xiangxiang Wang et.al|[paper](https://arxiv.org/abs/2508.18177)|-|-|
 |**2026-1-15**|**VQ-Seg: Vector-Quantized Token Perturbation for Semi-Supervised Medical Image Segmentation**|Sicheng Yang et.al|[paper](https://arxiv.org/abs/2601.10124)|[code](https://github.com/script-Yang/VQ-Seg.)|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
 |**2026-1-14**|**FaTRQ: Tiered Residual Quantization for LLM Vector Search in Far-Memory-Aware ANNS Systems**|Tianqi Zhang et.al|[paper](https://arxiv.org/abs/2601.09985)|-|-|
-|**2026-1-14**|**STORM: A Spatio-Temporal Factor Model Based on Dual Vector Quantized Variational Autoencoders for Financial Trading**|Yilei Zhao et.al|[paper](https://arxiv.org/abs/2412.09468)|-|-|
 
