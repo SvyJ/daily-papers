@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.03.12
+## Updated on 2026.03.13
 
 ## Defect Detection
 
@@ -73,9 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-12**|**Anomaly detection in time-series via inductive biases in the latent space of conditional normalizing flows**|David Baumgartner et.al|[paper](https://arxiv.org/abs/2603.11756)|-|-|
+|**2026-3-12**|**InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models**|Shunsuke Sakai et.al|[paper](https://arxiv.org/abs/2504.05662)|[code](https://invad-project.com)|<details><summary>detail</summary>CVPR2026</details>|
 |**2026-3-11**|**ECoLAD: Deployment-Oriented Evaluation for Automotive Time-Series Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2603.10926)|-|-|
 |**2026-3-11**|**STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2511.15339)|-|<details><summary>detail</summary>appear in the 2026 IEEE Intelligent Vehicles Symposium (IV 2026)</details>|
 |**2026-3-11**|**No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection**|Zunkai Dai et.al|[paper](https://arxiv.org/abs/2602.19248)|[code](https://github.com/VitaminCreed/LAVIDA.)|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
+|**2026-3-11**|**RC-NF: Robot-Conditioned Normalizing Flow for Real-Time Anomaly Detection in Robotic Manipulation**|Shijie Zhou et.al|[paper](https://arxiv.org/abs/2603.11106)|-|<details><summary>detail</summary>the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026</details>|
 |**2026-3-10**|**GNNs for Time Series Anomaly Detection: An Open-Source Framework and a Critical Evaluation**|Federico Bello et.al|[paper](https://arxiv.org/abs/2603.09675)|-|-|
 |**2026-3-10**|**Temporal-Conditioned Normalizing Flows for Multivariate Time Series Anomaly Detection**|David Baumgartner et.al|[paper](https://arxiv.org/abs/2603.09490)|-|-|
 |**2026-3-10**|**TA-GGAD: Testing-time Adaptive Graph Model for Generalist Graph Anomaly Detection**|Xiong Zhang et.al|[paper](https://arxiv.org/abs/2603.09349)|[code](https://anonymous.4open.science/r/Anonymization-TA-GGAD/.)|-|
@@ -95,9 +98,6 @@
 |**2026-3-7**|**Explainable Heterogeneous Anomaly Detection in Financial Networks via Adaptive Expert Routing**|Zan Li et.al|[paper](https://arxiv.org/abs/2510.17088)|-|<details><summary>detail</summary>Journal ref:XAI-FIN: International Joint Workshop on Explainable AI in Finance</details>|
 |**2026-3-7**|**PDD: Manifold-Prior Diverse Distillation for Medical Anomaly Detection**|Xijun Lu et.al|[paper](https://arxiv.org/abs/2603.07142)|[code](https://github.com/OxygenLu/PDD)|<details><summary>detail</summary>Accepted by CVPR'2026</details>|
 |**2026-3-7**|**Interpretable Maximum Margin Deep Anomaly Detection**|Zhiji Yang et.al|[paper](https://arxiv.org/abs/2603.07073)|-|-|
-|**2026-3-6**|**WMoE-CLIP: Wavelet-Enhanced Mixture-of-Experts Prompt Learning for Zero-Shot Anomaly Detection**|Peng Chen et.al|[paper](https://arxiv.org/abs/2603.06313)|-|-|
-|**2026-3-6**|**DQE: A Semantic-Aware Evaluation Metric for Time Series Anomaly Detection**|Yuewei Li et.al|[paper](https://arxiv.org/abs/2603.06131)|-|-|
-|**2026-3-5**|**AegisUI: Behavioral Anomaly Detection for Structured User Interface Protocols in AI Agent Systems**|Mohd Safwan Uddin et.al|[paper](https://arxiv.org/abs/2603.05031)|-|-|
 
 ## 3D Anomaly Detection
 
