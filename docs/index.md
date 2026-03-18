@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.03.17
+## Updated on 2026.03.18
 
 ## Defect Detection
 
@@ -73,6 +73,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-17**|**TinyGLASS: Real-Time Self-Supervised In-Sensor Anomaly Detection**|Pietro Bonazzi et.al|[paper](https://arxiv.org/abs/2603.16451)|-|-|
 |**2026-3-16**|**GATE-AD: Graph Attention Network Encoding For Few-Shot Industrial Visual Anomaly Detection**|Aggelos Psiris et.al|[paper](https://arxiv.org/abs/2603.15300)|[code](https://github.com/gthpapadopoulos/GATE-AD.)|-|
 |**2026-3-16**|**Surprised by Attention: Predictable Query Dynamics for Time Series Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2603.12916)|[code](https://github.com/iis-esslingen/AxonAD.)|<details><summary>detail</summary>Main: 17 Pages</details>|
 |**2026-3-16**|**Multi-turn Physics-informed Vision-language Model for Physics-grounded Anomaly Detection**|Yao Gu et.al|[paper](https://arxiv.org/abs/2603.15237)|-|<details><summary>detail</summary>Accepted by IEEE ICASSP2026</details>|
@@ -97,7 +98,6 @@
 |**2026-3-11**|**ECoLAD: Deployment-Oriented Evaluation for Automotive Time-Series Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2603.10926)|-|-|
 |**2026-3-11**|**STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2511.15339)|-|<details><summary>detail</summary>appear in the 2026 IEEE Intelligent Vehicles Symposium (IV 2026)</details>|
 |**2026-3-11**|**No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection**|Zunkai Dai et.al|[paper](https://arxiv.org/abs/2602.19248)|[code](https://github.com/VitaminCreed/LAVIDA.)|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
-|**2026-3-11**|**RC-NF: Robot-Conditioned Normalizing Flow for Real-Time Anomaly Detection in Robotic Manipulation**|Shijie Zhou et.al|[paper](https://arxiv.org/abs/2603.11106)|-|<details><summary>detail</summary>the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026</details>|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-17**|**VQKV: High-Fidelity and High-Ratio Cache Compression via Vector-Quantization**|Yixuan Wang et.al|[paper](https://arxiv.org/abs/2603.16435)|-|-|
 |**2026-3-14**|**Purrception: Variational Flow Matching for Vector-Quantized Image Generation**|Răzvan-Andrei Matişan et.al|[paper](https://arxiv.org/abs/2510.01478)|-|<details><summary>detail</summary>Published as a conference paper at ICLR 2026</details>|
 |**2026-3-11**|**Leech Lattice Vector Quantization for Efficient LLM Compression**|Tycho F. A. van der Ouderaa et.al|[paper](https://arxiv.org/abs/2603.11021)|-|-|
 |**2026-3-4**|**Vector-Quantized Soft Label Compression for Dataset Distillation**|Ali Abbasi et.al|[paper](https://arxiv.org/abs/2603.03808)|-|-|
@@ -187,5 +188,4 @@
 |**2026-1-21**|**SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation**|Hui Li et.al|[paper](https://arxiv.org/abs/2509.12086)|-|-|
 |**2026-1-17**|**Scene-Aware Vectorized Memory Multi-Agent Framework with Cross-Modal Differentiated Quantization VLMs for Visually Impaired Assistance**|Xiangxiang Wang et.al|[paper](https://arxiv.org/abs/2508.18177)|-|-|
 |**2026-1-15**|**VQ-Seg: Vector-Quantized Token Perturbation for Semi-Supervised Medical Image Segmentation**|Sicheng Yang et.al|[paper](https://arxiv.org/abs/2601.10124)|[code](https://github.com/script-Yang/VQ-Seg.)|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
-|**2026-1-14**|**FaTRQ: Tiered Residual Quantization for LLM Vector Search in Far-Memory-Aware ANNS Systems**|Tianqi Zhang et.al|[paper](https://arxiv.org/abs/2601.09985)|-|-|
 
