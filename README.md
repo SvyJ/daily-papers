@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.03.18
+## Updated on 2026.03.19
 
 ## Defect Detection
 
@@ -73,6 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-18**|**RangeAD: Fast On-Model Anomaly Detection**|Luca Hinkamp et.al|[paper](https://arxiv.org/abs/2603.17795)|-|-|
+|**2026-3-18**|**Unsupervised Symbolic Anomaly Detection**|Md Maruf Hossain et.al|[paper](https://arxiv.org/abs/2603.17575)|-|-|
+|**2026-3-18**|**AdapTS: Lightweight Teacher-Student Approach for Multi-Class and Continual Visual Anomaly Detection**|Manuel Barusco et.al|[paper](https://arxiv.org/abs/2603.17530)|-|-|
+|**2026-3-18**|**No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection**|Zunkai Dai et.al|[paper](https://arxiv.org/abs/2602.19248)|[code](https://github.com/VitaminCreed/LAVIDA.)|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
+|**2026-3-17**|**MedSAD-CLIP: Supervised CLIP with Token-Patch Cross-Attention for Medical Anomaly Detection and Segmentation**|Thuy Truong Tran et.al|[paper](https://arxiv.org/abs/2603.17325)|[code](https://github.com/thuy4tbn99/MedSAD-CLIP)|-|
 |**2026-3-17**|**TinyGLASS: Real-Time Self-Supervised In-Sensor Anomaly Detection**|Pietro Bonazzi et.al|[paper](https://arxiv.org/abs/2603.16451)|-|-|
 |**2026-3-16**|**GATE-AD: Graph Attention Network Encoding For Few-Shot Industrial Visual Anomaly Detection**|Aggelos Psiris et.al|[paper](https://arxiv.org/abs/2603.15300)|[code](https://github.com/gthpapadopoulos/GATE-AD.)|-|
 |**2026-3-16**|**Surprised by Attention: Predictable Query Dynamics for Time Series Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2603.12916)|[code](https://github.com/iis-esslingen/AxonAD.)|<details><summary>detail</summary>Main: 17 Pages</details>|
@@ -93,11 +98,6 @@
 |**2026-3-13**|**Cross Pseudo Labeling For Weakly Supervised Video Anomaly Detection**|Dayeon Lee et.al|[paper](https://arxiv.org/abs/2602.17077)|[code](https://github.com/eastbrother87/CPLVAD)|<details><summary>detail</summary>ICASSP 2026</details>|
 |**2026-3-13**|**LADMIM: Logical Anomaly Detection with Masked Image Modeling in Discrete Latent Space**|Shunsuke Sakai et.al|[paper](https://arxiv.org/abs/2410.10234)|[code](https://github.com/SkyShunsuke/LADMIM)|<details><summary>detail</summary>TMLR2025</details>|
 |**2026-3-12**|**A Photorealistic Dataset and Vision-Based Algorithm for Anomaly Detection During Proximity Operations in Lunar Orbit**|Selina Leveugle et.al|[paper](https://arxiv.org/abs/2409.20435)|-|<details><summary>detail</summary>In IEEE Robotics and Automation Letters (RA-L) and presented at the IEEE International Conference on Robotics and Automation (ICRA'26)</details>|
-|**2026-3-12**|**Anomaly detection in time-series via inductive biases in the latent space of conditional normalizing flows**|David Baumgartner et.al|[paper](https://arxiv.org/abs/2603.11756)|-|-|
-|**2026-3-12**|**InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models**|Shunsuke Sakai et.al|[paper](https://arxiv.org/abs/2504.05662)|[code](https://invad-project.com)|<details><summary>detail</summary>CVPR2026</details>|
-|**2026-3-11**|**ECoLAD: Deployment-Oriented Evaluation for Automotive Time-Series Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2603.10926)|-|-|
-|**2026-3-11**|**STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2511.15339)|-|<details><summary>detail</summary>appear in the 2026 IEEE Intelligent Vehicles Symposium (IV 2026)</details>|
-|**2026-3-11**|**No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection**|Zunkai Dai et.al|[paper](https://arxiv.org/abs/2602.19248)|[code](https://github.com/VitaminCreed/LAVIDA.)|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
 
 ## 3D Anomaly Detection
 
