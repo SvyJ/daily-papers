@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.03.19
+## Updated on 2026.03.20
 
 ## Defect Detection
 
@@ -73,7 +73,14 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-19**|**Revisiting OmniAnomaly for Anomaly Detection: performance metrics and comparison with PCA-based models**|Bruna Alves et.al|[paper](https://arxiv.org/abs/2603.18985)|-|-|
+|**2026-3-19**|**Multi-Scale Distillation for RGB-D Anomaly Detection on the PD-REAL Dataset**|Jianjian Qin et.al|[paper](https://arxiv.org/abs/2311.04095)|[code](https://github.com/Andy-cs008/PD-REAL)|-|
+|**2026-3-19**|**Balancing Performance and Fairness in Explainable AI for Anomaly Detection in Distributed Power Plants Monitoring**|Corneille Niyonkuru et.al|[paper](https://arxiv.org/abs/2603.18954)|-|-|
+|**2026-3-19**|**Unified Taxonomy for Multivariate Time Series Anomaly Detection using Deep Learning**|Bruna Alves et.al|[paper](https://arxiv.org/abs/2603.18941)|-|-|
+|**2026-3-19**|**Pi-transformer: A prior-informed dual-attention model for multivariate time-series anomaly detection**|Sepehr Maleki et.al|[paper](https://arxiv.org/abs/2509.19985)|-|<details><summary>detail</summary>Journal ref:Applied Soft Computing 195 (2026) 115029</details>|
+|**2026-3-19**|**Video Anomaly Detection with Semantics-Aware Information Bottleneck**|Juntong Li et.al|[paper](https://arxiv.org/abs/2506.02535)|[code](https://qzfm.github.io/sib_vad_project_page/)|<details><summary>detail</summary>Accepted by ICME 2026</details>|
 |**2026-3-18**|**RangeAD: Fast On-Model Anomaly Detection**|Luca Hinkamp et.al|[paper](https://arxiv.org/abs/2603.17795)|-|-|
+|**2026-3-18**|**BoundAD: Boundary-Aware Negative Generation for Time Series Anomaly Detection**|Xiancheng Wang et.al|[paper](https://arxiv.org/abs/2603.18111)|-|-|
 |**2026-3-18**|**Unsupervised Symbolic Anomaly Detection**|Md Maruf Hossain et.al|[paper](https://arxiv.org/abs/2603.17575)|-|-|
 |**2026-3-18**|**AdapTS: Lightweight Teacher-Student Approach for Multi-Class and Continual Visual Anomaly Detection**|Manuel Barusco et.al|[paper](https://arxiv.org/abs/2603.17530)|-|-|
 |**2026-3-18**|**No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection**|Zunkai Dai et.al|[paper](https://arxiv.org/abs/2602.19248)|[code](https://github.com/VitaminCreed/LAVIDA.)|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
@@ -91,13 +98,6 @@
 |**2026-3-14**|**MO-SAE:Multi-Objective Stacked Autoencoders Optimization for Edge Anomaly Detection**|Lizhao Zhang et.al|[paper](https://arxiv.org/abs/2603.13895)|-|<details><summary>detail</summary>store</details>|
 |**2026-3-14**|**AD-Copilot: A Vision-Language Assistant for Industrial Anomaly Detection via Visual In-context Comparison**|Xi Jiang et.al|[paper](https://arxiv.org/abs/2603.13779)|-|-|
 |**2026-3-13**|**Explainable Visual Anomaly Detection via Concept Bottleneck Models**|Arianna Stropeni et.al|[paper](https://arxiv.org/abs/2511.20088)|-|-|
-|**2026-3-13**|**MIRAGE: Model-agnostic Industrial Realistic Anomaly Generation and Evaluation for Visual Anomaly Detection**|Jinwei Hu et.al|[paper](https://arxiv.org/abs/2603.13507)|-|-|
-|**2026-3-13**|**Unsupervised anomaly detection in MeV ultrafast electron diffraction**|Mariana A. Fazio et.al|[paper](https://arxiv.org/abs/2505.13702)|-|-|
-|**2026-3-13**|**GeoChemAD: Benchmarking Unsupervised Geochemical Anomaly Detection for Mineral Exploration**|Yihao Ding et.al|[paper](https://arxiv.org/abs/2603.13068)|-|<details><summary>detail</summary>Work in progress</details>|
-|**2026-3-13**|**Topo-R1: Detecting Topological Anomalies via Vision-Language Models**|Meilong Xu et.al|[paper](https://arxiv.org/abs/2603.13054)|-|-|
-|**2026-3-13**|**Cross Pseudo Labeling For Weakly Supervised Video Anomaly Detection**|Dayeon Lee et.al|[paper](https://arxiv.org/abs/2602.17077)|[code](https://github.com/eastbrother87/CPLVAD)|<details><summary>detail</summary>ICASSP 2026</details>|
-|**2026-3-13**|**LADMIM: Logical Anomaly Detection with Masked Image Modeling in Discrete Latent Space**|Shunsuke Sakai et.al|[paper](https://arxiv.org/abs/2410.10234)|[code](https://github.com/SkyShunsuke/LADMIM)|<details><summary>detail</summary>TMLR2025</details>|
-|**2026-3-12**|**A Photorealistic Dataset and Vision-Based Algorithm for Anomaly Detection During Proximity Operations in Lunar Orbit**|Selina Leveugle et.al|[paper](https://arxiv.org/abs/2409.20435)|-|<details><summary>detail</summary>In IEEE Robotics and Automation Letters (RA-L) and presented at the IEEE International Conference on Robotics and Automation (ICRA'26)</details>|
 
 ## 3D Anomaly Detection
 
