@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.03.22
+## Updated on 2026.03.23
 
 ## Defect Detection
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-20**|**Decoupled Sensitivity-Consistency Learning for Weakly Supervised Video Anomaly Detection**|Hantao Zheng et.al|[paper](https://arxiv.org/abs/2603.19780)|[code](https://github.com/imzht/DeSC.)|-|
+|**2026-3-20**|**Demographic-Aware Self-Supervised Anomaly Detection Pretraining for Equitable Rare Cardiac Diagnosis**|Chaoqin Huang et.al|[paper](https://arxiv.org/abs/2603.19695)|[code](https://github.com/MediaBrain-SJTU/Rare-ECG.)|-|
+|**2026-3-19**|**FB-CLIP: Fine-Grained Zero-Shot Anomaly Detection with Foreground-Background Disentanglement**|Ming Hu et.al|[paper](https://arxiv.org/abs/2603.19608)|-|-|
+|**2026-3-19**|**ICLAD: In-Context Learning for Unified Tabular Anomaly Detection Across Supervision Regimes**|Jack Yi Wei et.al|[paper](https://arxiv.org/abs/2603.19497)|-|-|
 |**2026-3-19**|**Revisiting OmniAnomaly for Anomaly Detection: performance metrics and comparison with PCA-based models**|Bruna Alves et.al|[paper](https://arxiv.org/abs/2603.18985)|-|-|
 |**2026-3-19**|**Multi-Scale Distillation for RGB-D Anomaly Detection on the PD-REAL Dataset**|Jianjian Qin et.al|[paper](https://arxiv.org/abs/2311.04095)|[code](https://github.com/Andy-cs008/PD-REAL)|-|
 |**2026-3-19**|**Balancing Performance and Fairness in Explainable AI for Anomaly Detection in Distributed Power Plants Monitoring**|Corneille Niyonkuru et.al|[paper](https://arxiv.org/abs/2603.18954)|-|-|
@@ -94,10 +98,6 @@
 |**2026-3-14**|**UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression**|Yuan Zhao et.al|[paper](https://arxiv.org/abs/2509.25934)|[code](https://github.com/yuanzhao-CVLAB/UniMMAD.)|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
 |**2026-3-14**|**VAD4Space: Visual Anomaly Detection for Planetary Surface Imagery**|Fabrizio Genilotti et.al|[paper](https://arxiv.org/abs/2603.13993)|-|-|
 |**2026-3-14**|**ABounD: Adversarial Boundary-Driven Few-Shot Learning for Multi-Class Anomaly Detection**|Runzhi Deng et.al|[paper](https://arxiv.org/abs/2511.22436)|-|-|
-|**2026-3-14**|**VID-AD: A Dataset for Image-Level Logical Anomaly Detection under Vision-Induced Distraction**|Hiroto Nakata et.al|[paper](https://arxiv.org/abs/2603.13964)|[code](https://github.com/nkthiroto/VID-AD.)|-|
-|**2026-3-14**|**MO-SAE:Multi-Objective Stacked Autoencoders Optimization for Edge Anomaly Detection**|Lizhao Zhang et.al|[paper](https://arxiv.org/abs/2603.13895)|-|<details><summary>detail</summary>store</details>|
-|**2026-3-14**|**AD-Copilot: A Vision-Language Assistant for Industrial Anomaly Detection via Visual In-context Comparison**|Xi Jiang et.al|[paper](https://arxiv.org/abs/2603.13779)|-|-|
-|**2026-3-13**|**Explainable Visual Anomaly Detection via Concept Bottleneck Models**|Arianna Stropeni et.al|[paper](https://arxiv.org/abs/2511.20088)|-|-|
 
 ## 3D Anomaly Detection
 
