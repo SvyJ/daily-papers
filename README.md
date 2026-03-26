@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-25**|**KRONE: Hierarchical and Modular Log Anomaly Detection**|Lei Ma et.al|[paper](https://arxiv.org/abs/2602.07303)|[code](https://github.com/LeiMa0324/KRONE)|<details><summary>detail</summary>ICDE 2026</details>|
+|**2026-3-24**|**MLE-UVAD: Minimal Latent Entropy Autoencoder for Fully Unsupervised Video Anomaly Detection**|Yuang Geng et.al|[paper](https://arxiv.org/abs/2603.23868)|-|<details><summary>detail</summary>Submitted to ECCV 2026</details>|
+|**2026-3-24**|**Semantic Iterative Reconstruction: One-Shot Universal Anomaly Detection**|Ning Zhu et.al|[paper](https://arxiv.org/abs/2603.23766)|[code](https://github.com/jusufzn212427/sir4ad.)|-|
 |**2026-3-24**|**Between Resolution Collapse and Variance Inflation: Weighted Conformal Anomaly Detection in Low-Data Regimes**|Oliver Hennhöfer et.al|[paper](https://arxiv.org/abs/2603.23205)|-|-|
 |**2026-3-24**|**PiCo: Active Manifold Canonicalization for Robust Robotic Visual Anomaly Detection**|Teng Yan et.al|[paper](https://arxiv.org/abs/2603.23122)|-|-|
 |**2026-3-24**|**Template-Based Feature Aggregation Network for Industrial Anomaly Detection**|Wei Luo et.al|[paper](https://arxiv.org/abs/2603.22874)|[code](https://github.com/luow23/TFA-Net.)|<details><summary>detail</summary>Accepted by Engineering Applications of Artificial Intelligence</details>|
@@ -95,9 +98,6 @@
 |**2026-3-19**|**Revisiting OmniAnomaly for Anomaly Detection: performance metrics and comparison with PCA-based models**|Bruna Alves et.al|[paper](https://arxiv.org/abs/2603.18985)|-|-|
 |**2026-3-19**|**Multi-Scale Distillation for RGB-D Anomaly Detection on the PD-REAL Dataset**|Jianjian Qin et.al|[paper](https://arxiv.org/abs/2311.04095)|[code](https://github.com/Andy-cs008/PD-REAL)|-|
 |**2026-3-19**|**Balancing Performance and Fairness in Explainable AI for Anomaly Detection in Distributed Power Plants Monitoring**|Corneille Niyonkuru et.al|[paper](https://arxiv.org/abs/2603.18954)|-|-|
-|**2026-3-19**|**Unified Taxonomy for Multivariate Time Series Anomaly Detection using Deep Learning**|Bruna Alves et.al|[paper](https://arxiv.org/abs/2603.18941)|-|-|
-|**2026-3-19**|**Pi-transformer: A prior-informed dual-attention model for multivariate time-series anomaly detection**|Sepehr Maleki et.al|[paper](https://arxiv.org/abs/2509.19985)|-|<details><summary>detail</summary>Journal ref:Applied Soft Computing 195 (2026) 115029</details>|
-|**2026-3-19**|**Video Anomaly Detection with Semantics-Aware Information Bottleneck**|Juntong Li et.al|[paper](https://arxiv.org/abs/2506.02535)|[code](https://qzfm.github.io/sib_vad_project_page/)|<details><summary>detail</summary>Accepted by ICME 2026</details>|
 
 ## 3D Anomaly Detection
 
