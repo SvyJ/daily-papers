@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.03.29
+## Updated on 2026.03.30
 
 ## Defect Detection
 
@@ -73,6 +73,14 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-27**|**Hardware-Aware Tensor Networks for Real-Time Quantum-Inspired Anomaly Detection at Particle Colliders**|Sagar Addepalli et.al|[paper](https://arxiv.org/abs/2603.26604)|-|-|
+|**2026-3-27**|**Architecting software monitors for control-flow anomaly detection through large language models and conformance checking**|Francesco Vitale et.al|[paper](https://arxiv.org/abs/2511.10876)|-|-|
+|**2026-3-27**|**Neuro-Symbolic Process Anomaly Detection**|Devashish Gaikwad et.al|[paper](https://arxiv.org/abs/2603.26461)|-|<details><summary>detail</summary>MSC Class:68T07 (Primary)</details>|
+|**2026-3-27**|**Only Whats Necessary: Pareto Optimal Data Minimization for Privacy Preserving Video Anomaly Detection**|Nazia Aslam et.al|[paper](https://arxiv.org/abs/2603.26354)|-|-|
+|**2026-3-27**|**TinyML for Acoustic Anomaly Detection in IoT Sensor Networks**|Amar Almaini et.al|[paper](https://arxiv.org/abs/2603.26135)|-|<details><summary>detail</summary>Journal ref:2025 5th International Conference on Electrical</details>|
+|**2026-3-27**|**ACD-CLIP: Decoupling Representation and Dynamic Fusion for Zero-Shot Anomaly Detection**|Ke Ma et.al|[paper](https://arxiv.org/abs/2508.07819)|[code](https://github.com/cockmake/ACD-CLIP.)|-|
+|**2026-3-26**|**Adversarial-Robust Multivariate Time-Series Anomaly Detection via Joint Information Retention**|Hadi Hojjati et.al|[paper](https://arxiv.org/abs/2603.25956)|-|-|
+|**2026-3-26**|**EngineAD: A Real-World Vehicle Engine Anomaly Detection Dataset**|Hadi Hojjati et.al|[paper](https://arxiv.org/abs/2603.25955)|-|-|
 |**2026-3-26**|**OWLEYE: Zero-Shot Learner for Cross-Domain Graph Data Anomaly Detection**|Lecheng Zheng et.al|[paper](https://arxiv.org/abs/2601.19102)|-|<details><summary>detail</summary>Accepted by ICLR 2026</details>|
 |**2026-3-26**|**GridVAD: Open-Set Video Anomaly Detection via Spatial Reasoning over Stratified Frame Grids**|Mohamed Eltahir et.al|[paper](https://arxiv.org/abs/2603.25467)|[code](https://gridvad.github.io.)|-|
 |**2026-3-26**|**FusionLog: Cross-System Log-based Anomaly Detection via Fusion of General and Proprietary Knowledge**|Xinlong Zhao et.al|[paper](https://arxiv.org/abs/2511.05878)|-|-|
@@ -90,14 +98,6 @@
 |**2026-3-24**|**URA-Net: Uncertainty-Integrated Anomaly Perception and Restoration Attention Network for Unsupervised Anomaly Detection**|Wei Luo et.al|[paper](https://arxiv.org/abs/2603.22840)|-|<details><summary>detail</summary>Accepted by IEEE TCSVT</details>|
 |**2026-3-23**|**Multimodal Industrial Anomaly Detection via Geometric Prior**|Min Li et.al|[paper](https://arxiv.org/abs/2603.22757)|-|<details><summary>detail</summary>Accepted for publication in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</details>|
 |**2026-3-23**|**Bounding Box Anomaly Scoring for simple and efficient Out-of-Distribution detection**|Mohamed Bahi Yahiaoui et.al|[paper](https://arxiv.org/abs/2603.22660)|-|-|
-|**2026-3-23**|**No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection**|Zunkai Dai et.al|[paper](https://arxiv.org/abs/2602.19248)|[code](https://github.com/VitaminCreed/LAVIDA.)|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
-|**2026-3-23**|**Towards Multimodal Time Series Anomaly Detection with Semantic Alignment and Condensed Interaction**|Shiyan Hu et.al|[paper](https://arxiv.org/abs/2603.21612)|[code](https://github.com/decisionintelligence/MindTS.)|<details><summary>detail</summary>ICLR 2026</details>|
-|**2026-3-23**|**Modeling Quantum Federated Autoencoder for Anomaly Detection in IoT Networks**|Devashish Chaudhary et.al|[paper](https://arxiv.org/abs/2603.22366)|-|<details><summary>detail</summary>This paper has been accepted at ICOIN 2026</details>|
-|**2026-3-23**|**Exploring Multimodal Prompts For Unsupervised Continuous Anomaly Detection**|Mingle Zhou et.al|[paper](https://arxiv.org/abs/2603.21562)|-|-|
-|**2026-3-22**|**Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection**|Kaiqiang Li et.al|[paper](https://arxiv.org/abs/2603.21511)|[code](https://github.com/wistful-8029/BTP-3DAD)|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
-|**2026-3-22**|**BAAF: Universal Transformation of One-Class Classifiers for Unsupervised Image Anomaly Detection**|Declan McIntosh et.al|[paper](https://arxiv.org/abs/2602.13091)|-|<details><summary>detail</summary>6 figures</details>|
-|**2026-3-22**|**TinyGLASS: Real-Time Self-Supervised In-Sensor Anomaly Detection**|Pietro Bonazzi et.al|[paper](https://arxiv.org/abs/2603.16451)|-|-|
-|**2026-3-20**|**Decoupled Sensitivity-Consistency Learning for Weakly Supervised Video Anomaly Detection**|Hantao Zheng et.al|[paper](https://arxiv.org/abs/2603.19780)|[code](https://github.com/imzht/DeSC.)|-|
 
 ## 3D Anomaly Detection
 
