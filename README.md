@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-31**|**Deep Learning-Based Anomaly Detection in Spacecraft Telemetry on Edge Devices**|Christopher Goetze et.al|[paper](https://arxiv.org/abs/2603.29375)|-|<details><summary>detail</summary>IEEE Space Computing Conference (SCC 2025)</details>|
+|**2026-3-30**|**IMPACT: Influence Modeling for Open-Set Time Series Anomaly Detection**|Xiaohui Zhou et.al|[paper](https://arxiv.org/abs/2603.29183)|-|-|
+|**2026-3-30**|**A Semantic Observer Layer for Autonomous Vehicles: Pre-Deployment Feasibility Study of VLMs for Low-Latency Anomaly Detection**|Kunal Runwal et.al|[paper](https://arxiv.org/abs/2603.28888)|-|-|
 |**2026-3-30**|**Interpretable Ensemble Learning for Network Traffic Anomaly Detection: A SHAP-based Explainable AI Framework for Embedded Systems Security**|Wanru Shao et.al|[paper](https://arxiv.org/abs/2603.28654)|-|-|
 |**2026-3-30**|**NeiGAD: Augmenting Graph Anomaly Detection via Spectral Neighbor Information**|Qing Qing et.al|[paper](https://arxiv.org/abs/2603.28300)|[code](https://github.com/huafeihuang/NeiGAD.)|-|
 |**2026-3-30**|**Synergizing Large Language Models and Task-specific Models for Time Series Anomaly Detection**|Feiyi Chen et.al|[paper](https://arxiv.org/abs/2501.05675)|-|<details><summary>detail</summary>This work has been submitted to the IEEE for possible publication</details>|
@@ -95,9 +98,6 @@
 |**2026-3-26**|**OWLEYE: Zero-Shot Learner for Cross-Domain Graph Data Anomaly Detection**|Lecheng Zheng et.al|[paper](https://arxiv.org/abs/2601.19102)|-|<details><summary>detail</summary>Accepted by ICLR 2026</details>|
 |**2026-3-26**|**GridVAD: Open-Set Video Anomaly Detection via Spatial Reasoning over Stratified Frame Grids**|Mohamed Eltahir et.al|[paper](https://arxiv.org/abs/2603.25467)|[code](https://gridvad.github.io.)|-|
 |**2026-3-26**|**FusionLog: Cross-System Log-based Anomaly Detection via Fusion of General and Proprietary Knowledge**|Xinlong Zhao et.al|[paper](https://arxiv.org/abs/2511.05878)|-|-|
-|**2026-3-26**|**Hyperspectral Trajectory Image for Multi-Month Trajectory Anomaly Detection**|Md Awsafur Rahman et.al|[paper](https://arxiv.org/abs/2603.25255)|-|-|
-|**2026-3-26**|**A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection**|SuYeon Kim et.al|[paper](https://arxiv.org/abs/2603.25159)|-|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
-|**2026-3-25**|**Towards Video Anomaly Detection from Event Streams: A Baseline and Benchmark Datasets**|Peng Wu et.al|[paper](https://arxiv.org/abs/2603.24991)|-|-|
 
 ## 3D Anomaly Detection
 
