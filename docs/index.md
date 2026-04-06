@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.04.05
+## Updated on 2026.04.06
 
 ## Defect Detection
 
@@ -73,6 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-3**|**QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection**|Lokman Bekit et.al|[paper](https://arxiv.org/abs/2604.03040)|-|-|
+|**2026-4-3**|**SPG: Sparse-Projected Guides with Sparse Autoencoders for Zero-Shot Anomaly Detection**|Tomoyasu Nanaumi et.al|[paper](https://arxiv.org/abs/2604.02871)|-|-|
+|**2026-4-3**|**ADSeeker: A Knowledge-Grounded Reasoning Framework for Industry Anomaly Detection and Reasoning**|Kai Zhang et.al|[paper](https://arxiv.org/abs/2508.03088)|-|-|
+|**2026-4-2**|**Financial Anomaly Detection for the Canadian Market**|Luigi Caputi et.al|[paper](https://arxiv.org/abs/2604.02549)|-|<details><summary>detail</summary>MSC Class:68T09</details>|
+|**2026-4-2**|**Semantic Iterative Reconstruction: One-Shot Universal Anomaly Detection**|Ning Zhu et.al|[paper](https://arxiv.org/abs/2603.23766)|-|-|
+|**2026-4-2**|**Matrix Profile for Time-Series Anomaly Detection: A Reproducible Open-Source Benchmark on TSB-AD**|Chin-Chia Michael Yeh et.al|[paper](https://arxiv.org/abs/2604.02445)|[code](https://github.com/mcyeh/mmpad_tsb.)|-|
 |**2026-4-2**|**Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection**|Alex Costanzino et.al|[paper](https://arxiv.org/abs/2604.02328)|-|<details><summary>detail</summary>CVPR Findings 2026</details>|
 |**2026-4-2**|**GenGait: A Transformer-Based Model for Human Gait Anomaly Detection and Normative Twin Generation**|Elisa Motta et.al|[paper](https://arxiv.org/abs/2604.01997)|[code](https://youtu.be/Rcm3jqR5pN4.)|-|
 |**2026-4-2**|**CANDI: Curated Test-Time Adaptation for Multivariate Time-Series Anomaly Detection Under Distribution Shift**|HyunGi Kim et.al|[paper](https://arxiv.org/abs/2604.01845)|-|<details><summary>detail</summary>AAAI 2026</details>|
@@ -92,12 +98,6 @@
 |**2026-3-30**|**NeiGAD: Augmenting Graph Anomaly Detection via Spectral Neighbor Information**|Qing Qing et.al|[paper](https://arxiv.org/abs/2603.28300)|[code](https://github.com/huafeihuang/NeiGAD.)|-|
 |**2026-3-30**|**Synergizing Large Language Models and Task-specific Models for Time Series Anomaly Detection**|Feiyi Chen et.al|[paper](https://arxiv.org/abs/2501.05675)|-|<details><summary>detail</summary>This work has been submitted to the IEEE for possible publication</details>|
 |**2026-3-30**|**Detecting the Unexpected: AI-Driven Anomaly Detection in Smart Bridge Monitoring**|Rahul Jaiswal et.al|[paper](https://arxiv.org/abs/2603.28225)|-|-|
-|**2026-3-29**|**Bidirectional Multimodal Prompt Learning with Scale-Aware Training for Few-Shot Multi-Class Anomaly Detection**|Yujin Lee et.al|[paper](https://arxiv.org/abs/2408.13516)|-|<details><summary>detail</summary>accepted to CVPR 2026</details>|
-|**2026-3-28**|**The Geometry of Harmful Intent: Training-Free Anomaly Detection via Angular Deviation in LLM Residual Streams**|Isaac Llorente-Saguer et.al|[paper](https://arxiv.org/abs/2603.27412)|-|-|
-|**2026-3-28**|**K-Means Based TinyML Anomaly Detection and Distributed Model Reuse via the Distributed Internet of Learning (DIoL)**|Abdulrahman Albaiz et.al|[paper](https://arxiv.org/abs/2603.27393)|-|<details><summary>detail</summary>SaTC 2026 Conference</details>|
-|**2026-3-28**|**Reasoning-Driven Anomaly Detection and Localization with Image-Level Supervision**|Yizhou Jin et.al|[paper](https://arxiv.org/abs/2603.27179)|[code](https://github.com/YizhouJin313/ReADL.)|<details><summary>detail</summary>CVPR 2026</details>|
-|**2026-3-28**|**A Survey of Heterogeneous Graph Neural Networks for Cybersecurity Anomaly Detection**|Laura Jiang et.al|[paper](https://arxiv.org/abs/2510.26307)|-|-|
-|**2026-3-27**|**ShortcutBreaker: Low-Rank Noisy Bottleneck and Frequency Filtering Block for Multi-Class Unsupervised Anomaly Detection**|Peng Tang et.al|[paper](https://arxiv.org/abs/2510.18342)|-|<details><summary>detail</summary>Under Review</details>|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-3**|**Minimal Information Control Invariance via Vector Quantization**|Ege Yuceel et.al|[paper](https://arxiv.org/abs/2604.03132)|-|-|
 |**2026-3-29**|**SmaAT-QMix-UNet: A Parameter-Efficient Vector-Quantized UNet for Precipitation Nowcasting**|Nikolas Stavrou et.al|[paper](https://arxiv.org/abs/2603.21879)|[code](https://github.com/nstavr04/MasterThesisSnellius.)|-|
 |**2026-3-23**|**DiVeQ: Differentiable Vector Quantization Using the Reparameterization Trick**|Mohammad Hassan Vali et.al|[paper](https://arxiv.org/abs/2509.26469)|-|-|
 |**2026-3-22**|**Texture Vector-Quantization and Reconstruction Aware Prediction for Generative Super-Resolution**|Qifan Li et.al|[paper](https://arxiv.org/abs/2509.23774)|-|<details><summary>detail</summary>ICLR 2026</details>|
@@ -187,5 +188,4 @@
 |**2026-2-2**|**Bandwidth-Efficient Multi-Agent Communication through Information Bottleneck and Vector Quantization**|Ahmad Farooq et.al|[paper](https://arxiv.org/abs/2602.02035)|-|<details><summary>detail</summary>the 2026 IEEE International Conference on Robotics and Automation (ICRA 2026)</details>|
 |**2026-2-2**|**ParaGSE: Parallel Generative Speech Enhancement with Group-Vector-Quantization-based Neural Speech Codec**|Fei Liu et.al|[paper](https://arxiv.org/abs/2602.01793)|-|<details><summary>detail</summary>Accepted by ICASSP 2026</details>|
 |**2026-2-1**|**Generalized Radius and Integrated Codebook Transforms for Differentiable Vector Quantization**|Haochen You et.al|[paper](https://arxiv.org/abs/2602.01140)|-|<details><summary>detail</summary>This paper has been accepted as a conference paper at CPAL 2026</details>|
-|**2026-1-29**|**Pushing Toward the Simplex Vertices: A Simple Remedy for Code Collapse in Smoothed Vector Quantization**|Takashi Morita et.al|[paper](https://arxiv.org/abs/2509.22161)|-|-|
 
