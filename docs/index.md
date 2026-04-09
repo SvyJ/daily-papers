@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.04.08
+## Updated on 2026.04.09
 
 ## Defect Detection
 
@@ -73,9 +73,20 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-8**|**A Giant-Step Baby-Step Classifier For Scalable and Real-Time Anomaly Detection In Industrial Control Systems and Water Treatment Systems**|Sarad Venugopalan et.al|[paper](https://arxiv.org/abs/2504.20906)|-|-|
+|**2026-4-8**|**Novel Anomaly Detection Scenarios and Evaluation Metrics to Address the Ambiguity in the Definition of Normal Samples**|Reiji Saito et.al|[paper](https://arxiv.org/abs/2604.07097)|[code](https://github.com/ReijiSoftmaxSaito/Scenario)|<details><summary>detail</summary>Accepted by CVPR 2026 Workshop</details>|
+|**2026-4-8**|**Fast reconstruction-based ROI triggering via anomaly detection in the CYGNO optical TPC**|F. D. Amaro et.al|[paper](https://arxiv.org/abs/2512.24290)|-|-|
+|**2026-4-8**|**RASALoRE: Region Aware Spatial Attention with Location-based Random Embeddings for Weakly Supervised Anomaly Detection in Brain MRI Scans**|Bheeshm Sharma et.al|[paper](https://arxiv.org/abs/2510.08052)|[code](https://github.com/BheeshmSharma/RASALoRE-BMVC-2025/.)|<details><summary>detail</summary>the 36th British Machine Vision Conference (BMVC-2025)</details>|
+|**2026-4-8**|**Can VLMs Unlock Semantic Anomaly Detection? A Framework for Structured Reasoning**|Roberto Brusnicki et.al|[paper](https://arxiv.org/abs/2510.18034)|[code](https://SAV4N7.github.io)|-|
+|**2026-4-7**|**Quantum-Inspired Tensor Network Autoencoders for Anomaly Detection: A MERA-Based Approach**|Emre Gurkanli et.al|[paper](https://arxiv.org/abs/2604.06541)|-|-|
+|**2026-4-7**|**Matrix Profile for Anomaly Detection on Multidimensional Time Series**|Chin-Chia Michael Yeh et.al|[paper](https://arxiv.org/abs/2409.09298)|[code](https://github.com/mcyeh/mmpad_tsb)|<details><summary>detail</summary>https://github</details>|
+|**2026-4-7**|**Matrix Profile for Time-Series Anomaly Detection: A Reproducible Open-Source Benchmark on TSB-AD**|Chin-Chia Michael Yeh et.al|[paper](https://arxiv.org/abs/2604.02445)|[code](https://github.com/mcyeh/mmpad_tsb.)|<details><summary>detail</summary>https://github</details>|
+|**2026-4-7**|**From Load Tests to Live Streams: Graph Embedding-Based Anomaly Detection in Microservice Architectures**|Srinidhi Madabhushi et.al|[paper](https://arxiv.org/abs/2604.06448)|-|<details><summary>detail</summary>FSE 2026 - Industrial Track</details>|
+|**2026-4-7**|**Continual Visual Anomaly Detection on the Edge: Benchmark and Efficient Solutions**|Manuel Barusco et.al|[paper](https://arxiv.org/abs/2604.06435)|-|-|
 |**2026-4-7**|**SGANet: Semantic and Geometric Alignment for Multimodal Multi-view Anomaly Detection**|Letian Bai et.al|[paper](https://arxiv.org/abs/2604.05632)|-|-|
 |**2026-4-7**|**Time-reversed Flow Matching with Worst Transport in High-dimensional Latent Space for Image Anomaly Detection**|Liangwei Li et.al|[paper](https://arxiv.org/abs/2508.05461)|[code](https://github.com/lil-wayne-0319/fmad.)|-|
 |**2026-4-7**|**Unifying VLM-Guided Flow Matching and Spectral Anomaly Detection for Interpretable Veterinary Diagnosis**|Pu Wang et.al|[paper](https://arxiv.org/abs/2604.05482)|[code](https://github.com/Pu-Wang-alt/Canine-pneumothorax).)|-|
+|**2026-4-6**|**SMT-AD: a scalable quantum-inspired anomaly detection approach**|Apimuk Sornsaeng et.al|[paper](https://arxiv.org/abs/2604.06265)|-|-|
 |**2026-4-6**|**Cross-Machine Anomaly Detection Leveraging Pre-trained Time-series Model**|Yangmeng Li et.al|[paper](https://arxiv.org/abs/2604.05335)|-|-|
 |**2026-4-6**|**Cyber-Physical Systems Security: A Comprehensive Review of Anomaly Detection Techniques**|Danial Abshari et.al|[paper](https://arxiv.org/abs/2502.13256)|-|<details><summary>detail</summary>Journal ref:Internet of Things</details>|
 |**2026-4-6**|**Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection**|Yihan Sun et.al|[paper](https://arxiv.org/abs/2604.04658)|[code](https://github.com/hustCYQ/Synthesis4AD.)|-|
@@ -87,17 +98,6 @@
 |**2026-4-4**|**Advancing Pre-trained Teacher: Towards Robust Feature Discrepancy for Anomaly Detection**|Canhui Tang et.al|[paper](https://arxiv.org/abs/2405.02068)|-|<details><summary>detail</summary>Accepted by IEEE Transactions on Image Processing (TIP)</details>|
 |**2026-4-3**|**QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection**|Lokman Bekit et.al|[paper](https://arxiv.org/abs/2604.03040)|-|-|
 |**2026-4-3**|**SPG: Sparse-Projected Guides with Sparse Autoencoders for Zero-Shot Anomaly Detection**|Tomoyasu Nanaumi et.al|[paper](https://arxiv.org/abs/2604.02871)|-|-|
-|**2026-4-3**|**ADSeeker: A Knowledge-Grounded Reasoning Framework for Industry Anomaly Detection and Reasoning**|Kai Zhang et.al|[paper](https://arxiv.org/abs/2508.03088)|-|-|
-|**2026-4-2**|**Financial Anomaly Detection for the Canadian Market**|Luigi Caputi et.al|[paper](https://arxiv.org/abs/2604.02549)|-|<details><summary>detail</summary>MSC Class:68T09</details>|
-|**2026-4-2**|**Semantic Iterative Reconstruction: One-Shot Universal Anomaly Detection**|Ning Zhu et.al|[paper](https://arxiv.org/abs/2603.23766)|-|-|
-|**2026-4-2**|**Matrix Profile for Time-Series Anomaly Detection: A Reproducible Open-Source Benchmark on TSB-AD**|Chin-Chia Michael Yeh et.al|[paper](https://arxiv.org/abs/2604.02445)|[code](https://github.com/mcyeh/mmpad_tsb.)|-|
-|**2026-4-2**|**Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection**|Alex Costanzino et.al|[paper](https://arxiv.org/abs/2604.02328)|-|<details><summary>detail</summary>CVPR Findings 2026</details>|
-|**2026-4-2**|**GenGait: A Transformer-Based Model for Human Gait Anomaly Detection and Normative Twin Generation**|Elisa Motta et.al|[paper](https://arxiv.org/abs/2604.01997)|[code](https://youtu.be/Rcm3jqR5pN4.)|-|
-|**2026-4-2**|**CANDI: Curated Test-Time Adaptation for Multivariate Time-Series Anomaly Detection Under Distribution Shift**|HyunGi Kim et.al|[paper](https://arxiv.org/abs/2604.01845)|-|<details><summary>detail</summary>AAAI 2026</details>|
-|**2026-4-2**|**GridVAD: Open-Set Video Anomaly Detection via Spatial Reasoning over Stratified Frame Grids**|Mohamed Eltahir et.al|[paper](https://arxiv.org/abs/2603.25467)|[code](https://gridvad.github.io.)|-|
-|**2026-4-2**|**Labels Matter More Than Models: Rethinking the Unsupervised Paradigm in Time Series Anomaly Detection**|Zhijie Zhong et.al|[paper](https://arxiv.org/abs/2511.16145)|[code](https://github.com/EmorZz1G/STAND.)|-|
-|**2026-4-2**|**Towards Transparent and Efficient Anomaly Detection in Industrial Processes through ExIFFI**|Davide Frizzo et.al|[paper](https://arxiv.org/abs/2405.01158)|-|<details><summary>detail</summary>Submitted to IEEE Transaction on Industry Applications</details>|
-|**2026-4-1**|**Open-Set Supervised 3D Anomaly Detection: An Industrial Dataset and a Generalisable Framework for Unknown Defects**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2604.01171)|[code](https://github.com/hzzzzzhappy/open-industry)|<details><summary>detail</summary>Resources: https://github</details>|
 
 ## 3D Anomaly Detection
 
