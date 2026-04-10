@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.04.09
+## Updated on 2026.04.10
 
 ## Defect Detection
 
@@ -73,6 +73,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-9**|**A Comparative Study of Semantic Log Representations for Software Log-based Anomaly Detection**|Yuqing Wang et.al|[paper](https://arxiv.org/abs/2604.08028)|-|-|
+|**2026-4-8**|**ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection**|Qunyi Zhang et.al|[paper](https://arxiv.org/abs/2510.07927)|-|<details><summary>detail</summary>accpted by IEEE Transactions on Artificial Intelligence</details>|
 |**2026-4-8**|**A Giant-Step Baby-Step Classifier For Scalable and Real-Time Anomaly Detection In Industrial Control Systems and Water Treatment Systems**|Sarad Venugopalan et.al|[paper](https://arxiv.org/abs/2504.20906)|-|-|
 |**2026-4-8**|**Novel Anomaly Detection Scenarios and Evaluation Metrics to Address the Ambiguity in the Definition of Normal Samples**|Reiji Saito et.al|[paper](https://arxiv.org/abs/2604.07097)|[code](https://github.com/ReijiSoftmaxSaito/Scenario)|<details><summary>detail</summary>Accepted by CVPR 2026 Workshop</details>|
 |**2026-4-8**|**Fast reconstruction-based ROI triggering via anomaly detection in the CYGNO optical TPC**|F. D. Amaro et.al|[paper](https://arxiv.org/abs/2512.24290)|-|-|
@@ -96,8 +98,6 @@
 |**2026-4-5**|**Hierarchical Point-Patch Fusion with Adaptive Patch Codebook for 3D Shape Anomaly Detection**|Xueyang Kang et.al|[paper](https://arxiv.org/abs/2604.03972)|-|-|
 |**2026-4-4**|**Systematic Integration of Digital Twins and Constrained LLMs for Interpretable Cyber-Physical Anomaly Detection**|Konstantinos E. Kampourakis et.al|[paper](https://arxiv.org/abs/2604.03790)|-|-|
 |**2026-4-4**|**Advancing Pre-trained Teacher: Towards Robust Feature Discrepancy for Anomaly Detection**|Canhui Tang et.al|[paper](https://arxiv.org/abs/2405.02068)|-|<details><summary>detail</summary>Accepted by IEEE Transactions on Image Processing (TIP)</details>|
-|**2026-4-3**|**QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection**|Lokman Bekit et.al|[paper](https://arxiv.org/abs/2604.03040)|-|-|
-|**2026-4-3**|**SPG: Sparse-Projected Guides with Sparse Autoencoders for Zero-Shot Anomaly Detection**|Tomoyasu Nanaumi et.al|[paper](https://arxiv.org/abs/2604.02871)|-|-|
 
 ## 3D Anomaly Detection
 
