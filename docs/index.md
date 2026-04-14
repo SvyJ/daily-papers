@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.04.13
+## Updated on 2026.04.14
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-10**|**In-situ process monitoring for defect detection in wire-arc additive manufacturing: an agentic AI approach**|Pallock Halder et.al|[paper](https://arxiv.org/abs/2604.09889)|-|-|
 |**2026-4-7**|**A Weak-Signal-Aware Framework for Subsurface Defect Detection: Mechanisms for Enhancing Low-SCR Hyperbolic Signatures**|Wenbo Zhang et.al|[paper](https://arxiv.org/abs/2604.05490)|-|-|
 |**2026-4-5**|**A Self-Evolving Defect Detection Framework for Industrial Photovoltaic Systems**|Haoyu He et.al|[paper](https://arxiv.org/abs/2603.14869)|-|-|
 |**2026-4-4**|**Shower-Aware Dual-Stream Voxel Networks for Structural Defect Detection in Cosmic-Ray Muon Tomography**|Parthiv Dasgupta et.al|[paper](https://arxiv.org/abs/2604.03741)|-|-|
@@ -37,12 +38,12 @@
 |**2025-12-5**|**SPFFNet: Strip Perception and Feature Fusion Spatial Pyramid Pooling for Fabric Defect Detection**|Peizhe Zhao et.al|[paper](https://arxiv.org/abs/2502.01445)|-|-|
 |**2025-12-5**|**Automated Annotation of Shearographic Measurements Enabling Weakly Supervised Defect Detection**|Jessica Plassmann et.al|[paper](https://arxiv.org/abs/2512.06171)|-|-|
 |**2025-11-25**|**Automated Neural Architecture Design for Industrial Defect Detection**|Yuxi Liu et.al|[paper](https://arxiv.org/abs/2510.06669)|[code](https://github.com/Yuxi104/AutoNAD.)|-|
-|**2025-11-17**|**Saliency-Guided Deep Learning for Bridge Defect Detection in Drone Imagery**|Loucif Hebbache et.al|[paper](https://arxiv.org/abs/2511.14040)|-|-|
 
 ## Defect Segmentation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-13**|**Boxes2Pixels: Learning Defect Segmentation from Noisy SAM Masks**|Camile Lendering et.al|[paper](https://arxiv.org/abs/2604.11162)|[code](https://github.com/CLendering/Boxes2Pixels.)|<details><summary>detail</summary>Accepted for presentation at the AI4RWC Workshop at CVPR 2026</details>|
 |**2026-3-15**|**Multi-Period Texture Contrast Enhancement for Low-Contrast Wafer Defect Detection and Segmentation**|Zihan Zhang et.al|[paper](https://arxiv.org/abs/2603.14282)|-|-|
 |**2026-2-11**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|-|
 |**2026-1-22**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
@@ -67,19 +68,24 @@
 |**2024-10-24**|**Synth4Seg -- Learning Defect Data Synthesis for Defect Segmentation using Bi-level Optimization**|Shancong Mou et.al|[paper](https://arxiv.org/abs/2410.18490)|-|-|
 |**2024-10-1**|**Application of Segment Anything Model for Civil Infrastructure Defect Assessment**|Mohsen Ahmadi et.al|[paper](https://arxiv.org/abs/2304.12600)|-|-|
 |**2024-9-20**|**Cycle-Consistency Uncertainty Estimation for Visual Prompting based One-Shot Defect Segmentation**|Geonuk Kim et.al|[paper](https://arxiv.org/abs/2409.13984)|-|<details><summary>detail</summary>ECCV 2024 VISION workshop Most Innovative Prize</details>|
-|**2024-8-31**|**Change-Aware Siamese Network for Surface Defects Segmentation under Complex Background**|Biyuan Liu et.al|[paper](https://arxiv.org/abs/2409.00589)|-|-|
 
 ## Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-13**|**Beyond Reconstruction: Reconstruction-to-Vector Diffusion for Hyperspectral Anomaly Detection**|Jijun Xiang et.al|[paper](https://arxiv.org/abs/2604.11390)|-|-|
+|**2026-4-13**|**AnomalyGen: Enhancing Log-Based Anomaly Detection with Code-Guided Data Augmentation**|Xinyu Li et.al|[paper](https://arxiv.org/abs/2604.11107)|-|-|
+|**2026-4-13**|**MMR-AD: A Large-Scale Multimodal Dataset for Benchmarking General Anomaly Detection with Multimodal Large Language Models**|Xincheng Yao et.al|[paper](https://arxiv.org/abs/2604.10971)|-|<details><summary>detail</summary>Accepted by CVPR2026</details>|
+|**2026-4-12**|**CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection**|Qiyu Chen et.al|[paper](https://arxiv.org/abs/2508.03447)|[code](https://github.com/cqylunlun/CoPS.)|<details><summary>detail</summary>Accepted by CVPR 2026 Findings</details>|
+|**2026-4-12**|**Fourier-KAN-Mamba: A Novel State-Space Equation Approach for Time-Series Anomaly Detection**|Xiancheng Wang et.al|[paper](https://arxiv.org/abs/2511.15083)|-|<details><summary>detail</summary>We request withdrawal because we identified a flaw in the theoretical analysis of the anomaly-score identification mechanism</details>|
+|**2026-4-11**|**Unsupervised Detection of Spatiotemporal Anomalies in PMU Data Using Transformer-Based BiGAN**|Muhammad Imran Hossain et.al|[paper](https://arxiv.org/abs/2509.25612)|-|-|
+|**2026-4-10**|**ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection**|Qunyi Zhang et.al|[paper](https://arxiv.org/abs/2510.07927)|-|<details><summary>detail</summary>accpted by IEEE Transactions on Artificial Intelligence</details>|
 |**2026-4-10**|**From Frames to Events: Rethinking Evaluation in Human-Centric Video Anomaly Detection**|Narges Rashvand et.al|[paper](https://arxiv.org/abs/2604.09327)|[code](https://github.com/TeCSAR-UNCC/EventCentric-VAD.)|-|
 |**2026-4-10**|**Multimodal Anomaly Detection for Human-Robot Interaction**|Guilherme Ribeiro et.al|[paper](https://arxiv.org/abs/2604.09326)|-|-|
 |**2026-4-10**|**Batch Distillation Data for Developing Machine Learning Anomaly Detection Methods**|Justus Arweiler et.al|[paper](https://arxiv.org/abs/2510.18075)|-|<details><summary>detail</summary>Journal ref:Sci</details>|
 |**2026-4-10**|**Automated Batch Distillation Process Simulation for a Large Hybrid Dataset for Deep Anomaly Detection**|Jennifer Werner et.al|[paper](https://arxiv.org/abs/2604.09166)|-|-|
 |**2026-4-10**|**CAD 100K: A Comprehensive Multi-Task Dataset for Car Related Visual Anomaly Detection**|Jiahua Pang et.al|[paper](https://arxiv.org/abs/2604.09023)|-|-|
 |**2026-4-9**|**A Comparative Study of Semantic Log Representations for Software Log-based Anomaly Detection**|Yuqing Wang et.al|[paper](https://arxiv.org/abs/2604.08028)|-|-|
-|**2026-4-8**|**ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection**|Qunyi Zhang et.al|[paper](https://arxiv.org/abs/2510.07927)|-|<details><summary>detail</summary>accpted by IEEE Transactions on Artificial Intelligence</details>|
 |**2026-4-8**|**A Giant-Step Baby-Step Classifier For Scalable and Real-Time Anomaly Detection In Industrial Control Systems and Water Treatment Systems**|Sarad Venugopalan et.al|[paper](https://arxiv.org/abs/2504.20906)|-|-|
 |**2026-4-8**|**Novel Anomaly Detection Scenarios and Evaluation Metrics to Address the Ambiguity in the Definition of Normal Samples**|Reiji Saito et.al|[paper](https://arxiv.org/abs/2604.07097)|[code](https://github.com/ReijiSoftmaxSaito/Scenario)|<details><summary>detail</summary>Accepted by CVPR 2026 Workshop</details>|
 |**2026-4-8**|**Fast reconstruction-based ROI triggering via anomaly detection in the CYGNO optical TPC**|F. D. Amaro et.al|[paper](https://arxiv.org/abs/2512.24290)|-|-|
@@ -92,12 +98,6 @@
 |**2026-4-7**|**Continual Visual Anomaly Detection on the Edge: Benchmark and Efficient Solutions**|Manuel Barusco et.al|[paper](https://arxiv.org/abs/2604.06435)|-|-|
 |**2026-4-7**|**SGANet: Semantic and Geometric Alignment for Multimodal Multi-view Anomaly Detection**|Letian Bai et.al|[paper](https://arxiv.org/abs/2604.05632)|-|-|
 |**2026-4-7**|**Time-reversed Flow Matching with Worst Transport in High-dimensional Latent Space for Image Anomaly Detection**|Liangwei Li et.al|[paper](https://arxiv.org/abs/2508.05461)|[code](https://github.com/lil-wayne-0319/fmad.)|-|
-|**2026-4-7**|**Unifying VLM-Guided Flow Matching and Spectral Anomaly Detection for Interpretable Veterinary Diagnosis**|Pu Wang et.al|[paper](https://arxiv.org/abs/2604.05482)|[code](https://github.com/Pu-Wang-alt/Canine-pneumothorax).)|-|
-|**2026-4-6**|**SMT-AD: a scalable quantum-inspired anomaly detection approach**|Apimuk Sornsaeng et.al|[paper](https://arxiv.org/abs/2604.06265)|-|-|
-|**2026-4-6**|**Cross-Machine Anomaly Detection Leveraging Pre-trained Time-series Model**|Yangmeng Li et.al|[paper](https://arxiv.org/abs/2604.05335)|-|-|
-|**2026-4-6**|**Cyber-Physical Systems Security: A Comprehensive Review of Anomaly Detection Techniques**|Danial Abshari et.al|[paper](https://arxiv.org/abs/2502.13256)|-|<details><summary>detail</summary>Journal ref:Internet of Things</details>|
-|**2026-4-6**|**Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection**|Yihan Sun et.al|[paper](https://arxiv.org/abs/2604.04658)|[code](https://github.com/hustCYQ/Synthesis4AD.)|-|
-|**2026-4-6**|**InCTRLv2: Generalist Residual Models for Few-Shot Anomaly Detection and Segmentation**|Jiawen Zhu et.al|[paper](https://arxiv.org/abs/2604.04632)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -133,6 +133,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-13**|**MMR-AD: A Large-Scale Multimodal Dataset for Benchmarking General Anomaly Detection with Multimodal Large Language Models**|Xincheng Yao et.al|[paper](https://arxiv.org/abs/2604.10971)|-|<details><summary>detail</summary>Accepted by CVPR2026</details>|
 |**2026-4-10**|**Multimodal Anomaly Detection for Human-Robot Interaction**|Guilherme Ribeiro et.al|[paper](https://arxiv.org/abs/2604.09326)|-|-|
 |**2026-4-7**|**SGANet: Semantic and Geometric Alignment for Multimodal Multi-view Anomaly Detection**|Letian Bai et.al|[paper](https://arxiv.org/abs/2604.05632)|-|-|
 |**2026-4-1**|**VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection**|Huilin Deng et.al|[paper](https://arxiv.org/abs/2409.20146)|-|-|
@@ -157,12 +158,13 @@
 |**2025-10-15**|**IAD-GPT: Advancing Visual Knowledge in Multimodal Large Language Model for Industrial Anomaly Detection**|Zewen Li et.al|[paper](https://arxiv.org/abs/2510.16036)|[code](https://github.com/LiZeWen1225/IAD-GPT)|<details><summary>detail</summary>Accepted by IEEE Transactions on Instrumentation and Measurement (TIM)</details>|
 |**2025-9-12**|**MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection**|Gang Li et.al|[paper](https://arxiv.org/abs/2509.10282)|-|<details><summary>detail</summary>Page 14</details>|
 |**2025-8-20**|**PB-IAD: Utilizing multimodal foundation models for semantic industrial anomaly detection in dynamic manufacturing environments**|Bernd Hofmann et.al|[paper](https://arxiv.org/abs/2508.14504)|-|-|
-|**2025-8-6**|**AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization**|Jingyi Liao et.al|[paper](https://arxiv.org/abs/2508.04175)|-|-|
 
 ## Vector Quantization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-13**|**R3-VAE: Reference Vector-Guided Rating Residual Quantization VAE for Generative Recommendation**|Qiang Wan et.al|[paper](https://arxiv.org/abs/2604.11440)|-|-|
+|**2026-4-12**|**Differentiable Vector Quantization for Rate-Distortion Optimization of Generative Image Compression**|Shiyin Jiang et.al|[paper](https://arxiv.org/abs/2604.10546)|[code](https://github.com/CVL-UESTC/RDVQ.)|<details><summary>detail</summary>Accepted for publication at CVPR 2026 as an Oral presentation</details>|
 |**2026-4-7**|**STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization**|Hao Li et.al|[paper](https://arxiv.org/abs/2506.03863)|-|<details><summary>detail</summary>Accepted by ICML 2025 Spotlight</details>|
 |**2026-4-7**|**Aligned Vector Quantization for Edge-Cloud Collabrative Vision-Language Models**|Xiao Liu et.al|[paper](https://arxiv.org/abs/2411.05961)|-|<details><summary>detail</summary>I found a big mistake in the paper that causes significant bias on the results</details>|
 |**2026-4-6**|**Modality-Aware and Anatomical Vector-Quantized Autoencoding for Multimodal Brain MRI**|Mingjie Li et.al|[paper](https://arxiv.org/abs/2604.05171)|-|<details><summary>detail</summary>CVPR Fingdings track</details>|
@@ -186,6 +188,4 @@
 |**2026-2-5**|**Price of universality in vector quantization is at most 0.11 bit**|Alina Harbuzova et.al|[paper](https://arxiv.org/abs/2602.05790)|-|<details><summary>detail</summary>41 page</details>|
 |**2026-2-5**|**Vector Quantization using Gaussian Variational Autoencoder**|Tongda Xu et.al|[paper](https://arxiv.org/abs/2512.06609)|-|-|
 |**2026-2-4**|**VQ-DSC-R: Robust Vector Quantized-Enabled Digital Semantic Communication With OFDM Transmission**|Jianqiao Chen et.al|[paper](https://arxiv.org/abs/2602.15045)|-|-|
-|**2026-2-2**|**Vector Quantized Latent Concepts: A Scalable Alternative to Clustering-Based Concept Discovery**|Xuemin Yu et.al|[paper](https://arxiv.org/abs/2602.02726)|-|-|
-|**2026-2-2**|**Revisiting Adaptive Rounding with Vectorized Reparameterization for LLM Quantization**|Yuli Zhou et.al|[paper](https://arxiv.org/abs/2602.02151)|[code](https://github.com/zhoustan/VQRound.)|-|
 
