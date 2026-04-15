@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.04.14
+## Updated on 2026.04.15
 
 ## Defect Detection
 
@@ -73,7 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-4-13**|**Beyond Reconstruction: Reconstruction-to-Vector Diffusion for Hyperspectral Anomaly Detection**|Jijun Xiang et.al|[paper](https://arxiv.org/abs/2604.11390)|-|-|
+|**2026-4-14**|**CLAD: Efficient Log Anomaly Detection Directly on Compressed Representations**|Benzhao Tang et.al|[paper](https://arxiv.org/abs/2604.13024)|-|-|
+|**2026-4-14**|**Automated Batch Distillation Process Simulation for a Large Hybrid Dataset for Deep Anomaly Detection**|Jennifer Werner et.al|[paper](https://arxiv.org/abs/2604.09166)|-|-|
+|**2026-4-14**|**Beyond Reconstruction: Reconstruction-to-Vector Diffusion for Hyperspectral Anomaly Detection**|Jijun Xiang et.al|[paper](https://arxiv.org/abs/2604.11390)|[code](https://github.com/Bondojijun/R2VD.)|-|
+|**2026-4-13**|**LLM-Enhanced Log Anomaly Detection: A Comprehensive Benchmark of Large Language Models for Automated System Diagnostics**|Disha Patel et.al|[paper](https://arxiv.org/abs/2604.12218)|[code](https://github.com/disha8611/llm-log-anomaly-benchmark)|-|
+|**2026-4-13**|**Time-reversed Flow Matching with Worst Transport in High-dimensional Latent Space for Image Anomaly Detection**|Liangwei Li et.al|[paper](https://arxiv.org/abs/2508.05461)|[code](https://github.com/lil-wayne-0319/fmad.)|-|
 |**2026-4-13**|**AnomalyGen: Enhancing Log-Based Anomaly Detection with Code-Guided Data Augmentation**|Xinyu Li et.al|[paper](https://arxiv.org/abs/2604.11107)|-|-|
 |**2026-4-13**|**MMR-AD: A Large-Scale Multimodal Dataset for Benchmarking General Anomaly Detection with Multimodal Large Language Models**|Xincheng Yao et.al|[paper](https://arxiv.org/abs/2604.10971)|-|<details><summary>detail</summary>Accepted by CVPR2026</details>|
 |**2026-4-12**|**CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection**|Qiyu Chen et.al|[paper](https://arxiv.org/abs/2508.03447)|[code](https://github.com/cqylunlun/CoPS.)|<details><summary>detail</summary>Accepted by CVPR 2026 Findings</details>|
@@ -83,7 +87,6 @@
 |**2026-4-10**|**From Frames to Events: Rethinking Evaluation in Human-Centric Video Anomaly Detection**|Narges Rashvand et.al|[paper](https://arxiv.org/abs/2604.09327)|[code](https://github.com/TeCSAR-UNCC/EventCentric-VAD.)|-|
 |**2026-4-10**|**Multimodal Anomaly Detection for Human-Robot Interaction**|Guilherme Ribeiro et.al|[paper](https://arxiv.org/abs/2604.09326)|-|-|
 |**2026-4-10**|**Batch Distillation Data for Developing Machine Learning Anomaly Detection Methods**|Justus Arweiler et.al|[paper](https://arxiv.org/abs/2510.18075)|-|<details><summary>detail</summary>Journal ref:Sci</details>|
-|**2026-4-10**|**Automated Batch Distillation Process Simulation for a Large Hybrid Dataset for Deep Anomaly Detection**|Jennifer Werner et.al|[paper](https://arxiv.org/abs/2604.09166)|-|-|
 |**2026-4-10**|**CAD 100K: A Comprehensive Multi-Task Dataset for Car Related Visual Anomaly Detection**|Jiahua Pang et.al|[paper](https://arxiv.org/abs/2604.09023)|-|-|
 |**2026-4-9**|**A Comparative Study of Semantic Log Representations for Software Log-based Anomaly Detection**|Yuqing Wang et.al|[paper](https://arxiv.org/abs/2604.08028)|-|-|
 |**2026-4-8**|**A Giant-Step Baby-Step Classifier For Scalable and Real-Time Anomaly Detection In Industrial Control Systems and Water Treatment Systems**|Sarad Venugopalan et.al|[paper](https://arxiv.org/abs/2504.20906)|-|-|
@@ -95,9 +98,6 @@
 |**2026-4-7**|**Matrix Profile for Anomaly Detection on Multidimensional Time Series**|Chin-Chia Michael Yeh et.al|[paper](https://arxiv.org/abs/2409.09298)|[code](https://github.com/mcyeh/mmpad_tsb)|<details><summary>detail</summary>https://github</details>|
 |**2026-4-7**|**Matrix Profile for Time-Series Anomaly Detection: A Reproducible Open-Source Benchmark on TSB-AD**|Chin-Chia Michael Yeh et.al|[paper](https://arxiv.org/abs/2604.02445)|[code](https://github.com/mcyeh/mmpad_tsb.)|<details><summary>detail</summary>https://github</details>|
 |**2026-4-7**|**From Load Tests to Live Streams: Graph Embedding-Based Anomaly Detection in Microservice Architectures**|Srinidhi Madabhushi et.al|[paper](https://arxiv.org/abs/2604.06448)|-|<details><summary>detail</summary>FSE 2026 - Industrial Track</details>|
-|**2026-4-7**|**Continual Visual Anomaly Detection on the Edge: Benchmark and Efficient Solutions**|Manuel Barusco et.al|[paper](https://arxiv.org/abs/2604.06435)|-|-|
-|**2026-4-7**|**SGANet: Semantic and Geometric Alignment for Multimodal Multi-view Anomaly Detection**|Letian Bai et.al|[paper](https://arxiv.org/abs/2604.05632)|-|-|
-|**2026-4-7**|**Time-reversed Flow Matching with Worst Transport in High-dimensional Latent Space for Image Anomaly Detection**|Liangwei Li et.al|[paper](https://arxiv.org/abs/2508.05461)|[code](https://github.com/lil-wayne-0319/fmad.)|-|
 
 ## 3D Anomaly Detection
 
@@ -163,7 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-4-13**|**R3-VAE: Reference Vector-Guided Rating Residual Quantization VAE for Generative Recommendation**|Qiang Wan et.al|[paper](https://arxiv.org/abs/2604.11440)|-|-|
+|**2026-4-14**|**R3-VAE: Reference Vector-Guided Rating Residual Quantization VAE for Generative Recommendation**|Qiang Wan et.al|[paper](https://arxiv.org/abs/2604.11440)|-|-|
 |**2026-4-12**|**Differentiable Vector Quantization for Rate-Distortion Optimization of Generative Image Compression**|Shiyin Jiang et.al|[paper](https://arxiv.org/abs/2604.10546)|[code](https://github.com/CVL-UESTC/RDVQ.)|<details><summary>detail</summary>Accepted for publication at CVPR 2026 as an Oral presentation</details>|
 |**2026-4-7**|**STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization**|Hao Li et.al|[paper](https://arxiv.org/abs/2506.03863)|-|<details><summary>detail</summary>Accepted by ICML 2025 Spotlight</details>|
 |**2026-4-7**|**Aligned Vector Quantization for Edge-Cloud Collabrative Vision-Language Models**|Xiao Liu et.al|[paper](https://arxiv.org/abs/2411.05961)|-|<details><summary>detail</summary>I found a big mistake in the paper that causes significant bias on the results</details>|
