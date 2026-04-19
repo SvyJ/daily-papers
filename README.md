@@ -1,12 +1,13 @@
 ## Daily Papers
 - [Defect Detection](#Defect-Detection)
 - [Defect Segmentation](#Defect-Segmentation)
+- [Anomaly Detection](#Anomaly-Detection)
 - [3D Anomaly Detection](#3D-Anomaly-Detection)
 - [Multimodal Anomaly Detection](#Multimodal-Anomaly-Detection)
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.04.18
+## Updated on 2026.04.19
 
 ## Defect Detection
 
@@ -67,6 +68,36 @@
 |**2024-10-24**|**Synth4Seg -- Learning Defect Data Synthesis for Defect Segmentation using Bi-level Optimization**|Shancong Mou et.al|[paper](https://arxiv.org/abs/2410.18490)|-|-|
 |**2024-10-1**|**Application of Segment Anything Model for Civil Infrastructure Defect Assessment**|Mohsen Ahmadi et.al|[paper](https://arxiv.org/abs/2304.12600)|-|-|
 |**2024-9-20**|**Cycle-Consistency Uncertainty Estimation for Visual Prompting based One-Shot Defect Segmentation**|Geonuk Kim et.al|[paper](https://arxiv.org/abs/2409.13984)|-|<details><summary>detail</summary>ECCV 2024 VISION workshop Most Innovative Prize</details>|
+
+## Anomaly Detection
+
+|Date|Title|Authors|PDF|Code|Comments|
+|:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-16**|**AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving**|Fabrizio Genilotti et.al|[paper](https://arxiv.org/abs/2604.15291)|-|-|
+|**2026-4-16**|**Data Engineering Patterns for Cross-System Reconciliation in Regulated Enterprises: Architecture, Anomaly Detection, and Governance**|Zhijun Qiu et.al|[paper](https://arxiv.org/abs/2604.15108)|[code](https://github.com/andersonqiu/GERA-Framework)|-|
+|**2026-4-15**|**H2VLR: Heterogeneous Hypergraph Vision-Language Reasoning for Few-Shot Anomaly Detection**|Jianghong Huang et.al|[paper](https://arxiv.org/abs/2604.14507)|-|-|
+|**2026-4-15**|**Unsupervised Anomaly Detection in Process-Complex Industrial Time Series: A Real-World Case Study**|Sergej Krasnikov et.al|[paper](https://arxiv.org/abs/2604.13928)|-|-|
+|**2026-4-15**|**ASTER: Latent Pseudo-Anomaly Generation for Unsupervised Time-Series Anomaly Detection**|Romain Hermary et.al|[paper](https://arxiv.org/abs/2604.13924)|-|-|
+|**2026-4-14**|**Anomaly Detection in IEC-61850 GOOSE Networks: Evaluating Unsupervised and Temporal Learning for Real-Time Intrusion Detection**|Joseph Moore et.al|[paper](https://arxiv.org/abs/2604.14233)|-|-|
+|**2026-4-14**|**Out of Context: Reliability in Multimodal Anomaly Detection Requires Contextual Inference**|Kevin Wilkinghoff et.al|[paper](https://arxiv.org/abs/2604.13252)|-|-|
+|**2026-4-14**|**From Load Tests to Live Streams: Graph Embedding-Based Anomaly Detection in Microservice Architectures**|Srinidhi Madabhushi et.al|[paper](https://arxiv.org/abs/2604.06448)|-|<details><summary>detail</summary>FSE 2026 - Industrial Track</details>|
+|**2026-4-14**|**CLAD: Efficient Log Anomaly Detection Directly on Compressed Representations**|Benzhao Tang et.al|[paper](https://arxiv.org/abs/2604.13024)|-|-|
+|**2026-4-14**|**AgentIAD: Agentic Industrial Anomaly Detection via Adaptive Memory Augmentation**|Junwen Miao et.al|[paper](https://arxiv.org/abs/2512.13671)|-|-|
+|**2026-4-14**|**Automated Batch Distillation Process Simulation for a Large Hybrid Dataset for Deep Anomaly Detection**|Jennifer Werner et.al|[paper](https://arxiv.org/abs/2604.09166)|-|-|
+|**2026-4-14**|**Beyond Reconstruction: Reconstruction-to-Vector Diffusion for Hyperspectral Anomaly Detection**|Jijun Xiang et.al|[paper](https://arxiv.org/abs/2604.11390)|[code](https://github.com/Bondojijun/R2VD.)|-|
+|**2026-4-13**|**LLM-Enhanced Log Anomaly Detection: A Comprehensive Benchmark of Large Language Models for Automated System Diagnostics**|Disha Patel et.al|[paper](https://arxiv.org/abs/2604.12218)|[code](https://github.com/disha8611/llm-log-anomaly-benchmark)|-|
+|**2026-4-13**|**Time-reversed Flow Matching with Worst Transport in High-dimensional Latent Space for Image Anomaly Detection**|Liangwei Li et.al|[paper](https://arxiv.org/abs/2508.05461)|[code](https://github.com/lil-wayne-0319/fmad.)|-|
+|**2026-4-13**|**AnomalyGen: Enhancing Log-Based Anomaly Detection with Code-Guided Data Augmentation**|Xinyu Li et.al|[paper](https://arxiv.org/abs/2604.11107)|-|-|
+|**2026-4-13**|**MMR-AD: A Large-Scale Multimodal Dataset for Benchmarking General Anomaly Detection with Multimodal Large Language Models**|Xincheng Yao et.al|[paper](https://arxiv.org/abs/2604.10971)|-|<details><summary>detail</summary>Accepted by CVPR2026</details>|
+|**2026-4-12**|**CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection**|Qiyu Chen et.al|[paper](https://arxiv.org/abs/2508.03447)|[code](https://github.com/cqylunlun/CoPS.)|<details><summary>detail</summary>Accepted by CVPR 2026 Findings</details>|
+|**2026-4-12**|**Fourier-KAN-Mamba: A Novel State-Space Equation Approach for Time-Series Anomaly Detection**|Xiancheng Wang et.al|[paper](https://arxiv.org/abs/2511.15083)|-|<details><summary>detail</summary>We request withdrawal because we identified a flaw in the theoretical analysis of the anomaly-score identification mechanism</details>|
+|**2026-4-11**|**Unsupervised Detection of Spatiotemporal Anomalies in PMU Data Using Transformer-Based BiGAN**|Muhammad Imran Hossain et.al|[paper](https://arxiv.org/abs/2509.25612)|-|-|
+|**2026-4-10**|**ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection**|Qunyi Zhang et.al|[paper](https://arxiv.org/abs/2510.07927)|-|<details><summary>detail</summary>accpted by IEEE Transactions on Artificial Intelligence</details>|
+|**2026-4-10**|**From Frames to Events: Rethinking Evaluation in Human-Centric Video Anomaly Detection**|Narges Rashvand et.al|[paper](https://arxiv.org/abs/2604.09327)|[code](https://github.com/TeCSAR-UNCC/EventCentric-VAD.)|-|
+|**2026-4-10**|**Multimodal Anomaly Detection for Human-Robot Interaction**|Guilherme Ribeiro et.al|[paper](https://arxiv.org/abs/2604.09326)|-|-|
+|**2026-4-10**|**Batch Distillation Data for Developing Machine Learning Anomaly Detection Methods**|Justus Arweiler et.al|[paper](https://arxiv.org/abs/2510.18075)|-|<details><summary>detail</summary>Journal ref:Sci</details>|
+|**2026-4-10**|**CAD 100K: A Comprehensive Multi-Task Dataset for Car Related Visual Anomaly Detection**|Jiahua Pang et.al|[paper](https://arxiv.org/abs/2604.09023)|-|-|
+|**2026-4-9**|**A Comparative Study of Semantic Log Representations for Software Log-based Anomaly Detection**|Yuqing Wang et.al|[paper](https://arxiv.org/abs/2604.08028)|-|-|
 
 ## 3D Anomaly Detection
 
