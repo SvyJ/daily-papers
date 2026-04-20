@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.04.19
+## Updated on 2026.04.20
 
 ## Defect Detection
 
@@ -73,6 +73,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-17**|**KRONE: Scalable LLM-Augmented Log Anomaly Detection via Hierarchical Abstraction**|Lei Ma et.al|[paper](https://arxiv.org/abs/2602.07303)|[code](https://github.com/LeiMa0324/KRONE)|<details><summary>detail</summary>ICDE 2026</details>|
+|**2026-4-16**|**NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection**|Zehao Wang et.al|[paper](https://arxiv.org/abs/2604.15668)|-|-|
 |**2026-4-16**|**AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving**|Fabrizio Genilotti et.al|[paper](https://arxiv.org/abs/2604.15291)|-|-|
 |**2026-4-16**|**Data Engineering Patterns for Cross-System Reconciliation in Regulated Enterprises: Architecture, Anomaly Detection, and Governance**|Zhijun Qiu et.al|[paper](https://arxiv.org/abs/2604.15108)|[code](https://github.com/andersonqiu/GERA-Framework)|-|
 |**2026-4-15**|**H2VLR: Heterogeneous Hypergraph Vision-Language Reasoning for Few-Shot Anomaly Detection**|Jianghong Huang et.al|[paper](https://arxiv.org/abs/2604.14507)|-|-|
@@ -96,8 +98,6 @@
 |**2026-4-10**|**From Frames to Events: Rethinking Evaluation in Human-Centric Video Anomaly Detection**|Narges Rashvand et.al|[paper](https://arxiv.org/abs/2604.09327)|[code](https://github.com/TeCSAR-UNCC/EventCentric-VAD.)|-|
 |**2026-4-10**|**Multimodal Anomaly Detection for Human-Robot Interaction**|Guilherme Ribeiro et.al|[paper](https://arxiv.org/abs/2604.09326)|-|-|
 |**2026-4-10**|**Batch Distillation Data for Developing Machine Learning Anomaly Detection Methods**|Justus Arweiler et.al|[paper](https://arxiv.org/abs/2510.18075)|-|<details><summary>detail</summary>Journal ref:Sci</details>|
-|**2026-4-10**|**CAD 100K: A Comprehensive Multi-Task Dataset for Car Related Visual Anomaly Detection**|Jiahua Pang et.al|[paper](https://arxiv.org/abs/2604.09023)|-|-|
-|**2026-4-9**|**A Comparative Study of Semantic Log Representations for Software Log-based Anomaly Detection**|Yuqing Wang et.al|[paper](https://arxiv.org/abs/2604.08028)|-|-|
 
 ## 3D Anomaly Detection
 
