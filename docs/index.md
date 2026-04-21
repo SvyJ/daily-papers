@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.04.20
+## Updated on 2026.04.21
 
 ## Defect Detection
 
@@ -73,7 +73,16 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-20**|**One-Step Diffusion with Inverse Residual Fields for Unsupervised Industrial Anomaly Detection**|Boan Zhang et.al|[paper](https://arxiv.org/abs/2604.18393)|-|-|
+|**2026-4-20**|**Enhancing Tabular Anomaly Detection via Pseudo-Label-Guided Generation**|Wei Huang et.al|[paper](https://arxiv.org/abs/2604.18266)|-|-|
+|**2026-4-20**|**Enhancing Anomaly-Based Intrusion Detection Systems with Process Mining**|Francesco Vitale et.al|[paper](https://arxiv.org/abs/2604.18066)|-|<details><summary>detail</summary>the 2026 IEEE International Conference on Cyber Security and Resilience</details>|
+|**2026-4-20**|**Causally-Constrained Probabilistic Forecasting for Time-Series Anomaly Detection**|Pooyan Khosravinia et.al|[paper](https://arxiv.org/abs/2604.17998)|-|<details><summary>detail</summary>This work is currently under review for possible publication in the IEEE Access journal</details>|
+|**2026-4-20**|**ZSG-IAD: A Multimodal Framework for Zero-Shot Grounded Industrial Anomaly Detection**|Qiuhui Chen et.al|[paper](https://arxiv.org/abs/2604.17949)|-|-|
+|**2026-4-20**|**MLE-UVAD: Minimal Latent Entropy Autoencoder for Fully Unsupervised Video Anomaly Detection**|Yuang Geng et.al|[paper](https://arxiv.org/abs/2603.23868)|-|-|
+|**2026-4-19**|**Conditional Attribution for Root Cause Analysis in Time-Series Anomaly Detection**|Shashank Mishra et.al|[paper](https://arxiv.org/abs/2604.17616)|-|-|
+|**2026-4-19**|**Back to Repair: A Minimal Denoising Network\ for Time Series Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2604.17388)|[code](https://github.com/iis-esslingen/JuRe.)|-|
 |**2026-4-17**|**KRONE: Scalable LLM-Augmented Log Anomaly Detection via Hierarchical Abstraction**|Lei Ma et.al|[paper](https://arxiv.org/abs/2602.07303)|[code](https://github.com/LeiMa0324/KRONE)|<details><summary>detail</summary>ICDE 2026</details>|
+|**2026-4-17**|**Evaluating Temporal and Structural Anomaly Detection Paradigms for DDoS Traffic**|Yasmin Souza Lima et.al|[paper](https://arxiv.org/abs/2604.16575)|-|<details><summary>detail</summary>Paper accepted for publication at Experimental Research Workshop on the Future Internet (2026) in conjunction with Brazilian Symposium on Computer Networks and Distributed Systems (2026)</details>|
 |**2026-4-16**|**NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection**|Zehao Wang et.al|[paper](https://arxiv.org/abs/2604.15668)|-|-|
 |**2026-4-16**|**AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving**|Fabrizio Genilotti et.al|[paper](https://arxiv.org/abs/2604.15291)|-|-|
 |**2026-4-16**|**Data Engineering Patterns for Cross-System Reconciliation in Regulated Enterprises: Architecture, Anomaly Detection, and Governance**|Zhijun Qiu et.al|[paper](https://arxiv.org/abs/2604.15108)|[code](https://github.com/andersonqiu/GERA-Framework)|-|
@@ -89,15 +98,6 @@
 |**2026-4-14**|**Beyond Reconstruction: Reconstruction-to-Vector Diffusion for Hyperspectral Anomaly Detection**|Jijun Xiang et.al|[paper](https://arxiv.org/abs/2604.11390)|[code](https://github.com/Bondojijun/R2VD.)|-|
 |**2026-4-13**|**LLM-Enhanced Log Anomaly Detection: A Comprehensive Benchmark of Large Language Models for Automated System Diagnostics**|Disha Patel et.al|[paper](https://arxiv.org/abs/2604.12218)|[code](https://github.com/disha8611/llm-log-anomaly-benchmark)|-|
 |**2026-4-13**|**Time-reversed Flow Matching with Worst Transport in High-dimensional Latent Space for Image Anomaly Detection**|Liangwei Li et.al|[paper](https://arxiv.org/abs/2508.05461)|[code](https://github.com/lil-wayne-0319/fmad.)|-|
-|**2026-4-13**|**AnomalyGen: Enhancing Log-Based Anomaly Detection with Code-Guided Data Augmentation**|Xinyu Li et.al|[paper](https://arxiv.org/abs/2604.11107)|-|-|
-|**2026-4-13**|**MMR-AD: A Large-Scale Multimodal Dataset for Benchmarking General Anomaly Detection with Multimodal Large Language Models**|Xincheng Yao et.al|[paper](https://arxiv.org/abs/2604.10971)|-|<details><summary>detail</summary>Accepted by CVPR2026</details>|
-|**2026-4-12**|**CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection**|Qiyu Chen et.al|[paper](https://arxiv.org/abs/2508.03447)|[code](https://github.com/cqylunlun/CoPS.)|<details><summary>detail</summary>Accepted by CVPR 2026 Findings</details>|
-|**2026-4-12**|**Fourier-KAN-Mamba: A Novel State-Space Equation Approach for Time-Series Anomaly Detection**|Xiancheng Wang et.al|[paper](https://arxiv.org/abs/2511.15083)|-|<details><summary>detail</summary>We request withdrawal because we identified a flaw in the theoretical analysis of the anomaly-score identification mechanism</details>|
-|**2026-4-11**|**Unsupervised Detection of Spatiotemporal Anomalies in PMU Data Using Transformer-Based BiGAN**|Muhammad Imran Hossain et.al|[paper](https://arxiv.org/abs/2509.25612)|-|-|
-|**2026-4-10**|**ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection**|Qunyi Zhang et.al|[paper](https://arxiv.org/abs/2510.07927)|-|<details><summary>detail</summary>accpted by IEEE Transactions on Artificial Intelligence</details>|
-|**2026-4-10**|**From Frames to Events: Rethinking Evaluation in Human-Centric Video Anomaly Detection**|Narges Rashvand et.al|[paper](https://arxiv.org/abs/2604.09327)|[code](https://github.com/TeCSAR-UNCC/EventCentric-VAD.)|-|
-|**2026-4-10**|**Multimodal Anomaly Detection for Human-Robot Interaction**|Guilherme Ribeiro et.al|[paper](https://arxiv.org/abs/2604.09326)|-|-|
-|**2026-4-10**|**Batch Distillation Data for Developing Machine Learning Anomaly Detection Methods**|Justus Arweiler et.al|[paper](https://arxiv.org/abs/2510.18075)|-|<details><summary>detail</summary>Journal ref:Sci</details>|
 
 ## 3D Anomaly Detection
 
@@ -133,6 +133,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-20**|**ZSG-IAD: A Multimodal Framework for Zero-Shot Grounded Industrial Anomaly Detection**|Qiuhui Chen et.al|[paper](https://arxiv.org/abs/2604.17949)|-|-|
 |**2026-4-14**|**Out of Context: Reliability in Multimodal Anomaly Detection Requires Contextual Inference**|Kevin Wilkinghoff et.al|[paper](https://arxiv.org/abs/2604.13252)|-|-|
 |**2026-4-13**|**MMR-AD: A Large-Scale Multimodal Dataset for Benchmarking General Anomaly Detection with Multimodal Large Language Models**|Xincheng Yao et.al|[paper](https://arxiv.org/abs/2604.10971)|-|<details><summary>detail</summary>Accepted by CVPR2026</details>|
 |**2026-4-10**|**Multimodal Anomaly Detection for Human-Robot Interaction**|Guilherme Ribeiro et.al|[paper](https://arxiv.org/abs/2604.09326)|-|-|
@@ -157,7 +158,6 @@
 |**2025-11-10**|**RobustA: Robust Anomaly Detection in Multimodal Data**|Salem AlMarri et.al|[paper](https://arxiv.org/abs/2511.07276)|-|<details><summary>detail</summary>Submitted to IEEE Transactions on Image Processing</details>|
 |**2025-10-16**|**Incomplete Multimodal Industrial Anomaly Detection via Cross-Modal Distillation**|Wenbo Sui et.al|[paper](https://arxiv.org/abs/2405.13571)|-|<details><summary>detail</summary>For a published version refer to the Information Fusion</details>|
 |**2025-10-15**|**IAD-GPT: Advancing Visual Knowledge in Multimodal Large Language Model for Industrial Anomaly Detection**|Zewen Li et.al|[paper](https://arxiv.org/abs/2510.16036)|[code](https://github.com/LiZeWen1225/IAD-GPT)|<details><summary>detail</summary>Accepted by IEEE Transactions on Instrumentation and Measurement (TIM)</details>|
-|**2025-9-12**|**MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection**|Gang Li et.al|[paper](https://arxiv.org/abs/2509.10282)|-|<details><summary>detail</summary>Page 14</details>|
 
 ## Vector Quantization
 
