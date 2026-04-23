@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.04.22
+## Updated on 2026.04.23
 
 ## Defect Detection
 
@@ -73,6 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-22**|**Analyzing Shapley Additive Explanations to Understand Anomaly Detection Algorithm Behaviors and Their Complementarity**|Jordan Levy et.al|[paper](https://arxiv.org/abs/2602.00208)|-|<details><summary>detail</summary>Best Technical Paper Award at Intelligent Data Analysis (IDA) 2026</details>|
+|**2026-4-22**|**AutoGraphAD: Unsupervised network anomaly detection using Variational Graph Autoencoders**|Georgios Anyfantis et.al|[paper](https://arxiv.org/abs/2511.17113)|-|-|
+|**2026-4-22**|**uLEAD-TabPFN: Uncertainty-aware Dependency-based Anomaly Detection with TabPFN**|Sha Lu et.al|[paper](https://arxiv.org/abs/2604.20255)|-|-|
+|**2026-4-22**|**VAN-AD: Visual Masked Autoencoder with Normalizing Flow For Time Series Anomaly Detection**|PengYu Chen et.al|[paper](https://arxiv.org/abs/2603.26842)|[code](https://github.com/PenyChen/VAN-AD.)|-|
+|**2026-4-21**|**Adaptive Conformal Anomaly Detection with Time Series Foundation Models for Signal Monitoring**|Natalia Martinez Gil et.al|[paper](https://arxiv.org/abs/2604.20122)|[code](https://github.com/ibm-granite/granite-tsfm/tree/main/notebooks/hfdemo/adaptive_conformal_tsad)|<details><summary>detail</summary>Code in : https://github</details>|
 |**2026-4-21**|**Integrating Anomaly Detection into Agentic AI for Proactive Risk Management in Human Activity**|Farbod Zorriassatine et.al|[paper](https://arxiv.org/abs/2604.19538)|-|-|
 |**2026-4-21**|**Improved Anomaly Detection in Medical Images via Mean Shift Density Enhancement**|Pritam Kar et.al|[paper](https://arxiv.org/abs/2604.19191)|-|-|
 |**2026-4-21**|**AD-Copilot: A Vision-Language Assistant for Industrial Anomaly Detection via Visual In-context Comparison**|Xi Jiang et.al|[paper](https://arxiv.org/abs/2603.13779)|[code](https://github.com/jam-cc/AD-Copilot)|<details><summary>detail</summary>Code and models are released at https://github</details>|
@@ -93,11 +98,6 @@
 |**2026-4-16**|**Data Engineering Patterns for Cross-System Reconciliation in Regulated Enterprises: Architecture, Anomaly Detection, and Governance**|Zhijun Qiu et.al|[paper](https://arxiv.org/abs/2604.15108)|[code](https://github.com/andersonqiu/GERA-Framework)|-|
 |**2026-4-15**|**H2VLR: Heterogeneous Hypergraph Vision-Language Reasoning for Few-Shot Anomaly Detection**|Jianghong Huang et.al|[paper](https://arxiv.org/abs/2604.14507)|-|-|
 |**2026-4-15**|**Unsupervised Anomaly Detection in Process-Complex Industrial Time Series: A Real-World Case Study**|Sergej Krasnikov et.al|[paper](https://arxiv.org/abs/2604.13928)|-|-|
-|**2026-4-15**|**ASTER: Latent Pseudo-Anomaly Generation for Unsupervised Time-Series Anomaly Detection**|Romain Hermary et.al|[paper](https://arxiv.org/abs/2604.13924)|-|-|
-|**2026-4-14**|**Anomaly Detection in IEC-61850 GOOSE Networks: Evaluating Unsupervised and Temporal Learning for Real-Time Intrusion Detection**|Joseph Moore et.al|[paper](https://arxiv.org/abs/2604.14233)|-|-|
-|**2026-4-14**|**Out of Context: Reliability in Multimodal Anomaly Detection Requires Contextual Inference**|Kevin Wilkinghoff et.al|[paper](https://arxiv.org/abs/2604.13252)|-|-|
-|**2026-4-14**|**From Load Tests to Live Streams: Graph Embedding-Based Anomaly Detection in Microservice Architectures**|Srinidhi Madabhushi et.al|[paper](https://arxiv.org/abs/2604.06448)|-|<details><summary>detail</summary>FSE 2026 - Industrial Track</details>|
-|**2026-4-14**|**CLAD: Efficient Log Anomaly Detection Directly on Compressed Representations**|Benzhao Tang et.al|[paper](https://arxiv.org/abs/2604.13024)|-|-|
 
 ## 3D Anomaly Detection
 
