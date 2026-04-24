@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.04.23
+## Updated on 2026.04.24
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-23**|**Automated Annotation of Shearographic Measurements Enabling Weakly Supervised Defect Detection**|Jessica Plassmann et.al|[paper](https://arxiv.org/abs/2512.06171)|-|-|
 |**2026-4-21**|**Feature Perturbation Pool-based Fusion Network for Unified Multi-Class Industrial Defect Detection**|Yuanchan Xu et.al|[paper](https://arxiv.org/abs/2604.19259)|-|-|
 |**2026-4-21**|**Industrial Surface Defect Detection via Diffusion Generation and Asymmetric Student-Teacher Network**|Shuo Feng et.al|[paper](https://arxiv.org/abs/2604.19240)|-|-|
 |**2026-4-21**|**Proactive Detection of GUI Defects in Multi-Window Scenarios via Multimodal Reasoning**|Xinyao Zhang et.al|[paper](https://arxiv.org/abs/2604.19081)|-|-|
@@ -37,7 +38,6 @@
 |**2026-1-1**|**Application Research of a Deep Learning Model Integrating CycleGAN and YOLO in PCB Infrared Defect Detection**|Chao Yang et.al|[paper](https://arxiv.org/abs/2601.00237)|-|-|
 |**2025-12-16**|**TACK Tunnel Data (TTD): A Benchmark Dataset for Deep Learning-Based Defect Detection in Tunnels**|Andreas Sjölander et.al|[paper](https://arxiv.org/abs/2512.14477)|-|-|
 |**2025-12-12**|**A Comparative Analysis of Semiconductor Wafer Map Defect Detection with Image Transformer**|Sushmita Nath et.al|[paper](https://arxiv.org/abs/2512.11977)|-|<details><summary>detail</summary>submit/7075585</details>|
-|**2025-12-11**|**Unsupervised Learning for Industrial Defect Detection: A Case Study on Shearographic Data**|Jessica Plassmann et.al|[paper](https://arxiv.org/abs/2511.02541)|-|-|
 
 ## Defect Segmentation
 
@@ -73,7 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-4-22**|**Analyzing Shapley Additive Explanations to Understand Anomaly Detection Algorithm Behaviors and Their Complementarity**|Jordan Levy et.al|[paper](https://arxiv.org/abs/2602.00208)|-|<details><summary>detail</summary>Best Technical Paper Award at Intelligent Data Analysis (IDA) 2026</details>|
+|**2026-4-23**|**Analyzing Shapley Additive Explanations to Understand Anomaly Detection Algorithm Behaviors and Their Complementarity**|Jordan Levy et.al|[paper](https://arxiv.org/abs/2602.00208)|-|<details><summary>detail</summary>IDA Frontier Prize and Best Paper Award -Intelligent Data Analysis (IDA) 2026</details>|
+|**2026-4-23**|**Conditional anomaly detection with soft harmonic functions**|Michal Valko et.al|[paper](https://arxiv.org/abs/2604.21462)|-|<details><summary>detail</summary>Published at IEEE International Conference on Data Mining (ICDM 2011)</details>|
+|**2026-4-23**|**Anomaly Detection in Smart Power Grids with Graph-Regularized MS-SVDD: a Multimodal Subspace Learning Approach**|Thomas Debelle et.al|[paper](https://arxiv.org/abs/2502.15793)|-|-|
 |**2026-4-22**|**AutoGraphAD: Unsupervised network anomaly detection using Variational Graph Autoencoders**|Georgios Anyfantis et.al|[paper](https://arxiv.org/abs/2511.17113)|-|-|
 |**2026-4-22**|**uLEAD-TabPFN: Uncertainty-aware Dependency-based Anomaly Detection with TabPFN**|Sha Lu et.al|[paper](https://arxiv.org/abs/2604.20255)|-|-|
 |**2026-4-22**|**VAN-AD: Visual Masked Autoencoder with Normalizing Flow For Time Series Anomaly Detection**|PengYu Chen et.al|[paper](https://arxiv.org/abs/2603.26842)|[code](https://github.com/PenyChen/VAN-AD.)|-|
@@ -96,8 +98,6 @@
 |**2026-4-16**|**NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection**|Zehao Wang et.al|[paper](https://arxiv.org/abs/2604.15668)|-|-|
 |**2026-4-16**|**AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving**|Fabrizio Genilotti et.al|[paper](https://arxiv.org/abs/2604.15291)|-|-|
 |**2026-4-16**|**Data Engineering Patterns for Cross-System Reconciliation in Regulated Enterprises: Architecture, Anomaly Detection, and Governance**|Zhijun Qiu et.al|[paper](https://arxiv.org/abs/2604.15108)|[code](https://github.com/andersonqiu/GERA-Framework)|-|
-|**2026-4-15**|**H2VLR: Heterogeneous Hypergraph Vision-Language Reasoning for Few-Shot Anomaly Detection**|Jianghong Huang et.al|[paper](https://arxiv.org/abs/2604.14507)|-|-|
-|**2026-4-15**|**Unsupervised Anomaly Detection in Process-Complex Industrial Time Series: A Real-World Case Study**|Sergej Krasnikov et.al|[paper](https://arxiv.org/abs/2604.13928)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -133,6 +133,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-23**|**Anomaly Detection in Smart Power Grids with Graph-Regularized MS-SVDD: a Multimodal Subspace Learning Approach**|Thomas Debelle et.al|[paper](https://arxiv.org/abs/2502.15793)|-|-|
 |**2026-4-20**|**ZSG-IAD: A Multimodal Framework for Zero-Shot Grounded Industrial Anomaly Detection**|Qiuhui Chen et.al|[paper](https://arxiv.org/abs/2604.17949)|-|-|
 |**2026-4-14**|**Out of Context: Reliability in Multimodal Anomaly Detection Requires Contextual Inference**|Kevin Wilkinghoff et.al|[paper](https://arxiv.org/abs/2604.13252)|-|-|
 |**2026-4-13**|**MMR-AD: A Large-Scale Multimodal Dataset for Benchmarking General Anomaly Detection with Multimodal Large Language Models**|Xincheng Yao et.al|[paper](https://arxiv.org/abs/2604.10971)|-|<details><summary>detail</summary>Accepted by CVPR2026</details>|
@@ -157,7 +158,6 @@
 |**2025-11-16**|**Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory**|Yuxuan Lin et.al|[paper](https://arxiv.org/abs/2511.05966)|[code](https://github.com/Sunny5250/CIF.)|<details><summary>detail</summary>Accepted by AAAI 2026</details>|
 |**2025-11-10**|**RobustA: Robust Anomaly Detection in Multimodal Data**|Salem AlMarri et.al|[paper](https://arxiv.org/abs/2511.07276)|-|<details><summary>detail</summary>Submitted to IEEE Transactions on Image Processing</details>|
 |**2025-10-16**|**Incomplete Multimodal Industrial Anomaly Detection via Cross-Modal Distillation**|Wenbo Sui et.al|[paper](https://arxiv.org/abs/2405.13571)|-|<details><summary>detail</summary>For a published version refer to the Information Fusion</details>|
-|**2025-10-15**|**IAD-GPT: Advancing Visual Knowledge in Multimodal Large Language Model for Industrial Anomaly Detection**|Zewen Li et.al|[paper](https://arxiv.org/abs/2510.16036)|[code](https://github.com/LiZeWen1225/IAD-GPT)|<details><summary>detail</summary>Accepted by IEEE Transactions on Instrumentation and Measurement (TIM)</details>|
 
 ## Vector Quantization
 
