@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.04.26
+## Updated on 2026.04.27
 
 ## Defect Detection
 
@@ -73,9 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-24**|**Unified Taxonomy for Multivariate Time Series Anomaly Detection using Deep Learning**|Bruna Alves et.al|[paper](https://arxiv.org/abs/2603.18941)|-|-|
 |**2026-4-23**|**Analyzing Shapley Additive Explanations to Understand Anomaly Detection Algorithm Behaviors and Their Complementarity**|Jordan Levy et.al|[paper](https://arxiv.org/abs/2602.00208)|-|<details><summary>detail</summary>IDA Frontier Prize and Best Paper Award -Intelligent Data Analysis (IDA) 2026</details>|
+|**2026-4-23**|**Conditional anomaly detection using soft harmonic functions: An application to clinical alerting**|Michal Valko et.al|[paper](https://arxiv.org/abs/2604.21956)|-|<details><summary>detail</summary>ICML 2011 Workshop on Machine Learning for Global Challenges</details>|
 |**2026-4-23**|**Conditional anomaly detection with soft harmonic functions**|Michal Valko et.al|[paper](https://arxiv.org/abs/2604.21462)|-|<details><summary>detail</summary>Published at IEEE International Conference on Data Mining (ICDM 2011)</details>|
 |**2026-4-23**|**Anomaly Detection in Smart Power Grids with Graph-Regularized MS-SVDD: a Multimodal Subspace Learning Approach**|Thomas Debelle et.al|[paper](https://arxiv.org/abs/2502.15793)|-|-|
+|**2026-4-23**|**Performance Anomaly Detection in Athletics: A Benchmarking System with Visual Analytics**|Blessed Madukoma et.al|[paper](https://arxiv.org/abs/2604.21953)|-|-|
 |**2026-4-22**|**AutoGraphAD: Unsupervised network anomaly detection using Variational Graph Autoencoders**|Georgios Anyfantis et.al|[paper](https://arxiv.org/abs/2511.17113)|-|-|
 |**2026-4-22**|**uLEAD-TabPFN: Uncertainty-aware Dependency-based Anomaly Detection with TabPFN**|Sha Lu et.al|[paper](https://arxiv.org/abs/2604.20255)|-|-|
 |**2026-4-22**|**VAN-AD: Visual Masked Autoencoder with Normalizing Flow For Time Series Anomaly Detection**|PengYu Chen et.al|[paper](https://arxiv.org/abs/2603.26842)|[code](https://github.com/PenyChen/VAN-AD.)|-|
@@ -95,9 +98,6 @@
 |**2026-4-19**|**Back to Repair: A Minimal Denoising Network\ for Time Series Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2604.17388)|[code](https://github.com/iis-esslingen/JuRe.)|-|
 |**2026-4-17**|**KRONE: Scalable LLM-Augmented Log Anomaly Detection via Hierarchical Abstraction**|Lei Ma et.al|[paper](https://arxiv.org/abs/2602.07303)|[code](https://github.com/LeiMa0324/KRONE)|<details><summary>detail</summary>ICDE 2026</details>|
 |**2026-4-17**|**Evaluating Temporal and Structural Anomaly Detection Paradigms for DDoS Traffic**|Yasmin Souza Lima et.al|[paper](https://arxiv.org/abs/2604.16575)|-|<details><summary>detail</summary>Paper accepted for publication at Experimental Research Workshop on the Future Internet (2026) in conjunction with Brazilian Symposium on Computer Networks and Distributed Systems (2026)</details>|
-|**2026-4-16**|**NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection**|Zehao Wang et.al|[paper](https://arxiv.org/abs/2604.15668)|-|-|
-|**2026-4-16**|**AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving**|Fabrizio Genilotti et.al|[paper](https://arxiv.org/abs/2604.15291)|-|-|
-|**2026-4-16**|**Data Engineering Patterns for Cross-System Reconciliation in Regulated Enterprises: Architecture, Anomaly Detection, and Governance**|Zhijun Qiu et.al|[paper](https://arxiv.org/abs/2604.15108)|[code](https://github.com/andersonqiu/GERA-Framework)|-|
 
 ## 3D Anomaly Detection
 
