@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.04.28
+## Updated on 2026.04.29
 
 ## Defect Detection
 
@@ -73,10 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-28**|**Residual-loss Anomaly Analysis of Physics-Informed Neural Networks: An Inverse Method for Change-point Detection in Nonlinear Dynamical Systems with Regime Switching**|Yuhe Bai et.al|[paper](https://arxiv.org/abs/2604.25655)|-|-|
+|**2026-4-28**|**Zoom In, Reason Out: Efficient Far-field Anomaly Detection in Expressway Surveillance Videos via Focused VLM Reasoning Guided by Bayesian Inference**|Xiaowei Mao et.al|[paper](https://arxiv.org/abs/2604.23724)|-|-|
 |**2026-4-27**|**EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models**|Xiaomeng Peng et.al|[paper](https://arxiv.org/abs/2602.17419)|-|-|
 |**2026-4-27**|**Back to Repair: A Minimal Denoising Network for Time Series Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2604.17388)|[code](https://github.com/iis-esslingen/JuRe.)|-|
 |**2026-4-26**|**A method for detecting spatio-temporal correlation anomalies of WSN nodes based on topological information enhancement and time-frequency feature extraction**|Miao Ye et.al|[paper](https://arxiv.org/abs/2601.11951)|-|-|
-|**2026-4-26**|**Zoom In, Reason Out: Efficient Far-field Anomaly Detection in Expressway Surveillance Videos via Focused VLM Reasoning Guided by Bayesian Inference**|Xiaowei Mao et.al|[paper](https://arxiv.org/abs/2604.23724)|-|-|
 |**2026-4-25**|**Advanced Anomaly Detection and Threat Intelligence in Zero Trust IoT Environments Using Machine Learning**|Muhammad Umair Basharat et.al|[paper](https://arxiv.org/abs/2604.23332)|-|<details><summary>detail</summary>Accepted for 2026 the 6th International Conference on Computer Communication and Artificial Intelligence (CCAI2026)</details>|
 |**2026-4-24**|**Matrix Profile for Time-Series Anomaly Detection: A Reproducible Open-Source Benchmark on TSB-AD**|Chin-Chia Michael Yeh et.al|[paper](https://arxiv.org/abs/2604.02445)|[code](https://github.com/mcyeh/mmpad_tsb.)|<details><summary>detail</summary>https://github</details>|
 |**2026-4-24**|**Unified Taxonomy for Multivariate Time Series Anomaly Detection using Deep Learning**|Bruna Alves et.al|[paper](https://arxiv.org/abs/2603.18941)|-|-|
@@ -97,7 +98,6 @@
 |**2026-4-20**|**Mechanistic Anomaly Detection via Functional Attribution**|Hugo Lyons Keenan et.al|[paper](https://arxiv.org/abs/2604.18970)|-|-|
 |**2026-4-20**|**One-Step Diffusion with Inverse Residual Fields for Unsupervised Industrial Anomaly Detection**|Boan Zhang et.al|[paper](https://arxiv.org/abs/2604.18393)|-|-|
 |**2026-4-20**|**Enhancing Tabular Anomaly Detection via Pseudo-Label-Guided Generation**|Wei Huang et.al|[paper](https://arxiv.org/abs/2604.18266)|-|-|
-|**2026-4-20**|**Enhancing Anomaly-Based Intrusion Detection Systems with Process Mining**|Francesco Vitale et.al|[paper](https://arxiv.org/abs/2604.18066)|-|<details><summary>detail</summary>the 2026 IEEE International Conference on Cyber Security and Resilience</details>|
 
 ## 3D Anomaly Detection
 
