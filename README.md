@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-30**|**Hybrid Anomaly Detection for Bullion Coin Authentication Leveraging Acoustic Signature Analysis**|Krzysztof Siwek et.al|[paper](https://arxiv.org/abs/2604.27803)|-|-|
+|**2026-4-29**|**Context-Aware Graph Attention for Unsupervised Telco Anomaly Detection**|Sara Malacarne et.al|[paper](https://arxiv.org/abs/2604.27172)|-|-|
+|**2026-4-29**|**Anomaly Detection in Soil Heavy Metal Contamination Using Unsupervised Learning for Environmental Risk Assessment**|Isaac Tettey Adjokatse et.al|[paper](https://arxiv.org/abs/2604.27102)|-|-|
 |**2026-4-29**|**Distribution-Free Stochastic Analysis and Robust Multilevel Vector Field Anomaly Detection**|Julio E Castrillon-Candas et.al|[paper](https://arxiv.org/abs/2207.06229)|-|-|
 |**2026-4-29**|**Breaking the Rigid Prior: Towards Articulated 3D Anomaly Detection**|Jinye Gan et.al|[paper](https://arxiv.org/abs/2604.26868)|-|-|
 |**2026-4-29**|**Action Hints: Semantic Typicality and Context Uniqueness for Generalizable Skeleton-based Video Anomaly Detection**|Canhui Tang et.al|[paper](https://arxiv.org/abs/2509.11058)|-|<details><summary>detail</summary>The paper has been accepted by Pattern Recognition (PR)</details>|
@@ -95,9 +98,6 @@
 |**2026-4-22**|**AutoGraphAD: Unsupervised network anomaly detection using Variational Graph Autoencoders**|Georgios Anyfantis et.al|[paper](https://arxiv.org/abs/2511.17113)|-|-|
 |**2026-4-22**|**uLEAD-TabPFN: Uncertainty-aware Dependency-based Anomaly Detection with TabPFN**|Sha Lu et.al|[paper](https://arxiv.org/abs/2604.20255)|-|-|
 |**2026-4-22**|**VAN-AD: Visual Masked Autoencoder with Normalizing Flow For Time Series Anomaly Detection**|PengYu Chen et.al|[paper](https://arxiv.org/abs/2603.26842)|[code](https://github.com/PenyChen/VAN-AD.)|-|
-|**2026-4-21**|**Adaptive Conformal Anomaly Detection with Time Series Foundation Models for Signal Monitoring**|Natalia Martinez Gil et.al|[paper](https://arxiv.org/abs/2604.20122)|[code](https://github.com/ibm-granite/granite-tsfm/tree/main/notebooks/hfdemo/adaptive_conformal_tsad)|<details><summary>detail</summary>Code in : https://github</details>|
-|**2026-4-21**|**Integrating Anomaly Detection into Agentic AI for Proactive Risk Management in Human Activity**|Farbod Zorriassatine et.al|[paper](https://arxiv.org/abs/2604.19538)|-|-|
-|**2026-4-21**|**Improved Anomaly Detection in Medical Images via Mean Shift Density Enhancement**|Pritam Kar et.al|[paper](https://arxiv.org/abs/2604.19191)|-|-|
 
 ## 3D Anomaly Detection
 
