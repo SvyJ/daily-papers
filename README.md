@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.05.06
+## Updated on 2026.05.07
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-6**|**UniPCB: A Generation-Assisted Detection Framework for PCB Defect Inspection**|Huan Zhang et.al|[paper](https://arxiv.org/abs/2605.04635)|-|-|
 |**2026-5-3**|**Application Research of a Deep Learning Model Integrating CycleGAN and YOLO in PCB Infrared Defect Detection**|Chao Yang et.al|[paper](https://arxiv.org/abs/2601.00237)|-|<details><summary>detail</summary>Authors have conflict of interest</details>|
 |**2026-5-1**|**Event-based Civil Infrastructure Visual Defect Detection: ev-CIVIL Dataset and Benchmark**|Udayanga G. W. K. N. Gamage et.al|[paper](https://arxiv.org/abs/2504.05679)|-|<details><summary>detail</summary>Accepted version of the journal paper published in Sage Structural health monitoring journa and it is under review currently</details>|
 |**2026-4-29**|**SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection**|Paul Julius Kühn et.al|[paper](https://arxiv.org/abs/2604.26633)|-|-|
@@ -37,7 +38,6 @@
 |**2026-1-22**|**A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection**|Yangjie Xiao et.al|[paper](https://arxiv.org/abs/2508.10509)|[code](https://github.com/Jay-xyj/SBDE.)|-|
 |**2026-1-16**|**SME-YOLO: A Real-Time Detector for Tiny Defect Detection on PCB Surfaces**|Meng Han et.al|[paper](https://arxiv.org/abs/2601.11402)|-|-|
 |**2026-1-15**|**NATLM: Detecting Defects in NFT Smart Contracts Leveraging LLM**|Yuanzheng Niu et.al|[paper](https://arxiv.org/abs/2508.01351)|-|-|
-|**2026-1-13**|**LPCAN: Lightweight Pyramid Cross-Attention Network for Rail Surface Defect Detection Using RGB-D Data**|Jackie Alex et.al|[paper](https://arxiv.org/abs/2601.09118)|-|-|
 
 ## Defect Segmentation
 
@@ -73,9 +73,13 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-6**|**Learning Discriminative Signed Distance Functions from Multi-scale Level-of-detail Features for 3D Anomaly Detection**|Haibo Xiao et.al|[paper](https://arxiv.org/abs/2605.03437)|[code](https://anonymous.4open.science/r/DLF-3AD-DA61.)|-|
+|**2026-5-6**|**Evidence-based anomaly detection in clinical domains**|Milos Hauskrecht et.al|[paper](https://arxiv.org/abs/2605.04664)|-|<details><summary>detail</summary>Published at AMIA Annual Symposium 2007</details>|
+|**2026-5-5**|**Calibrating Tabular Anomaly Detection via Optimal Transport**|Hangting Ye et.al|[paper](https://arxiv.org/abs/2602.06810)|-|-|
+|**2026-5-5**|**ARTA: Adversarial-Robust Multivariate Time--Series Anomaly Detection via Sparsity-Constrained Perturbations**|Hadi Hojjati et.al|[paper](https://arxiv.org/abs/2603.25956)|-|-|
+|**2026-5-5**|**Enhanced Consistency Bi-directional GAN (CBiGAN) for Malware Anomaly Detection**|Thesath Wijayasiri et.al|[paper](https://arxiv.org/abs/2506.07372)|-|-|
 |**2026-5-5**|**Adaptive graph-based algorithms for conditional anomaly detection and semi-supervised learning**|Michal Valko et.al|[paper](https://arxiv.org/abs/2605.03495)|-|<details><summary>detail</summary>PhD thesis</details>|
 |**2026-5-5**|**MEMSAD: Gradient-Coupled Anomaly Detection for Memory Poisoning in Retrieval-Augmented Agents**|Ishrith Gowda et.al|[paper](https://arxiv.org/abs/2605.03482)|-|-|
-|**2026-5-5**|**Learning Discriminative Signed Distance Functions from Multi-scale Level-of-detail Features for 3D Anomaly Detection**|Haibo Xiao et.al|[paper](https://arxiv.org/abs/2605.03437)|[code](https://anonymous.4open.science/r/DLF-3AD-DA61.)|-|
 |**2026-5-4**|**LLM-ADAM: A Generalizable LLM Agent Framework for Pre-Print Anomaly Detection in Additive Manufacturing**|Ahmadreza Eslaminia et.al|[paper](https://arxiv.org/abs/2605.03328)|-|-|
 |**2026-5-4**|**Unsupervised Machine Learning for Detecting Structural Anomalies in European Regional Statistics**|Bogdan Oancea et.al|[paper](https://arxiv.org/abs/2605.02884)|-|<details><summary>detail</summary>Journal ref:Romanian Statistical Review</details>|
 |**2026-5-4**|**Dimensionality-Aware Anomaly Detection in Learned Representations of Self-Supervised Speech Models**|Sandra Arcos-Holzinger et.al|[paper](https://arxiv.org/abs/2605.02715)|-|<details><summary>detail</summary>Submitted to Interspeech 2026</details>|
@@ -94,16 +98,12 @@
 |**2026-4-29**|**Distribution-Free Stochastic Analysis and Robust Multilevel Vector Field Anomaly Detection**|Julio E Castrillon-Candas et.al|[paper](https://arxiv.org/abs/2207.06229)|-|-|
 |**2026-4-29**|**Breaking the Rigid Prior: Towards Articulated 3D Anomaly Detection**|Jinye Gan et.al|[paper](https://arxiv.org/abs/2604.26868)|-|-|
 |**2026-4-29**|**Action Hints: Semantic Typicality and Context Uniqueness for Generalizable Skeleton-based Video Anomaly Detection**|Canhui Tang et.al|[paper](https://arxiv.org/abs/2509.11058)|-|<details><summary>detail</summary>The paper has been accepted by Pattern Recognition (PR)</details>|
-|**2026-4-28**|**Unsupervised Graph Modeling for Anomaly Detection in Accounting Subject Relationships**|Yuhan Wang et.al|[paper](https://arxiv.org/abs/2604.26216)|-|-|
-|**2026-4-28**|**RoseCDL: Robust and Scalable Convolutional Dictionary Learning for Rare event and Anomaly Detection**|Jad Yehya et.al|[paper](https://arxiv.org/abs/2509.07523)|-|<details><summary>detail</summary>the 29th International Conference on Artificial Intelligence and Statistics (AISTATS) 2026</details>|
-|**2026-4-28**|**Residual-loss Anomaly Analysis of Physics-Informed Neural Networks: An Inverse Method for Change-point Detection in Nonlinear Dynamical Systems with Regime Switching**|Yuhe Bai et.al|[paper](https://arxiv.org/abs/2604.25655)|-|-|
-|**2026-4-28**|**Zoom In, Reason Out: Efficient Far-field Anomaly Detection in Expressway Surveillance Videos via Focused VLM Reasoning Guided by Bayesian Inference**|Xiaowei Mao et.al|[paper](https://arxiv.org/abs/2604.23724)|-|-|
 
 ## 3D Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-5-5**|**Learning Discriminative Signed Distance Functions from Multi-scale Level-of-detail Features for 3D Anomaly Detection**|Haibo Xiao et.al|[paper](https://arxiv.org/abs/2605.03437)|[code](https://anonymous.4open.science/r/DLF-3AD-DA61.)|-|
+|**2026-5-6**|**Learning Discriminative Signed Distance Functions from Multi-scale Level-of-detail Features for 3D Anomaly Detection**|Haibo Xiao et.al|[paper](https://arxiv.org/abs/2605.03437)|[code](https://anonymous.4open.science/r/DLF-3AD-DA61.)|-|
 |**2026-4-29**|**Breaking the Rigid Prior: Towards Articulated 3D Anomaly Detection**|Jinye Gan et.al|[paper](https://arxiv.org/abs/2604.26868)|-|-|
 |**2026-4-6**|**Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection**|Yihan Sun et.al|[paper](https://arxiv.org/abs/2604.04658)|[code](https://github.com/hustCYQ/Synthesis4AD.)|-|
 |**2026-4-5**|**Hierarchical Point-Patch Fusion with Adaptive Patch Codebook for 3D Shape Anomaly Detection**|Xueyang Kang et.al|[paper](https://arxiv.org/abs/2604.03972)|-|-|
@@ -163,12 +163,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-5**|**R3-VAE: Reference Vector-Guided Rating Residual Quantization VAE for Generative Recommendation**|Qiang Wan et.al|[paper](https://arxiv.org/abs/2604.11440)|-|<details><summary>detail</summary>Tech Report</details>|
 |**2026-5-4**|**Differentiable Vector Quantization for Rate-Distortion Optimization of Generative Image Compression**|Shiyin Jiang et.al|[paper](https://arxiv.org/abs/2604.10546)|[code](https://github.com/CVL-UESTC/RDVQ.)|<details><summary>detail</summary>Accepted for publication at CVPR 2026 as an Oral presentation</details>|
 |**2026-4-30**|**VQ-SAD: Vector Quantized Structure Aware Diffusion For Molecule Generation**|Farshad Noravesh et.al|[paper](https://arxiv.org/abs/2605.00354)|-|-|
 |**2026-4-25**|**Efficient VQ-QAT and Mixed Vector/Linear quantized Neural Networks**|Terry Gou et.al|[paper](https://arxiv.org/abs/2604.23172)|-|-|
 |**2026-4-16**|**Unsupervised Skeleton-Based Action Segmentation via Hierarchical Spatiotemporal Vector Quantization**|Umer Ahmed et.al|[paper](https://arxiv.org/abs/2604.15196)|-|-|
 |**2026-4-14**|**SHARe-KAN: Post-Training Vector Quantization for Cache-Resident KAN Inference**|Jeff Smith et.al|[paper](https://arxiv.org/abs/2512.15742)|-|-|
-|**2026-4-14**|**R3-VAE: Reference Vector-Guided Rating Residual Quantization VAE for Generative Recommendation**|Qiang Wan et.al|[paper](https://arxiv.org/abs/2604.11440)|-|-|
 |**2026-4-7**|**STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization**|Hao Li et.al|[paper](https://arxiv.org/abs/2506.03863)|-|<details><summary>detail</summary>Accepted by ICML 2025 Spotlight</details>|
 |**2026-4-7**|**Aligned Vector Quantization for Edge-Cloud Collabrative Vision-Language Models**|Xiao Liu et.al|[paper](https://arxiv.org/abs/2411.05961)|-|<details><summary>detail</summary>I found a big mistake in the paper that causes significant bias on the results</details>|
 |**2026-4-6**|**Modality-Aware and Anatomical Vector-Quantized Autoencoding for Multimodal Brain MRI**|Mingjie Li et.al|[paper](https://arxiv.org/abs/2604.05171)|-|<details><summary>detail</summary>CVPR Fingdings track</details>|
