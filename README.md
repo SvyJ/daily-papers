@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.05.07
+## Updated on 2026.05.08
 
 ## Defect Detection
 
@@ -73,13 +73,19 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-7**|**CLAD: A Clustered Label-Agnostic Federated Learning Framework for Joint Anomaly Detection and Attack Classification**|Iason Ofeidis et.al|[paper](https://arxiv.org/abs/2605.06571)|-|-|
+|**2026-5-7**|**Unsupervised Anomaly Detection in Wearable Foot Sensor Data: A Baseline Feasibility Study Towards Diabetic Foot Ulcer Prevention**|Md Tanvir Hasan Turja et.al|[paper](https://arxiv.org/abs/2603.12278)|[code](https://doi.org/10.1016/j.bspc.2026.110416)|-|
+|**2026-5-7**|**EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models**|Xiaomeng Peng et.al|[paper](https://arxiv.org/abs/2602.17419)|-|-|
+|**2026-5-7**|**MEMSAD: Gradient-Coupled Anomaly Detection for Memory Poisoning in Retrieval-Augmented Agents**|Ishrith Gowda et.al|[paper](https://arxiv.org/abs/2605.03482)|-|-|
+|**2026-5-7**|**Align3D-AD: Cross-Modal Feature Alignment and Dual-Prompt Learning for Zero-shot 3D Anomaly Detection**|Letian Bai et.al|[paper](https://arxiv.org/abs/2605.05850)|-|-|
+|**2026-5-7**|**Detecting Time Series Anomalies Like an Expert: A Multi-Agent LLM Framework with Specialized Analyzers**|Hyeongwon Kang et.al|[paper](https://arxiv.org/abs/2605.05725)|-|<details><summary>detail</summary>Preprint</details>|
+|**2026-5-6**|**Two Steps Are All You Need: Efficient 3D Point Cloud Anomaly Detection with Consistency Models**|Pranav A et.al|[paper](https://arxiv.org/abs/2605.05372)|-|<details><summary>detail</summary>CVPR 2026</details>|
 |**2026-5-6**|**Learning Discriminative Signed Distance Functions from Multi-scale Level-of-detail Features for 3D Anomaly Detection**|Haibo Xiao et.al|[paper](https://arxiv.org/abs/2605.03437)|[code](https://anonymous.4open.science/r/DLF-3AD-DA61.)|-|
 |**2026-5-6**|**Evidence-based anomaly detection in clinical domains**|Milos Hauskrecht et.al|[paper](https://arxiv.org/abs/2605.04664)|-|<details><summary>detail</summary>Published at AMIA Annual Symposium 2007</details>|
 |**2026-5-5**|**Calibrating Tabular Anomaly Detection via Optimal Transport**|Hangting Ye et.al|[paper](https://arxiv.org/abs/2602.06810)|-|-|
 |**2026-5-5**|**ARTA: Adversarial-Robust Multivariate Time--Series Anomaly Detection via Sparsity-Constrained Perturbations**|Hadi Hojjati et.al|[paper](https://arxiv.org/abs/2603.25956)|-|-|
 |**2026-5-5**|**Enhanced Consistency Bi-directional GAN (CBiGAN) for Malware Anomaly Detection**|Thesath Wijayasiri et.al|[paper](https://arxiv.org/abs/2506.07372)|-|-|
 |**2026-5-5**|**Adaptive graph-based algorithms for conditional anomaly detection and semi-supervised learning**|Michal Valko et.al|[paper](https://arxiv.org/abs/2605.03495)|-|<details><summary>detail</summary>PhD thesis</details>|
-|**2026-5-5**|**MEMSAD: Gradient-Coupled Anomaly Detection for Memory Poisoning in Retrieval-Augmented Agents**|Ishrith Gowda et.al|[paper](https://arxiv.org/abs/2605.03482)|-|-|
 |**2026-5-4**|**LLM-ADAM: A Generalizable LLM Agent Framework for Pre-Print Anomaly Detection in Additive Manufacturing**|Ahmadreza Eslaminia et.al|[paper](https://arxiv.org/abs/2605.03328)|-|-|
 |**2026-5-4**|**Unsupervised Machine Learning for Detecting Structural Anomalies in European Regional Statistics**|Bogdan Oancea et.al|[paper](https://arxiv.org/abs/2605.02884)|-|<details><summary>detail</summary>Journal ref:Romanian Statistical Review</details>|
 |**2026-5-4**|**Dimensionality-Aware Anomaly Detection in Learned Representations of Self-Supervised Speech Models**|Sandra Arcos-Holzinger et.al|[paper](https://arxiv.org/abs/2605.02715)|-|<details><summary>detail</summary>Submitted to Interspeech 2026</details>|
@@ -92,17 +98,13 @@
 |**2026-5-1**|**Scalable Context-Aware Graph Attention for Unsupervised Anomaly Detection in Large-Scale Mobile Networks**|Sara Malacarne et.al|[paper](https://arxiv.org/abs/2605.00482)|-|<details><summary>detail</summary>This work has been submitted to the IEEE for possible publication</details>|
 |**2026-4-30**|**EventADL: Open-Box Anomaly Detection and Localization Framework for Events in Cloud-Based Service Systems**|Luan Pham et.al|[paper](https://arxiv.org/abs/2605.00936)|-|<details><summary>detail</summary>This paper has been accepted to the FSE'26 Conference - Research Track</details>|
 |**2026-4-30**|**PhaseNet++: Phase-Aware Frequency-Domain Anomaly Detection for Industrial Control Systems via Phase Coherence Graphs**|Raviteja Bommireddy et.al|[paper](https://arxiv.org/abs/2605.00929)|-|-|
-|**2026-4-30**|**Hybrid Anomaly Detection for Bullion Coin Authentication Leveraging Acoustic Signature Analysis**|Krzysztof Siwek et.al|[paper](https://arxiv.org/abs/2604.27803)|-|-|
-|**2026-4-29**|**Context-Aware Graph Attention for Unsupervised Telco Anomaly Detection**|Sara Malacarne et.al|[paper](https://arxiv.org/abs/2604.27172)|-|-|
-|**2026-4-29**|**Anomaly Detection in Soil Heavy Metal Contamination Using Unsupervised Learning for Environmental Risk Assessment**|Isaac Tettey Adjokatse et.al|[paper](https://arxiv.org/abs/2604.27102)|-|-|
-|**2026-4-29**|**Distribution-Free Stochastic Analysis and Robust Multilevel Vector Field Anomaly Detection**|Julio E Castrillon-Candas et.al|[paper](https://arxiv.org/abs/2207.06229)|-|-|
-|**2026-4-29**|**Breaking the Rigid Prior: Towards Articulated 3D Anomaly Detection**|Jinye Gan et.al|[paper](https://arxiv.org/abs/2604.26868)|-|-|
-|**2026-4-29**|**Action Hints: Semantic Typicality and Context Uniqueness for Generalizable Skeleton-based Video Anomaly Detection**|Canhui Tang et.al|[paper](https://arxiv.org/abs/2509.11058)|-|<details><summary>detail</summary>The paper has been accepted by Pattern Recognition (PR)</details>|
 
 ## 3D Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-7**|**Align3D-AD: Cross-Modal Feature Alignment and Dual-Prompt Learning for Zero-shot 3D Anomaly Detection**|Letian Bai et.al|[paper](https://arxiv.org/abs/2605.05850)|-|-|
+|**2026-5-6**|**Two Steps Are All You Need: Efficient 3D Point Cloud Anomaly Detection with Consistency Models**|Pranav A et.al|[paper](https://arxiv.org/abs/2605.05372)|-|<details><summary>detail</summary>CVPR 2026</details>|
 |**2026-5-6**|**Learning Discriminative Signed Distance Functions from Multi-scale Level-of-detail Features for 3D Anomaly Detection**|Haibo Xiao et.al|[paper](https://arxiv.org/abs/2605.03437)|[code](https://anonymous.4open.science/r/DLF-3AD-DA61.)|-|
 |**2026-4-29**|**Breaking the Rigid Prior: Towards Articulated 3D Anomaly Detection**|Jinye Gan et.al|[paper](https://arxiv.org/abs/2604.26868)|-|-|
 |**2026-4-6**|**Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection**|Yihan Sun et.al|[paper](https://arxiv.org/abs/2604.04658)|[code](https://github.com/hustCYQ/Synthesis4AD.)|-|
@@ -126,14 +128,12 @@
 |**2025-9-16**|**Taming Anomalies with Down-Up Sampling Networks: Group Center Preserving Reconstruction for 3D Anomaly Detection**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2507.03903)|-|<details><summary>detail</summary>ACM MM25 Accepted</details>|
 |**2025-9-12**|**MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection**|Gang Li et.al|[paper](https://arxiv.org/abs/2509.10282)|-|<details><summary>detail</summary>Page 14</details>|
 |**2025-8-28**|**IAENet: An Importance-Aware Ensemble Model for 3D Point Cloud-Based Anomaly Detection**|Xuanming Cao et.al|[paper](https://arxiv.org/abs/2508.20492)|-|-|
-|**2025-8-19**|**Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2507.09214)|[code](https://github.com/shiyi-mu/S3AD-Code).)|<details><summary>detail</summary>under review</details>|
-|**2025-8-2**|**C3D-AD: Toward Continual 3D Anomaly Detection via Kernel Attention with Learnable Advisor**|Haoquan Lu et.al|[paper](https://arxiv.org/abs/2508.01311)|[code](https://github.com/hzzzzzhappy/CL3AD)|<details><summary>detail</summary>We have provided the code for C3D-AD with checkpoints and BASELINE at this link: https://github</details>|
 
 ## Multimodal Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-4-27**|**EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models**|Xiaomeng Peng et.al|[paper](https://arxiv.org/abs/2602.17419)|-|-|
+|**2026-5-7**|**EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models**|Xiaomeng Peng et.al|[paper](https://arxiv.org/abs/2602.17419)|-|-|
 |**2026-4-24**|**Text-Guided Multimodal Unified Industrial Anomaly Detection**|Zewen Li et.al|[paper](https://arxiv.org/abs/2604.22899)|-|-|
 |**2026-4-23**|**Anomaly Detection in Smart Power Grids with Graph-Regularized MS-SVDD: a Multimodal Subspace Learning Approach**|Thomas Debelle et.al|[paper](https://arxiv.org/abs/2502.15793)|-|-|
 |**2026-4-20**|**ZSG-IAD: A Multimodal Framework for Zero-Shot Grounded Industrial Anomaly Detection**|Qiuhui Chen et.al|[paper](https://arxiv.org/abs/2604.17949)|-|-|
