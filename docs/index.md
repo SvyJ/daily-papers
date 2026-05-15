@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.05.14
+## Updated on 2026.05.15
 
 ## Defect Detection
 
@@ -73,10 +73,14 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-14**|**Computational Imaging Priors for Wireless Capsule Endoscopy: Monte Carlo-Guided Hemoglobin Mapping for Rare-Anomaly Detection**|Chengshuai Yang et.al|[paper](https://arxiv.org/abs/2605.15062)|[code](https://github.com/integritynoble/GI_Multi_Task)|-|
+|**2026-5-14**|**LATERN: Test-Time Context-Aware Explainable Video Anomaly Detection**|Mitchell Piehl et.al|[paper](https://arxiv.org/abs/2605.15054)|-|-|
+|**2026-5-14**|**Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection**|Fuyun Wang et.al|[paper](https://arxiv.org/abs/2605.02438)|-|<details><summary>detail</summary>Accepted by ICML 2026</details>|
+|**2026-5-14**|**PaAno: Patch-Based Representation Learning for Time-Series Anomaly Detection**|Jinju Park et.al|[paper](https://arxiv.org/abs/2602.01359)|-|<details><summary>detail</summary>Accepted by the 14th International Conference on Learning Representations (ICLR 2026)</details>|
+|**2026-5-13**|**A Problem-Oriented Taxonomy of Evaluation Metrics for Time Series Anomaly Detection**|Kaixiang Yang et.al|[paper](https://arxiv.org/abs/2511.18739)|-|-|
 |**2026-5-13**|**Uncertainty-Driven Anomaly Detection for Psychotic Relapse Using Smartwatches: Forecasting and Multi-Task Learning Fusion**|Nikolaos Tsalkitzis et.al|[paper](https://arxiv.org/abs/2605.13816)|-|-|
 |**2026-5-13**|**Weakly-Supervised Spatiotemporal Anomaly Detection**|Urvi Gianchandani et.al|[paper](https://arxiv.org/abs/2605.13746)|-|-|
 |**2026-5-13**|**Conformal Anomaly Detection in Python: Moving Beyond Heuristic Thresholds with 'nonconform'**|Oliver Hennhöfer et.al|[paper](https://arxiv.org/abs/2605.13642)|-|-|
-|**2026-5-13**|**Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection**|Fuyun Wang et.al|[paper](https://arxiv.org/abs/2605.02438)|-|<details><summary>detail</summary>Accepted by ICML 2026</details>|
 |**2026-5-13**|**Conditional Compatibility Learning for Context-Dependent Anomaly Detection**|Shashank Mishra et.al|[paper](https://arxiv.org/abs/2601.22868)|-|<details><summary>detail</summary>Preprint</details>|
 |**2026-5-13**|**SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling**|Camile Lendering et.al|[paper](https://arxiv.org/abs/2602.23013)|[code](https://github.com/CLendering/SubspaceAD.)|<details><summary>detail</summary>CVPR 2026</details>|
 |**2026-5-12**|**Topo-R1: Detecting Topological Anomalies via Vision-Language Models**|Meilong Xu et.al|[paper](https://arxiv.org/abs/2603.13054)|-|-|
@@ -94,10 +98,6 @@
 |**2026-5-10**|**Learning Unified Representations of Normalcy for Time Series Anomaly Detection**|Prithul Sarker et.al|[paper](https://arxiv.org/abs/2605.09685)|-|-|
 |**2026-5-10**|**FedCIGAR: A Personalized Reconstruction Approach for Federated Graph-level Anomaly Detection**|Yunfeng Zhao et.al|[paper](https://arxiv.org/abs/2605.09428)|-|<details><summary>detail</summary>Accepted by IJCAI 2026</details>|
 |**2026-5-9**|**Detect, Localize, and Explain: Interactive Hierarchical Log Anomaly Analytics with LLM Augmentation**|Lei Ma et.al|[paper](https://arxiv.org/abs/2605.09222)|[code](https://github.com/LeiMa0324/KRONE_Demo_official,)|-|
-|**2026-5-9**|**COGNOS: Universal Enhancement for Time Series Anomaly Detection via Constrained Gaussian-Noise Optimization and Smoothing**|Wenlong Shang et.al|[paper](https://arxiv.org/abs/2511.06894)|-|-|
-|**2026-5-9**|**HLGFA: High-Low Resolution Guided Feature Alignment for Unsupervised Anomaly Detection**|Han Zhou et.al|[paper](https://arxiv.org/abs/2602.09524)|-|-|
-|**2026-5-8**|**Privacy-Aware Video Anomaly Detection through Orthogonal Subspace Projection**|Lei Wang et.al|[paper](https://arxiv.org/abs/2605.08651)|-|<details><summary>detail</summary>Accepted as a Spotlight paper at the Forty-Third International Conference on Machine Learning (ICML 2026)</details>|
-|**2026-5-8**|**SphereVAD: Training-Free Video Anomaly Detection via Geodesic Inference on the Unit Hypersphere**|Chao Huang et.al|[paper](https://arxiv.org/abs/2605.08003)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-14**|**RQ-MoE: Residual Quantization via Mixture of Experts for Efficient Input-Dependent Vector Compression**|Zhengjia Zhong et.al|[paper](https://arxiv.org/abs/2605.14359)|[code](https://github.com/KDEGroup/RQ-MoE.)|<details><summary>detail</summary>To appear at ICML 2026</details>|
 |**2026-5-13**|**ArcVQ-VAE: A Spherical Vector Quantization Framework with ArcCosine Additive Margin**|Jaeyung Kim et.al|[paper](https://arxiv.org/abs/2605.13517)|[code](https://github.com/goals4292/ArcVQ-VAE)|<details><summary>detail</summary>To appear in Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)</details>|
 |**2026-5-13**|**Vector-Quantized Discrete Latent Factors Meet Financial Priors: Dynamic Cross-Sectional Stock Ranking Prediction for Portfolio Construction**|Namhyoung Kim et.al|[paper](https://arxiv.org/abs/2605.13407)|[code](https://github.com/finxlab/PRISM-VQ.)|<details><summary>detail</summary>IJCAI 2026 Accepted Paper including Technical Appendix</details>|
 |**2026-5-12**|**DiVeQ: Differentiable Vector Quantization Using the Reparameterization Trick**|Mohammad Hassan Vali et.al|[paper](https://arxiv.org/abs/2509.26469)|-|-|
@@ -187,5 +188,4 @@
 |**2026-3-3**|**ProGIC: Progressive and Lightweight Generative Image Compression with Residual Vector Quantization**|Hao Cao et.al|[paper](https://arxiv.org/abs/2603.02897)|-|-|
 |**2026-2-24**|**KBVQ-MoE: KLT-guided SVD with Bias-Corrected Vector Quantization for MoE Large Language Models**|Zukang Xu et.al|[paper](https://arxiv.org/abs/2602.11184)|-|<details><summary>detail</summary>Accepted by ICLR 2026</details>|
 |**2026-2-22**|**VQEL: Enabling Self-Play in Emergent Language Games via Agent-Internal Vector Quantization**|Mohammad Mahdi Samiei Paqaleh et.al|[paper](https://arxiv.org/abs/2503.04940)|-|-|
-|**2026-2-21**|**Beyond Stationarity: Rethinking Codebook Collapse in Vector Quantization**|Hao Lu et.al|[paper](https://arxiv.org/abs/2602.18896)|[code](https://github.com/CAIR-)|-|
 
