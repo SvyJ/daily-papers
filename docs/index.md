@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.05.17
+## Updated on 2026.05.18
 
 ## Defect Detection
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-15**|**Res$^2$CLIP: Few-Shot Generalist Anomaly Detection with Residual-to-Residual Alignment**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2605.16171)|[code](https://github.com/hito2448/Res2CLIP.)|-|
+|**2026-5-15**|**Detecting Localized Density Anomalies in Multivariate Data via Coin-Flip Statistics**|Sebastian Springer et.al|[paper](https://arxiv.org/abs/2503.23927)|[code](https://github.com/sspring137/EagleEye)|<details><summary>detail</summary>Code Availability: The code used to generate the results of this study is available at GitHub via the link: https://github</details>|
+|**2026-5-15**|**Ti-iLSTM: A TinyDL Approach for Logic-Level Anomaly Detection in Industrial Water Treatment Systems**|Mandar Joshi et.al|[paper](https://arxiv.org/abs/2605.15874)|-|<details><summary>detail</summary>NA</details>|
+|**2026-5-14**|**COPRA: Conditional Parameter Adaptation with Reinforcement Learning for Video Anomaly Detection**|Darryl Cherian Jacob et.al|[paper](https://arxiv.org/abs/2605.15325)|[code](https://github.com/THE-MALT-LAB/COPRA)|<details><summary>detail</summary>Manuscript currently under review for publication</details>|
 |**2026-5-14**|**Computational Imaging Priors for Wireless Capsule Endoscopy: Monte Carlo-Guided Hemoglobin Mapping for Rare-Anomaly Detection**|Chengshuai Yang et.al|[paper](https://arxiv.org/abs/2605.15062)|[code](https://github.com/integritynoble/GI_Multi_Task)|-|
 |**2026-5-14**|**LATERN: Test-Time Context-Aware Explainable Video Anomaly Detection**|Mitchell Piehl et.al|[paper](https://arxiv.org/abs/2605.15054)|-|-|
 |**2026-5-14**|**Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection**|Fuyun Wang et.al|[paper](https://arxiv.org/abs/2605.02438)|-|<details><summary>detail</summary>Accepted by ICML 2026</details>|
@@ -94,10 +98,6 @@
 |**2026-5-11**|**AnomalyClaw: A Universal Visual Anomaly Detection Agent via Tool-Grounded Refutation**|Xi Jiang et.al|[paper](https://arxiv.org/abs/2605.10397)|[code](https://github.com/jam-cc/AnomalyClaw)|<details><summary>detail</summary>We release the agent</details>|
 |**2026-5-11**|**When Normality Shifts: Risk-Aware Test-Time Adaptation for Unsupervised Tabular Anomaly Detection**|Wei Huang et.al|[paper](https://arxiv.org/abs/2605.10242)|-|-|
 |**2026-5-11**|**VAE with Hyperspherical Coordinates: Improving Anomaly Detection from Hypervolume-Compressed Latent Space**|Alejandro Ascarate et.al|[paper](https://arxiv.org/abs/2601.18823)|-|-|
-|**2026-5-10**|**Multi-Tier Labeling and Physics-Informed Learning for Orbital Anomaly Detection at Scale**|Yong Fu et.al|[paper](https://arxiv.org/abs/2605.09790)|-|-|
-|**2026-5-10**|**Learning Unified Representations of Normalcy for Time Series Anomaly Detection**|Prithul Sarker et.al|[paper](https://arxiv.org/abs/2605.09685)|-|-|
-|**2026-5-10**|**FedCIGAR: A Personalized Reconstruction Approach for Federated Graph-level Anomaly Detection**|Yunfeng Zhao et.al|[paper](https://arxiv.org/abs/2605.09428)|-|<details><summary>detail</summary>Accepted by IJCAI 2026</details>|
-|**2026-5-9**|**Detect, Localize, and Explain: Interactive Hierarchical Log Anomaly Analytics with LLM Augmentation**|Lei Ma et.al|[paper](https://arxiv.org/abs/2605.09222)|[code](https://github.com/LeiMa0324/KRONE_Demo_official,)|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-14**|**PrismQuant: Rate-Distortion-Optimal Vector Quantization for Gaussian-Mixture Sources**|Bumsu Park et.al|[paper](https://arxiv.org/abs/2605.15507)|-|-|
+|**2026-5-14**|**Online Vector Quantized Attention**|Nick Alonso et.al|[paper](https://arxiv.org/abs/2602.03922)|-|-|
 |**2026-5-14**|**RQ-MoE: Residual Quantization via Mixture of Experts for Efficient Input-Dependent Vector Compression**|Zhengjia Zhong et.al|[paper](https://arxiv.org/abs/2605.14359)|[code](https://github.com/KDEGroup/RQ-MoE.)|<details><summary>detail</summary>To appear at ICML 2026</details>|
 |**2026-5-13**|**ArcVQ-VAE: A Spherical Vector Quantization Framework with ArcCosine Additive Margin**|Jaeyung Kim et.al|[paper](https://arxiv.org/abs/2605.13517)|[code](https://github.com/goals4292/ArcVQ-VAE)|<details><summary>detail</summary>To appear in Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)</details>|
 |**2026-5-13**|**Vector-Quantized Discrete Latent Factors Meet Financial Priors: Dynamic Cross-Sectional Stock Ranking Prediction for Portfolio Construction**|Namhyoung Kim et.al|[paper](https://arxiv.org/abs/2605.13407)|[code](https://github.com/finxlab/PRISM-VQ.)|<details><summary>detail</summary>IJCAI 2026 Accepted Paper including Technical Appendix</details>|
@@ -186,6 +188,4 @@
 |**2026-3-11**|**Leech Lattice Vector Quantization for Efficient LLM Compression**|Tycho F. A. van der Ouderaa et.al|[paper](https://arxiv.org/abs/2603.11021)|-|-|
 |**2026-3-4**|**Vector-Quantized Soft Label Compression for Dataset Distillation**|Ali Abbasi et.al|[paper](https://arxiv.org/abs/2603.03808)|-|-|
 |**2026-3-3**|**ProGIC: Progressive and Lightweight Generative Image Compression with Residual Vector Quantization**|Hao Cao et.al|[paper](https://arxiv.org/abs/2603.02897)|-|-|
-|**2026-2-24**|**KBVQ-MoE: KLT-guided SVD with Bias-Corrected Vector Quantization for MoE Large Language Models**|Zukang Xu et.al|[paper](https://arxiv.org/abs/2602.11184)|-|<details><summary>detail</summary>Accepted by ICLR 2026</details>|
-|**2026-2-22**|**VQEL: Enabling Self-Play in Emergent Language Games via Agent-Internal Vector Quantization**|Mohammad Mahdi Samiei Paqaleh et.al|[paper](https://arxiv.org/abs/2503.04940)|-|-|
 
