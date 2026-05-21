@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.05.20
+## Updated on 2026.05.21
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-20**|**BioDefect: The First Dataset for Defect Detection in Bioinformatics Software**|Tianxiang Xu et.al|[paper](https://arxiv.org/abs/2605.20788)|-|-|
 |**2026-5-19**|**Interpretable Computer Vision for Defect Detection in X-ray Tomography of Aerospace SiC/SiC Composites**|Antonio Peña Corredor et.al|[paper](https://arxiv.org/abs/2605.20159)|-|-|
 |**2026-5-17**|**Network Knowledge Prior Guided Learning for Data-Efficient Surface Defect Detection**|Hang-Cheng Dong et.al|[paper](https://arxiv.org/abs/2605.17780)|-|-|
 |**2026-5-13**|**Hybrid Quantum-MambaVision: A Quantum-enhanced State Space Model for Calibrated Mixed-type Wafer Defect Detection**|Satwik Sai Prakash Sahoo et.al|[paper](https://arxiv.org/abs/2605.16404)|-|-|
@@ -37,7 +38,6 @@
 |**2026-3-13**|**Vision-Language Based Expert Reporting for Painting Authentication and Defect Detection**|Eman Ouda et.al|[paper](https://arxiv.org/abs/2603.13437)|-|<details><summary>detail</summary>Submitted to Journal of Cultural Heritage</details>|
 |**2026-3-11**|**StructDamage:A Large Scale Unified Crack and Surface Defect Dataset for Robust Structural Damage Detection**|Misbah Ijaz et.al|[paper](https://arxiv.org/abs/2603.10484)|-|-|
 |**2026-3-6**|**ExDD: Explicit Dual Distribution Learning for Surface Defect Detection via Diffusion Synthesis**|Muhammad Aqeel et.al|[paper](https://arxiv.org/abs/2507.15335)|[code](https://github.com/aqeeelmirza/ExDD-Defect-Detection)|<details><summary>detail</summary>ICIAP 2025</details>|
-|**2026-2-20**|**Cross-Modal Purification and Fusion for Small-Object RGB-D Transmission-Line Defect Detection**|Jiaming Cui et.al|[paper](https://arxiv.org/abs/2602.01696)|-|-|
 
 ## Defect Segmentation
 
@@ -73,12 +73,16 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-20**|**Can VLMs Unlock Semantic Anomaly Detection? A Framework for Structured Reasoning**|Roberto Brusnicki et.al|[paper](https://arxiv.org/abs/2510.18034)|[code](https://TUM-AVS.github.io/SAVANT/.)|-|
+|**2026-5-20**|**IMPACT: Influence Modeling for Open-Set Time Series Anomaly Detection**|Xiaohui Zhou et.al|[paper](https://arxiv.org/abs/2603.29183)|[code](https://github.com/mala-lab/IMPACT.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
+|**2026-5-20**|**NeighborDiv: Training-free Zero-shot Generalist Graph Anomaly Detection via Neighbor Diversity**|Kaifeng Wei et.al|[paper](https://arxiv.org/abs/2605.20879)|-|-|
+|**2026-5-19**|**IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools**|Rongbin Tan et.al|[paper](https://arxiv.org/abs/2605.20682)|-|-|
+|**2026-5-19**|**Latent Geometry as a Structural Monitor: Eigenspace Alignment for Anomaly Detection in Anonymity Networks**|Vaibhav Chhabra et.al|[paper](https://arxiv.org/abs/2605.20391)|-|-|
 |**2026-5-19**|**Real-World On-Vehicle Evaluation of Embedding-Based Anomaly Detection**|Albert Schotschneider et.al|[paper](https://arxiv.org/abs/2605.19744)|-|<details><summary>detail</summary>CVPR 2026 Workshop AUTOPILOT-NA</details>|
 |**2026-5-19**|**TERGAD: Structure-Aware Text-Enhanced Representations for Graph Anomaly Detection**|Wen Shi et.al|[paper](https://arxiv.org/abs/2605.19738)|[code](https://github.com/Kantorakitty/TERGAD-main.)|-|
 |**2026-5-19**|**A Hybrid Cluster-Based Classification Model for Anomaly Detection in Unbalanced IoT Networks**|Hossein Shaemi Barzoki et.al|[paper](https://arxiv.org/abs/2605.19451)|-|-|
 |**2026-5-19**|**Quantum Autoencoder for Multivariate Time Series Anomaly Detection**|Kilian Tscharke et.al|[paper](https://arxiv.org/abs/2504.17548)|-|<details><summary>detail</summary>Submitted to IEEE International Conference on Quantum Computing and Engineering (QCE) 2025</details>|
 |**2026-5-19**|**Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection**|Fuyun Wang et.al|[paper](https://arxiv.org/abs/2502.20981)|-|<details><summary>detail</summary>Accepted by CVPR 2025</details>|
-|**2026-5-18**|**IMPACT: Influence Modeling for Open-Set Time Series Anomaly Detection**|Xiaohui Zhou et.al|[paper](https://arxiv.org/abs/2603.29183)|[code](https://github.com/mala-lab/IMPACT.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
 |**2026-5-18**|**Quantum Machine Learning for Cyber-Physical Anomaly Detection in Unmanned Aerial Vehicles: A Leakage-Free Evaluation with Proxy-Audited Feature Sets**|Carlos A. Durán Paredes et.al|[paper](https://arxiv.org/abs/2605.19233)|[code](https://github.com/Carlosandp/TLM-UAV-Quantum-Anomaly-Detection)|-|
 |**2026-5-18**|**Are Multimodal LLMs Ready for Surveillance? A Reality Check on Zero-Shot Anomaly Detection in the Wild**|Shanle Yao et.al|[paper](https://arxiv.org/abs/2603.04727)|-|-|
 |**2026-5-18**|**UTOPYA: A Multimodal Deep Learning Framework for Physics-Informed Anomaly Detection and Time-Series Prediction**|Robson W. S. Pessoa et.al|[paper](https://arxiv.org/abs/2605.18188)|-|-|
@@ -94,10 +98,6 @@
 |**2026-5-14**|**LATERN: Test-Time Context-Aware Explainable Video Anomaly Detection**|Mitchell Piehl et.al|[paper](https://arxiv.org/abs/2605.15054)|-|-|
 |**2026-5-14**|**Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection**|Fuyun Wang et.al|[paper](https://arxiv.org/abs/2605.02438)|-|<details><summary>detail</summary>Accepted by ICML 2026</details>|
 |**2026-5-14**|**PaAno: Patch-Based Representation Learning for Time-Series Anomaly Detection**|Jinju Park et.al|[paper](https://arxiv.org/abs/2602.01359)|-|<details><summary>detail</summary>Accepted by the 14th International Conference on Learning Representations (ICLR 2026)</details>|
-|**2026-5-13**|**A Problem-Oriented Taxonomy of Evaluation Metrics for Time Series Anomaly Detection**|Kaixiang Yang et.al|[paper](https://arxiv.org/abs/2511.18739)|-|-|
-|**2026-5-13**|**Uncertainty-Driven Anomaly Detection for Psychotic Relapse Using Smartwatches: Forecasting and Multi-Task Learning Fusion**|Nikolaos Tsalkitzis et.al|[paper](https://arxiv.org/abs/2605.13816)|-|-|
-|**2026-5-13**|**Weakly-Supervised Spatiotemporal Anomaly Detection**|Urvi Gianchandani et.al|[paper](https://arxiv.org/abs/2605.13746)|-|-|
-|**2026-5-13**|**Conformal Anomaly Detection in Python: Moving Beyond Heuristic Thresholds with 'nonconform'**|Oliver Hennhöfer et.al|[paper](https://arxiv.org/abs/2605.13642)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-20**|**Divide et Calibra: Multiclass Local Calibration via Vector Quantization**|Cesare Barbera et.al|[paper](https://arxiv.org/abs/2605.21060)|-|-|
+|**2026-5-19**|**Improving 3D Gaussian Splatting Compression by Scene-Adaptive Lattice Vector Quantization**|Hao Xu et.al|[paper](https://arxiv.org/abs/2509.13482)|[code](https://github.com/hxu160/SALVQ)|<details><summary>detail</summary>Accepted by IEEE TIP</details>|
 |**2026-5-19**|**Block-Sphere Vector Quantization**|Heesang Ann et.al|[paper](https://arxiv.org/abs/2605.19972)|-|-|
 |**2026-5-14**|**PrismQuant: Rate-Distortion-Optimal Vector Quantization for Gaussian-Mixture Sources**|Bumsu Park et.al|[paper](https://arxiv.org/abs/2605.15507)|-|-|
 |**2026-5-14**|**Online Vector Quantized Attention**|Nick Alonso et.al|[paper](https://arxiv.org/abs/2602.03922)|-|-|
@@ -186,6 +188,4 @@
 |**2026-3-17**|**Mitigating Premature Discretization with Progressive Quantization for Robust Vector Tokenization**|Wenhao Zhao et.al|[paper](https://arxiv.org/abs/2603.22304)|-|-|
 |**2026-3-17**|**VQKV: High-Fidelity and High-Ratio Cache Compression via Vector-Quantization**|Yixuan Wang et.al|[paper](https://arxiv.org/abs/2603.16435)|-|-|
 |**2026-3-14**|**Purrception: Variational Flow Matching for Vector-Quantized Image Generation**|Răzvan-Andrei Matişan et.al|[paper](https://arxiv.org/abs/2510.01478)|-|<details><summary>detail</summary>Published as a conference paper at ICLR 2026</details>|
-|**2026-3-11**|**Leech Lattice Vector Quantization for Efficient LLM Compression**|Tycho F. A. van der Ouderaa et.al|[paper](https://arxiv.org/abs/2603.11021)|-|-|
-|**2026-3-4**|**Vector-Quantized Soft Label Compression for Dataset Distillation**|Ali Abbasi et.al|[paper](https://arxiv.org/abs/2603.03808)|-|-|
 
