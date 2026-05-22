@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.05.21
+## Updated on 2026.05.22
 
 ## Defect Detection
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-21**|**FAME: Failure-Aware Mixture-of-Experts for Message-Level Log Anomaly Detection**|Huanchi Wang et.al|[paper](https://arxiv.org/abs/2605.22779)|-|-|
+|**2026-5-21**|**Cyber-Physical Anomaly Detection in IoT-Enabled Smart Grids Using Machine Learning and Metaheuristic Feature Optimization**|Adis Alihodžić et.al|[paper](https://arxiv.org/abs/2605.22749)|-|-|
+|**2026-5-21**|**Quantum Genetic Optimization for Negative Selection Algorithms in Anomaly Detection**|Giancarlo P. Gamberi et.al|[paper](https://arxiv.org/abs/2605.22527)|-|-|
+|**2026-5-20**|**Bounding-Box Trajectories Matter for Video Anomaly Detection**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2605.21957)|-|-|
 |**2026-5-20**|**Can VLMs Unlock Semantic Anomaly Detection? A Framework for Structured Reasoning**|Roberto Brusnicki et.al|[paper](https://arxiv.org/abs/2510.18034)|[code](https://TUM-AVS.github.io/SAVANT/.)|-|
 |**2026-5-20**|**IMPACT: Influence Modeling for Open-Set Time Series Anomaly Detection**|Xiaohui Zhou et.al|[paper](https://arxiv.org/abs/2603.29183)|[code](https://github.com/mala-lab/IMPACT.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
 |**2026-5-20**|**NeighborDiv: Training-free Zero-shot Generalist Graph Anomaly Detection via Neighbor Diversity**|Kaifeng Wei et.al|[paper](https://arxiv.org/abs/2605.20879)|-|-|
@@ -94,10 +98,6 @@
 |**2026-5-15**|**Detecting Localized Density Anomalies in Multivariate Data via Coin-Flip Statistics**|Sebastian Springer et.al|[paper](https://arxiv.org/abs/2503.23927)|[code](https://github.com/sspring137/EagleEye)|<details><summary>detail</summary>Code Availability: The code used to generate the results of this study is available at GitHub via the link: https://github</details>|
 |**2026-5-15**|**Ti-iLSTM: A TinyDL Approach for Logic-Level Anomaly Detection in Industrial Water Treatment Systems**|Mandar Joshi et.al|[paper](https://arxiv.org/abs/2605.15874)|-|<details><summary>detail</summary>NA</details>|
 |**2026-5-14**|**COPRA: Conditional Parameter Adaptation with Reinforcement Learning for Video Anomaly Detection**|Darryl Cherian Jacob et.al|[paper](https://arxiv.org/abs/2605.15325)|[code](https://github.com/THE-MALT-LAB/COPRA)|<details><summary>detail</summary>Manuscript currently under review for publication</details>|
-|**2026-5-14**|**Computational Imaging Priors for Wireless Capsule Endoscopy: Monte Carlo-Guided Hemoglobin Mapping for Rare-Anomaly Detection**|Chengshuai Yang et.al|[paper](https://arxiv.org/abs/2605.15062)|[code](https://github.com/integritynoble/GI_Multi_Task)|-|
-|**2026-5-14**|**LATERN: Test-Time Context-Aware Explainable Video Anomaly Detection**|Mitchell Piehl et.al|[paper](https://arxiv.org/abs/2605.15054)|-|-|
-|**2026-5-14**|**Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection**|Fuyun Wang et.al|[paper](https://arxiv.org/abs/2605.02438)|-|<details><summary>detail</summary>Accepted by ICML 2026</details>|
-|**2026-5-14**|**PaAno: Patch-Based Representation Learning for Time-Series Anomaly Detection**|Jinju Park et.al|[paper](https://arxiv.org/abs/2602.01359)|-|<details><summary>detail</summary>Accepted by the 14th International Conference on Learning Representations (ICLR 2026)</details>|
 
 ## 3D Anomaly Detection
 
