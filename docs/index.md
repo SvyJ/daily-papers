@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.05.27
+## Updated on 2026.05.28
 
 ## Defect Detection
 
@@ -73,8 +73,14 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-27**|**EntroAD: Structural Entropy-Guided Prompt Adaptation for Zero-Shot Anomaly Detection**|Xinyu Zhao et.al|[paper](https://arxiv.org/abs/2605.28630)|-|-|
+|**2026-5-27**|**Benchmarking Inductive Biases for Multivariate Time-Series Anomaly Detection with a Robust Multi-View Channel-Graph Detector**|Junhao Wei et.al|[paper](https://arxiv.org/abs/2605.28103)|-|-|
+|**2026-5-27**|**Patched-DeltaNet: Token-Level Event-Driven Memory for Linear-Time Anomaly Detection**|Tae-Gyun Lee et.al|[paper](https://arxiv.org/abs/2605.27992)|-|-|
+|**2026-5-26**|**Mahalanobis PatchCore: Covariance-Aware and Streaming-Compatible Industrial Anomaly Detection**|Niccolò Ferrari et.al|[paper](https://arxiv.org/abs/2605.27748)|-|-|
+|**2026-5-26**|**Federated Learning for Multivariate Time Series Anomaly Detection in Industrial Automation**|Khayyam Nosrati et.al|[paper](https://arxiv.org/abs/2605.27486)|-|<details><summary>detail</summary>Preprint</details>|
 |**2026-5-26**|**Generalist Graph Anomaly Detection via Prototype-Based Distillation**|Yiming Xu et.al|[paper](https://arxiv.org/abs/2605.26857)|-|<details><summary>detail</summary>Accepted by ICML 2026</details>|
 |**2026-5-26**|**Advancing Metallic Surface Defect Detection via Anomaly-Guided Pretraining on a Large Industrial Dataset**|Chuni Liu et.al|[paper](https://arxiv.org/abs/2509.18919)|[code](https://clovermini.github.io/AGSSP-Dev/.)|<details><summary>detail</summary>Accepted for publication in Pattern Recognition</details>|
+|**2026-5-26**|**Detect by Yourself: Self-Designing Agentic Workflows for Few-Shot Graph Anomaly Detection**|Tairan Huang et.al|[paper](https://arxiv.org/abs/2605.27470)|-|-|
 |**2026-5-26**|**Memory-Distilled Selection for Noise-Robust Anomaly Detection**|Sirojbek Safarov et.al|[paper](https://arxiv.org/abs/2605.26676)|[code](https://github.com/SirojbekSafarov/MeDS)|<details><summary>detail</summary>Accepted by ICML2026</details>|
 |**2026-5-26**|**TailedCore: Few-Shot Sampling for Unsupervised Long-Tail Noisy Anomaly Detection**|Yoon Gyo Jung et.al|[paper](https://arxiv.org/abs/2504.02775)|-|<details><summary>detail</summary>CVPR2025</details>|
 |**2026-5-26**|**Rethinking Weak Supervision in Anomaly Detection: A Comprehensive Benchmark**|Xu Yao et.al|[paper](https://arxiv.org/abs/2605.26068)|[code](https://github.com/SUFE-AILAB/WSADBench.)|<details><summary>detail</summary>KDD 2026 Datasets and Benchmarks Track</details>|
@@ -92,12 +98,6 @@
 |**2026-5-23**|**Dual Prototype-Conditioned Diffusion Model for Scalable Multi-Class Unsupervised Anomaly Detection in Large Category Spaces**|Yaoxuan Feng et.al|[paper](https://arxiv.org/abs/2605.24402)|-|-|
 |**2026-5-22**|**Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions**|Chad Weatherly et.al|[paper](https://arxiv.org/abs/2605.24251)|-|-|
 |**2026-5-22**|**Field Theory of Data: Anomaly Detection via the Functional Renormalization Group. The 2D Ising Model as a Benchmark**|Riccardo Finotello et.al|[paper](https://arxiv.org/abs/2605.11138)|-|-|
-|**2026-5-22**|**Contrast to Detect: Dynamic Graph Contrastive Regularization for Unsupervised Anomaly Detection in Multivariate Time Series**|Yunhua Pei et.al|[paper](https://arxiv.org/abs/2605.23744)|-|-|
-|**2026-5-22**|**MemAudit: Post-hoc Auditing of Poisoned Agent Memory via Causal Attribution and Structural Anomaly Detection**|Zhewen Tan et.al|[paper](https://arxiv.org/abs/2605.23723)|-|-|
-|**2026-5-22**|**VACE: Learning Geometrically Structured Representations for Time Series Anomaly Detection**|Alberto D. Cencillo et.al|[paper](https://arxiv.org/abs/2605.23504)|-|-|
-|**2026-5-22**|**Beyond Normal References: Discriminative Few-Shot Anomaly Detection**|Huan Wang et.al|[paper](https://arxiv.org/abs/2605.23231)|[code](https://github.com/mala-lab/IDEAL)|-|
-|**2026-5-21**|**CALAD: Channel-Aware contrastive Learning for multivariate time series Anomaly Detection**|Jaehyeop Hong et.al|[paper](https://arxiv.org/abs/2605.23139)|[code](https://github.com/hirundo1218/CALAD)|<details><summary>detail</summary>ICPR 2026</details>|
-|**2026-5-21**|**CoReVAD: A Contextual Reasoning Framework for Training-Free Video Anomaly Detection**|Hyeongmuk Lim et.al|[paper](https://arxiv.org/abs/2605.23116)|[code](https://github.com/Muk-00/CoReVAD)|<details><summary>detail</summary>ICPR 2026</details>|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-27**|**ArcVQ-VAE: A Spherical Vector Quantization Framework with ArcCosine Additive Margin**|Jaeyung Kim et.al|[paper](https://arxiv.org/abs/2605.13517)|[code](https://github.com/goals4292/ArcVQ-VAE)|<details><summary>detail</summary>To appear in Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)</details>|
 |**2026-5-26**|**DiVeQ: Differentiable Vector Quantization Using the Reparameterization Trick**|Mohammad Hassan Vali et.al|[paper](https://arxiv.org/abs/2509.26469)|-|-|
 |**2026-5-26**|**Training-Free Vector Quantization via Gaussian VAEs**|Tongda Xu et.al|[paper](https://arxiv.org/abs/2512.06609)|[code](https://github.com/tongdaxu/VQ-VAE-from-Gaussian-VAE.)|-|
 |**2026-5-25**|**Channel-wise Vector Quantization**|Wei Song et.al|[paper](https://arxiv.org/abs/2605.26089)|-|-|
@@ -176,7 +177,6 @@
 |**2026-5-14**|**PrismQuant: Rate-Distortion-Optimal Vector Quantization for Gaussian-Mixture Sources**|Bumsu Park et.al|[paper](https://arxiv.org/abs/2605.15507)|-|-|
 |**2026-5-14**|**Online Vector Quantized Attention**|Nick Alonso et.al|[paper](https://arxiv.org/abs/2602.03922)|-|-|
 |**2026-5-14**|**RQ-MoE: Residual Quantization via Mixture of Experts for Efficient Input-Dependent Vector Compression**|Zhengjia Zhong et.al|[paper](https://arxiv.org/abs/2605.14359)|[code](https://github.com/KDEGroup/RQ-MoE.)|<details><summary>detail</summary>To appear at ICML 2026</details>|
-|**2026-5-13**|**ArcVQ-VAE: A Spherical Vector Quantization Framework with ArcCosine Additive Margin**|Jaeyung Kim et.al|[paper](https://arxiv.org/abs/2605.13517)|[code](https://github.com/goals4292/ArcVQ-VAE)|<details><summary>detail</summary>To appear in Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)</details>|
 |**2026-5-13**|**Vector-Quantized Discrete Latent Factors Meet Financial Priors: Dynamic Cross-Sectional Stock Ranking Prediction for Portfolio Construction**|Namhyoung Kim et.al|[paper](https://arxiv.org/abs/2605.13407)|[code](https://github.com/finxlab/PRISM-VQ.)|<details><summary>detail</summary>IJCAI 2026 Accepted Paper including Technical Appendix</details>|
 |**2026-5-11**|**FibQuant: Universal Vector Quantization for Random-Access KV-Cache Compression**|Namyoon Lee et.al|[paper](https://arxiv.org/abs/2605.11478)|-|-|
 |**2026-5-5**|**R3-VAE: Reference Vector-Guided Rating Residual Quantization VAE for Generative Recommendation**|Qiang Wan et.al|[paper](https://arxiv.org/abs/2604.11440)|-|<details><summary>detail</summary>Tech Report</details>|
