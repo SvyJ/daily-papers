@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.05.28
+## Updated on 2026.05.29
 
 ## Defect Detection
 
@@ -73,6 +73,14 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-28**|**Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection**|Xiaona Zhou et.al|[paper](https://arxiv.org/abs/2605.30344)|-|-|
+|**2026-5-28**|**AnomalyAgent: Training-Free Agentic Models for Zero-/Few-Shot Anomaly Detection**|Yi Zhang et.al|[paper](https://arxiv.org/abs/2605.30140)|-|-|
+|**2026-5-28**|**Masked Diffusion Modeling for Anomaly Detection**|Lixing Zhang et.al|[paper](https://arxiv.org/abs/2605.30046)|-|-|
+|**2026-5-28**|**Temporal Motif-aware Graph Test-time Adaptation for OOD Blockchain Anomaly Detection**|Runang He et.al|[paper](https://arxiv.org/abs/2605.29526)|[code](https://github.com/LuoXishuang0712/TEMG-TTA/.)|<details><summary>detail</summary>IJCAI-ECAI 2026</details>|
+|**2026-5-28**|**Uni-RCM: Unified Reference-guided Cross-modal Mapping for Multi-Class Anomaly Detection**|Yangchen Wu et.al|[paper](https://arxiv.org/abs/2605.29455)|-|<details><summary>detail</summary>This work has been submitted IEEE for potential publication</details>|
+|**2026-5-27**|**KAN-AD: Time Series Anomaly Detection with Kolmogorov-Arnold Networks**|Quan Zhou et.al|[paper](https://arxiv.org/abs/2411.00278)|-|-|
+|**2026-5-27**|**Bridging Classification and Reconstruction: Cooperative Time Series Anomaly Detection**|Qideng Tang et.al|[paper](https://arxiv.org/abs/2605.26193)|-|-|
+|**2026-5-27**|**Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy**|Tian Lan et.al|[paper](https://arxiv.org/abs/2509.21190)|-|<details><summary>detail</summary>This manuscript is withdrawn</details>|
 |**2026-5-27**|**EntroAD: Structural Entropy-Guided Prompt Adaptation for Zero-Shot Anomaly Detection**|Xinyu Zhao et.al|[paper](https://arxiv.org/abs/2605.28630)|-|-|
 |**2026-5-27**|**Benchmarking Inductive Biases for Multivariate Time-Series Anomaly Detection with a Robust Multi-View Channel-Graph Detector**|Junhao Wei et.al|[paper](https://arxiv.org/abs/2605.28103)|-|-|
 |**2026-5-27**|**Patched-DeltaNet: Token-Level Event-Driven Memory for Linear-Time Anomaly Detection**|Tae-Gyun Lee et.al|[paper](https://arxiv.org/abs/2605.27992)|-|-|
@@ -88,16 +96,8 @@
 |**2026-5-25**|**DDGAD: Trajectory Dynamics for Diffusion-Based Graph Anomaly Detection**|Yuxin Yang et.al|[paper](https://arxiv.org/abs/2605.26446)|-|-|
 |**2026-5-25**|**GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning**|Zehao Deng et.al|[paper](https://arxiv.org/abs/2602.19206)|[code](https://github.com/zhushengxinyue/GS-CLIP.)|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
 |**2026-5-25**|**Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection**|Xudong Wang et.al|[paper](https://arxiv.org/abs/2505.21285)|-|<details><summary>detail</summary>Accepted in the Forty-Third International Conference on Machine Learning (ICML 2026)</details>|
-|**2026-5-25**|**Bridging Classification and Reconstruction: Cooperative Time Series Anomaly Detection**|Qideng Tang et.al|[paper](https://arxiv.org/abs/2605.26193)|-|<details><summary>detail</summary>Accepted by KDD 2026</details>|
 |**2026-5-25**|**Mechanistic Anomaly Detection via Functional Attribution**|Hugo Lyons Keenan et.al|[paper](https://arxiv.org/abs/2604.18970)|-|<details><summary>detail</summary>ICML '26 Camera Ready</details>|
 |**2026-5-25**|**Rethinking Feature Alignment in Generalist Graph Anomaly Detection: A Relational Fingerprint-based Approach**|Yujing Liu et.al|[paper](https://arxiv.org/abs/2605.25429)|-|-|
-|**2026-5-25**|**Towards Active Real-to-Twin Inspection: A New Paradigm for Zero-Shot Anomaly Detection**|Jiaxuan Liu et.al|[paper](https://arxiv.org/abs/2605.25407)|-|-|
-|**2026-5-24**|**When Rule Violations Are Rare: Chimera Training for Logical Anomaly Detection**|Alejandro Ascarate et.al|[paper](https://arxiv.org/abs/2605.26171)|-|-|
-|**2026-5-24**|**GDformer: Going Beyond Subsequence Isolation for Multivariate Time Series Anomaly Detection**|Qingxiang Liu et.al|[paper](https://arxiv.org/abs/2501.18196)|-|-|
-|**2026-5-23**|**Catching MRI outliers: unsupervised detection and localization of MRI artefacts and clinical anomalies using deep learning**|Mustafa Kadhim et.al|[paper](https://arxiv.org/abs/2605.24609)|-|<details><summary>detail</summary>This paper has been submitted to Physics and Imaging in Radiation Oncology (phiRO)</details>|
-|**2026-5-23**|**Dual Prototype-Conditioned Diffusion Model for Scalable Multi-Class Unsupervised Anomaly Detection in Large Category Spaces**|Yaoxuan Feng et.al|[paper](https://arxiv.org/abs/2605.24402)|-|-|
-|**2026-5-22**|**Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions**|Chad Weatherly et.al|[paper](https://arxiv.org/abs/2605.24251)|-|-|
-|**2026-5-22**|**Field Theory of Data: Anomaly Detection via the Functional Renormalization Group. The 2D Ising Model as a Benchmark**|Riccardo Finotello et.al|[paper](https://arxiv.org/abs/2605.11138)|-|-|
 
 ## 3D Anomaly Detection
 
