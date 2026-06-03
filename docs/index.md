@@ -7,14 +7,15 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.06.02
+## Updated on 2026.06.03
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-2**|**Structure-Guided Mixed Masked Pretraining and Spatial Continuity Regularization for Printed Circuit Board Defect Detection**|Peitong Wang et.al|[paper](https://arxiv.org/abs/2606.03508)|-|<details><summary>detail</summary>Preprint</details>|
+|**2026-6-2**|**Contrastive Augmented Transformer with Domain-specific Enhancement for Robust Multi-scenario Metal Surface Defect Detection**|Yiyao Liu et.al|[paper](https://arxiv.org/abs/2606.01962)|-|-|
 |**2026-6-1**|**Improving Combined Detection and Classification of TEM Defects via Mask-Conditioned Latent Diffusion Augmentation**|Ni Li et.al|[paper](https://arxiv.org/abs/2606.02532)|-|-|
-|**2026-6-1**|**Contrastive Augmented Transformer with Domain-specific Enhancement for Robust Multi-scenario Metal Surface Defect Detection**|Yiyao Liua et.al|[paper](https://arxiv.org/abs/2606.01962)|-|-|
 |**2026-5-30**|**RefDiffNet: Learning to Expose Subtle PCB Defects Before Detection**|Vinay Edula et.al|[paper](https://arxiv.org/abs/2606.00852)|-|-|
 |**2026-5-28**|**Unsupervised Defect Detection for Surgical Instruments**|Joseph Huang et.al|[paper](https://arxiv.org/abs/2509.21561)|-|-|
 |**2026-5-26**|**Advancing Metallic Surface Defect Detection via Anomaly-Guided Pretraining on a Large Industrial Dataset**|Chuni Liu et.al|[paper](https://arxiv.org/abs/2509.18919)|[code](https://clovermini.github.io/AGSSP-Dev/.)|<details><summary>detail</summary>Accepted for publication in Pattern Recognition</details>|
@@ -37,13 +38,12 @@
 |**2026-4-21**|**Industrial Surface Defect Detection via Diffusion Generation and Asymmetric Student-Teacher Network**|Shuo Feng et.al|[paper](https://arxiv.org/abs/2604.19240)|-|-|
 |**2026-4-21**|**Proactive Detection of GUI Defects in Multi-Window Scenarios via Multimodal Reasoning**|Xinyao Zhang et.al|[paper](https://arxiv.org/abs/2604.19081)|-|-|
 |**2026-4-10**|**In-situ process monitoring for defect detection in wire-arc additive manufacturing: an agentic AI approach**|Pallock Halder et.al|[paper](https://arxiv.org/abs/2604.09889)|-|-|
-|**2026-4-7**|**A Weak-Signal-Aware Framework for Subsurface Defect Detection: Mechanisms for Enhancing Low-SCR Hyperbolic Signatures**|Wenbo Zhang et.al|[paper](https://arxiv.org/abs/2604.05490)|-|-|
 
 ## Defect Segmentation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-5-26**|**Cesarean Scar Defect Segmentation in Transvaginal Ultrasound Images: a Dataset and Benchmark**|Yuan Tian et.al|[paper](https://arxiv.org/abs/2605.26774)|-|-|
+|**2026-6-2**|**Cesarean Scar Defect Segmentation in Transvaginal Ultrasound Images: a Dataset and Benchmark**|Yuan Tian et.al|[paper](https://arxiv.org/abs/2605.26774)|-|-|
 |**2026-4-20**|**DeltaSeg: Tiered Attention and Deep Delta Learning for Multi-Class Structural Defect Segmentation**|Enrique Hernandez Noguera et.al|[paper](https://arxiv.org/abs/2604.18745)|-|-|
 |**2026-4-13**|**Boxes2Pixels: Learning Defect Segmentation from Noisy SAM Masks**|Camile Lendering et.al|[paper](https://arxiv.org/abs/2604.11162)|[code](https://github.com/CLendering/Boxes2Pixels.)|<details><summary>detail</summary>Accepted for presentation at the AI4RWC Workshop at CVPR 2026</details>|
 |**2026-3-15**|**Multi-Period Texture Contrast Enhancement for Low-Contrast Wafer Defect Detection and Segmentation**|Zihan Zhang et.al|[paper](https://arxiv.org/abs/2603.14282)|-|-|
@@ -73,6 +73,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-1**|**Trans GAN-WT: A Feature Extraction and Interactive Learning-Based Anomaly Detection Model for Wind Turbine Time Series Data**|Jingzhe Kang et.al|[paper](https://arxiv.org/abs/2606.03112)|-|-|
 |**2026-6-1**|**Enhancing Computer Vision Model Generalization in Warehouse Facilities: A Case Study on Anomaly Detection in Vertical Material Handling Systems**|Ruiliang Liu et.al|[paper](https://arxiv.org/abs/2605.31487)|-|-|
 |**2026-6-1**|**Normality-Preserving Continual Industrial Anomaly Detection via Orthogonal LoRA Banks**|Weibai Fang et.al|[paper](https://arxiv.org/abs/2606.02042)|-|-|
 |**2026-6-1**|**A Structured Benchmark for Text-Guided Anomaly Detection: When Language Stops Conditioning the Decision**|Stefano Samele et.al|[paper](https://arxiv.org/abs/2606.01992)|-|-|
@@ -97,7 +98,6 @@
 |**2026-5-28**|**A Novel Evaluation Metric for Unsupervised Learning in AIS-Based Maritime Anomaly Detection: MADQI**|Ismet Gocer et.al|[paper](https://arxiv.org/abs/2605.30388)|-|-|
 |**2026-5-28**|**Temporal Motif-aware Graph Test-time Adaptation for OOD Blockchain Anomaly Detection**|Runang He et.al|[paper](https://arxiv.org/abs/2605.29526)|[code](https://github.com/LuoXishuang0712/TEMG-TTA/.)|<details><summary>detail</summary>IJCAI-ECAI 2026</details>|
 |**2026-5-28**|**Uni-RCM: Unified Reference-guided Cross-modal Mapping for Multi-Class Anomaly Detection**|Yangchen Wu et.al|[paper](https://arxiv.org/abs/2605.29455)|-|<details><summary>detail</summary>This work has been submitted IEEE for potential publication</details>|
-|**2026-5-27**|**KAN-AD: Time Series Anomaly Detection with Kolmogorov-Arnold Networks**|Quan Zhou et.al|[paper](https://arxiv.org/abs/2411.00278)|-|-|
 
 ## 3D Anomaly Detection
 
