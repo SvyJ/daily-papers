@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.06.03
+## Updated on 2026.06.04
 
 ## Defect Detection
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-3**|**NLLog: Lightweight, Explainable SOC Anomaly Detection via Log-to-Language Rewriting**|Samuel Ndichu et.al|[paper](https://arxiv.org/abs/2606.04957)|-|-|
+|**2026-6-3**|**Plan First, Judge Later, Run Better: A DMAIC-Inspired Agentic System for Industrial Anomaly Detection**|Yongzi Yu et.al|[paper](https://arxiv.org/abs/2606.04599)|-|-|
+|**2026-6-2**|**VT-3DAD: Cross-Category 3D Anomaly Detection via Visual-Text Normal Space Alignment**|Zi Wang et.al|[paper](https://arxiv.org/abs/2606.04369)|-|-|
+|**2026-6-2**|**TPA-AD: A Two-Stage Pseudo Anomaly-Guided Method for Bearing Time-Series Anomaly Detection**|Xiancheng Wang et.al|[paper](https://arxiv.org/abs/2606.04073)|-|-|
 |**2026-6-1**|**Trans GAN-WT: A Feature Extraction and Interactive Learning-Based Anomaly Detection Model for Wind Turbine Time Series Data**|Jingzhe Kang et.al|[paper](https://arxiv.org/abs/2606.03112)|-|-|
 |**2026-6-1**|**Enhancing Computer Vision Model Generalization in Warehouse Facilities: A Case Study on Anomaly Detection in Vertical Material Handling Systems**|Ruiliang Liu et.al|[paper](https://arxiv.org/abs/2605.31487)|-|-|
 |**2026-6-1**|**Normality-Preserving Continual Industrial Anomaly Detection via Orthogonal LoRA Banks**|Weibai Fang et.al|[paper](https://arxiv.org/abs/2606.02042)|-|-|
@@ -94,15 +98,12 @@
 |**2026-5-28**|**Quantum Machine Learning for Cyber-Physical Anomaly Detection in Unmanned Aerial Vehicles: A Leakage-Free Evaluation with Proxy-Audited Feature Sets**|Carlos A. Durán Paredes et.al|[paper](https://arxiv.org/abs/2605.19233)|[code](https://github.com/Carlosandp/TLM-UAV-Quantum-Anomaly-Detection)|-|
 |**2026-5-28**|**Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection**|Xiaona Zhou et.al|[paper](https://arxiv.org/abs/2605.30344)|-|-|
 |**2026-5-28**|**AnomalyAgent: Training-Free Agentic Models for Zero-/Few-Shot Anomaly Detection**|Yi Zhang et.al|[paper](https://arxiv.org/abs/2605.30140)|-|-|
-|**2026-5-28**|**Masked Diffusion Modeling for Anomaly Detection**|Lixing Zhang et.al|[paper](https://arxiv.org/abs/2605.30046)|-|-|
-|**2026-5-28**|**A Novel Evaluation Metric for Unsupervised Learning in AIS-Based Maritime Anomaly Detection: MADQI**|Ismet Gocer et.al|[paper](https://arxiv.org/abs/2605.30388)|-|-|
-|**2026-5-28**|**Temporal Motif-aware Graph Test-time Adaptation for OOD Blockchain Anomaly Detection**|Runang He et.al|[paper](https://arxiv.org/abs/2605.29526)|[code](https://github.com/LuoXishuang0712/TEMG-TTA/.)|<details><summary>detail</summary>IJCAI-ECAI 2026</details>|
-|**2026-5-28**|**Uni-RCM: Unified Reference-guided Cross-modal Mapping for Multi-Class Anomaly Detection**|Yangchen Wu et.al|[paper](https://arxiv.org/abs/2605.29455)|-|<details><summary>detail</summary>This work has been submitted IEEE for potential publication</details>|
 
 ## 3D Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-2**|**VT-3DAD: Cross-Category 3D Anomaly Detection via Visual-Text Normal Space Alignment**|Zi Wang et.al|[paper](https://arxiv.org/abs/2606.04369)|-|-|
 |**2026-5-25**|**GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning**|Zehao Deng et.al|[paper](https://arxiv.org/abs/2602.19206)|[code](https://github.com/zhushengxinyue/GS-CLIP.)|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
 |**2026-5-7**|**Align3D-AD: Cross-Modal Feature Alignment and Dual-Prompt Learning for Zero-shot 3D Anomaly Detection**|Letian Bai et.al|[paper](https://arxiv.org/abs/2605.05850)|-|-|
 |**2026-5-6**|**Two Steps Are All You Need: Efficient 3D Point Cloud Anomaly Detection with Consistency Models**|Pranav A et.al|[paper](https://arxiv.org/abs/2605.05372)|-|<details><summary>detail</summary>CVPR 2026</details>|
@@ -127,7 +128,6 @@
 |**2025-9-23**|**3D-ADAM: A Dataset for 3D Anomaly Detection in Additive Manufacturing**|Paul McHard et.al|[paper](https://arxiv.org/abs/2507.07838)|-|-|
 |**2025-9-16**|**Taming Anomalies with Down-Up Sampling Networks: Group Center Preserving Reconstruction for 3D Anomaly Detection**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2507.03903)|-|<details><summary>detail</summary>ACM MM25 Accepted</details>|
 |**2025-9-12**|**MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection**|Gang Li et.al|[paper](https://arxiv.org/abs/2509.10282)|-|<details><summary>detail</summary>Page 14</details>|
-|**2025-8-28**|**IAENet: An Importance-Aware Ensemble Model for 3D Point Cloud-Based Anomaly Detection**|Xuanming Cao et.al|[paper](https://arxiv.org/abs/2508.20492)|-|-|
 
 ## Multimodal Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-3**|**RAVQ-HoloNet: Rate-Adaptive Vector-Quantized Hologram Compression**|Shima Rafiei et.al|[paper](https://arxiv.org/abs/2511.21035)|-|-|
 |**2026-6-1**|**Channel-wise Vector Quantization**|Wei Song et.al|[paper](https://arxiv.org/abs/2605.26089)|-|-|
 |**2026-6-1**|**Massive Spikes in LLMs are Bias Vectors: Mechanistic Uncovering and Spike-Free Quantization**|Yung-Chin Chen et.al|[paper](https://arxiv.org/abs/2606.02288)|-|-|
 |**2026-5-31**|**Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning**|Zian Zhai et.al|[paper](https://arxiv.org/abs/2508.06588)|-|<details><summary>detail</summary>ICML2026</details>|
@@ -187,5 +188,4 @@
 |**2026-4-25**|**Efficient VQ-QAT and Mixed Vector/Linear quantized Neural Networks**|Terry Gou et.al|[paper](https://arxiv.org/abs/2604.23172)|-|-|
 |**2026-4-16**|**Unsupervised Skeleton-Based Action Segmentation via Hierarchical Spatiotemporal Vector Quantization**|Umer Ahmed et.al|[paper](https://arxiv.org/abs/2604.15196)|-|-|
 |**2026-4-14**|**SHARe-KAN: Post-Training Vector Quantization for Cache-Resident KAN Inference**|Jeff Smith et.al|[paper](https://arxiv.org/abs/2512.15742)|-|-|
-|**2026-4-7**|**STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization**|Hao Li et.al|[paper](https://arxiv.org/abs/2506.03863)|-|<details><summary>detail</summary>Accepted by ICML 2025 Spotlight</details>|
 
