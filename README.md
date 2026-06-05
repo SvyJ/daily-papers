@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.06.04
+## Updated on 2026.06.05
 
 ## Defect Detection
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-4**|**DAST: A VLM-LLM Framework for Cross-Interface Anomaly Detection in O-RAN**|Francesco Spinelli et.al|[paper](https://arxiv.org/abs/2606.06261)|-|-|
+|**2026-6-4**|**Cluster-Aware Causal Mixer for Online Anomaly Detection in Multivariate Time Series**|Md Mahmuddun Nabi Murad et.al|[paper](https://arxiv.org/abs/2506.00188)|-|-|
+|**2026-6-4**|**T-SAR-JEPA: Self-Supervised Temporal Anomaly Detection in SAR Amplitude Stacks via Latent Prediction**|Kerod Woldesenbet et.al|[paper](https://arxiv.org/abs/2606.05700)|[code](https://github.com/TerraLatent/t-sar-jepa)|<details><summary>detail</summary>Won IEEE GRSS Data Fusion Contest 2026</details>|
+|**2026-6-3**|**Anomaly Detection for Electro-Hydrostatic Actuators using LSTM Autoencoder**|Nehal Afifi et.al|[paper](https://arxiv.org/abs/2606.05274)|-|-|
 |**2026-6-3**|**NLLog: Lightweight, Explainable SOC Anomaly Detection via Log-to-Language Rewriting**|Samuel Ndichu et.al|[paper](https://arxiv.org/abs/2606.04957)|-|-|
 |**2026-6-3**|**Plan First, Judge Later, Run Better: A DMAIC-Inspired Agentic System for Industrial Anomaly Detection**|Yongzi Yu et.al|[paper](https://arxiv.org/abs/2606.04599)|-|-|
 |**2026-6-2**|**VT-3DAD: Cross-Category 3D Anomaly Detection via Visual-Text Normal Space Alignment**|Zi Wang et.al|[paper](https://arxiv.org/abs/2606.04369)|-|-|
@@ -94,10 +98,6 @@
 |**2026-5-29**|**Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy**|Tian Lan et.al|[paper](https://arxiv.org/abs/2509.21190)|-|<details><summary>detail</summary>This manuscript is withdrawn</details>|
 |**2026-5-29**|**DEM: A Distilled Explanation Model for Interpretable Anomaly Detection in Physiological Sensor Networks**|Jyotirmoy Singh et.al|[paper](https://arxiv.org/abs/2605.31007)|[code](https://github.com/Jyotirmoy17/dem-model)|-|
 |**2026-5-28**|**ReTabAD: A Benchmark for Restoring Semantic Context in Tabular Anomaly Detection**|Sanghyu Yoon et.al|[paper](https://arxiv.org/abs/2510.02060)|-|<details><summary>detail</summary>ICLR 2026</details>|
-|**2026-5-28**|**Surprised by Attention: Predictable Query Dynamics for Time Series Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2603.12916)|[code](https://github.com/iis-esslingen/AxonAD.)|<details><summary>detail</summary>This manuscript has been accepted for publication at ECML-PKDD 2026</details>|
-|**2026-5-28**|**Quantum Machine Learning for Cyber-Physical Anomaly Detection in Unmanned Aerial Vehicles: A Leakage-Free Evaluation with Proxy-Audited Feature Sets**|Carlos A. Durán Paredes et.al|[paper](https://arxiv.org/abs/2605.19233)|[code](https://github.com/Carlosandp/TLM-UAV-Quantum-Anomaly-Detection)|-|
-|**2026-5-28**|**Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection**|Xiaona Zhou et.al|[paper](https://arxiv.org/abs/2605.30344)|-|-|
-|**2026-5-28**|**AnomalyAgent: Training-Free Agentic Models for Zero-/Few-Shot Anomaly Detection**|Yi Zhang et.al|[paper](https://arxiv.org/abs/2605.30140)|-|-|
 
 ## 3D Anomaly Detection
 
