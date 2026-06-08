@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.06.07
+## Updated on 2026.06.08
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-3**|**Attention-Guided Autoencoder Fusion for Insulator Defect Detection Using UAV Transmission-Line Imaging**|Malak Allam et.al|[paper](https://arxiv.org/abs/2606.06536)|-|-|
 |**2026-6-2**|**Structure-Guided Mixed Masked Pretraining and Spatial Continuity Regularization for Printed Circuit Board Defect Detection**|Peitong Wang et.al|[paper](https://arxiv.org/abs/2606.03508)|-|<details><summary>detail</summary>Preprint</details>|
 |**2026-6-2**|**Contrastive Augmented Transformer with Domain-specific Enhancement for Robust Multi-scenario Metal Surface Defect Detection**|Yiyao Liu et.al|[paper](https://arxiv.org/abs/2606.01962)|-|-|
 |**2026-6-1**|**Improving Combined Detection and Classification of TEM Defects via Mask-Conditioned Latent Diffusion Augmentation**|Ni Li et.al|[paper](https://arxiv.org/abs/2606.02532)|-|-|
@@ -37,7 +38,6 @@
 |**2026-4-21**|**Feature Perturbation Pool-based Fusion Network for Unified Multi-Class Industrial Defect Detection**|Yuanchan Xu et.al|[paper](https://arxiv.org/abs/2604.19259)|-|-|
 |**2026-4-21**|**Industrial Surface Defect Detection via Diffusion Generation and Asymmetric Student-Teacher Network**|Shuo Feng et.al|[paper](https://arxiv.org/abs/2604.19240)|-|-|
 |**2026-4-21**|**Proactive Detection of GUI Defects in Multi-Window Scenarios via Multimodal Reasoning**|Xinyao Zhang et.al|[paper](https://arxiv.org/abs/2604.19081)|-|-|
-|**2026-4-10**|**In-situ process monitoring for defect detection in wire-arc additive manufacturing: an agentic AI approach**|Pallock Halder et.al|[paper](https://arxiv.org/abs/2604.09889)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-5**|**Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection**|Xudong Wang et.al|[paper](https://arxiv.org/abs/2505.21285)|-|<details><summary>detail</summary>Accepted in the Forty-Third International Conference on Machine Learning (ICML 2026)</details>|
 |**2026-6-4**|**DAST: A VLM-LLM Framework for Cross-Interface Anomaly Detection in O-RAN**|Francesco Spinelli et.al|[paper](https://arxiv.org/abs/2606.06261)|-|-|
 |**2026-6-4**|**Cluster-Aware Causal Mixer for Online Anomaly Detection in Multivariate Time Series**|Md Mahmuddun Nabi Murad et.al|[paper](https://arxiv.org/abs/2506.00188)|-|-|
 |**2026-6-4**|**T-SAR-JEPA: Self-Supervised Temporal Anomaly Detection in SAR Amplitude Stacks via Latent Prediction**|Kerod Woldesenbet et.al|[paper](https://arxiv.org/abs/2606.05700)|[code](https://github.com/TerraLatent/t-sar-jepa)|<details><summary>detail</summary>Won IEEE GRSS Data Fusion Contest 2026</details>|
@@ -97,7 +98,6 @@
 |**2026-5-29**|**Lightweight CNN-Based Anomaly Detection for High Voltage Converter Modulators in the Spallation Neutron Source**|Alberto D. Cencillo et.al|[paper](https://arxiv.org/abs/2605.31259)|-|-|
 |**2026-5-29**|**Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy**|Tian Lan et.al|[paper](https://arxiv.org/abs/2509.21190)|-|<details><summary>detail</summary>This manuscript is withdrawn</details>|
 |**2026-5-29**|**DEM: A Distilled Explanation Model for Interpretable Anomaly Detection in Physiological Sensor Networks**|Jyotirmoy Singh et.al|[paper](https://arxiv.org/abs/2605.31007)|[code](https://github.com/Jyotirmoy17/dem-model)|-|
-|**2026-5-28**|**ReTabAD: A Benchmark for Restoring Semantic Context in Tabular Anomaly Detection**|Sanghyu Yoon et.al|[paper](https://arxiv.org/abs/2510.02060)|-|<details><summary>detail</summary>ICLR 2026</details>|
 
 ## 3D Anomaly Detection
 
