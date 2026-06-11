@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.06.10
+## Updated on 2026.06.11
 
 ## Defect Detection
 
@@ -73,10 +73,14 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-6-9**|**Is Task-Specific Training Necessary for Anomaly Detection?**|Xingwu Zhang et.al|[paper](https://arxiv.org/abs/2601.22763)|[code](https://github.com/longkukuhi/RAD.)|-|
+|**2026-6-10**|**TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data**|Dayananda Herurkar et.al|[paper](https://arxiv.org/abs/2606.11844)|-|<details><summary>detail</summary>22 Pages</details>|
+|**2026-6-9**|**Privacy-Preserving Federated Autoencoder for ECG Anomaly Detection on Edge Devices**|Kaan Arda Akyol et.al|[paper](https://arxiv.org/abs/2606.11556)|-|-|
 |**2026-6-9**|**EcoDefender: Energy-Efficient Hybrid Anomaly Detection for IoT Edge Gateways**|Saeid Jamshidi et.al|[paper](https://arxiv.org/abs/2511.18235)|-|-|
+|**2026-6-9**|**APEX: A Network-Native Time-Series Foundation Model for Forecasting and Anomaly Detection for Wireless Edge Operations**|Swadhin Pradhan et.al|[paper](https://arxiv.org/abs/2606.11553)|-|-|
+|**2026-6-9**|**Is Task-Specific Training Necessary for Anomaly Detection?**|Xingwu Zhang et.al|[paper](https://arxiv.org/abs/2601.22763)|[code](https://github.com/longkukuhi/RAD.)|-|
 |**2026-6-9**|**A Unified Siamese Learning Framework for Zero-Day Anomaly Detection and Classification in Optical Networks**|Carlos Natalino et.al|[paper](https://arxiv.org/abs/2606.10827)|-|<details><summary>detail</summary>Authors' version of the manuscript accepted and published at the Optical Fiber Communication Conference (OFC) 2026</details>|
 |**2026-6-9**|**AnomaMind: Agentic Time Series Anomaly Detection with Tool-Augmented Reasoning**|Xiaoyu Tao et.al|[paper](https://arxiv.org/abs/2602.13807)|[code](https://github.com/Xiaoyu-Tao/AnomaMind-TS.)|-|
+|**2026-6-9**|**OCSVM-Guided Representation Learning for Unsupervised Anomaly Detection**|Nicolas Pinon et.al|[paper](https://arxiv.org/abs/2507.21164)|[code](https://github.com/Nicolas-Pinon/uad_ocsvm_guided_repr_learning.)|-|
 |**2026-6-8**|**A Source Domain is All You Need: Source-Only Cross-OS Transfer Learning for APT Anomaly Detection via Semantic Alignment and Optimal Transport**|Sidahmed Benabderrahmanea et.al|[paper](https://arxiv.org/abs/2606.10216)|-|-|
 |**2026-6-8**|**Visual Prompting Meets Feature Reconstruction-Based Anomaly Detection with Dual-Teacher Supervision**|Mateo Diaz-Bone et.al|[paper](https://arxiv.org/abs/2606.09670)|-|-|
 |**2026-6-8**|**A Survey of Heterogeneous Graph Neural Networks for Cybersecurity Anomaly Detection**|Laura Jiang et.al|[paper](https://arxiv.org/abs/2510.26307)|-|-|
@@ -94,10 +98,6 @@
 |**2026-6-4**|**Cluster-Aware Causal Mixer for Online Anomaly Detection in Multivariate Time Series**|Md Mahmuddun Nabi Murad et.al|[paper](https://arxiv.org/abs/2506.00188)|-|-|
 |**2026-6-4**|**T-SAR-JEPA: Self-Supervised Temporal Anomaly Detection in SAR Amplitude Stacks via Latent Prediction**|Kerod Woldesenbet et.al|[paper](https://arxiv.org/abs/2606.05700)|[code](https://github.com/TerraLatent/t-sar-jepa)|<details><summary>detail</summary>Won IEEE GRSS Data Fusion Contest 2026</details>|
 |**2026-6-3**|**Anomaly Detection for Electro-Hydrostatic Actuators using LSTM Autoencoder**|Nehal Afifi et.al|[paper](https://arxiv.org/abs/2606.05274)|-|-|
-|**2026-6-3**|**NLLog: Lightweight, Explainable SOC Anomaly Detection via Log-to-Language Rewriting**|Samuel Ndichu et.al|[paper](https://arxiv.org/abs/2606.04957)|-|-|
-|**2026-6-3**|**Plan First, Judge Later, Run Better: A DMAIC-Inspired Agentic System for Industrial Anomaly Detection**|Yongzi Yu et.al|[paper](https://arxiv.org/abs/2606.04599)|-|-|
-|**2026-6-2**|**VT-3DAD: Cross-Category 3D Anomaly Detection via Visual-Text Normal Space Alignment**|Zi Wang et.al|[paper](https://arxiv.org/abs/2606.04369)|-|-|
-|**2026-6-2**|**Disjoint or Overlapping? Inference Windowing for Reconstruction-Based Time Series Anomaly Detection**|Guillaume Coulaud et.al|[paper](https://arxiv.org/abs/2606.09874)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,9 +163,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-9**|**ViP-VL: Vietnamese Self-supervised Speech Pretraining Model with Vector-Quantization Learning**|Khanh Le et.al|[paper](https://arxiv.org/abs/2606.10360)|-|<details><summary>detail</summary>INTERSPEECH 2026</details>|
+|**2026-6-9**|**Vector Quantized Latent Concepts: A Scalable Alternative to Clustering-Based Concept Discovery**|Xuemin Yu et.al|[paper](https://arxiv.org/abs/2602.02726)|-|-|
+|**2026-6-9**|**NSVQ: Mitigating Codebook Collapse by Stabilizing Encoder Drift in Vector Quantization**|Hao Lu et.al|[paper](https://arxiv.org/abs/2606.11363)|-|-|
 |**2026-6-9**|**LC-QAT: Data-Efficient 2-Bit QAT for LLMs via Linear-Constrained Vector Quantization**|Haoyu Wang et.al|[paper](https://arxiv.org/abs/2606.10531)|-|<details><summary>detail</summary>Accepted by ICML 2026</details>|
 |**2026-6-9**|**UniSVQ: 2-bit Unified Scalar-Vector Quantization**|Haoyu Wang et.al|[paper](https://arxiv.org/abs/2606.10520)|-|<details><summary>detail</summary>Accepted by ICML 2026</details>|
-|**2026-6-8**|**ViP-VL: Vietnamese Self-supervised Speech Pretraining Model with Vector-Quantization Learning**|Khanh Le et.al|[paper](https://arxiv.org/abs/2606.10360)|-|<details><summary>detail</summary>INTERSPEECH 2026</details>|
 |**2026-6-5**|**ASH: Asymmetric Scalar Hashing With Learned Dimensionality Reduction for High-Fidelity Vector Quantization**|Mariano Tepper et.al|[paper](https://arxiv.org/abs/2606.07870)|-|-|
 |**2026-6-3**|**RAVQ-HoloNet: Rate-Adaptive Vector-Quantized Hologram Compression**|Shima Rafiei et.al|[paper](https://arxiv.org/abs/2511.21035)|-|-|
 |**2026-6-1**|**Channel-wise Vector Quantization**|Wei Song et.al|[paper](https://arxiv.org/abs/2605.26089)|-|-|
@@ -186,6 +188,4 @@
 |**2026-5-14**|**RQ-MoE: Residual Quantization via Mixture of Experts for Efficient Input-Dependent Vector Compression**|Zhengjia Zhong et.al|[paper](https://arxiv.org/abs/2605.14359)|[code](https://github.com/KDEGroup/RQ-MoE.)|<details><summary>detail</summary>To appear at ICML 2026</details>|
 |**2026-5-13**|**Vector-Quantized Discrete Latent Factors Meet Financial Priors: Dynamic Cross-Sectional Stock Ranking Prediction for Portfolio Construction**|Namhyoung Kim et.al|[paper](https://arxiv.org/abs/2605.13407)|[code](https://github.com/finxlab/PRISM-VQ.)|<details><summary>detail</summary>IJCAI 2026 Accepted Paper including Technical Appendix</details>|
 |**2026-5-11**|**FibQuant: Universal Vector Quantization for Random-Access KV-Cache Compression**|Namyoon Lee et.al|[paper](https://arxiv.org/abs/2605.11478)|-|-|
-|**2026-5-5**|**R3-VAE: Reference Vector-Guided Rating Residual Quantization VAE for Generative Recommendation**|Qiang Wan et.al|[paper](https://arxiv.org/abs/2604.11440)|-|<details><summary>detail</summary>Tech Report</details>|
-|**2026-5-4**|**Differentiable Vector Quantization for Rate-Distortion Optimization of Generative Image Compression**|Shiyin Jiang et.al|[paper](https://arxiv.org/abs/2604.10546)|[code](https://github.com/CVL-UESTC/RDVQ.)|<details><summary>detail</summary>Accepted for publication at CVPR 2026 as an Oral presentation</details>|
 
