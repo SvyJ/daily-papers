@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.06.11
+## Updated on 2026.06.12
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-11**|**Multi-Modal Agents for Power Distribution Defect Detection: An Evaluation of Foundation Models**|Quan Quan et.al|[paper](https://arxiv.org/abs/2606.12969)|-|-|
 |**2026-6-7**|**Failure-Aware Refinement of Vision-Language Model for Lithography Defect Detection**|Pangyun Jeong et.al|[paper](https://arxiv.org/abs/2606.08908)|-|-|
 |**2026-6-3**|**Attention-Guided Autoencoder Fusion for Insulator Defect Detection Using UAV Transmission-Line Imaging**|Malak Allam et.al|[paper](https://arxiv.org/abs/2606.06536)|-|-|
 |**2026-6-3**|**Real-Time Industrial Defect Detection on Edge Hardware Using Fine-Tuned YOLOv8: A Systematic Benchmark on the NEU Surface Defect Database and MVTec AD with Automotive & Battery Manufacturing Extensions**|Emmanuel Ezeji Somtochukwu et.al|[paper](https://arxiv.org/abs/2606.07659)|-|-|
@@ -37,7 +38,6 @@
 |**2026-4-29**|**SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection**|Paul Julius Kühn et.al|[paper](https://arxiv.org/abs/2604.26633)|-|-|
 |**2026-4-27**|**Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis**|Amal Akli et.al|[paper](https://arxiv.org/abs/2604.24703)|-|-|
 |**2026-4-23**|**Automated Annotation of Shearographic Measurements Enabling Weakly Supervised Defect Detection**|Jessica Plassmann et.al|[paper](https://arxiv.org/abs/2512.06171)|-|-|
-|**2026-4-21**|**Feature Perturbation Pool-based Fusion Network for Unified Multi-Class Industrial Defect Detection**|Yuanchan Xu et.al|[paper](https://arxiv.org/abs/2604.19259)|-|-|
 
 ## Defect Segmentation
 
@@ -73,7 +73,14 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-11**|**CRAFTIIF: Cross-Resolution Analytic Four-Type Interpretable Isolation Forest for Multivariate Time Series Anomaly Detection**|William Smits et.al|[paper](https://arxiv.org/abs/2606.13486)|[code](https://github.com/smitswil/craftiif)|-|
+|**2026-6-11**|**Rarity-Gated Context Conditioning for Offline Imitation Learning-Based Maritime Anomaly Detection**|Yongmin Kim et.al|[paper](https://arxiv.org/abs/2606.13311)|-|-|
+|**2026-6-11**|**ProtoX-AD: Self-Explainable Time Series Anomaly Detection and Characterization**|Aitor Sánchez-Ferrera et.al|[paper](https://arxiv.org/abs/2606.13277)|[code](https://github.com/Aitorzan3/ProtoX-AD.)|-|
+|**2026-6-11**|**ASTER: Latent Pseudo-Anomaly Generation for Unsupervised Time-Series Anomaly Detection**|Romain Hermary et.al|[paper](https://arxiv.org/abs/2604.13924)|-|<details><summary>detail</summary>Published in ICPR 2026</details>|
+|**2026-6-10**|**Towards One-for-All Anomaly Detection for Tabular Data**|Shiyuan Li et.al|[paper](https://arxiv.org/abs/2603.14407)|[code](https://github.com/Shiy-Li/OFA-TAD.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
+|**2026-6-10**|**A Zero-shot Generalized Graph Anomaly Detection Framework via Node Reconstruction**|Phan Nguyen et.al|[paper](https://arxiv.org/abs/2606.12673)|-|-|
 |**2026-6-10**|**TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data**|Dayananda Herurkar et.al|[paper](https://arxiv.org/abs/2606.11844)|-|<details><summary>detail</summary>22 Pages</details>|
+|**2026-6-10**|**Scalable anomaly detection via a univariate Christoffel function**|Florian Grivet et.al|[paper](https://arxiv.org/abs/2606.12483)|-|-|
 |**2026-6-9**|**Privacy-Preserving Federated Autoencoder for ECG Anomaly Detection on Edge Devices**|Kaan Arda Akyol et.al|[paper](https://arxiv.org/abs/2606.11556)|-|-|
 |**2026-6-9**|**EcoDefender: Energy-Efficient Hybrid Anomaly Detection for IoT Edge Gateways**|Saeid Jamshidi et.al|[paper](https://arxiv.org/abs/2511.18235)|-|-|
 |**2026-6-9**|**APEX: A Network-Native Time-Series Foundation Model for Forecasting and Anomaly Detection for Wireless Edge Operations**|Swadhin Pradhan et.al|[paper](https://arxiv.org/abs/2606.11553)|-|-|
@@ -91,13 +98,6 @@
 |**2026-6-7**|**Anomaly Detection and Root Cause Analysis for Microservice Systems**|Luan Pham et.al|[paper](https://arxiv.org/abs/2606.09942)|-|<details><summary>detail</summary>This is the pre-print of my PhD thesis</details>|
 |**2026-6-6**|**LogNEO: A GPT-Neo Reinforcement Learning Framework for Accurate Real-Time Log Anomaly Detection**|David Eje et.al|[paper](https://arxiv.org/abs/2606.08153)|-|-|
 |**2026-6-6**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al|[paper](https://arxiv.org/abs/2410.00713)|-|-|
-|**2026-6-5**|**Normality Calibration in Semi-supervised Graph Anomaly Detection**|Guolei Zeng et.al|[paper](https://arxiv.org/abs/2510.02014)|-|<details><summary>detail</summary>Accepted by ICML2026</details>|
-|**2026-6-5**|**Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection**|Xudong Wang et.al|[paper](https://arxiv.org/abs/2505.21285)|-|<details><summary>detail</summary>Accepted in the Forty-Third International Conference on Machine Learning (ICML 2026)</details>|
-|**2026-6-4**|**DAST: A VLM-LLM Framework for Cross-Interface Anomaly Detection in O-RAN**|Francesco Spinelli et.al|[paper](https://arxiv.org/abs/2606.06261)|-|-|
-|**2026-6-4**|**MemoVAD: Resource-Efficient Video Anomaly Detection via Dynamic Semantic Memory in Edge Computing Scenarios**|Guo Li et.al|[paper](https://arxiv.org/abs/2606.07669)|-|<details><summary>detail</summary>Accepted by IJCAI2026</details>|
-|**2026-6-4**|**Cluster-Aware Causal Mixer for Online Anomaly Detection in Multivariate Time Series**|Md Mahmuddun Nabi Murad et.al|[paper](https://arxiv.org/abs/2506.00188)|-|-|
-|**2026-6-4**|**T-SAR-JEPA: Self-Supervised Temporal Anomaly Detection in SAR Amplitude Stacks via Latent Prediction**|Kerod Woldesenbet et.al|[paper](https://arxiv.org/abs/2606.05700)|[code](https://github.com/TerraLatent/t-sar-jepa)|<details><summary>detail</summary>Won IEEE GRSS Data Fusion Contest 2026</details>|
-|**2026-6-3**|**Anomaly Detection for Electro-Hydrostatic Actuators using LSTM Autoencoder**|Nehal Afifi et.al|[paper](https://arxiv.org/abs/2606.05274)|-|-|
 
 ## 3D Anomaly Detection
 
