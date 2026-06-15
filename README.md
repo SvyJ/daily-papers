@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.06.14
+## Updated on 2026.06.15
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-11**|**Morphology-Aware Sample Assignment: Overcoming IoU Insensitivity for Surface Defect Detection**|Pengfei Liu et.al|[paper](https://arxiv.org/abs/2606.13723)|-|-|
 |**2026-6-11**|**Multi-Modal Agents for Power Distribution Defect Detection: An Evaluation of Foundation Models**|Quan Quan et.al|[paper](https://arxiv.org/abs/2606.12969)|-|-|
 |**2026-6-7**|**Failure-Aware Refinement of Vision-Language Model for Lithography Defect Detection**|Pangyun Jeong et.al|[paper](https://arxiv.org/abs/2606.08908)|-|-|
 |**2026-6-3**|**Attention-Guided Autoencoder Fusion for Insulator Defect Detection Using UAV Transmission-Line Imaging**|Malak Allam et.al|[paper](https://arxiv.org/abs/2606.06536)|-|-|
@@ -37,7 +38,6 @@
 |**2026-5-1**|**Event-based Civil Infrastructure Visual Defect Detection: ev-CIVIL Dataset and Benchmark**|Udayanga G. W. K. N. Gamage et.al|[paper](https://arxiv.org/abs/2504.05679)|-|<details><summary>detail</summary>Accepted version of the journal paper published in Sage Structural health monitoring journa and it is under review currently</details>|
 |**2026-4-29**|**SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection**|Paul Julius Kühn et.al|[paper](https://arxiv.org/abs/2604.26633)|-|-|
 |**2026-4-27**|**Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis**|Amal Akli et.al|[paper](https://arxiv.org/abs/2604.24703)|-|-|
-|**2026-4-23**|**Automated Annotation of Shearographic Measurements Enabling Weakly Supervised Defect Detection**|Jessica Plassmann et.al|[paper](https://arxiv.org/abs/2512.06171)|-|-|
 
 ## Defect Segmentation
 
@@ -73,9 +73,14 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-12**|**Value-order Decomposition for Generalist Anomaly Detection**|Miaoyun Zhao et.al|[paper](https://arxiv.org/abs/2606.14475)|-|-|
+|**2026-6-12**|**BoRAD: Bootstrap your Own Representations for Multi-class Anomaly Detection**|Duy Hoang Khuong et.al|[paper](https://arxiv.org/abs/2606.14129)|-|-|
+|**2026-6-11**|**Conformal calibration and look-elsewhere effect in anomaly detection for new-physics searches**|Jack Y. Araz et.al|[paper](https://arxiv.org/abs/2606.13780)|-|-|
+|**2026-6-11**|**D2H-AD: A Hybrid Model Utilizing Hyperdimensional Computing for Advanced Anomaly Detection**|Ghazal Ghajari et.al|[paper](https://arxiv.org/abs/2606.13754)|-|-|
 |**2026-6-11**|**CRAFTIIF: Cross-Resolution Analytic Four-Type Interpretable Isolation Forest for Multivariate Time Series Anomaly Detection**|William Smits et.al|[paper](https://arxiv.org/abs/2606.13486)|[code](https://github.com/smitswil/craftiif)|-|
 |**2026-6-11**|**Rarity-Gated Context Conditioning for Offline Imitation Learning-Based Maritime Anomaly Detection**|Yongmin Kim et.al|[paper](https://arxiv.org/abs/2606.13311)|-|-|
 |**2026-6-11**|**ProtoX-AD: Self-Explainable Time Series Anomaly Detection and Characterization**|Aitor Sánchez-Ferrera et.al|[paper](https://arxiv.org/abs/2606.13277)|[code](https://github.com/Aitorzan3/ProtoX-AD.)|-|
+|**2026-6-11**|**Catching magnetic resonance imaging outliers in artificial intelligence-supported radiotherapy workflows: unsupervised detection and localization of image anomalies using deep learning**|Mustafa Kadhim et.al|[paper](https://arxiv.org/abs/2605.24609)|-|<details><summary>detail</summary>This paper has been submitted to Physics and Imaging in Radiation Oncology (phiRO)</details>|
 |**2026-6-11**|**ASTER: Latent Pseudo-Anomaly Generation for Unsupervised Time-Series Anomaly Detection**|Romain Hermary et.al|[paper](https://arxiv.org/abs/2604.13924)|-|<details><summary>detail</summary>Published in ICPR 2026</details>|
 |**2026-6-10**|**Towards One-for-All Anomaly Detection for Tabular Data**|Shiyuan Li et.al|[paper](https://arxiv.org/abs/2603.14407)|[code](https://github.com/Shiy-Li/OFA-TAD.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
 |**2026-6-10**|**A Zero-shot Generalized Graph Anomaly Detection Framework via Node Reconstruction**|Phan Nguyen et.al|[paper](https://arxiv.org/abs/2606.12673)|-|-|
@@ -93,11 +98,6 @@
 |**2026-6-8**|**A Survey of Heterogeneous Graph Neural Networks for Cybersecurity Anomaly Detection**|Laura Jiang et.al|[paper](https://arxiv.org/abs/2510.26307)|-|-|
 |**2026-6-8**|**Illumination-Invariant Anomaly Detection for Sub-Canopy UAV Multispectral Point Clouds**|Likun Chen et.al|[paper](https://arxiv.org/abs/2606.09111)|-|-|
 |**2026-6-8**|**Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection**|Kaiqiang Li et.al|[paper](https://arxiv.org/abs/2603.21511)|[code](https://github.com/wistful-8029/BTP-3DAD)|<details><summary>detail</summary>Corrected several numerical entries due to a reporting error</details>|
-|**2026-6-8**|**UniADC: A Unified Framework for Anomaly Detection and Classification**|Ximiao Zhang et.al|[paper](https://arxiv.org/abs/2511.06644)|[code](https://github.com/cnulab/UniADC.)|-|
-|**2026-6-7**|**PAI: Preserving Amplitude Information in Representation-Based Time-Series Anomaly Detection**|Kang Zhang et.al|[paper](https://arxiv.org/abs/2606.08935)|[code](https://github.com/pantheon5100/PAI)|-|
-|**2026-6-7**|**Anomaly Detection and Root Cause Analysis for Microservice Systems**|Luan Pham et.al|[paper](https://arxiv.org/abs/2606.09942)|-|<details><summary>detail</summary>This is the pre-print of my PhD thesis</details>|
-|**2026-6-6**|**LogNEO: A GPT-Neo Reinforcement Learning Framework for Accurate Real-Time Log Anomaly Detection**|David Eje et.al|[paper](https://arxiv.org/abs/2606.08153)|-|-|
-|**2026-6-6**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al|[paper](https://arxiv.org/abs/2410.00713)|-|-|
 
 ## 3D Anomaly Detection
 
