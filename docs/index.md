@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.06.16
+## Updated on 2026.06.17
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-16**|**Conditional Attribution for Root Cause Analysis in Time-Series Anomaly Detection**|Shashank Mishra et.al|[paper](https://arxiv.org/abs/2604.17616)|[code](https://github.com/dfki-av/Conditional-Attribution-for-Root-Cause-Analysis-in-Time-Series-Anomaly-Detection.)|<details><summary>detail</summary>ECML PKDD</details>|
+|**2026-6-16**|**Temporal Motif-aware Graph Test-time Adaptation for OOD Blockchain Anomaly Detection**|Runang He et.al|[paper](https://arxiv.org/abs/2605.29526)|[code](https://github.com/LuoXishuang0712/TEMG-TTA/.)|<details><summary>detail</summary>IJCAI-ECAI 2026</details>|
+|**2026-6-15**|**Verified Detection and Prevention of Concurrency Anomalies in Multi-Agent Large Language Model Systems**|Sajjad Khan et.al|[paper](https://arxiv.org/abs/2606.17182)|-|-|
 |**2026-6-15**|**Towards LLM Accelerated Rapid Reviews for Software Tool Discovery -- Case for Log Anomaly Detection**|Jesse Nyyssölä et.al|[paper](https://arxiv.org/abs/2606.16839)|-|<details><summary>detail</summary>52nd Euromicro Conference on Software Engineering and Advanced Applications (SEAA) 2026</details>|
 |**2026-6-15**|**Beer-Lambert Guided Representation Learning for Unsupervised Anomaly Detection in Sub-THz Food Inspection Images**|Gyutae Hwang et.al|[paper](https://arxiv.org/abs/2606.16421)|-|-|
 |**2026-6-14**|**EdgeZSAD: Practical Zero-Shot Anomaly Detection on Edge Devices**|Taewan Cho et.al|[paper](https://arxiv.org/abs/2606.16119)|-|-|
@@ -95,9 +98,6 @@
 |**2026-6-10**|**Scalable anomaly detection via a univariate Christoffel function**|Florian Grivet et.al|[paper](https://arxiv.org/abs/2606.12483)|-|-|
 |**2026-6-9**|**Privacy-Preserving Federated Autoencoder for ECG Anomaly Detection on Edge Devices**|Kaan Arda Akyol et.al|[paper](https://arxiv.org/abs/2606.11556)|-|-|
 |**2026-6-9**|**EcoDefender: Energy-Efficient Hybrid Anomaly Detection for IoT Edge Gateways**|Saeid Jamshidi et.al|[paper](https://arxiv.org/abs/2511.18235)|-|-|
-|**2026-6-9**|**APEX: A Network-Native Time-Series Foundation Model for Forecasting and Anomaly Detection for Wireless Edge Operations**|Swadhin Pradhan et.al|[paper](https://arxiv.org/abs/2606.11553)|-|-|
-|**2026-6-9**|**Is Task-Specific Training Necessary for Anomaly Detection?**|Xingwu Zhang et.al|[paper](https://arxiv.org/abs/2601.22763)|[code](https://github.com/longkukuhi/RAD.)|-|
-|**2026-6-9**|**A Unified Siamese Learning Framework for Zero-Day Anomaly Detection and Classification in Optical Networks**|Carlos Natalino et.al|[paper](https://arxiv.org/abs/2606.10827)|-|<details><summary>detail</summary>Authors' version of the manuscript accepted and published at the Optical Fiber Communication Conference (OFC) 2026</details>|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-15**|**Price of metric universality in vector quantization is at most 0.11 bit**|Alina Harbuzova et.al|[paper](https://arxiv.org/abs/2602.05790)|-|<details><summary>detail</summary>41 page</details>|
 |**2026-6-9**|**ViP-VL: Vietnamese Self-supervised Speech Pretraining Model with Vector-Quantization Learning**|Khanh Le et.al|[paper](https://arxiv.org/abs/2606.10360)|-|<details><summary>detail</summary>INTERSPEECH 2026</details>|
 |**2026-6-9**|**Vector Quantized Latent Concepts: A Scalable Alternative to Clustering-Based Concept Discovery**|Xuemin Yu et.al|[paper](https://arxiv.org/abs/2602.02726)|-|-|
 |**2026-6-9**|**NSVQ: Mitigating Codebook Collapse by Stabilizing Encoder Drift in Vector Quantization**|Hao Lu et.al|[paper](https://arxiv.org/abs/2606.11363)|-|-|
@@ -187,5 +188,4 @@
 |**2026-5-14**|**Online Vector Quantized Attention**|Nick Alonso et.al|[paper](https://arxiv.org/abs/2602.03922)|-|-|
 |**2026-5-14**|**RQ-MoE: Residual Quantization via Mixture of Experts for Efficient Input-Dependent Vector Compression**|Zhengjia Zhong et.al|[paper](https://arxiv.org/abs/2605.14359)|[code](https://github.com/KDEGroup/RQ-MoE.)|<details><summary>detail</summary>To appear at ICML 2026</details>|
 |**2026-5-13**|**Vector-Quantized Discrete Latent Factors Meet Financial Priors: Dynamic Cross-Sectional Stock Ranking Prediction for Portfolio Construction**|Namhyoung Kim et.al|[paper](https://arxiv.org/abs/2605.13407)|[code](https://github.com/finxlab/PRISM-VQ.)|<details><summary>detail</summary>IJCAI 2026 Accepted Paper including Technical Appendix</details>|
-|**2026-5-11**|**FibQuant: Universal Vector Quantization for Random-Access KV-Cache Compression**|Namyoon Lee et.al|[paper](https://arxiv.org/abs/2605.11478)|-|-|
 
