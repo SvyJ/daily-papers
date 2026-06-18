@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.06.17
+## Updated on 2026.06.18
 
 ## Defect Detection
 
@@ -73,6 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-17**|**SCAN: Enhance Time Series Anomaly Detection via Multi-Scale Neighborhood-Centered Clustering**|Xingze Zheng et.al|[paper](https://arxiv.org/abs/2606.19255)|-|-|
+|**2026-6-17**|**Anomaly Detection for Sparse and Irregular Multivariate Time Series with Latent SDEs**|Martin Uray et.al|[paper](https://arxiv.org/abs/2606.18898)|-|<details><summary>detail</summary>Preprint</details>|
+|**2026-6-17**|**Seed-Guided Semi-Supervised Clustering by A-Contrario Anomaly Detection**|Nassir Mohammad et.al|[paper](https://arxiv.org/abs/2606.18833)|-|-|
+|**2026-6-17**|**Toward Training-Free Zero-Shot Anomaly Detection in 3D Medical Images: A Batch-Based Approach Using 2D Foundation Models**|Tai Le-Gia et.al|[paper](https://arxiv.org/abs/2606.18749)|-|<details><summary>detail</summary>ACM Class:I</details>|
+|**2026-6-16**|**Towards Anomaly Detection on Relational Data**|Shiyuan Li et.al|[paper](https://arxiv.org/abs/2606.18621)|-|-|
+|**2026-6-16**|**Exploring Statistical Change Point Detection Techniques for Performance Anomaly Detection at Mozilla**|Mohamed Bilel Besbes et.al|[paper](https://arxiv.org/abs/2606.18377)|-|-|
 |**2026-6-16**|**Conditional Attribution for Root Cause Analysis in Time-Series Anomaly Detection**|Shashank Mishra et.al|[paper](https://arxiv.org/abs/2604.17616)|[code](https://github.com/dfki-av/Conditional-Attribution-for-Root-Cause-Analysis-in-Time-Series-Anomaly-Detection.)|<details><summary>detail</summary>ECML PKDD</details>|
 |**2026-6-16**|**Temporal Motif-aware Graph Test-time Adaptation for OOD Blockchain Anomaly Detection**|Runang He et.al|[paper](https://arxiv.org/abs/2605.29526)|[code](https://github.com/LuoXishuang0712/TEMG-TTA/.)|<details><summary>detail</summary>IJCAI-ECAI 2026</details>|
 |**2026-6-15**|**Verified Detection and Prevention of Concurrency Anomalies in Multi-Agent Large Language Model Systems**|Sajjad Khan et.al|[paper](https://arxiv.org/abs/2606.17182)|-|-|
@@ -92,17 +98,12 @@
 |**2026-6-11**|**ProtoX-AD: Self-Explainable Time Series Anomaly Detection and Characterization**|Aitor Sánchez-Ferrera et.al|[paper](https://arxiv.org/abs/2606.13277)|[code](https://github.com/Aitorzan3/ProtoX-AD.)|-|
 |**2026-6-11**|**Catching magnetic resonance imaging outliers in artificial intelligence-supported radiotherapy workflows: unsupervised detection and localization of image anomalies using deep learning**|Mustafa Kadhim et.al|[paper](https://arxiv.org/abs/2605.24609)|-|<details><summary>detail</summary>This paper has been submitted to Physics and Imaging in Radiation Oncology (phiRO)</details>|
 |**2026-6-11**|**ASTER: Latent Pseudo-Anomaly Generation for Unsupervised Time-Series Anomaly Detection**|Romain Hermary et.al|[paper](https://arxiv.org/abs/2604.13924)|-|<details><summary>detail</summary>Published in ICPR 2026</details>|
-|**2026-6-10**|**Towards One-for-All Anomaly Detection for Tabular Data**|Shiyuan Li et.al|[paper](https://arxiv.org/abs/2603.14407)|[code](https://github.com/Shiy-Li/OFA-TAD.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
-|**2026-6-10**|**A Zero-shot Generalized Graph Anomaly Detection Framework via Node Reconstruction**|Phan Nguyen et.al|[paper](https://arxiv.org/abs/2606.12673)|-|-|
-|**2026-6-10**|**TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data**|Dayananda Herurkar et.al|[paper](https://arxiv.org/abs/2606.11844)|-|<details><summary>detail</summary>22 Pages</details>|
-|**2026-6-10**|**Scalable anomaly detection via a univariate Christoffel function**|Florian Grivet et.al|[paper](https://arxiv.org/abs/2606.12483)|-|-|
-|**2026-6-9**|**Privacy-Preserving Federated Autoencoder for ECG Anomaly Detection on Edge Devices**|Kaan Arda Akyol et.al|[paper](https://arxiv.org/abs/2606.11556)|-|-|
-|**2026-6-9**|**EcoDefender: Energy-Efficient Hybrid Anomaly Detection for IoT Edge Gateways**|Saeid Jamshidi et.al|[paper](https://arxiv.org/abs/2511.18235)|-|-|
 
 ## 3D Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-17**|**Toward Training-Free Zero-Shot Anomaly Detection in 3D Medical Images: A Batch-Based Approach Using 2D Foundation Models**|Tai Le-Gia et.al|[paper](https://arxiv.org/abs/2606.18749)|-|<details><summary>detail</summary>ACM Class:I</details>|
 |**2026-6-8**|**Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection**|Kaiqiang Li et.al|[paper](https://arxiv.org/abs/2603.21511)|[code](https://github.com/wistful-8029/BTP-3DAD)|<details><summary>detail</summary>Corrected several numerical entries due to a reporting error</details>|
 |**2026-6-5**|**Automated 3D Kinematic Monitoring for Circadian Activity and Anomaly Detection in Juvenile Fish**|Chih-Wei Huang et.al|[paper](https://arxiv.org/abs/2606.14749)|-|-|
 |**2026-6-2**|**VT-3DAD: Cross-Category 3D Anomaly Detection via Visual-Text Normal Space Alignment**|Zi Wang et.al|[paper](https://arxiv.org/abs/2606.04369)|-|-|
@@ -127,7 +128,6 @@
 |**2025-10-19**|**Registration is a Powerful Rotation-Invariance Learner for 3D Anomaly Detection**|Yuyang Yu et.al|[paper](https://arxiv.org/abs/2510.16865)|-|-|
 |**2025-10-14**|**IterMask3D: Unsupervised Anomaly Detection and Segmentation with Test-Time Iterative Mask Refinement in 3D Brain MR**|Ziyun Liang et.al|[paper](https://arxiv.org/abs/2504.04911)|[code](https://github.com/ZiyunLiang/IterMask3D.)|<details><summary>detail</summary>Published in Medical Image Analysis</details>|
 |**2025-9-23**|**3D-ADAM: A Dataset for 3D Anomaly Detection in Additive Manufacturing**|Paul McHard et.al|[paper](https://arxiv.org/abs/2507.07838)|-|-|
-|**2025-9-16**|**Taming Anomalies with Down-Up Sampling Networks: Group Center Preserving Reconstruction for 3D Anomaly Detection**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2507.03903)|-|<details><summary>detail</summary>ACM MM25 Accepted</details>|
 
 ## Multimodal Anomaly Detection
 
