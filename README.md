@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.06.18
+## Updated on 2026.06.19
 
 ## Defect Detection
 
@@ -73,6 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-18**|**Reliability-Aware Prototype Calibration for Frozen Pose-Flow Video Anomaly Detection**|Ning Dong et.al|[paper](https://arxiv.org/abs/2606.20312)|[code](https://github.com/iNing10/RPC)|-|
+|**2026-6-18**|**CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection**|Junhao Cai et.al|[paper](https://arxiv.org/abs/2606.20300)|-|<details><summary>detail</summary>ECCV 2026!</details>|
+|**2026-6-18**|**We Need to Rethink Benchmarking in Anomaly Detection**|Philipp Röchner et.al|[paper](https://arxiv.org/abs/2507.15584)|-|-|
+|**2026-6-18**|**PaAno+: Multiscale Encoding and Cross-Variable Attention for Time Series Anomaly Detection**|Youji Zhu et.al|[paper](https://arxiv.org/abs/2606.20055)|-|-|
+|**2026-6-18**|**SMT-AD: a scalable quantum-inspired anomaly detection approach**|Apimuk Sornsaeng et.al|[paper](https://arxiv.org/abs/2604.06265)|-|-|
 |**2026-6-17**|**SCAN: Enhance Time Series Anomaly Detection via Multi-Scale Neighborhood-Centered Clustering**|Xingze Zheng et.al|[paper](https://arxiv.org/abs/2606.19255)|-|-|
 |**2026-6-17**|**Anomaly Detection for Sparse and Irregular Multivariate Time Series with Latent SDEs**|Martin Uray et.al|[paper](https://arxiv.org/abs/2606.18898)|-|<details><summary>detail</summary>Preprint</details>|
 |**2026-6-17**|**Seed-Guided Semi-Supervised Clustering by A-Contrario Anomaly Detection**|Nassir Mohammad et.al|[paper](https://arxiv.org/abs/2606.18833)|-|-|
@@ -93,11 +98,6 @@
 |**2026-6-12**|**BoRAD: Bootstrap your Own Representations for Multi-class Anomaly Detection**|Duy Hoang Khuong et.al|[paper](https://arxiv.org/abs/2606.14129)|-|-|
 |**2026-6-11**|**Conformal calibration and look-elsewhere effect in anomaly detection for new-physics searches**|Jack Y. Araz et.al|[paper](https://arxiv.org/abs/2606.13780)|-|-|
 |**2026-6-11**|**D2H-AD: A Hybrid Model Utilizing Hyperdimensional Computing for Advanced Anomaly Detection**|Ghazal Ghajari et.al|[paper](https://arxiv.org/abs/2606.13754)|-|-|
-|**2026-6-11**|**CRAFTIIF: Cross-Resolution Analytic Four-Type Interpretable Isolation Forest for Multivariate Time Series Anomaly Detection**|William Smits et.al|[paper](https://arxiv.org/abs/2606.13486)|[code](https://github.com/smitswil/craftiif)|-|
-|**2026-6-11**|**Rarity-Gated Context Conditioning for Offline Imitation Learning-Based Maritime Anomaly Detection**|Yongmin Kim et.al|[paper](https://arxiv.org/abs/2606.13311)|-|-|
-|**2026-6-11**|**ProtoX-AD: Self-Explainable Time Series Anomaly Detection and Characterization**|Aitor Sánchez-Ferrera et.al|[paper](https://arxiv.org/abs/2606.13277)|[code](https://github.com/Aitorzan3/ProtoX-AD.)|-|
-|**2026-6-11**|**Catching magnetic resonance imaging outliers in artificial intelligence-supported radiotherapy workflows: unsupervised detection and localization of image anomalies using deep learning**|Mustafa Kadhim et.al|[paper](https://arxiv.org/abs/2605.24609)|-|<details><summary>detail</summary>This paper has been submitted to Physics and Imaging in Radiation Oncology (phiRO)</details>|
-|**2026-6-11**|**ASTER: Latent Pseudo-Anomaly Generation for Unsupervised Time-Series Anomaly Detection**|Romain Hermary et.al|[paper](https://arxiv.org/abs/2604.13924)|-|<details><summary>detail</summary>Published in ICPR 2026</details>|
 
 ## 3D Anomaly Detection
 
