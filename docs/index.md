@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.06.22
+## Updated on 2026.06.23
 
 ## Defect Detection
 
@@ -73,8 +73,14 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-22**|**MambaADv2: Evolving Duality-enhanced State Space Model for Unsupervised Anomaly Detection**|Xiaobin Hu et.al|[paper](https://arxiv.org/abs/2606.23126)|-|-|
+|**2026-6-21**|**CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection**|Junhao Cai et.al|[paper](https://arxiv.org/abs/2606.20300)|[code](https://github.com/Junhaocai27/CMDS-AD)|<details><summary>detail</summary>ECCV 2026!</details>|
+|**2026-6-21**|**HiMatch-AD: DINOv3-driven Hierarchical Matching for Training-free Medical Anomaly Detection**|Jiayu Huo et.al|[paper](https://arxiv.org/abs/2606.22556)|-|-|
+|**2026-6-19**|**CATCH: Channel-Aware multivariate Time Series Anomaly Detection via Frequency Patching**|Xingjian Wu et.al|[paper](https://arxiv.org/abs/2410.12261)|[code](https://github.com/decisionintelligence/CATCH.)|<details><summary>detail</summary>Accepted by ICLR 2025</details>|
+|**2026-6-19**|**Revisiting OmniAnomaly for Anomaly Detection: performance metrics and comparison with PCA-based models**|Bruna Alves et.al|[paper](https://arxiv.org/abs/2603.18985)|-|-|
+|**2026-6-19**|**Distinguishing indistinguishable attractors: Unsupervised anomaly detection with reservoir computers**|Davide Prosperino et.al|[paper](https://arxiv.org/abs/2606.21322)|-|-|
 |**2026-6-18**|**Reliability-Aware Prototype Calibration for Frozen Pose-Flow Video Anomaly Detection**|Ning Dong et.al|[paper](https://arxiv.org/abs/2606.20312)|[code](https://github.com/iNing10/RPC)|-|
-|**2026-6-18**|**CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection**|Junhao Cai et.al|[paper](https://arxiv.org/abs/2606.20300)|-|<details><summary>detail</summary>ECCV 2026!</details>|
+|**2026-6-18**|**UniSLAD: A Unified Framework for Structural and Logical Industrial Visual Anomaly Detection**|Changyi Li et.al|[paper](https://arxiv.org/abs/2606.20768)|-|<details><summary>detail</summary>This work has been accepted for publication in the Proceedings of the 2026 IEEE International Conference on Automation Science and Engineering (CASE)</details>|
 |**2026-6-18**|**We Need to Rethink Benchmarking in Anomaly Detection**|Philipp Röchner et.al|[paper](https://arxiv.org/abs/2507.15584)|-|-|
 |**2026-6-18**|**PaAno+: Multiscale Encoding and Cross-Variable Attention for Time Series Anomaly Detection**|Youji Zhu et.al|[paper](https://arxiv.org/abs/2606.20055)|-|-|
 |**2026-6-18**|**SMT-AD: a scalable quantum-inspired anomaly detection approach**|Apimuk Sornsaeng et.al|[paper](https://arxiv.org/abs/2604.06265)|-|-|
@@ -92,12 +98,6 @@
 |**2026-6-14**|**EdgeZSAD: Practical Zero-Shot Anomaly Detection on Edge Devices**|Taewan Cho et.al|[paper](https://arxiv.org/abs/2606.16119)|-|-|
 |**2026-6-14**|**IBAD: Interpretable Behavioral Anomaly Detection on Human Mobility Data**|Bita Azarijoo et.al|[paper](https://arxiv.org/abs/2606.16023)|[code](https://github.com/USC-InfoLab/IBAD)|-|
 |**2026-6-14**|**Early Anomaly-Onset Detection based on Wigner--Ville Distribution Slice Spectra: A Transmission-Grid Test Case**|Eduardo Jr Piedad et.al|[paper](https://arxiv.org/abs/2606.15856)|-|-|
-|**2026-6-13**|**Rethinking Structural Anomaly Detection: From Decision Boundaries to Projection Operators**|Alexander Bauer et.al|[paper](https://arxiv.org/abs/2606.15280)|-|-|
-|**2026-6-13**|**Anomaly Detection via Mean Shift Density Enhancement**|Pritam Kar et.al|[paper](https://arxiv.org/abs/2602.03293)|-|-|
-|**2026-6-12**|**Value-order Decomposition for Generalist Anomaly Detection**|Miaoyun Zhao et.al|[paper](https://arxiv.org/abs/2606.14475)|-|-|
-|**2026-6-12**|**BoRAD: Bootstrap your Own Representations for Multi-class Anomaly Detection**|Duy Hoang Khuong et.al|[paper](https://arxiv.org/abs/2606.14129)|-|-|
-|**2026-6-11**|**Conformal calibration and look-elsewhere effect in anomaly detection for new-physics searches**|Jack Y. Araz et.al|[paper](https://arxiv.org/abs/2606.13780)|-|-|
-|**2026-6-11**|**D2H-AD: A Hybrid Model Utilizing Hyperdimensional Computing for Advanced Anomaly Detection**|Ghazal Ghajari et.al|[paper](https://arxiv.org/abs/2606.13754)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,7 +163,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-21**|**LVQAC: Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression**|Xi Zhang et.al|[paper](https://arxiv.org/abs/2304.12319)|[code](https://github.com/xzhang9308/LVQAC.)|<details><summary>detail</summary>Accepted by CVPR 2023</details>|
+|**2026-6-19**|**VQActFlow: Vector-Quantized Action Mode Steering for Multi-Task Robot Manipulation**|Zhigen Zhao et.al|[paper](https://arxiv.org/abs/2606.21600)|-|-|
+|**2026-6-19**|**Fast-TurboQuant: A Multiplier-Free Online Vector Quantization Approach**|Pedro M. R. Pereira et.al|[paper](https://arxiv.org/abs/2606.21448)|-|-|
 |**2026-6-15**|**Price of metric universality in vector quantization is at most 0.11 bit**|Alina Harbuzova et.al|[paper](https://arxiv.org/abs/2602.05790)|-|<details><summary>detail</summary>41 page</details>|
+|**2026-6-12**|**VQ4SNN: Vector Quantization for Memory-Efficient FPGA Spiking Neural Networks**|Dimitrios Sekertzis et.al|[paper](https://arxiv.org/abs/2606.20675)|-|-|
 |**2026-6-9**|**ViP-VL: Vietnamese Self-supervised Speech Pretraining Model with Vector-Quantization Learning**|Khanh Le et.al|[paper](https://arxiv.org/abs/2606.10360)|-|<details><summary>detail</summary>INTERSPEECH 2026</details>|
 |**2026-6-9**|**Vector Quantized Latent Concepts: A Scalable Alternative to Clustering-Based Concept Discovery**|Xuemin Yu et.al|[paper](https://arxiv.org/abs/2602.02726)|-|-|
 |**2026-6-9**|**NSVQ: Mitigating Codebook Collapse by Stabilizing Encoder Drift in Vector Quantization**|Hao Lu et.al|[paper](https://arxiv.org/abs/2606.11363)|-|-|
@@ -184,8 +188,4 @@
 |**2026-5-20**|**MGVQ: Synergizing Multi-dimensional Sensitivity-Aware and Gradient-Hessian Fusion for Vector Quantization**|Zhong Wang et.al|[paper](https://arxiv.org/abs/2605.24019)|-|-|
 |**2026-5-19**|**Improving 3D Gaussian Splatting Compression by Scene-Adaptive Lattice Vector Quantization**|Hao Xu et.al|[paper](https://arxiv.org/abs/2509.13482)|[code](https://github.com/hxu160/SALVQ)|<details><summary>detail</summary>Accepted by IEEE TIP</details>|
 |**2026-5-19**|**Block-Sphere Vector Quantization**|Heesang Ann et.al|[paper](https://arxiv.org/abs/2605.19972)|-|-|
-|**2026-5-14**|**PrismQuant: Rate-Distortion-Optimal Vector Quantization for Gaussian-Mixture Sources**|Bumsu Park et.al|[paper](https://arxiv.org/abs/2605.15507)|-|-|
-|**2026-5-14**|**Online Vector Quantized Attention**|Nick Alonso et.al|[paper](https://arxiv.org/abs/2602.03922)|-|-|
-|**2026-5-14**|**RQ-MoE: Residual Quantization via Mixture of Experts for Efficient Input-Dependent Vector Compression**|Zhengjia Zhong et.al|[paper](https://arxiv.org/abs/2605.14359)|[code](https://github.com/KDEGroup/RQ-MoE.)|<details><summary>detail</summary>To appear at ICML 2026</details>|
-|**2026-5-13**|**Vector-Quantized Discrete Latent Factors Meet Financial Priors: Dynamic Cross-Sectional Stock Ranking Prediction for Portfolio Construction**|Namhyoung Kim et.al|[paper](https://arxiv.org/abs/2605.13407)|[code](https://github.com/finxlab/PRISM-VQ.)|<details><summary>detail</summary>IJCAI 2026 Accepted Paper including Technical Appendix</details>|
 
