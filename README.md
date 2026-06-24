@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.06.23
+## Updated on 2026.06.24
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-23**|**DDStereo: Efficient Dual Decoder Transformers for Stereo 3D Road Anomaly Detection**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2606.24805)|-|-|
+|**2026-6-23**|**Rethinking Structural Anomaly Detection: From Decision Boundaries to Projection Operators**|Alexander Bauer et.al|[paper](https://arxiv.org/abs/2606.15280)|-|-|
+|**2026-6-23**|**MATCH: Flow Matching for Multi-View Anomaly Detection**|Mathis Kruse et.al|[paper](https://arxiv.org/abs/2606.24375)|-|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-6-22**|**MambaADv2: Evolving Duality-enhanced State Space Model for Unsupervised Anomaly Detection**|Xiaobin Hu et.al|[paper](https://arxiv.org/abs/2606.23126)|-|-|
 |**2026-6-21**|**CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection**|Junhao Cai et.al|[paper](https://arxiv.org/abs/2606.20300)|[code](https://github.com/Junhaocai27/CMDS-AD)|<details><summary>detail</summary>ECCV 2026!</details>|
 |**2026-6-21**|**HiMatch-AD: DINOv3-driven Hierarchical Matching for Training-free Medical Anomaly Detection**|Jiayu Huo et.al|[paper](https://arxiv.org/abs/2606.22556)|-|-|
@@ -95,14 +98,12 @@
 |**2026-6-15**|**Verified Detection and Prevention of Concurrency Anomalies in Multi-Agent Large Language Model Systems**|Sajjad Khan et.al|[paper](https://arxiv.org/abs/2606.17182)|-|-|
 |**2026-6-15**|**Towards LLM Accelerated Rapid Reviews for Software Tool Discovery -- Case for Log Anomaly Detection**|Jesse Nyyssölä et.al|[paper](https://arxiv.org/abs/2606.16839)|-|<details><summary>detail</summary>52nd Euromicro Conference on Software Engineering and Advanced Applications (SEAA) 2026</details>|
 |**2026-6-15**|**Beer-Lambert Guided Representation Learning for Unsupervised Anomaly Detection in Sub-THz Food Inspection Images**|Gyutae Hwang et.al|[paper](https://arxiv.org/abs/2606.16421)|-|-|
-|**2026-6-14**|**EdgeZSAD: Practical Zero-Shot Anomaly Detection on Edge Devices**|Taewan Cho et.al|[paper](https://arxiv.org/abs/2606.16119)|-|-|
-|**2026-6-14**|**IBAD: Interpretable Behavioral Anomaly Detection on Human Mobility Data**|Bita Azarijoo et.al|[paper](https://arxiv.org/abs/2606.16023)|[code](https://github.com/USC-InfoLab/IBAD)|-|
-|**2026-6-14**|**Early Anomaly-Onset Detection based on Wigner--Ville Distribution Slice Spectra: A Transmission-Grid Test Case**|Eduardo Jr Piedad et.al|[paper](https://arxiv.org/abs/2606.15856)|-|-|
 
 ## 3D Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-23**|**DDStereo: Efficient Dual Decoder Transformers for Stereo 3D Road Anomaly Detection**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2606.24805)|-|-|
 |**2026-6-17**|**Toward Training-Free Zero-Shot Anomaly Detection in 3D Medical Images: A Batch-Based Approach Using 2D Foundation Models**|Tai Le-Gia et.al|[paper](https://arxiv.org/abs/2606.18749)|-|<details><summary>detail</summary>ACM Class:I</details>|
 |**2026-6-8**|**Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection**|Kaiqiang Li et.al|[paper](https://arxiv.org/abs/2603.21511)|[code](https://github.com/wistful-8029/BTP-3DAD)|<details><summary>detail</summary>Corrected several numerical entries due to a reporting error</details>|
 |**2026-6-5**|**Automated 3D Kinematic Monitoring for Circadian Activity and Anomaly Detection in Juvenile Fish**|Chih-Wei Huang et.al|[paper](https://arxiv.org/abs/2606.14749)|-|-|
@@ -127,7 +128,6 @@
 |**2025-11-5**|**IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection**|Bingyang Guo et.al|[paper](https://arxiv.org/abs/2511.03267)|-|-|
 |**2025-10-19**|**Registration is a Powerful Rotation-Invariance Learner for 3D Anomaly Detection**|Yuyang Yu et.al|[paper](https://arxiv.org/abs/2510.16865)|-|-|
 |**2025-10-14**|**IterMask3D: Unsupervised Anomaly Detection and Segmentation with Test-Time Iterative Mask Refinement in 3D Brain MR**|Ziyun Liang et.al|[paper](https://arxiv.org/abs/2504.04911)|[code](https://github.com/ZiyunLiang/IterMask3D.)|<details><summary>detail</summary>Published in Medical Image Analysis</details>|
-|**2025-9-23**|**3D-ADAM: A Dataset for 3D Anomaly Detection in Additive Manufacturing**|Paul McHard et.al|[paper](https://arxiv.org/abs/2507.07838)|-|-|
 
 ## Multimodal Anomaly Detection
 
