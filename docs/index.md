@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.06.24
+## Updated on 2026.06.25
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-23**|**An Integrated Hardware-Software Design for Low-Data Spatial Defect Detection in Robotic Visual Inspection with Hybrid Optoelectronic Neural Networks**|Chaoqing Tang et.al|[paper](https://arxiv.org/abs/2606.25277)|-|-|
 |**2026-6-11**|**Morphology-Aware Sample Assignment: Overcoming IoU Insensitivity for Surface Defect Detection**|Pengfei Liu et.al|[paper](https://arxiv.org/abs/2606.13723)|-|-|
 |**2026-6-11**|**Multi-Modal Agents for Power Distribution Defect Detection: An Evaluation of Foundation Models**|Quan Quan et.al|[paper](https://arxiv.org/abs/2606.12969)|-|-|
 |**2026-6-7**|**Failure-Aware Refinement of Vision-Language Model for Lithography Defect Detection**|Pangyun Jeong et.al|[paper](https://arxiv.org/abs/2606.08908)|-|-|
@@ -37,7 +38,6 @@
 |**2026-5-3**|**Application Research of a Deep Learning Model Integrating CycleGAN and YOLO in PCB Infrared Defect Detection**|Chao Yang et.al|[paper](https://arxiv.org/abs/2601.00237)|-|<details><summary>detail</summary>Authors have conflict of interest</details>|
 |**2026-5-1**|**Event-based Civil Infrastructure Visual Defect Detection: ev-CIVIL Dataset and Benchmark**|Udayanga G. W. K. N. Gamage et.al|[paper](https://arxiv.org/abs/2504.05679)|-|<details><summary>detail</summary>Accepted version of the journal paper published in Sage Structural health monitoring journa and it is under review currently</details>|
 |**2026-4-29**|**SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection**|Paul Julius Kühn et.al|[paper](https://arxiv.org/abs/2604.26633)|-|-|
-|**2026-4-27**|**Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis**|Amal Akli et.al|[paper](https://arxiv.org/abs/2604.24703)|-|-|
 
 ## Defect Segmentation
 
@@ -73,11 +73,15 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-24**|**Enhancing Brain MRI Anomaly Detection and Reasoning with ROI Rethink and Synthetic Data**|Shangkun Li et.al|[paper](https://arxiv.org/abs/2606.25894)|-|-|
+|**2026-6-24**|**Point Cloud Diffusion with Global and Local Reconstruction for Instance-Level 3D Anomaly Detection**|Linchun Wu et.al|[paper](https://arxiv.org/abs/2606.25740)|-|-|
+|**2026-6-24**|**CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection**|Junhao Cai et.al|[paper](https://arxiv.org/abs/2606.20300)|[code](https://github.com/Junhaocai27/CMDS-AD)|<details><summary>detail</summary>ECCV 2026! Project page: https://cmds-ad</details>|
+|**2026-6-23**|**Hypergraph Normal World Models for Logical Visual Anomaly Detection**|Weizhi Nie et.al|[paper](https://arxiv.org/abs/2606.25368)|-|-|
+|**2026-6-23**|**CoGeoAD: Hierarchical Color-Geometric Fusion with Multi-View Attention for Zero-Shot 3D Anomaly Detection**|Ke Xu et.al|[paper](https://arxiv.org/abs/2606.25273)|[code](https://github.com/kingdomShu/CoGeoAD.)|<details><summary>detail</summary>ICML 2026</details>|
 |**2026-6-23**|**DDStereo: Efficient Dual Decoder Transformers for Stereo 3D Road Anomaly Detection**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2606.24805)|-|-|
 |**2026-6-23**|**Rethinking Structural Anomaly Detection: From Decision Boundaries to Projection Operators**|Alexander Bauer et.al|[paper](https://arxiv.org/abs/2606.15280)|-|-|
 |**2026-6-23**|**MATCH: Flow Matching for Multi-View Anomaly Detection**|Mathis Kruse et.al|[paper](https://arxiv.org/abs/2606.24375)|-|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-6-22**|**MambaADv2: Evolving Duality-enhanced State Space Model for Unsupervised Anomaly Detection**|Xiaobin Hu et.al|[paper](https://arxiv.org/abs/2606.23126)|-|-|
-|**2026-6-21**|**CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection**|Junhao Cai et.al|[paper](https://arxiv.org/abs/2606.20300)|[code](https://github.com/Junhaocai27/CMDS-AD)|<details><summary>detail</summary>ECCV 2026!</details>|
 |**2026-6-21**|**HiMatch-AD: DINOv3-driven Hierarchical Matching for Training-free Medical Anomaly Detection**|Jiayu Huo et.al|[paper](https://arxiv.org/abs/2606.22556)|-|-|
 |**2026-6-19**|**CATCH: Channel-Aware multivariate Time Series Anomaly Detection via Frequency Patching**|Xingjian Wu et.al|[paper](https://arxiv.org/abs/2410.12261)|[code](https://github.com/decisionintelligence/CATCH.)|<details><summary>detail</summary>Accepted by ICLR 2025</details>|
 |**2026-6-19**|**Revisiting OmniAnomaly for Anomaly Detection: performance metrics and comparison with PCA-based models**|Bruna Alves et.al|[paper](https://arxiv.org/abs/2603.18985)|-|-|
@@ -94,15 +98,13 @@
 |**2026-6-16**|**Towards Anomaly Detection on Relational Data**|Shiyuan Li et.al|[paper](https://arxiv.org/abs/2606.18621)|-|-|
 |**2026-6-16**|**Exploring Statistical Change Point Detection Techniques for Performance Anomaly Detection at Mozilla**|Mohamed Bilel Besbes et.al|[paper](https://arxiv.org/abs/2606.18377)|-|-|
 |**2026-6-16**|**Conditional Attribution for Root Cause Analysis in Time-Series Anomaly Detection**|Shashank Mishra et.al|[paper](https://arxiv.org/abs/2604.17616)|[code](https://github.com/dfki-av/Conditional-Attribution-for-Root-Cause-Analysis-in-Time-Series-Anomaly-Detection.)|<details><summary>detail</summary>ECML PKDD</details>|
-|**2026-6-16**|**Temporal Motif-aware Graph Test-time Adaptation for OOD Blockchain Anomaly Detection**|Runang He et.al|[paper](https://arxiv.org/abs/2605.29526)|[code](https://github.com/LuoXishuang0712/TEMG-TTA/.)|<details><summary>detail</summary>IJCAI-ECAI 2026</details>|
-|**2026-6-15**|**Verified Detection and Prevention of Concurrency Anomalies in Multi-Agent Large Language Model Systems**|Sajjad Khan et.al|[paper](https://arxiv.org/abs/2606.17182)|-|-|
-|**2026-6-15**|**Towards LLM Accelerated Rapid Reviews for Software Tool Discovery -- Case for Log Anomaly Detection**|Jesse Nyyssölä et.al|[paper](https://arxiv.org/abs/2606.16839)|-|<details><summary>detail</summary>52nd Euromicro Conference on Software Engineering and Advanced Applications (SEAA) 2026</details>|
-|**2026-6-15**|**Beer-Lambert Guided Representation Learning for Unsupervised Anomaly Detection in Sub-THz Food Inspection Images**|Gyutae Hwang et.al|[paper](https://arxiv.org/abs/2606.16421)|-|-|
 
 ## 3D Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-24**|**Point Cloud Diffusion with Global and Local Reconstruction for Instance-Level 3D Anomaly Detection**|Linchun Wu et.al|[paper](https://arxiv.org/abs/2606.25740)|-|-|
+|**2026-6-23**|**CoGeoAD: Hierarchical Color-Geometric Fusion with Multi-View Attention for Zero-Shot 3D Anomaly Detection**|Ke Xu et.al|[paper](https://arxiv.org/abs/2606.25273)|[code](https://github.com/kingdomShu/CoGeoAD.)|<details><summary>detail</summary>ICML 2026</details>|
 |**2026-6-23**|**DDStereo: Efficient Dual Decoder Transformers for Stereo 3D Road Anomaly Detection**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2606.24805)|-|-|
 |**2026-6-17**|**Toward Training-Free Zero-Shot Anomaly Detection in 3D Medical Images: A Batch-Based Approach Using 2D Foundation Models**|Tai Le-Gia et.al|[paper](https://arxiv.org/abs/2606.18749)|-|<details><summary>detail</summary>ACM Class:I</details>|
 |**2026-6-8**|**Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection**|Kaiqiang Li et.al|[paper](https://arxiv.org/abs/2603.21511)|[code](https://github.com/wistful-8029/BTP-3DAD)|<details><summary>detail</summary>Corrected several numerical entries due to a reporting error</details>|
@@ -126,8 +128,6 @@
 |**2025-11-23**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
 |**2025-11-16**|**CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection**|Yaohua Zha et.al|[paper](https://arxiv.org/abs/2511.12909)|[code](https://github.com/zyh16143998882/CASL.)|<details><summary>detail</summary>AAAI 2026</details>|
 |**2025-11-5**|**IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection**|Bingyang Guo et.al|[paper](https://arxiv.org/abs/2511.03267)|-|-|
-|**2025-10-19**|**Registration is a Powerful Rotation-Invariance Learner for 3D Anomaly Detection**|Yuyang Yu et.al|[paper](https://arxiv.org/abs/2510.16865)|-|-|
-|**2025-10-14**|**IterMask3D: Unsupervised Anomaly Detection and Segmentation with Test-Time Iterative Mask Refinement in 3D Brain MR**|Ziyun Liang et.al|[paper](https://arxiv.org/abs/2504.04911)|[code](https://github.com/ZiyunLiang/IterMask3D.)|<details><summary>detail</summary>Published in Medical Image Analysis</details>|
 
 ## Multimodal Anomaly Detection
 
