@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.06.25
+## Updated on 2026.06.26
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-25**|**Towards Video Anomaly Detection from Event Streams: A Baseline and Benchmark Datasets**|Peng Wu et.al|[paper](https://arxiv.org/abs/2603.24991)|-|-|
+|**2026-6-25**|**Digital Twin-Driven Communication-Efficient Federated Anomaly Detection for Industrial IoT**|Mohammed Ayalew Belay et.al|[paper](https://arxiv.org/abs/2601.01701)|-|-|
+|**2026-6-25**|**DeCoFlow: Structural Decomposition of Normalizing Flows for Continual Anomaly Detection**|Hun Im et.al|[paper](https://arxiv.org/abs/2606.26687)|-|-|
 |**2026-6-24**|**Enhancing Brain MRI Anomaly Detection and Reasoning with ROI Rethink and Synthetic Data**|Shangkun Li et.al|[paper](https://arxiv.org/abs/2606.25894)|-|-|
 |**2026-6-24**|**Point Cloud Diffusion with Global and Local Reconstruction for Instance-Level 3D Anomaly Detection**|Linchun Wu et.al|[paper](https://arxiv.org/abs/2606.25740)|-|-|
 |**2026-6-24**|**CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection**|Junhao Cai et.al|[paper](https://arxiv.org/abs/2606.20300)|[code](https://github.com/Junhaocai27/CMDS-AD)|<details><summary>detail</summary>ECCV 2026! Project page: https://cmds-ad</details>|
@@ -95,9 +98,6 @@
 |**2026-6-17**|**Anomaly Detection for Sparse and Irregular Multivariate Time Series with Latent SDEs**|Martin Uray et.al|[paper](https://arxiv.org/abs/2606.18898)|-|<details><summary>detail</summary>Preprint</details>|
 |**2026-6-17**|**Seed-Guided Semi-Supervised Clustering by A-Contrario Anomaly Detection**|Nassir Mohammad et.al|[paper](https://arxiv.org/abs/2606.18833)|-|-|
 |**2026-6-17**|**Toward Training-Free Zero-Shot Anomaly Detection in 3D Medical Images: A Batch-Based Approach Using 2D Foundation Models**|Tai Le-Gia et.al|[paper](https://arxiv.org/abs/2606.18749)|-|<details><summary>detail</summary>ACM Class:I</details>|
-|**2026-6-16**|**Towards Anomaly Detection on Relational Data**|Shiyuan Li et.al|[paper](https://arxiv.org/abs/2606.18621)|-|-|
-|**2026-6-16**|**Exploring Statistical Change Point Detection Techniques for Performance Anomaly Detection at Mozilla**|Mohamed Bilel Besbes et.al|[paper](https://arxiv.org/abs/2606.18377)|-|-|
-|**2026-6-16**|**Conditional Attribution for Root Cause Analysis in Time-Series Anomaly Detection**|Shashank Mishra et.al|[paper](https://arxiv.org/abs/2604.17616)|[code](https://github.com/dfki-av/Conditional-Attribution-for-Root-Cause-Analysis-in-Time-Series-Anomaly-Detection.)|<details><summary>detail</summary>ECML PKDD</details>|
 
 ## 3D Anomaly Detection
 
