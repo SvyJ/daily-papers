@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.06.29
+## Updated on 2026.06.30
 
 ## Defect Detection
 
@@ -73,6 +73,18 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-29**|**Node-to-Neighborhood Semantic Consistency: Text-Topology Alignment for TAGs Anomaly Detection**|Bochen Lin et.al|[paper](https://arxiv.org/abs/2606.30009)|-|-|
+|**2026-6-28**|**Redefining Maritime Anomaly Detection via Equation-Grounded Synthetic Anomalies**|Youngseok Hwang et.al|[paper](https://arxiv.org/abs/2606.29721)|[code](https://github.com/snudial/open-maritime-anomaly-detection.)|-|
+|**2026-6-28**|**UniVAD v2: Unified Visual Anomaly Detection via Support-Conditioned Boundary Construction**|Zhaopeng Gu et.al|[paper](https://arxiv.org/abs/2606.29714)|-|-|
+|**2026-6-28**|**Benchmark AUC Is Not Deployable Reliability: A Cross-Dataset Audit of Off-the-Shelf Features for Surveillance Video Anomaly Detection**|Mohammadreza Rashidi et.al|[paper](https://arxiv.org/abs/2606.29506)|-|-|
+|**2026-6-28**|**Learning Where and When: Patch-Based Spatiotemporal Localization in Weakly Supervised Video Anomaly Detection**|Hamza Karim et.al|[paper](https://arxiv.org/abs/2606.29498)|-|-|
+|**2026-6-28**|**Robust Zero-shot Anomaly Detection under Limited Auxiliary Anomaly Priors**|Guanyu Lu et.al|[paper](https://arxiv.org/abs/2606.29428)|-|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
+|**2026-6-27**|**Anomaly Factory 3D: A Modular Framework for Diverse Pseudo-Anomaly Synthesis in Unsupervised 3D Anomaly Detection**|Ali Balapour et.al|[paper](https://arxiv.org/abs/2606.29181)|-|-|
+|**2026-6-27**|**RGLD: Randomized Global-Local Density Estimation for Tabular Anomaly Detection**|Quanling Zhao et.al|[paper](https://arxiv.org/abs/2606.28970)|-|-|
+|**2026-6-27**|**Towards Improved Anomaly Detection for Cloud Cybersecurity via Graph Neural Networks**|Manu Nandan et.al|[paper](https://arxiv.org/abs/2606.28923)|-|<details><summary>detail</summary>to appear in the 5'th Workshop on Rethinking Malware Analysis (WoRMA)</details>|
+|**2026-6-27**|**Towards Modality-Agnostic Medical Image Anomaly Detection: A Training-Free Manifold Refinement Approach**|Pritam Kar et.al|[paper](https://arxiv.org/abs/2604.19191)|-|-|
+|**2026-6-26**|**LogiCo: A Unified Framework for Logical and Structural Anomaly Detection**|Ximiao Zhang et.al|[paper](https://arxiv.org/abs/2606.28688)|[code](https://github.com/cnulab/LogiCo.)|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
+|**2026-6-26**|**An Agentic AI Pipeline for Appliance-Level Energy Anomaly Detection and LLM-Driven Recommendations**|Dihia Falouz et.al|[paper](https://arxiv.org/abs/2606.28467)|-|-|
 |**2026-6-25**|**Towards Video Anomaly Detection from Event Streams: A Baseline and Benchmark Datasets**|Peng Wu et.al|[paper](https://arxiv.org/abs/2603.24991)|-|-|
 |**2026-6-25**|**Compression-Driven Anomaly Detection in Brain MRI Using an Interpretable Quantum Autoencoder**|Santanu Ganguly et.al|[paper](https://arxiv.org/abs/2606.27411)|-|-|
 |**2026-6-25**|**Digital Twin-Driven Communication-Efficient Federated Anomaly Detection for Industrial IoT**|Mohammed Ayalew Belay et.al|[paper](https://arxiv.org/abs/2601.01701)|-|-|
@@ -86,23 +98,12 @@
 |**2026-6-23**|**Rethinking Structural Anomaly Detection: From Decision Boundaries to Projection Operators**|Alexander Bauer et.al|[paper](https://arxiv.org/abs/2606.15280)|-|-|
 |**2026-6-23**|**MATCH: Flow Matching for Multi-View Anomaly Detection**|Mathis Kruse et.al|[paper](https://arxiv.org/abs/2606.24375)|-|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-6-22**|**MambaADv2: Evolving Duality-enhanced State Space Model for Unsupervised Anomaly Detection**|Xiaobin Hu et.al|[paper](https://arxiv.org/abs/2606.23126)|-|-|
-|**2026-6-21**|**HiMatch-AD: DINOv3-driven Hierarchical Matching for Training-free Medical Anomaly Detection**|Jiayu Huo et.al|[paper](https://arxiv.org/abs/2606.22556)|-|-|
-|**2026-6-19**|**CATCH: Channel-Aware multivariate Time Series Anomaly Detection via Frequency Patching**|Xingjian Wu et.al|[paper](https://arxiv.org/abs/2410.12261)|[code](https://github.com/decisionintelligence/CATCH.)|<details><summary>detail</summary>Accepted by ICLR 2025</details>|
-|**2026-6-19**|**Revisiting OmniAnomaly for Anomaly Detection: performance metrics and comparison with PCA-based models**|Bruna Alves et.al|[paper](https://arxiv.org/abs/2603.18985)|-|-|
-|**2026-6-19**|**Distinguishing indistinguishable attractors: Unsupervised anomaly detection with reservoir computers**|Davide Prosperino et.al|[paper](https://arxiv.org/abs/2606.21322)|-|-|
-|**2026-6-18**|**Reliability-Aware Prototype Calibration for Frozen Pose-Flow Video Anomaly Detection**|Ning Dong et.al|[paper](https://arxiv.org/abs/2606.20312)|[code](https://github.com/iNing10/RPC)|-|
-|**2026-6-18**|**UniSLAD: A Unified Framework for Structural and Logical Industrial Visual Anomaly Detection**|Changyi Li et.al|[paper](https://arxiv.org/abs/2606.20768)|-|<details><summary>detail</summary>This work has been accepted for publication in the Proceedings of the 2026 IEEE International Conference on Automation Science and Engineering (CASE)</details>|
-|**2026-6-18**|**We Need to Rethink Benchmarking in Anomaly Detection**|Philipp Röchner et.al|[paper](https://arxiv.org/abs/2507.15584)|-|-|
-|**2026-6-18**|**PaAno+: Multiscale Encoding and Cross-Variable Attention for Time Series Anomaly Detection**|Youji Zhu et.al|[paper](https://arxiv.org/abs/2606.20055)|-|-|
-|**2026-6-18**|**SMT-AD: a scalable quantum-inspired anomaly detection approach**|Apimuk Sornsaeng et.al|[paper](https://arxiv.org/abs/2604.06265)|-|-|
-|**2026-6-17**|**SCAN: Enhance Time Series Anomaly Detection via Multi-Scale Neighborhood-Centered Clustering**|Xingze Zheng et.al|[paper](https://arxiv.org/abs/2606.19255)|-|-|
-|**2026-6-17**|**Anomaly Detection for Sparse and Irregular Multivariate Time Series with Latent SDEs**|Martin Uray et.al|[paper](https://arxiv.org/abs/2606.18898)|-|<details><summary>detail</summary>Preprint</details>|
-|**2026-6-17**|**Seed-Guided Semi-Supervised Clustering by A-Contrario Anomaly Detection**|Nassir Mohammad et.al|[paper](https://arxiv.org/abs/2606.18833)|-|-|
 
 ## 3D Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-27**|**Anomaly Factory 3D: A Modular Framework for Diverse Pseudo-Anomaly Synthesis in Unsupervised 3D Anomaly Detection**|Ali Balapour et.al|[paper](https://arxiv.org/abs/2606.29181)|-|-|
 |**2026-6-24**|**Point Cloud Diffusion with Global and Local Reconstruction for Instance-Level 3D Anomaly Detection**|Linchun Wu et.al|[paper](https://arxiv.org/abs/2606.25740)|-|-|
 |**2026-6-23**|**CoGeoAD: Hierarchical Color-Geometric Fusion with Multi-View Attention for Zero-Shot 3D Anomaly Detection**|Ke Xu et.al|[paper](https://arxiv.org/abs/2606.25273)|[code](https://github.com/kingdomShu/CoGeoAD.)|<details><summary>detail</summary>ICML 2026</details>|
 |**2026-6-23**|**DDStereo: Efficient Dual Decoder Transformers for Stereo 3D Road Anomaly Detection**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2606.24805)|-|-|
@@ -127,7 +128,6 @@
 |**2025-12-14**|**A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2511.13115)|-|<details><summary>detail</summary>Preprint</details>|
 |**2025-11-23**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
 |**2025-11-16**|**CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection**|Yaohua Zha et.al|[paper](https://arxiv.org/abs/2511.12909)|[code](https://github.com/zyh16143998882/CASL.)|<details><summary>detail</summary>AAAI 2026</details>|
-|**2025-11-5**|**IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection**|Bingyang Guo et.al|[paper](https://arxiv.org/abs/2511.03267)|-|-|
 
 ## Multimodal Anomaly Detection
 
