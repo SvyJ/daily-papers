@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.06.30
+## Updated on 2026.07.01
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-30**|**SENSE-VAD: Sentient and Semantic Video Anomaly Detection for Autonomous Driving**|Nghia T. Nguyen et.al|[paper](https://arxiv.org/abs/2606.31875)|-|-|
+|**2026-6-29**|**PA-VAD: Diffusion-Based Pseudo-Only Video Anomaly Detection via Domain-Aligned Memory Updates**|Satoshi Hashimoto et.al|[paper](https://arxiv.org/abs/2512.06845)|-|<details><summary>detail</summary>ECCV 2026</details>|
+|**2026-6-29**|**Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions**|Chad Weatherly et.al|[paper](https://arxiv.org/abs/2605.24251)|-|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-6-29**|**Node-to-Neighborhood Semantic Consistency: Text-Topology Alignment for TAGs Anomaly Detection**|Bochen Lin et.al|[paper](https://arxiv.org/abs/2606.30009)|-|-|
 |**2026-6-28**|**Redefining Maritime Anomaly Detection via Equation-Grounded Synthetic Anomalies**|Youngseok Hwang et.al|[paper](https://arxiv.org/abs/2606.29721)|[code](https://github.com/snudial/open-maritime-anomaly-detection.)|-|
 |**2026-6-28**|**UniVAD v2: Unified Visual Anomaly Detection via Support-Conditioned Boundary Construction**|Zhaopeng Gu et.al|[paper](https://arxiv.org/abs/2606.29714)|-|-|
@@ -95,9 +98,6 @@
 |**2026-6-23**|**Hypergraph Normal World Models for Logical Visual Anomaly Detection**|Weizhi Nie et.al|[paper](https://arxiv.org/abs/2606.25368)|-|-|
 |**2026-6-23**|**CoGeoAD: Hierarchical Color-Geometric Fusion with Multi-View Attention for Zero-Shot 3D Anomaly Detection**|Ke Xu et.al|[paper](https://arxiv.org/abs/2606.25273)|[code](https://github.com/kingdomShu/CoGeoAD.)|<details><summary>detail</summary>ICML 2026</details>|
 |**2026-6-23**|**DDStereo: Efficient Dual Decoder Transformers for Stereo 3D Road Anomaly Detection**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2606.24805)|-|-|
-|**2026-6-23**|**Rethinking Structural Anomaly Detection: From Decision Boundaries to Projection Operators**|Alexander Bauer et.al|[paper](https://arxiv.org/abs/2606.15280)|-|-|
-|**2026-6-23**|**MATCH: Flow Matching for Multi-View Anomaly Detection**|Mathis Kruse et.al|[paper](https://arxiv.org/abs/2606.24375)|-|<details><summary>detail</summary>ECCV 2026</details>|
-|**2026-6-22**|**MambaADv2: Evolving Duality-enhanced State Space Model for Unsupervised Anomaly Detection**|Xiaobin Hu et.al|[paper](https://arxiv.org/abs/2606.23126)|-|-|
 
 ## 3D Anomaly Detection
 
