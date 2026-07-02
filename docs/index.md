@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.07.01
+## Updated on 2026.07.02
 
 ## Defect Detection
 
@@ -73,6 +73,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-1**|**Detecting the Undetectable: Enhancing Unsupervised time series Anomaly Detection via Active Learning**|Seung Hun Han et.al|[paper](https://arxiv.org/abs/2607.00720)|-|-|
+|**2026-7-1**|**PaAno: Patch-Based Representation Learning for Time-Series Anomaly Detection**|Jinju Park et.al|[paper](https://arxiv.org/abs/2602.01359)|-|<details><summary>detail</summary>Accepted by the 14th International Conference on Learning Representations (ICLR 2026)</details>|
 |**2026-6-30**|**SENSE-VAD: Sentient and Semantic Video Anomaly Detection for Autonomous Driving**|Nghia T. Nguyen et.al|[paper](https://arxiv.org/abs/2606.31875)|-|-|
 |**2026-6-29**|**PA-VAD: Diffusion-Based Pseudo-Only Video Anomaly Detection via Domain-Aligned Memory Updates**|Satoshi Hashimoto et.al|[paper](https://arxiv.org/abs/2512.06845)|-|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-6-29**|**Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions**|Chad Weatherly et.al|[paper](https://arxiv.org/abs/2605.24251)|-|<details><summary>detail</summary>ECCV 2026</details>|
@@ -96,8 +98,6 @@
 |**2026-6-24**|**Point Cloud Diffusion with Global and Local Reconstruction for Instance-Level 3D Anomaly Detection**|Linchun Wu et.al|[paper](https://arxiv.org/abs/2606.25740)|-|-|
 |**2026-6-24**|**CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection**|Junhao Cai et.al|[paper](https://arxiv.org/abs/2606.20300)|[code](https://github.com/Junhaocai27/CMDS-AD)|<details><summary>detail</summary>ECCV 2026! Project page: https://cmds-ad</details>|
 |**2026-6-23**|**Hypergraph Normal World Models for Logical Visual Anomaly Detection**|Weizhi Nie et.al|[paper](https://arxiv.org/abs/2606.25368)|-|-|
-|**2026-6-23**|**CoGeoAD: Hierarchical Color-Geometric Fusion with Multi-View Attention for Zero-Shot 3D Anomaly Detection**|Ke Xu et.al|[paper](https://arxiv.org/abs/2606.25273)|[code](https://github.com/kingdomShu/CoGeoAD.)|<details><summary>detail</summary>ICML 2026</details>|
-|**2026-6-23**|**DDStereo: Efficient Dual Decoder Transformers for Stereo 3D Road Anomaly Detection**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2606.24805)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-30**|**UniSVQ: 2-bit Unified Scalar-Vector Quantization**|Haoyu Wang et.al|[paper](https://arxiv.org/abs/2606.10520)|[code](https://github.com/AI9Stars/UniSVQ.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
+|**2026-6-30**|**LC-QAT: Data-Efficient 2-Bit QAT for LLMs via Linear-Constrained Vector Quantization**|Haoyu Wang et.al|[paper](https://arxiv.org/abs/2606.10531)|[code](https://github.com/AI9Stars/UniSVQ.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
 |**2026-6-21**|**LVQAC: Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression**|Xi Zhang et.al|[paper](https://arxiv.org/abs/2304.12319)|[code](https://github.com/xzhang9308/LVQAC.)|<details><summary>detail</summary>Accepted by CVPR 2023</details>|
 |**2026-6-19**|**VQActFlow: Vector-Quantized Action Mode Steering for Multi-Task Robot Manipulation**|Zhigen Zhao et.al|[paper](https://arxiv.org/abs/2606.21600)|-|-|
 |**2026-6-19**|**Fast-TurboQuant: A Multiplier-Free Online Vector Quantization Approach**|Pedro M. R. Pereira et.al|[paper](https://arxiv.org/abs/2606.21448)|-|-|
@@ -171,8 +173,6 @@
 |**2026-6-9**|**ViP-VL: Vietnamese Self-supervised Speech Pretraining Model with Vector-Quantization Learning**|Khanh Le et.al|[paper](https://arxiv.org/abs/2606.10360)|-|<details><summary>detail</summary>INTERSPEECH 2026</details>|
 |**2026-6-9**|**Vector Quantized Latent Concepts: A Scalable Alternative to Clustering-Based Concept Discovery**|Xuemin Yu et.al|[paper](https://arxiv.org/abs/2602.02726)|-|-|
 |**2026-6-9**|**NSVQ: Mitigating Codebook Collapse by Stabilizing Encoder Drift in Vector Quantization**|Hao Lu et.al|[paper](https://arxiv.org/abs/2606.11363)|-|-|
-|**2026-6-9**|**LC-QAT: Data-Efficient 2-Bit QAT for LLMs via Linear-Constrained Vector Quantization**|Haoyu Wang et.al|[paper](https://arxiv.org/abs/2606.10531)|-|<details><summary>detail</summary>Accepted by ICML 2026</details>|
-|**2026-6-9**|**UniSVQ: 2-bit Unified Scalar-Vector Quantization**|Haoyu Wang et.al|[paper](https://arxiv.org/abs/2606.10520)|-|<details><summary>detail</summary>Accepted by ICML 2026</details>|
 |**2026-6-5**|**ASH: Asymmetric Scalar Hashing With Learned Dimensionality Reduction for High-Fidelity Vector Quantization**|Mariano Tepper et.al|[paper](https://arxiv.org/abs/2606.07870)|-|-|
 |**2026-6-3**|**RAVQ-HoloNet: Rate-Adaptive Vector-Quantized Hologram Compression**|Shima Rafiei et.al|[paper](https://arxiv.org/abs/2511.21035)|-|-|
 |**2026-6-1**|**Channel-wise Vector Quantization**|Wei Song et.al|[paper](https://arxiv.org/abs/2605.26089)|-|-|
