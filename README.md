@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.07.06
+## Updated on 2026.07.07
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-6**|**ICME 2026 Grand Challenge on Cross-Scenario Defect Detection and Fine-Grained Severity Grading for High-Precision Manufacturing**|Wei Sun et.al|[paper](https://arxiv.org/abs/2607.04675)|-|-|
 |**2026-7-2**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|<details><summary>detail</summary>Journal ref:European Conference on Computer Vision (ECCV 2026)</details>|
 |**2026-7-1**|**Morphology-Aware Sample Assignment: Overcoming IoU Insensitivity for Surface Defect Detection**|Pengfei Liu et.al|[paper](https://arxiv.org/abs/2606.13723)|-|-|
 |**2026-6-23**|**An Integrated Hardware-Software Design for Low-Data Spatial Defect Detection in Robotic Visual Inspection with Hybrid Optoelectronic Neural Networks**|Chaoqing Tang et.al|[paper](https://arxiv.org/abs/2606.25277)|-|-|
@@ -37,7 +38,6 @@
 |**2026-5-9**|**Micro-Defects Expose Macro-Fakes: Detecting AI-Generated Images via Local Distributional Shifts**|Boxuan Zhang et.al|[paper](https://arxiv.org/abs/2605.09296)|[code](https://zbox1005.github.io/MDMF-project/)|-|
 |**2026-5-9**|**Contour-Native Bridge Defect Detection and Compact Digital Archiving with Frequency-Supervised Fourier Contours**|Jin Liu et.al|[paper](https://arxiv.org/abs/2605.08781)|-|-|
 |**2026-5-3**|**Application Research of a Deep Learning Model Integrating CycleGAN and YOLO in PCB Infrared Defect Detection**|Chao Yang et.al|[paper](https://arxiv.org/abs/2601.00237)|-|<details><summary>detail</summary>Authors have conflict of interest</details>|
-|**2026-5-1**|**Event-based Civil Infrastructure Visual Defect Detection: ev-CIVIL Dataset and Benchmark**|Udayanga G. W. K. N. Gamage et.al|[paper](https://arxiv.org/abs/2504.05679)|-|<details><summary>detail</summary>Accepted version of the journal paper published in Sage Structural health monitoring journa and it is under review currently</details>|
 
 ## Defect Segmentation
 
@@ -73,6 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-6**|**Quantum Spectral Anomaly Detection**|Yewei Yuan et.al|[paper](https://arxiv.org/abs/2607.05307)|-|-|
+|**2026-7-6**|**ProCon: Projection-Consistency Memory for Training-Free Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2607.04894)|[code](https://github.com/jw-chae/Procon)|-|
+|**2026-7-4**|**Global Logic and Local Search: Dual-Stream Multimodal In-Context Learning for Verifiable Industrial Anomaly Detection**|Runzhi Deng et.al|[paper](https://arxiv.org/abs/2607.03817)|-|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
+|**2026-7-4**|**Diverse Normal Prototypes-Guided Contrastive Reconstruction for Medical Anomaly Detection**|Luhu Li et.al|[paper](https://arxiv.org/abs/2508.19573)|[code](https://github.com/liluhu0/DNP-ConFormer.)|<details><summary>detail</summary>MICCAI 2026</details>|
+|**2026-7-3**|**LogSemFuse: Semantic Evidence Fusion for Explainable Log Anomaly Detection**|Hassan Jabri et.al|[paper](https://arxiv.org/abs/2607.03599)|-|-|
+|**2026-7-2**|**CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection**|Wen Dong et.al|[paper](https://arxiv.org/abs/2607.02930)|[code](https://github.com/WenDongyp/CL-Anomaly.)|-|
 |**2026-7-2**|**ArcAD: Anomaly-Rectified Calibration for Cold-Start Supervised Anomaly Detection**|Ningning Han et.al|[paper](https://arxiv.org/abs/2607.02252)|[code](https://github.com/LGC-AD/ArcAD.)|<details><summary>detail</summary>European Conference on Computer Vision (ECCV) 2026</details>|
 |**2026-7-2**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|<details><summary>detail</summary>Journal ref:European Conference on Computer Vision (ECCV 2026)</details>|
 |**2026-7-2**|**Fast and Accurate Anomaly Detection in Time Series**|Emanuele Mele et.al|[paper](https://arxiv.org/abs/2607.02046)|-|-|
@@ -92,12 +98,6 @@
 |**2026-6-27**|**Anomaly Factory 3D: A Modular Framework for Diverse Pseudo-Anomaly Synthesis in Unsupervised 3D Anomaly Detection**|Ali Balapour et.al|[paper](https://arxiv.org/abs/2606.29181)|-|-|
 |**2026-6-27**|**RGLD: Randomized Global-Local Density Estimation for Tabular Anomaly Detection**|Quanling Zhao et.al|[paper](https://arxiv.org/abs/2606.28970)|-|-|
 |**2026-6-27**|**Towards Improved Anomaly Detection for Cloud Cybersecurity via Graph Neural Networks**|Manu Nandan et.al|[paper](https://arxiv.org/abs/2606.28923)|-|<details><summary>detail</summary>to appear in the 5'th Workshop on Rethinking Malware Analysis (WoRMA)</details>|
-|**2026-6-27**|**Towards Modality-Agnostic Medical Image Anomaly Detection: A Training-Free Manifold Refinement Approach**|Pritam Kar et.al|[paper](https://arxiv.org/abs/2604.19191)|-|-|
-|**2026-6-26**|**LogiCo: A Unified Framework for Logical and Structural Anomaly Detection**|Ximiao Zhang et.al|[paper](https://arxiv.org/abs/2606.28688)|[code](https://github.com/cnulab/LogiCo.)|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
-|**2026-6-26**|**An Agentic AI Pipeline for Appliance-Level Energy Anomaly Detection and LLM-Driven Recommendations**|Dihia Falouz et.al|[paper](https://arxiv.org/abs/2606.28467)|-|-|
-|**2026-6-25**|**Towards Video Anomaly Detection from Event Streams: A Baseline and Benchmark Datasets**|Peng Wu et.al|[paper](https://arxiv.org/abs/2603.24991)|-|-|
-|**2026-6-25**|**Compression-Driven Anomaly Detection in Brain MRI Using an Interpretable Quantum Autoencoder**|Santanu Ganguly et.al|[paper](https://arxiv.org/abs/2606.27411)|-|-|
-|**2026-6-25**|**Digital Twin-Driven Communication-Efficient Federated Anomaly Detection for Industrial IoT**|Mohammed Ayalew Belay et.al|[paper](https://arxiv.org/abs/2601.01701)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -133,6 +133,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-4**|**Global Logic and Local Search: Dual-Stream Multimodal In-Context Learning for Verifiable Industrial Anomaly Detection**|Runzhi Deng et.al|[paper](https://arxiv.org/abs/2607.03817)|-|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
+|**2026-7-2**|**CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection**|Wen Dong et.al|[paper](https://arxiv.org/abs/2607.02930)|[code](https://github.com/WenDongyp/CL-Anomaly.)|-|
 |**2026-5-31**|**AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection**|Junru Zhang et.al|[paper](https://arxiv.org/abs/2602.08868)|-|<details><summary>detail</summary>ICML 2026</details>|
 |**2026-5-18**|**Are Multimodal LLMs Ready for Surveillance? A Reality Check on Zero-Shot Anomaly Detection in the Wild**|Shanle Yao et.al|[paper](https://arxiv.org/abs/2603.04727)|-|-|
 |**2026-5-18**|**UTOPYA: A Multimodal Deep Learning Framework for Physics-Informed Anomaly Detection and Time-Series Prediction**|Robson W. S. Pessoa et.al|[paper](https://arxiv.org/abs/2605.18188)|-|-|
@@ -156,8 +158,6 @@
 |**2026-2-26**|**Leveraging Multimodal LLM Descriptions of Activity for Explainable Semi-Supervised Video Anomaly Detection**|Furkan Mumcu et.al|[paper](https://arxiv.org/abs/2510.14896)|-|-|
 |**2026-2-17**|**Can Multimodal LLMs Perform Time Series Anomaly Detection?**|Xiongxiao Xu et.al|[paper](https://arxiv.org/abs/2502.17812)|-|<details><summary>detail</summary>ACM Web Conference 2026 (WWW'26)</details>|
 |**2026-2-11**|**Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guidance**|Shengyang Sun et.al|[paper](https://arxiv.org/abs/2602.10549)|-|<details><summary>detail</summary>Accepted by IEEE Transactions on Multimedia</details>|
-|**2026-1-22**|**VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection**|Yuxin Jiang et.al|[paper](https://arxiv.org/abs/2601.16381)|-|-|
-|**2026-1-20**|**Physic-HM: Restoring Physical Generative Logic in Multimodal Anomaly Detection via Hierarchical Modulation**|Xiao Liu et.al|[paper](https://arxiv.org/abs/2512.21650)|-|<details><summary>detail</summary>Working in progress</details>|
 
 ## Vector Quantization
 
