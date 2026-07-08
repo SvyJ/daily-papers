@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.07.07
+## Updated on 2026.07.08
 
 ## Defect Detection
 
@@ -73,6 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-7**|**Tuned Reverse Distillation: Enhancing Multimodal Industrial Anomaly Detection with Crossmodal Tuners**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2412.08949)|[code](https://github.com/hito2448/TRD.)|<details><summary>detail</summary>Accepted by TMM</details>|
+|**2026-7-7**|**Modeling Normal Is All You Need: Joint Latent Clustering for Anomaly Detection in Multimodal Cyber-Physical Systems**|Alexander Apartsin et.al|[paper](https://arxiv.org/abs/2607.06094)|-|-|
+|**2026-7-7**|**MSCENet: A Multi-Scale Correlation Enhanced Network for Anomaly Detection**|Long Zhao et.al|[paper](https://arxiv.org/abs/2607.05864)|-|-|
+|**2026-7-7**|**Unsupervised Anomaly Detection of Information Operations Users via Behavioral and Language Patterns**|Sishun Liu et.al|[paper](https://arxiv.org/abs/2607.05855)|[code](https://github.com/xiuzhenzhang/TENSOR.)|<details><summary>detail</summary>ECML/PKDD 2026</details>|
+|**2026-7-6**|**DDStereo: Efficient Dual Decoder Transformers for Stereo 3D Road Anomaly Detection**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2606.24805)|[code](https://github.com/shiyi-mu/DDStereo.)|<details><summary>detail</summary>Accepted by ECCV2026</details>|
 |**2026-7-6**|**Quantum Spectral Anomaly Detection**|Yewei Yuan et.al|[paper](https://arxiv.org/abs/2607.05307)|-|-|
 |**2026-7-6**|**ProCon: Projection-Consistency Memory for Training-Free Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2607.04894)|[code](https://github.com/jw-chae/Procon)|-|
 |**2026-7-4**|**Global Logic and Local Search: Dual-Stream Multimodal In-Context Learning for Verifiable Industrial Anomaly Detection**|Runzhi Deng et.al|[paper](https://arxiv.org/abs/2607.03817)|-|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
@@ -93,20 +98,15 @@
 |**2026-6-28**|**Redefining Maritime Anomaly Detection via Equation-Grounded Synthetic Anomalies**|Youngseok Hwang et.al|[paper](https://arxiv.org/abs/2606.29721)|[code](https://github.com/snudial/open-maritime-anomaly-detection.)|-|
 |**2026-6-28**|**UniVAD v2: Unified Visual Anomaly Detection via Support-Conditioned Boundary Construction**|Zhaopeng Gu et.al|[paper](https://arxiv.org/abs/2606.29714)|-|-|
 |**2026-6-28**|**Benchmark AUC Is Not Deployable Reliability: A Cross-Dataset Audit of Off-the-Shelf Features for Surveillance Video Anomaly Detection**|Mohammadreza Rashidi et.al|[paper](https://arxiv.org/abs/2606.29506)|-|-|
-|**2026-6-28**|**Learning Where and When: Patch-Based Spatiotemporal Localization in Weakly Supervised Video Anomaly Detection**|Hamza Karim et.al|[paper](https://arxiv.org/abs/2606.29498)|-|-|
-|**2026-6-28**|**Robust Zero-shot Anomaly Detection under Limited Auxiliary Anomaly Priors**|Guanyu Lu et.al|[paper](https://arxiv.org/abs/2606.29428)|-|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
-|**2026-6-27**|**Anomaly Factory 3D: A Modular Framework for Diverse Pseudo-Anomaly Synthesis in Unsupervised 3D Anomaly Detection**|Ali Balapour et.al|[paper](https://arxiv.org/abs/2606.29181)|-|-|
-|**2026-6-27**|**RGLD: Randomized Global-Local Density Estimation for Tabular Anomaly Detection**|Quanling Zhao et.al|[paper](https://arxiv.org/abs/2606.28970)|-|-|
-|**2026-6-27**|**Towards Improved Anomaly Detection for Cloud Cybersecurity via Graph Neural Networks**|Manu Nandan et.al|[paper](https://arxiv.org/abs/2606.28923)|-|<details><summary>detail</summary>to appear in the 5'th Workshop on Rethinking Malware Analysis (WoRMA)</details>|
 
 ## 3D Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-6**|**DDStereo: Efficient Dual Decoder Transformers for Stereo 3D Road Anomaly Detection**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2606.24805)|[code](https://github.com/shiyi-mu/DDStereo.)|<details><summary>detail</summary>Accepted by ECCV2026</details>|
 |**2026-6-27**|**Anomaly Factory 3D: A Modular Framework for Diverse Pseudo-Anomaly Synthesis in Unsupervised 3D Anomaly Detection**|Ali Balapour et.al|[paper](https://arxiv.org/abs/2606.29181)|-|-|
 |**2026-6-24**|**Point Cloud Diffusion with Global and Local Reconstruction for Instance-Level 3D Anomaly Detection**|Linchun Wu et.al|[paper](https://arxiv.org/abs/2606.25740)|-|-|
 |**2026-6-23**|**CoGeoAD: Hierarchical Color-Geometric Fusion with Multi-View Attention for Zero-Shot 3D Anomaly Detection**|Ke Xu et.al|[paper](https://arxiv.org/abs/2606.25273)|[code](https://github.com/kingdomShu/CoGeoAD.)|<details><summary>detail</summary>ICML 2026</details>|
-|**2026-6-23**|**DDStereo: Efficient Dual Decoder Transformers for Stereo 3D Road Anomaly Detection**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2606.24805)|-|-|
 |**2026-6-17**|**Toward Training-Free Zero-Shot Anomaly Detection in 3D Medical Images: A Batch-Based Approach Using 2D Foundation Models**|Tai Le-Gia et.al|[paper](https://arxiv.org/abs/2606.18749)|-|<details><summary>detail</summary>ACM Class:I</details>|
 |**2026-6-8**|**Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection**|Kaiqiang Li et.al|[paper](https://arxiv.org/abs/2603.21511)|[code](https://github.com/wistful-8029/BTP-3DAD)|<details><summary>detail</summary>Corrected several numerical entries due to a reporting error</details>|
 |**2026-6-5**|**Automated 3D Kinematic Monitoring for Circadian Activity and Anomaly Detection in Juvenile Fish**|Chih-Wei Huang et.al|[paper](https://arxiv.org/abs/2606.14749)|-|-|
@@ -133,6 +133,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-7**|**Tuned Reverse Distillation: Enhancing Multimodal Industrial Anomaly Detection with Crossmodal Tuners**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2412.08949)|[code](https://github.com/hito2448/TRD.)|<details><summary>detail</summary>Accepted by TMM</details>|
+|**2026-7-7**|**Modeling Normal Is All You Need: Joint Latent Clustering for Anomaly Detection in Multimodal Cyber-Physical Systems**|Alexander Apartsin et.al|[paper](https://arxiv.org/abs/2607.06094)|-|-|
 |**2026-7-4**|**Global Logic and Local Search: Dual-Stream Multimodal In-Context Learning for Verifiable Industrial Anomaly Detection**|Runzhi Deng et.al|[paper](https://arxiv.org/abs/2607.03817)|-|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
 |**2026-7-2**|**CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection**|Wen Dong et.al|[paper](https://arxiv.org/abs/2607.02930)|[code](https://github.com/WenDongyp/CL-Anomaly.)|-|
 |**2026-5-31**|**AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection**|Junru Zhang et.al|[paper](https://arxiv.org/abs/2602.08868)|-|<details><summary>detail</summary>ICML 2026</details>|
@@ -156,13 +158,12 @@
 |**2026-3-4**|**Cross-Modal Mapping and Dual-Branch Reconstruction for 2D-3D Multimodal Industrial Anomaly Detection**|Radia Daci et.al|[paper](https://arxiv.org/abs/2603.03939)|[code](https://github.com/ECGAI-Research/CMDR-IAD/)|-|
 |**2026-3-3**|**Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective**|Kaifang Long et.al|[paper](https://arxiv.org/abs/2603.02629)|-|-|
 |**2026-2-26**|**Leveraging Multimodal LLM Descriptions of Activity for Explainable Semi-Supervised Video Anomaly Detection**|Furkan Mumcu et.al|[paper](https://arxiv.org/abs/2510.14896)|-|-|
-|**2026-2-17**|**Can Multimodal LLMs Perform Time Series Anomaly Detection?**|Xiongxiao Xu et.al|[paper](https://arxiv.org/abs/2502.17812)|-|<details><summary>detail</summary>ACM Web Conference 2026 (WWW'26)</details>|
-|**2026-2-11**|**Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guidance**|Shengyang Sun et.al|[paper](https://arxiv.org/abs/2602.10549)|-|<details><summary>detail</summary>Accepted by IEEE Transactions on Multimedia</details>|
 
 ## Vector Quantization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-7**|**Leech Lattice Vector Quantization for Efficient LLM Compression**|Tycho F. A. van der Ouderaa et.al|[paper](https://arxiv.org/abs/2603.11021)|-|-|
 |**2026-7-2**|**Sparse-Aware Vector Quantization for Bandwidth-Efficient Collaborative 3D Semantic Occupancy Prediction**|Feng Li et.al|[paper](https://arxiv.org/abs/2607.01928)|-|<details><summary>detail</summary>Accepted by ECCV26</details>|
 |**2026-6-30**|**UniSVQ: 2-bit Unified Scalar-Vector Quantization**|Haoyu Wang et.al|[paper](https://arxiv.org/abs/2606.10520)|[code](https://github.com/AI9Stars/UniSVQ.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
 |**2026-6-30**|**LC-QAT: Data-Efficient 2-Bit QAT for LLMs via Linear-Constrained Vector Quantization**|Haoyu Wang et.al|[paper](https://arxiv.org/abs/2606.10531)|[code](https://github.com/AI9Stars/UniSVQ.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
@@ -187,5 +188,4 @@
 |**2026-5-22**|**ProGIC: Progressive and Lightweight Generative Image Compression with Residual Vector Quantization**|Hao Cao et.al|[paper](https://arxiv.org/abs/2603.02897)|-|<details><summary>detail</summary>Accepted by CVPR 2026 Findings</details>|
 |**2026-5-20**|**Divide et Calibra: Multiclass Local Calibration via Vector Quantization**|Cesare Barbera et.al|[paper](https://arxiv.org/abs/2605.21060)|-|-|
 |**2026-5-20**|**MGVQ: Synergizing Multi-dimensional Sensitivity-Aware and Gradient-Hessian Fusion for Vector Quantization**|Zhong Wang et.al|[paper](https://arxiv.org/abs/2605.24019)|-|-|
-|**2026-5-19**|**Improving 3D Gaussian Splatting Compression by Scene-Adaptive Lattice Vector Quantization**|Hao Xu et.al|[paper](https://arxiv.org/abs/2509.13482)|[code](https://github.com/hxu160/SALVQ)|<details><summary>detail</summary>Accepted by IEEE TIP</details>|
 
