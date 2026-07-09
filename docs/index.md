@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.07.08
+## Updated on 2026.07.09
 
 ## Defect Detection
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-8**|**Toward Deployable Satellite Anomaly Detection: A Benchmark Study on Large-Scale ESA-ADB Telemetry**|Andrea Nguyen et.al|[paper](https://arxiv.org/abs/2607.07335)|-|-|
+|**2026-7-8**|**Anomaly detection in time-series via inductive biases in the latent space of conditional normalizing flows**|David Baumgartner et.al|[paper](https://arxiv.org/abs/2603.11756)|-|-|
+|**2026-7-8**|**Kick Bad Guys Out! Conditionally Activated Anomaly Detection in Federated Learning with Zero-Knowledge Proof Verification**|Shanshan Han et.al|[paper](https://arxiv.org/abs/2310.04055)|-|-|
+|**2026-7-8**|**Cyber Dynamics I: Finite Macrostates for Behavioral Anomaly Detection in Network Telemetry**|Abdul Rahman et.al|[paper](https://arxiv.org/abs/2607.07075)|-|-|
 |**2026-7-7**|**Tuned Reverse Distillation: Enhancing Multimodal Industrial Anomaly Detection with Crossmodal Tuners**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2412.08949)|[code](https://github.com/hito2448/TRD.)|<details><summary>detail</summary>Accepted by TMM</details>|
 |**2026-7-7**|**Modeling Normal Is All You Need: Joint Latent Clustering for Anomaly Detection in Multimodal Cyber-Physical Systems**|Alexander Apartsin et.al|[paper](https://arxiv.org/abs/2607.06094)|-|-|
 |**2026-7-7**|**MSCENet: A Multi-Scale Correlation Enhanced Network for Anomaly Detection**|Long Zhao et.al|[paper](https://arxiv.org/abs/2607.05864)|-|-|
@@ -94,10 +98,6 @@
 |**2026-6-30**|**SENSE-VAD: Sentient and Semantic Video Anomaly Detection for Autonomous Driving**|Nghia T. Nguyen et.al|[paper](https://arxiv.org/abs/2606.31875)|-|-|
 |**2026-6-29**|**PA-VAD: Diffusion-Based Pseudo-Only Video Anomaly Detection via Domain-Aligned Memory Updates**|Satoshi Hashimoto et.al|[paper](https://arxiv.org/abs/2512.06845)|-|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-6-29**|**Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions**|Chad Weatherly et.al|[paper](https://arxiv.org/abs/2605.24251)|-|<details><summary>detail</summary>ECCV 2026</details>|
-|**2026-6-29**|**Node-to-Neighborhood Semantic Consistency: Text-Topology Alignment for TAGs Anomaly Detection**|Bochen Lin et.al|[paper](https://arxiv.org/abs/2606.30009)|-|-|
-|**2026-6-28**|**Redefining Maritime Anomaly Detection via Equation-Grounded Synthetic Anomalies**|Youngseok Hwang et.al|[paper](https://arxiv.org/abs/2606.29721)|[code](https://github.com/snudial/open-maritime-anomaly-detection.)|-|
-|**2026-6-28**|**UniVAD v2: Unified Visual Anomaly Detection via Support-Conditioned Boundary Construction**|Zhaopeng Gu et.al|[paper](https://arxiv.org/abs/2606.29714)|-|-|
-|**2026-6-28**|**Benchmark AUC Is Not Deployable Reliability: A Cross-Dataset Audit of Off-the-Shelf Features for Surveillance Video Anomaly Detection**|Mohammadreza Rashidi et.al|[paper](https://arxiv.org/abs/2606.29506)|-|-|
 
 ## 3D Anomaly Detection
 
