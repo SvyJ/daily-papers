@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.07.09
+## Updated on 2026.07.10
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-9**|**CAAD: Causality-Aware Multivariate Time Series Anomaly Detection via Multi-Scale Alignment and Structural Causal Consistency**|Xin Wang et.al|[paper](https://arxiv.org/abs/2607.08555)|-|<details><summary>detail</summary>KDD 2026 (Research Track)</details>|
+|**2026-7-9**|**Self-Adaptive Anomaly Detection with Reinforcement Learning and Human Feedback in Connected Vehicles**|Matthias Weiß et.al|[paper](https://arxiv.org/abs/2607.08373)|-|<details><summary>detail</summary>the 30th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA 2026)</details>|
+|**2026-7-9**|**DeCoFlow: Structural Decomposition of Normalizing Flows for Continual Anomaly Detection**|Hun Im et.al|[paper](https://arxiv.org/abs/2606.26687)|-|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-7-8**|**Toward Deployable Satellite Anomaly Detection: A Benchmark Study on Large-Scale ESA-ADB Telemetry**|Andrea Nguyen et.al|[paper](https://arxiv.org/abs/2607.07335)|-|-|
 |**2026-7-8**|**Anomaly detection in time-series via inductive biases in the latent space of conditional normalizing flows**|David Baumgartner et.al|[paper](https://arxiv.org/abs/2603.11756)|-|-|
 |**2026-7-8**|**Kick Bad Guys Out! Conditionally Activated Anomaly Detection in Federated Learning with Zero-Knowledge Proof Verification**|Shanshan Han et.al|[paper](https://arxiv.org/abs/2310.04055)|-|-|
@@ -95,9 +98,6 @@
 |**2026-7-2**|**LiZAD: A Lightweight Zero-Shot Anomaly Detection Framework for Industrial Manufacturing**|Uzair Khan et.al|[paper](https://arxiv.org/abs/2607.01949)|[code](https://github.com/intelligolabs/LiZAD.)|<details><summary>detail</summary>the IEEE International Conference on Omni-Layer Intelligent Systems (COINS) 2026</details>|
 |**2026-7-1**|**Detecting the Undetectable: Enhancing Unsupervised time series Anomaly Detection via Active Learning**|Seung Hun Han et.al|[paper](https://arxiv.org/abs/2607.00720)|-|-|
 |**2026-7-1**|**PaAno: Patch-Based Representation Learning for Time-Series Anomaly Detection**|Jinju Park et.al|[paper](https://arxiv.org/abs/2602.01359)|-|<details><summary>detail</summary>Accepted by the 14th International Conference on Learning Representations (ICLR 2026)</details>|
-|**2026-6-30**|**SENSE-VAD: Sentient and Semantic Video Anomaly Detection for Autonomous Driving**|Nghia T. Nguyen et.al|[paper](https://arxiv.org/abs/2606.31875)|-|-|
-|**2026-6-29**|**PA-VAD: Diffusion-Based Pseudo-Only Video Anomaly Detection via Domain-Aligned Memory Updates**|Satoshi Hashimoto et.al|[paper](https://arxiv.org/abs/2512.06845)|-|<details><summary>detail</summary>ECCV 2026</details>|
-|**2026-6-29**|**Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions**|Chad Weatherly et.al|[paper](https://arxiv.org/abs/2605.24251)|-|<details><summary>detail</summary>ECCV 2026</details>|
 
 ## 3D Anomaly Detection
 
