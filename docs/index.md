@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.07.12
+## Updated on 2026.07.13
 
 ## Defect Detection
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-10**|**Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection**|Cláudio Lúcio do Val Lopes et.al|[paper](https://arxiv.org/abs/2607.09641)|-|<details><summary>detail</summary>BRACIS 2026 - 36th Brazilian Conference on Intelligent Systems</details>|
+|**2026-7-10**|**AutoGraphAD: Unsupervised network anomaly detection using Variational Graph Autoencoders**|Georgios Anyfantis et.al|[paper](https://arxiv.org/abs/2511.17113)|-|-|
+|**2026-7-10**|**Event Stream based Multi-Modal Video Anomaly Detection: A Benchmark Dataset and Algorithms**|Peipei Zhu et.al|[paper](https://arxiv.org/abs/2607.09114)|-|-|
+|**2026-7-9**|**Federated Low-Rank Koopman Learning for Multivariate Time-Series Anomaly Detection in IoT Systems**|Tung-Anh Nguyen et.al|[paper](https://arxiv.org/abs/2607.08978)|-|-|
 |**2026-7-9**|**CAAD: Causality-Aware Multivariate Time Series Anomaly Detection via Multi-Scale Alignment and Structural Causal Consistency**|Xin Wang et.al|[paper](https://arxiv.org/abs/2607.08555)|-|<details><summary>detail</summary>KDD 2026 (Research Track)</details>|
 |**2026-7-9**|**Self-Adaptive Anomaly Detection with Reinforcement Learning and Human Feedback in Connected Vehicles**|Matthias Weiß et.al|[paper](https://arxiv.org/abs/2607.08373)|-|<details><summary>detail</summary>the 30th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA 2026)</details>|
 |**2026-7-9**|**DeCoFlow: Structural Decomposition of Normalizing Flows for Continual Anomaly Detection**|Hun Im et.al|[paper](https://arxiv.org/abs/2606.26687)|-|<details><summary>detail</summary>ECCV 2026</details>|
@@ -94,10 +98,6 @@
 |**2026-7-2**|**ArcAD: Anomaly-Rectified Calibration for Cold-Start Supervised Anomaly Detection**|Ningning Han et.al|[paper](https://arxiv.org/abs/2607.02252)|[code](https://github.com/LGC-AD/ArcAD.)|<details><summary>detail</summary>European Conference on Computer Vision (ECCV) 2026</details>|
 |**2026-7-2**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|<details><summary>detail</summary>Journal ref:European Conference on Computer Vision (ECCV 2026)</details>|
 |**2026-7-2**|**Fast and Accurate Anomaly Detection in Time Series**|Emanuele Mele et.al|[paper](https://arxiv.org/abs/2607.02046)|-|-|
-|**2026-7-2**|**LEFT: Learnable Fusion of Tri-view Tokens for Unsupervised Time Series Anomaly Detection**|Dezheng Wang et.al|[paper](https://arxiv.org/abs/2602.08638)|-|<details><summary>detail</summary>ACM Class:I</details>|
-|**2026-7-2**|**LiZAD: A Lightweight Zero-Shot Anomaly Detection Framework for Industrial Manufacturing**|Uzair Khan et.al|[paper](https://arxiv.org/abs/2607.01949)|[code](https://github.com/intelligolabs/LiZAD.)|<details><summary>detail</summary>the IEEE International Conference on Omni-Layer Intelligent Systems (COINS) 2026</details>|
-|**2026-7-1**|**Detecting the Undetectable: Enhancing Unsupervised time series Anomaly Detection via Active Learning**|Seung Hun Han et.al|[paper](https://arxiv.org/abs/2607.00720)|-|-|
-|**2026-7-1**|**PaAno: Patch-Based Representation Learning for Time-Series Anomaly Detection**|Jinju Park et.al|[paper](https://arxiv.org/abs/2602.01359)|-|<details><summary>detail</summary>Accepted by the 14th International Conference on Learning Representations (ICLR 2026)</details>|
 
 ## 3D Anomaly Detection
 
