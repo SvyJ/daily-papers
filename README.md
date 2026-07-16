@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.07.15
+## Updated on 2026.07.16
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-15**|**RF Spectrogram Anomaly Detection with Quantum Kitchen Sinks: Architecture, Representation, and Hardware Validation**|Abdallah Aaraba et.al|[paper](https://arxiv.org/abs/2607.13897)|-|<details><summary>detail</summary>Paper accepted to IEEE quantum week 2026</details>|
+|**2026-7-15**|**M2P-AD: Memory-to-Prototype Learning with Boundary-aware Score Refinement for 3D Anomaly Detection**|Seyoung Jeong et.al|[paper](https://arxiv.org/abs/2607.13499)|-|-|
+|**2026-7-15**|**Explainable Artificial Intelligence for Anomaly Detection in Banking Transactions: An Internal Audit Perspective**|Anupa Lodhi et.al|[paper](https://arxiv.org/abs/2607.13469)|-|-|
 |**2026-7-14**|**Statistical Non-linear Reconstruction Loss for Image Anomaly Detection**|Nguyen Minh Tri et.al|[paper](https://arxiv.org/abs/2607.12866)|[code](https://github.com/mintii13/Statistical-Non-linear-Reconstruction-Loss.git.)|<details><summary>detail</summary>KES 2026</details>|
 |**2026-7-14**|**LARAD: Layout-Aware Road Anomaly Detection via Spatial-Logic Reasoning**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2607.12858)|-|-|
 |**2026-7-14**|**Lightweight Multi-Scale Anomaly Detection for Resource-Constrained Edge Devices**|Raheen Junaid Wani et.al|[paper](https://arxiv.org/abs/2607.12599)|-|-|
@@ -95,14 +98,12 @@
 |**2026-7-8**|**Anomaly detection in time-series via inductive biases in the latent space of conditional normalizing flows**|David Baumgartner et.al|[paper](https://arxiv.org/abs/2603.11756)|-|-|
 |**2026-7-8**|**Kick Bad Guys Out! Conditionally Activated Anomaly Detection in Federated Learning with Zero-Knowledge Proof Verification**|Shanshan Han et.al|[paper](https://arxiv.org/abs/2310.04055)|-|-|
 |**2026-7-8**|**Cyber Dynamics I: Finite Macrostates for Behavioral Anomaly Detection in Network Telemetry**|Abdul Rahman et.al|[paper](https://arxiv.org/abs/2607.07075)|-|-|
-|**2026-7-7**|**Tuned Reverse Distillation: Enhancing Multimodal Industrial Anomaly Detection with Crossmodal Tuners**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2412.08949)|[code](https://github.com/hito2448/TRD.)|<details><summary>detail</summary>Accepted by TMM</details>|
-|**2026-7-7**|**Modeling Normal Is All You Need: Joint Latent Clustering for Anomaly Detection in Multimodal Cyber-Physical Systems**|Alexander Apartsin et.al|[paper](https://arxiv.org/abs/2607.06094)|-|-|
-|**2026-7-7**|**MSCENet: A Multi-Scale Correlation Enhanced Network for Anomaly Detection**|Long Zhao et.al|[paper](https://arxiv.org/abs/2607.05864)|-|-|
 
 ## 3D Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-15**|**M2P-AD: Memory-to-Prototype Learning with Boundary-aware Score Refinement for 3D Anomaly Detection**|Seyoung Jeong et.al|[paper](https://arxiv.org/abs/2607.13499)|-|-|
 |**2026-7-12**|**Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection**|Kaiqiang Li et.al|[paper](https://arxiv.org/abs/2603.21511)|[code](https://github.com/wistful-8029/BTP-3DAD)|<details><summary>detail</summary>CVPR 2026</details>|
 |**2026-7-11**|**Physics-inspired Pseudo Anomaly Generation and Prototype Feature Guidance for 3D Anomaly Detection**|Jian Ning et.al|[paper](https://arxiv.org/abs/2607.10544)|[code](https://github.com/NingxiaoJian/PA3AD.)|-|
 |**2026-7-6**|**DDStereo: Efficient Dual Decoder Transformers for Stereo 3D Road Anomaly Detection**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2606.24805)|[code](https://github.com/shiyi-mu/DDStereo.)|<details><summary>detail</summary>Accepted by ECCV2026</details>|
@@ -127,7 +128,6 @@
 |**2026-2-11**|**DMP-3DAD: Cross-Category 3D Anomaly Detection via Realistic Depth Map Projection with Few Normal Samples**|Zi Wang et.al|[paper](https://arxiv.org/abs/2602.10806)|-|-|
 |**2025-12-15**|**3D Human-Human Interaction Anomaly Detection**|Shun Maeda et.al|[paper](https://arxiv.org/abs/2512.13560)|-|-|
 |**2025-12-14**|**A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2511.13115)|-|<details><summary>detail</summary>Preprint</details>|
-|**2025-11-23**|**PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection**|Qihang Zhou et.al|[paper](https://arxiv.org/abs/2509.03277)|-|<details><summary>detail</summary>Submitted to TPAMI</details>|
 
 ## Multimodal Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-15**|**NSNQuant: A Double Normalization Approach for Calibration-Free Low-Bit Vector Quantization of KV Cache**|Donghyun Son et.al|[paper](https://arxiv.org/abs/2505.18231)|[code](https://github.com/DHdroid/NSNQuant.)|-|
 |**2026-7-14**|**AVQ-Attention: Adaptive Vector-Quantized Attention**|Winfried van den dool et.al|[paper](https://arxiv.org/abs/2607.12789)|-|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-7-7**|**Leech Lattice Vector Quantization for Efficient LLM Compression**|Tycho F. A. van der Ouderaa et.al|[paper](https://arxiv.org/abs/2603.11021)|-|-|
 |**2026-7-2**|**Sparse-Aware Vector Quantization for Bandwidth-Efficient Collaborative 3D Semantic Occupancy Prediction**|Feng Li et.al|[paper](https://arxiv.org/abs/2607.01928)|-|<details><summary>detail</summary>Accepted by ECCV26</details>|
@@ -187,5 +188,4 @@
 |**2026-5-24**|**BandVQ: Band-Wise Vector-Quantized EEG Foundation Model**|Jamiyan Sukhbaatar et.al|[paper](https://arxiv.org/abs/2605.24921)|-|-|
 |**2026-5-22**|**EVA: Accelerating LLM Decoding via an Efficient Vector Quantization Architecture**|Bowen Duan et.al|[paper](https://arxiv.org/abs/2605.24144)|[code](https://github.com/dbw6/Eva.git.)|-|
 |**2026-5-22**|**ProGIC: Progressive and Lightweight Generative Image Compression with Residual Vector Quantization**|Hao Cao et.al|[paper](https://arxiv.org/abs/2603.02897)|-|<details><summary>detail</summary>Accepted by CVPR 2026 Findings</details>|
-|**2026-5-20**|**Divide et Calibra: Multiclass Local Calibration via Vector Quantization**|Cesare Barbera et.al|[paper](https://arxiv.org/abs/2605.21060)|-|-|
 
