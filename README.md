@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.07.16
+## Updated on 2026.07.17
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-16**|**LPCAN: Lightweight Pyramid Cross-Attention Network for Rail Surface Defect Detection Using RGB-D Data**|Jackie Alex et.al|[paper](https://arxiv.org/abs/2601.09118)|-|<details><summary>detail</summary>arXiv admin note: This paper has been withdrawn by arXiv due to unverifiable authorship and affiliation</details>|
 |**2026-7-13**|**Rough Path Signature-Guided Geometry Augmentation for Few-Shot Industrial Surface Defect Detection**|Jiaqi Kuang et.al|[paper](https://arxiv.org/abs/2607.12245)|-|-|
 |**2026-7-6**|**ICME 2026 Grand Challenge on Cross-Scenario Defect Detection and Fine-Grained Severity Grading for High-Precision Manufacturing**|Wei Sun et.al|[paper](https://arxiv.org/abs/2607.04675)|-|-|
 |**2026-7-2**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|<details><summary>detail</summary>Journal ref:European Conference on Computer Vision (ECCV 2026)</details>|
@@ -37,12 +38,12 @@
 |**2026-5-17**|**Network Knowledge Prior Guided Learning for Data-Efficient Surface Defect Detection**|Hang-Cheng Dong et.al|[paper](https://arxiv.org/abs/2605.17780)|-|-|
 |**2026-5-13**|**Hybrid Quantum-MambaVision: A Quantum-enhanced State Space Model for Calibrated Mixed-type Wafer Defect Detection**|Satwik Sai Prakash Sahoo et.al|[paper](https://arxiv.org/abs/2605.16404)|-|-|
 |**2026-5-9**|**Micro-Defects Expose Macro-Fakes: Detecting AI-Generated Images via Local Distributional Shifts**|Boxuan Zhang et.al|[paper](https://arxiv.org/abs/2605.09296)|[code](https://zbox1005.github.io/MDMF-project/)|-|
-|**2026-5-9**|**Contour-Native Bridge Defect Detection and Compact Digital Archiving with Frequency-Supervised Fourier Contours**|Jin Liu et.al|[paper](https://arxiv.org/abs/2605.08781)|-|-|
 
 ## Defect Segmentation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-15**|**XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation**|Md Mahedi Hasan et.al|[paper](https://arxiv.org/abs/2607.14287)|[code](https://github.com/Mahedi-61/XCT-SAM.git)|-|
 |**2026-7-2**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|<details><summary>detail</summary>Journal ref:European Conference on Computer Vision (ECCV 2026)</details>|
 |**2026-6-2**|**Cesarean Scar Defect Segmentation in Transvaginal Ultrasound Images: a Dataset and Benchmark**|Yuan Tian et.al|[paper](https://arxiv.org/abs/2605.26774)|-|-|
 |**2026-4-20**|**DeltaSeg: Tiered Attention and Deep Delta Learning for Multi-Class Structural Defect Segmentation**|Enrique Hernandez Noguera et.al|[paper](https://arxiv.org/abs/2604.18745)|-|-|
@@ -67,12 +68,13 @@
 |**2025-2-11**|**Exploring Few-Shot Defect Segmentation in General Industrial Scenarios with Metric Learning and Vision Foundation Models**|Tongkun Liu et.al|[paper](https://arxiv.org/abs/2502.01216)|[code](https://github.com/liutongkun/GFDS.)|-|
 |**2025-1-23**|**Effective Defect Detection Using Instance Segmentation for NDI**|Ashiqur Rahman et.al|[paper](https://arxiv.org/abs/2501.14149)|[code](https://ai-2-ase.github.io/)|-|
 |**2025-1-17**|**Multi-Modal Attention Networks for Enhanced Segmentation and Depth Estimation of Subsurface Defects in Pulse Thermography**|Mohammed Salah et.al|[paper](https://arxiv.org/abs/2501.09994)|-|<details><summary>detail</summary>Pulse thermography</details>|
-|**2024-10-24**|**Synth4Seg -- Learning Defect Data Synthesis for Defect Segmentation using Bi-level Optimization**|Shancong Mou et.al|[paper](https://arxiv.org/abs/2410.18490)|-|-|
 
 ## Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-15**|**SwinAD: Multi-stage feature reconstruction for unsupervised industrial anomaly detection**|Huong Ninh et.al|[paper](https://arxiv.org/abs/2607.14534)|-|-|
+|**2026-7-15**|**VAN-AD: Visual Masked Autoencoder with Normalizing Flow For Time Series Anomaly Detection**|PengYu Chen et.al|[paper](https://arxiv.org/abs/2603.26842)|[code](https://github.com/PenyChen/VAN-AD.)|-|
 |**2026-7-15**|**RF Spectrogram Anomaly Detection with Quantum Kitchen Sinks: Architecture, Representation, and Hardware Validation**|Abdallah Aaraba et.al|[paper](https://arxiv.org/abs/2607.13897)|-|<details><summary>detail</summary>Paper accepted to IEEE quantum week 2026</details>|
 |**2026-7-15**|**M2P-AD: Memory-to-Prototype Learning with Boundary-aware Score Refinement for 3D Anomaly Detection**|Seyoung Jeong et.al|[paper](https://arxiv.org/abs/2607.13499)|-|-|
 |**2026-7-15**|**Explainable Artificial Intelligence for Anomaly Detection in Banking Transactions: An Internal Audit Perspective**|Anupa Lodhi et.al|[paper](https://arxiv.org/abs/2607.13469)|-|-|
@@ -96,8 +98,6 @@
 |**2026-7-9**|**DeCoFlow: Structural Decomposition of Normalizing Flows for Continual Anomaly Detection**|Hun Im et.al|[paper](https://arxiv.org/abs/2606.26687)|-|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-7-8**|**Toward Deployable Satellite Anomaly Detection: A Benchmark Study on Large-Scale ESA-ADB Telemetry**|Andrea Nguyen et.al|[paper](https://arxiv.org/abs/2607.07335)|-|-|
 |**2026-7-8**|**Anomaly detection in time-series via inductive biases in the latent space of conditional normalizing flows**|David Baumgartner et.al|[paper](https://arxiv.org/abs/2603.11756)|-|-|
-|**2026-7-8**|**Kick Bad Guys Out! Conditionally Activated Anomaly Detection in Federated Learning with Zero-Knowledge Proof Verification**|Shanshan Han et.al|[paper](https://arxiv.org/abs/2310.04055)|-|-|
-|**2026-7-8**|**Cyber Dynamics I: Finite Macrostates for Behavioral Anomaly Detection in Network Telemetry**|Abdul Rahman et.al|[paper](https://arxiv.org/abs/2607.07075)|-|-|
 
 ## 3D Anomaly Detection
 
