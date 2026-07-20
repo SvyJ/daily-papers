@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.07.19
+## Updated on 2026.07.20
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-17**|**Lightweight CNN-Based Anomaly Detection for High Voltage Converter Modulators in the Spallation Neutron Source**|Alberto D. Cencillo et.al|[paper](https://arxiv.org/abs/2605.31259)|-|-|
+|**2026-7-17**|**Knowledge-Assisted Multi-Graph Dependency Learning for Multivariate Time Series Anomaly Detection in Multi-Stage Industrial Processes**|Jaeyeong Lee et.al|[paper](https://arxiv.org/abs/2607.15799)|-|-|
+|**2026-7-16**|**Improving Network Anomaly Detection via Choquet-Integral-Based Feature Aggregation**|Abreu Quevedo et.al|[paper](https://arxiv.org/abs/2607.15389)|-|<details><summary>detail</summary>This manuscript has been accepted for presentation at the IEEE International Symposium on Computers and Communications (ISCC 2026)</details>|
 |**2026-7-15**|**SwinAD: Multi-stage feature reconstruction for unsupervised industrial anomaly detection**|Huong Ninh et.al|[paper](https://arxiv.org/abs/2607.14534)|-|-|
 |**2026-7-15**|**VAN-AD: Visual Masked Autoencoder with Normalizing Flow For Time Series Anomaly Detection**|PengYu Chen et.al|[paper](https://arxiv.org/abs/2603.26842)|[code](https://github.com/PenyChen/VAN-AD.)|-|
 |**2026-7-15**|**RF Spectrogram Anomaly Detection with Quantum Kitchen Sinks: Architecture, Representation, and Hardware Validation**|Abdallah Aaraba et.al|[paper](https://arxiv.org/abs/2607.13897)|-|<details><summary>detail</summary>Paper accepted to IEEE quantum week 2026</details>|
@@ -95,9 +98,6 @@
 |**2026-7-9**|**Federated Low-Rank Koopman Learning for Multivariate Time-Series Anomaly Detection in IoT Systems**|Tung-Anh Nguyen et.al|[paper](https://arxiv.org/abs/2607.08978)|-|-|
 |**2026-7-9**|**CAAD: Causality-Aware Multivariate Time Series Anomaly Detection via Multi-Scale Alignment and Structural Causal Consistency**|Xin Wang et.al|[paper](https://arxiv.org/abs/2607.08555)|-|<details><summary>detail</summary>KDD 2026 (Research Track)</details>|
 |**2026-7-9**|**Self-Adaptive Anomaly Detection with Reinforcement Learning and Human Feedback in Connected Vehicles**|Matthias Weiß et.al|[paper](https://arxiv.org/abs/2607.08373)|-|<details><summary>detail</summary>the 30th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA 2026)</details>|
-|**2026-7-9**|**DeCoFlow: Structural Decomposition of Normalizing Flows for Continual Anomaly Detection**|Hun Im et.al|[paper](https://arxiv.org/abs/2606.26687)|-|<details><summary>detail</summary>ECCV 2026</details>|
-|**2026-7-8**|**Toward Deployable Satellite Anomaly Detection: A Benchmark Study on Large-Scale ESA-ADB Telemetry**|Andrea Nguyen et.al|[paper](https://arxiv.org/abs/2607.07335)|-|-|
-|**2026-7-8**|**Anomaly detection in time-series via inductive biases in the latent space of conditional normalizing flows**|David Baumgartner et.al|[paper](https://arxiv.org/abs/2603.11756)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-17**|**Distributional Matching for Vector Quantization: A Unified Theoretical and Empirical Framework**|Xianghong Fang et.al|[paper](https://arxiv.org/abs/2607.15933)|-|-|
 |**2026-7-15**|**NSNQuant: A Double Normalization Approach for Calibration-Free Low-Bit Vector Quantization of KV Cache**|Donghyun Son et.al|[paper](https://arxiv.org/abs/2505.18231)|[code](https://github.com/DHdroid/NSNQuant.)|-|
 |**2026-7-14**|**AVQ-Attention: Adaptive Vector-Quantized Attention**|Winfried van den dool et.al|[paper](https://arxiv.org/abs/2607.12789)|-|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-7-7**|**Leech Lattice Vector Quantization for Efficient LLM Compression**|Tycho F. A. van der Ouderaa et.al|[paper](https://arxiv.org/abs/2603.11021)|-|-|
@@ -187,5 +188,4 @@
 |**2026-5-26**|**Training-Free Vector Quantization via Gaussian VAEs**|Tongda Xu et.al|[paper](https://arxiv.org/abs/2512.06609)|[code](https://github.com/tongdaxu/VQ-VAE-from-Gaussian-VAE.)|-|
 |**2026-5-24**|**BandVQ: Band-Wise Vector-Quantized EEG Foundation Model**|Jamiyan Sukhbaatar et.al|[paper](https://arxiv.org/abs/2605.24921)|-|-|
 |**2026-5-22**|**EVA: Accelerating LLM Decoding via an Efficient Vector Quantization Architecture**|Bowen Duan et.al|[paper](https://arxiv.org/abs/2605.24144)|[code](https://github.com/dbw6/Eva.git.)|-|
-|**2026-5-22**|**ProGIC: Progressive and Lightweight Generative Image Compression with Residual Vector Quantization**|Hao Cao et.al|[paper](https://arxiv.org/abs/2603.02897)|-|<details><summary>detail</summary>Accepted by CVPR 2026 Findings</details>|
 
