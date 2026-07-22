@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.07.21
+## Updated on 2026.07.22
 
 ## Defect Detection
 
@@ -73,6 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-21**|**Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection**|Xiping Li et.al|[paper](https://arxiv.org/abs/2505.18934)|[code](https://github.com/HsipingLi/ChiGAD.)|-|
+|**2026-7-21**|**Context-structured Video Anomaly Detection with Large Vision-Language Models**|Dongjun Kim et.al|[paper](https://arxiv.org/abs/2607.19077)|-|<details><summary>detail</summary>AVSS 2026</details>|
+|**2026-7-21**|**IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion**|Lei Hu et.al|[paper](https://arxiv.org/abs/2607.19032)|[code](https://github.com/HULEI7/IMMoE)|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
+|**2026-7-21**|**OPD-IAD: From Language Judgment to Industrial Anomaly Detection via On-Policy Self-Distillation**|Shuimu Chen et.al|[paper](https://arxiv.org/abs/2607.18850)|-|-|
+|**2026-7-20**|**Budgeted Indirect Adversarial Attack on Graph-Based Anomaly Detection in Sensor Networks**|Sanju Xaviar et.al|[paper](https://arxiv.org/abs/2509.17987)|-|-|
+|**2026-7-20**|**Hybrid Latent-Structural Fusion (HLSF) for Cyber Anomaly Detection**|Dorianis M. Perez et.al|[paper](https://arxiv.org/abs/2607.18479)|-|-|
 |**2026-7-20**|**O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning**|Mei Yuan et.al|[paper](https://arxiv.org/abs/2607.18142)|-|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-7-20**|**ClouDens: Operational Context-Aware Anomaly Detection for Large-scale Cloud System Monitoring**|Thu T. H. Doan et.al|[paper](https://arxiv.org/abs/2607.18127)|-|-|
 |**2026-7-20**|**VAE with Hyperspherical Coordinates: Improving Anomaly Detection from Hypervolume-Compressed Latent Space**|Alejandro Ascarate et.al|[paper](https://arxiv.org/abs/2601.18823)|-|-|
@@ -92,12 +98,6 @@
 |**2026-7-14**|**Statistical Non-linear Reconstruction Loss for Image Anomaly Detection**|Nguyen Minh Tri et.al|[paper](https://arxiv.org/abs/2607.12866)|[code](https://github.com/mintii13/Statistical-Non-linear-Reconstruction-Loss.git.)|<details><summary>detail</summary>KES 2026</details>|
 |**2026-7-14**|**LARAD: Layout-Aware Road Anomaly Detection via Spatial-Logic Reasoning**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2607.12858)|-|-|
 |**2026-7-14**|**Lightweight Multi-Scale Anomaly Detection for Resource-Constrained Edge Devices**|Raheen Junaid Wani et.al|[paper](https://arxiv.org/abs/2607.12599)|-|-|
-|**2026-7-14**|**Exploring Zero-Shot Foundation Models for Multivariate Time Series Anomaly Detection**|Martin Uray et.al|[paper](https://arxiv.org/abs/2607.12454)|-|<details><summary>detail</summary>This preprint has not undergone peer review or any post-submission improvements or corrections</details>|
-|**2026-7-13**|**CFR-Net:Collaborative Feature Refnement Network for Medical Image Anomaly Detection**|Zihan Nie et.al|[paper](https://arxiv.org/abs/2607.11509)|-|-|
-|**2026-7-13**|**TC-MAF: Train-Calibrated Bounded Multi-Evidence Fusion for Multimodal Industrial Anomaly Detection**|Ming Deng et.al|[paper](https://arxiv.org/abs/2607.11170)|[code](https://anonymous.4open.science/r/TC_MAF-C3BB.)|<details><summary>detail</summary>accepted by ACM MM 2026</details>|
-|**2026-7-12**|**Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection**|Kaiqiang Li et.al|[paper](https://arxiv.org/abs/2603.21511)|[code](https://github.com/wistful-8029/BTP-3DAD)|<details><summary>detail</summary>CVPR 2026</details>|
-|**2026-7-11**|**Physics-inspired Pseudo Anomaly Generation and Prototype Feature Guidance for 3D Anomaly Detection**|Jian Ning et.al|[paper](https://arxiv.org/abs/2607.10544)|[code](https://github.com/NingxiaoJian/PA3AD.)|-|
-|**2026-7-11**|**Structured Evidence Selection for Weakly Supervised Video Anomaly Detection**|Chenglizhao Chen et.al|[paper](https://arxiv.org/abs/2607.10298)|-|-|
 
 ## 3D Anomaly Detection
 
