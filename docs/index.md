@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.07.22
+## Updated on 2026.07.23
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-22**|**SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection**|Paul Julius Kühn et.al|[paper](https://arxiv.org/abs/2604.26633)|-|-|
 |**2026-7-16**|**LPCAN: Lightweight Pyramid Cross-Attention Network for Rail Surface Defect Detection Using RGB-D Data**|Jackie Alex et.al|[paper](https://arxiv.org/abs/2601.09118)|-|<details><summary>detail</summary>arXiv admin note: This paper has been withdrawn by arXiv due to unverifiable authorship and affiliation</details>|
 |**2026-7-13**|**Rough Path Signature-Guided Geometry Augmentation for Few-Shot Industrial Surface Defect Detection**|Jiaqi Kuang et.al|[paper](https://arxiv.org/abs/2607.12245)|-|-|
 |**2026-7-6**|**ICME 2026 Grand Challenge on Cross-Scenario Defect Detection and Fine-Grained Severity Grading for High-Precision Manufacturing**|Wei Sun et.al|[paper](https://arxiv.org/abs/2607.04675)|-|-|
@@ -37,7 +38,6 @@
 |**2026-5-19**|**Interpretable Computer Vision for Defect Detection in X-ray Tomography of Aerospace SiC/SiC Composites**|Antonio Peña Corredor et.al|[paper](https://arxiv.org/abs/2605.20159)|-|-|
 |**2026-5-17**|**Network Knowledge Prior Guided Learning for Data-Efficient Surface Defect Detection**|Hang-Cheng Dong et.al|[paper](https://arxiv.org/abs/2605.17780)|-|-|
 |**2026-5-13**|**Hybrid Quantum-MambaVision: A Quantum-enhanced State Space Model for Calibrated Mixed-type Wafer Defect Detection**|Satwik Sai Prakash Sahoo et.al|[paper](https://arxiv.org/abs/2605.16404)|-|-|
-|**2026-5-9**|**Micro-Defects Expose Macro-Fakes: Detecting AI-Generated Images via Local Distributional Shifts**|Boxuan Zhang et.al|[paper](https://arxiv.org/abs/2605.09296)|[code](https://zbox1005.github.io/MDMF-project/)|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-22**|**Classical Hardware Acceleration of Quantum Autoencoders for Real-Time Anomaly Detection in Collider Experiments**|Ivan Ge et.al|[paper](https://arxiv.org/abs/2607.20302)|-|-|
+|**2026-7-22**|**NeuCoReClass AD: Redefining Self-Supervised Time Series Anomaly Detection**|Aitor Sánchez-Ferrera et.al|[paper](https://arxiv.org/abs/2508.00909)|-|<details><summary>detail</summary>Journal ref:Neural Networks</details>|
+|**2026-7-22**|**Drift-Aware RL-based Wavelet Denoising for Network-Traffic Anomaly Detection**|Priyalakshmi Sheela et.al|[paper](https://arxiv.org/abs/2607.20011)|-|<details><summary>detail</summary>Submitted to IEEE Transactions on Wireless Communications</details>|
 |**2026-7-21**|**Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection**|Xiping Li et.al|[paper](https://arxiv.org/abs/2505.18934)|[code](https://github.com/HsipingLi/ChiGAD.)|-|
 |**2026-7-21**|**Context-structured Video Anomaly Detection with Large Vision-Language Models**|Dongjun Kim et.al|[paper](https://arxiv.org/abs/2607.19077)|-|<details><summary>detail</summary>AVSS 2026</details>|
 |**2026-7-21**|**IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion**|Lei Hu et.al|[paper](https://arxiv.org/abs/2607.19032)|[code](https://github.com/HULEI7/IMMoE)|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
@@ -95,9 +98,6 @@
 |**2026-7-15**|**RF Spectrogram Anomaly Detection with Quantum Kitchen Sinks: Architecture, Representation, and Hardware Validation**|Abdallah Aaraba et.al|[paper](https://arxiv.org/abs/2607.13897)|-|<details><summary>detail</summary>Paper accepted to IEEE quantum week 2026</details>|
 |**2026-7-15**|**M2P-AD: Memory-to-Prototype Learning with Boundary-aware Score Refinement for 3D Anomaly Detection**|Seyoung Jeong et.al|[paper](https://arxiv.org/abs/2607.13499)|-|-|
 |**2026-7-15**|**Explainable Artificial Intelligence for Anomaly Detection in Banking Transactions: An Internal Audit Perspective**|Anupa Lodhi et.al|[paper](https://arxiv.org/abs/2607.13469)|-|-|
-|**2026-7-14**|**Statistical Non-linear Reconstruction Loss for Image Anomaly Detection**|Nguyen Minh Tri et.al|[paper](https://arxiv.org/abs/2607.12866)|[code](https://github.com/mintii13/Statistical-Non-linear-Reconstruction-Loss.git.)|<details><summary>detail</summary>KES 2026</details>|
-|**2026-7-14**|**LARAD: Layout-Aware Road Anomaly Detection via Spatial-Logic Reasoning**|Shiyi Mu et.al|[paper](https://arxiv.org/abs/2607.12858)|-|-|
-|**2026-7-14**|**Lightweight Multi-Scale Anomaly Detection for Resource-Constrained Edge Devices**|Raheen Junaid Wani et.al|[paper](https://arxiv.org/abs/2607.12599)|-|-|
 
 ## 3D Anomaly Detection
 
