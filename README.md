@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.07.23
+## Updated on 2026.07.24
 
 ## Defect Detection
 
@@ -43,6 +43,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-23**|**SPDCN: Strip-based Deformable Convolutional Network for Steel Surface Defect Segmentation**|Zhongming Liu et.al|[paper](https://arxiv.org/abs/2607.21456)|[code](https://github.com/DWlzm)|-|
 |**2026-7-15**|**XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation**|Md Mahedi Hasan et.al|[paper](https://arxiv.org/abs/2607.14287)|[code](https://github.com/Mahedi-61/XCT-SAM.git)|-|
 |**2026-7-2**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|<details><summary>detail</summary>Journal ref:European Conference on Computer Vision (ECCV 2026)</details>|
 |**2026-6-2**|**Cesarean Scar Defect Segmentation in Transvaginal Ultrasound Images: a Dataset and Benchmark**|Yuan Tian et.al|[paper](https://arxiv.org/abs/2605.26774)|-|-|
@@ -67,12 +68,15 @@
 |**2025-4-11**|**Weakly Supervised Panoptic Segmentation for Defect-Based Grading of Fresh Produce**|Manuel Knott et.al|[paper](https://arxiv.org/abs/2411.16219)|[code](https://github.com/manuelknott/banana-defect-segmentation)|<details><summary>detail</summary>Accepted as a paper to the 6th International Workshop on Agriculture-Vision: Challenges & Opportunities for Computer Vision in Agriculture in conjunction with IEEE/CVF CVPR 2025</details>|
 |**2025-2-11**|**Exploring Few-Shot Defect Segmentation in General Industrial Scenarios with Metric Learning and Vision Foundation Models**|Tongkun Liu et.al|[paper](https://arxiv.org/abs/2502.01216)|[code](https://github.com/liutongkun/GFDS.)|-|
 |**2025-1-23**|**Effective Defect Detection Using Instance Segmentation for NDI**|Ashiqur Rahman et.al|[paper](https://arxiv.org/abs/2501.14149)|[code](https://ai-2-ase.github.io/)|-|
-|**2025-1-17**|**Multi-Modal Attention Networks for Enhanced Segmentation and Depth Estimation of Subsurface Defects in Pulse Thermography**|Mohammed Salah et.al|[paper](https://arxiv.org/abs/2501.09994)|-|<details><summary>detail</summary>Pulse thermography</details>|
 
 ## Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-23**|**Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana**|T. Ansah-Narh et.al|[paper](https://arxiv.org/abs/2607.21559)|-|<details><summary>detail</summary>32</details>|
+|**2026-7-23**|**RF Spectrogram Anomaly Detection with Quantum Kitchen Sinks: Architecture, Representation, and Hardware Validation**|Abdallah Aaraba et.al|[paper](https://arxiv.org/abs/2607.13897)|-|<details><summary>detail</summary>Paper accepted to IEEE quantum week 2026</details>|
+|**2026-7-22**|**Rethinking Open-World Video Anomaly Detection: Diagnosing Definition Blindness**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2607.20780)|-|<details><summary>detail</summary>Preprint</details>|
+|**2026-7-22**|**Facade: High-Precision Insider Threat Detection Using Deep Contextual Anomaly Detection**|Alex Kantchelian et.al|[paper](https://arxiv.org/abs/2412.06700)|-|-|
 |**2026-7-22**|**Classical Hardware Acceleration of Quantum Autoencoders for Real-Time Anomaly Detection in Collider Experiments**|Ivan Ge et.al|[paper](https://arxiv.org/abs/2607.20302)|-|-|
 |**2026-7-22**|**NeuCoReClass AD: Redefining Self-Supervised Time Series Anomaly Detection**|Aitor Sánchez-Ferrera et.al|[paper](https://arxiv.org/abs/2508.00909)|-|<details><summary>detail</summary>Journal ref:Neural Networks</details>|
 |**2026-7-22**|**Drift-Aware RL-based Wavelet Denoising for Network-Traffic Anomaly Detection**|Priyalakshmi Sheela et.al|[paper](https://arxiv.org/abs/2607.20011)|-|<details><summary>detail</summary>Submitted to IEEE Transactions on Wireless Communications</details>|
@@ -94,10 +98,6 @@
 |**2026-7-17**|**Knowledge-Assisted Multi-Graph Dependency Learning for Multivariate Time Series Anomaly Detection in Multi-Stage Industrial Processes**|Jaeyeong Lee et.al|[paper](https://arxiv.org/abs/2607.15799)|-|-|
 |**2026-7-16**|**Improving Network Anomaly Detection via Choquet-Integral-Based Feature Aggregation**|Abreu Quevedo et.al|[paper](https://arxiv.org/abs/2607.15389)|-|<details><summary>detail</summary>This manuscript has been accepted for presentation at the IEEE International Symposium on Computers and Communications (ISCC 2026)</details>|
 |**2026-7-15**|**SwinAD: Multi-stage feature reconstruction for unsupervised industrial anomaly detection**|Huong Ninh et.al|[paper](https://arxiv.org/abs/2607.14534)|-|-|
-|**2026-7-15**|**VAN-AD: Visual Masked Autoencoder with Normalizing Flow For Time Series Anomaly Detection**|PengYu Chen et.al|[paper](https://arxiv.org/abs/2603.26842)|[code](https://github.com/PenyChen/VAN-AD.)|-|
-|**2026-7-15**|**RF Spectrogram Anomaly Detection with Quantum Kitchen Sinks: Architecture, Representation, and Hardware Validation**|Abdallah Aaraba et.al|[paper](https://arxiv.org/abs/2607.13897)|-|<details><summary>detail</summary>Paper accepted to IEEE quantum week 2026</details>|
-|**2026-7-15**|**M2P-AD: Memory-to-Prototype Learning with Boundary-aware Score Refinement for 3D Anomaly Detection**|Seyoung Jeong et.al|[paper](https://arxiv.org/abs/2607.13499)|-|-|
-|**2026-7-15**|**Explainable Artificial Intelligence for Anomaly Detection in Banking Transactions: An Internal Audit Perspective**|Anupa Lodhi et.al|[paper](https://arxiv.org/abs/2607.13469)|-|-|
 
 ## 3D Anomaly Detection
 
