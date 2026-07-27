@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.07.26
+## Updated on 2026.07.27
 
 ## Defect Detection
 
@@ -73,8 +73,13 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-24**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al|[paper](https://arxiv.org/abs/2410.00713)|[code](https://chang-xinhai.github.io/rad-website/.)|-|
+|**2026-7-24**|**RF Spectrogram Anomaly Detection with Quantum Kitchen Sinks: Architecture, Representation, and Hardware Validation**|Abdallah Aaraba et.al|[paper](https://arxiv.org/abs/2607.13897)|-|<details><summary>detail</summary>Paper accepted to IEEE quantum week 2026</details>|
+|**2026-7-24**|**An Insight on Evaluation Metrics Under the Imbalanced Case of Anomaly Detection**|Romain Hermary et.al|[paper](https://arxiv.org/abs/2607.22286)|-|<details><summary>detail</summary>Published in EUVIP 2026</details>|
+|**2026-7-24**|**Deep Convolutional Large-Margin $\ell_p$-SVDD for Visual Anomaly Detection**|Alireza Dastmalchi Saei et.al|[paper](https://arxiv.org/abs/2607.22212)|-|-|
+|**2026-7-24**|**Conformal Anomaly Detection in Python: Moving Beyond Heuristic Thresholds with nonconform**|Oliver Hennhöfer et.al|[paper](https://arxiv.org/abs/2605.13642)|-|-|
+|**2026-7-24**|**Interpretable Anomaly and Drift Detection with Gaussian Mixture Models**|Behnam Asadi et.al|[paper](https://arxiv.org/abs/2607.16811)|-|-|
 |**2026-7-23**|**Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana**|T. Ansah-Narh et.al|[paper](https://arxiv.org/abs/2607.21559)|-|<details><summary>detail</summary>32</details>|
-|**2026-7-23**|**RF Spectrogram Anomaly Detection with Quantum Kitchen Sinks: Architecture, Representation, and Hardware Validation**|Abdallah Aaraba et.al|[paper](https://arxiv.org/abs/2607.13897)|-|<details><summary>detail</summary>Paper accepted to IEEE quantum week 2026</details>|
 |**2026-7-22**|**Rethinking Open-World Video Anomaly Detection: Diagnosing Definition Blindness**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2607.20780)|-|<details><summary>detail</summary>Preprint</details>|
 |**2026-7-22**|**Facade: High-Precision Insider Threat Detection Using Deep Contextual Anomaly Detection**|Alex Kantchelian et.al|[paper](https://arxiv.org/abs/2412.06700)|-|-|
 |**2026-7-22**|**Classical Hardware Acceleration of Quantum Autoencoders for Real-Time Anomaly Detection in Collider Experiments**|Ivan Ge et.al|[paper](https://arxiv.org/abs/2607.20302)|-|-|
@@ -93,11 +98,6 @@
 |**2026-7-19**|**FAME: Failure-Aware Mixture-of-Experts for Message-Level Log Anomaly Detection**|Huanchi Wang et.al|[paper](https://arxiv.org/abs/2605.22779)|-|-|
 |**2026-7-18**|**Zoom In, Reason Out: Efficient Far-field Anomaly Detection in Expressway Surveillance Videos via Focused VLM Reasoning Guided by Bayesian Inference**|Xiaowei Mao et.al|[paper](https://arxiv.org/abs/2604.23724)|-|-|
 |**2026-7-18**|**TinyGLASS: Real-Time Self-Supervised In-Sensor Anomaly Detection**|Pietro Bonazzi et.al|[paper](https://arxiv.org/abs/2603.16451)|-|<details><summary>detail</summary>the 8th International Conference on Artificial Intelligence Circuits and Systems (AICAS) 2026</details>|
-|**2026-7-18**|**Interpretable Anomaly and Drift Detection with Gaussian Mixture Models**|Behnam Asadi et.al|[paper](https://arxiv.org/abs/2607.16811)|-|-|
-|**2026-7-17**|**Lightweight CNN-Based Anomaly Detection for High Voltage Converter Modulators in the Spallation Neutron Source**|Alberto D. Cencillo et.al|[paper](https://arxiv.org/abs/2605.31259)|-|-|
-|**2026-7-17**|**Knowledge-Assisted Multi-Graph Dependency Learning for Multivariate Time Series Anomaly Detection in Multi-Stage Industrial Processes**|Jaeyeong Lee et.al|[paper](https://arxiv.org/abs/2607.15799)|-|-|
-|**2026-7-16**|**Improving Network Anomaly Detection via Choquet-Integral-Based Feature Aggregation**|Abreu Quevedo et.al|[paper](https://arxiv.org/abs/2607.15389)|-|<details><summary>detail</summary>This manuscript has been accepted for presentation at the IEEE International Symposium on Computers and Communications (ISCC 2026)</details>|
-|**2026-7-15**|**SwinAD: Multi-stage feature reconstruction for unsupervised industrial anomaly detection**|Huong Ninh et.al|[paper](https://arxiv.org/abs/2607.14534)|-|-|
 
 ## 3D Anomaly Detection
 
