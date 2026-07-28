@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.07.27
+## Updated on 2026.07.28
 
 ## Defect Detection
 
@@ -73,10 +73,17 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-27**|**Panda: Unsupervised Pelvic Anomaly Detection for Real-Time MR Imaging**|Anika Knupfer et.al|[paper](https://arxiv.org/abs/2607.24703)|-|-|
+|**2026-7-26**|**DuoAD: Leveraging [CLS] Dual Characteristics for Training-Free Few-Shot Anomaly Detection**|Jyun-Ze Tang et.al|[paper](https://arxiv.org/abs/2607.23924)|[code](https://github.com/inventec-ai-center/DuoAD)|<details><summary>detail</summary>Code: https://github</details>|
+|**2026-7-26**|**Embeddings based Anomaly Detection for Cleaning Global Crop Type Reference Datasets**|Syed Roshaan Ali Shah et.al|[paper](https://arxiv.org/abs/2607.23908)|-|-|
+|**2026-7-26**|**XMatchAD: A Cross-Modal Matching Perspective on Reconstruction-based Anomaly Detection**|Mingxiu Cai et.al|[paper](https://arxiv.org/abs/2607.23658)|[code](https://github.com/Mingxiu-Cai/XMatchAD.)|<details><summary>detail</summary>accepted by IEEE Transactions on Image Processing</details>|
+|**2026-7-25**|**Domain-Prior-Regularized Graph Modeling for Anomaly Detection in Cyber-Physical Systems**|Youngseok Hwang et.al|[paper](https://arxiv.org/abs/2607.23197)|-|-|
+|**2026-7-24**|**Disentangling Multi-View Scanning in Mamba for Network Traffic Anomaly Detection**|Xinglin Lian et.al|[paper](https://arxiv.org/abs/2607.22829)|[code](https://github.com/ikun0124/DisenMamba.)|<details><summary>detail</summary>Accepted by KDD 2026</details>|
 |**2026-7-24**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al|[paper](https://arxiv.org/abs/2410.00713)|[code](https://chang-xinhai.github.io/rad-website/.)|-|
 |**2026-7-24**|**RF Spectrogram Anomaly Detection with Quantum Kitchen Sinks: Architecture, Representation, and Hardware Validation**|Abdallah Aaraba et.al|[paper](https://arxiv.org/abs/2607.13897)|-|<details><summary>detail</summary>Paper accepted to IEEE quantum week 2026</details>|
 |**2026-7-24**|**An Insight on Evaluation Metrics Under the Imbalanced Case of Anomaly Detection**|Romain Hermary et.al|[paper](https://arxiv.org/abs/2607.22286)|-|<details><summary>detail</summary>Published in EUVIP 2026</details>|
 |**2026-7-24**|**Deep Convolutional Large-Margin $\ell_p$-SVDD for Visual Anomaly Detection**|Alireza Dastmalchi Saei et.al|[paper](https://arxiv.org/abs/2607.22212)|-|-|
+|**2026-7-24**|**GCR: Geometry-Consistent Routing for Task-Agnostic Continual Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2601.01856)|[code](https://github.com/jw-chae/GCR)|-|
 |**2026-7-24**|**Conformal Anomaly Detection in Python: Moving Beyond Heuristic Thresholds with nonconform**|Oliver Hennhöfer et.al|[paper](https://arxiv.org/abs/2605.13642)|-|-|
 |**2026-7-24**|**Interpretable Anomaly and Drift Detection with Gaussian Mixture Models**|Behnam Asadi et.al|[paper](https://arxiv.org/abs/2607.16811)|-|-|
 |**2026-7-23**|**Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana**|T. Ansah-Narh et.al|[paper](https://arxiv.org/abs/2607.21559)|-|<details><summary>detail</summary>32</details>|
@@ -91,13 +98,6 @@
 |**2026-7-21**|**OPD-IAD: From Language Judgment to Industrial Anomaly Detection via On-Policy Self-Distillation**|Shuimu Chen et.al|[paper](https://arxiv.org/abs/2607.18850)|-|-|
 |**2026-7-20**|**Budgeted Indirect Adversarial Attack on Graph-Based Anomaly Detection in Sensor Networks**|Sanju Xaviar et.al|[paper](https://arxiv.org/abs/2509.17987)|-|-|
 |**2026-7-20**|**Hybrid Latent-Structural Fusion (HLSF) for Cyber Anomaly Detection**|Dorianis M. Perez et.al|[paper](https://arxiv.org/abs/2607.18479)|-|-|
-|**2026-7-20**|**O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning**|Mei Yuan et.al|[paper](https://arxiv.org/abs/2607.18142)|-|<details><summary>detail</summary>ECCV 2026</details>|
-|**2026-7-20**|**ClouDens: Operational Context-Aware Anomaly Detection for Large-scale Cloud System Monitoring**|Thu T. H. Doan et.al|[paper](https://arxiv.org/abs/2607.18127)|-|-|
-|**2026-7-20**|**VAE with Hyperspherical Coordinates: Improving Anomaly Detection from Hypervolume-Compressed Latent Space**|Alejandro Ascarate et.al|[paper](https://arxiv.org/abs/2601.18823)|-|-|
-|**2026-7-19**|**Did We Actually Fix It? An Independent Adversarial Stress-Test of Post-Point-Adjustment Evaluation Metrics for Time-Series Anomaly Detection**|Zongye Lyu et.al|[paper](https://arxiv.org/abs/2607.11969)|-|-|
-|**2026-7-19**|**FAME: Failure-Aware Mixture-of-Experts for Message-Level Log Anomaly Detection**|Huanchi Wang et.al|[paper](https://arxiv.org/abs/2605.22779)|-|-|
-|**2026-7-18**|**Zoom In, Reason Out: Efficient Far-field Anomaly Detection in Expressway Surveillance Videos via Focused VLM Reasoning Guided by Bayesian Inference**|Xiaowei Mao et.al|[paper](https://arxiv.org/abs/2604.23724)|-|-|
-|**2026-7-18**|**TinyGLASS: Real-Time Self-Supervised In-Sensor Anomaly Detection**|Pietro Bonazzi et.al|[paper](https://arxiv.org/abs/2603.16451)|-|<details><summary>detail</summary>the 8th International Conference on Artificial Intelligence Circuits and Systems (AICAS) 2026</details>|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-27**|**A Motion-Aware Vector Quantization Framework with Centroid Reuse for Efficient VLA Inference**|Zhuoran Song et.al|[paper](https://arxiv.org/abs/2607.24148)|-|-|
 |**2026-7-17**|**Distributional Matching for Vector Quantization: A Unified Theoretical and Empirical Framework**|Xianghong Fang et.al|[paper](https://arxiv.org/abs/2607.15933)|-|-|
 |**2026-7-15**|**NSNQuant: A Double Normalization Approach for Calibration-Free Low-Bit Vector Quantization of KV Cache**|Donghyun Son et.al|[paper](https://arxiv.org/abs/2505.18231)|[code](https://github.com/DHdroid/NSNQuant.)|-|
 |**2026-7-14**|**AVQ-Attention: Adaptive Vector-Quantized Attention**|Winfried van den dool et.al|[paper](https://arxiv.org/abs/2607.12789)|-|<details><summary>detail</summary>ECCV 2026</details>|
@@ -187,5 +188,4 @@
 |**2026-5-26**|**DiVeQ: Differentiable Vector Quantization Using the Reparameterization Trick**|Mohammad Hassan Vali et.al|[paper](https://arxiv.org/abs/2509.26469)|-|-|
 |**2026-5-26**|**Training-Free Vector Quantization via Gaussian VAEs**|Tongda Xu et.al|[paper](https://arxiv.org/abs/2512.06609)|[code](https://github.com/tongdaxu/VQ-VAE-from-Gaussian-VAE.)|-|
 |**2026-5-24**|**BandVQ: Band-Wise Vector-Quantized EEG Foundation Model**|Jamiyan Sukhbaatar et.al|[paper](https://arxiv.org/abs/2605.24921)|-|-|
-|**2026-5-22**|**EVA: Accelerating LLM Decoding via an Efficient Vector Quantization Architecture**|Bowen Duan et.al|[paper](https://arxiv.org/abs/2605.24144)|[code](https://github.com/dbw6/Eva.git.)|-|
 
