@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.07.28
+## Updated on 2026.07.29
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-28**|**Group Equivariant Diffusion for Anomaly Detection in Computational Cytology**|Swarnadip Chatterjee et.al|[paper](https://arxiv.org/abs/2607.25503)|[code](https://swchmida.github.io/D4diffCyto/.)|-|
+|**2026-7-28**|**CFR-Net:Collaborative Feature Refinement Network for Medical Image Anomaly Detection**|Zihan Nie et.al|[paper](https://arxiv.org/abs/2607.11509)|-|-|
+|**2026-7-27**|**Localized Anomaly Detection via Differentiable D-vine Copulas**|Nicholas Andrea Pearson et.al|[paper](https://arxiv.org/abs/2607.25020)|-|<details><summary>detail</summary>Workshop paper accepted for presentation at the CAESAR workshop within ECML-PKDD (September 2026</details>|
 |**2026-7-27**|**Panda: Unsupervised Pelvic Anomaly Detection for Real-Time MR Imaging**|Anika Knupfer et.al|[paper](https://arxiv.org/abs/2607.24703)|-|-|
 |**2026-7-26**|**DuoAD: Leveraging [CLS] Dual Characteristics for Training-Free Few-Shot Anomaly Detection**|Jyun-Ze Tang et.al|[paper](https://arxiv.org/abs/2607.23924)|[code](https://github.com/inventec-ai-center/DuoAD)|<details><summary>detail</summary>Code: https://github</details>|
 |**2026-7-26**|**Embeddings based Anomaly Detection for Cleaning Global Crop Type Reference Datasets**|Syed Roshaan Ali Shah et.al|[paper](https://arxiv.org/abs/2607.23908)|-|-|
@@ -95,9 +98,6 @@
 |**2026-7-21**|**Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection**|Xiping Li et.al|[paper](https://arxiv.org/abs/2505.18934)|[code](https://github.com/HsipingLi/ChiGAD.)|-|
 |**2026-7-21**|**Context-structured Video Anomaly Detection with Large Vision-Language Models**|Dongjun Kim et.al|[paper](https://arxiv.org/abs/2607.19077)|-|<details><summary>detail</summary>AVSS 2026</details>|
 |**2026-7-21**|**IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion**|Lei Hu et.al|[paper](https://arxiv.org/abs/2607.19032)|[code](https://github.com/HULEI7/IMMoE)|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
-|**2026-7-21**|**OPD-IAD: From Language Judgment to Industrial Anomaly Detection via On-Policy Self-Distillation**|Shuimu Chen et.al|[paper](https://arxiv.org/abs/2607.18850)|-|-|
-|**2026-7-20**|**Budgeted Indirect Adversarial Attack on Graph-Based Anomaly Detection in Sensor Networks**|Sanju Xaviar et.al|[paper](https://arxiv.org/abs/2509.17987)|-|-|
-|**2026-7-20**|**Hybrid Latent-Structural Fusion (HLSF) for Cyber Anomaly Detection**|Dorianis M. Perez et.al|[paper](https://arxiv.org/abs/2607.18479)|-|-|
 
 ## 3D Anomaly Detection
 
