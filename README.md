@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.07.29
+## Updated on 2026.07.30
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-29**|**Early Failure Prediction from Near-Anomaly Detection: A Proactive Approach**|Léa Billet et.al|[paper](https://arxiv.org/abs/2607.26704)|-|<details><summary>detail</summary>Journal ref:37th International Conference on Principles of Diagnosis and Resilient Systems (DX 2026)</details>|
+|**2026-7-29**|**OmniAD: Detect and Understand Industrial Anomaly via Multimodal Reasoning**|Shifang Zhao et.al|[paper](https://arxiv.org/abs/2505.22039)|-|-|
+|**2026-7-29**|**When Rule Violations Are Rare: Chimera Training for Logical Anomaly Detection**|Alejandro Ascarate et.al|[paper](https://arxiv.org/abs/2605.26171)|-|-|
 |**2026-7-28**|**Group Equivariant Diffusion for Anomaly Detection in Computational Cytology**|Swarnadip Chatterjee et.al|[paper](https://arxiv.org/abs/2607.25503)|[code](https://swchmida.github.io/D4diffCyto/.)|-|
 |**2026-7-28**|**CFR-Net:Collaborative Feature Refinement Network for Medical Image Anomaly Detection**|Zihan Nie et.al|[paper](https://arxiv.org/abs/2607.11509)|-|-|
 |**2026-7-27**|**Localized Anomaly Detection via Differentiable D-vine Copulas**|Nicholas Andrea Pearson et.al|[paper](https://arxiv.org/abs/2607.25020)|-|<details><summary>detail</summary>Workshop paper accepted for presentation at the CAESAR workshop within ECML-PKDD (September 2026</details>|
@@ -95,9 +98,6 @@
 |**2026-7-22**|**Classical Hardware Acceleration of Quantum Autoencoders for Real-Time Anomaly Detection in Collider Experiments**|Ivan Ge et.al|[paper](https://arxiv.org/abs/2607.20302)|-|-|
 |**2026-7-22**|**NeuCoReClass AD: Redefining Self-Supervised Time Series Anomaly Detection**|Aitor Sánchez-Ferrera et.al|[paper](https://arxiv.org/abs/2508.00909)|-|<details><summary>detail</summary>Journal ref:Neural Networks</details>|
 |**2026-7-22**|**Drift-Aware RL-based Wavelet Denoising for Network-Traffic Anomaly Detection**|Priyalakshmi Sheela et.al|[paper](https://arxiv.org/abs/2607.20011)|-|<details><summary>detail</summary>Submitted to IEEE Transactions on Wireless Communications</details>|
-|**2026-7-21**|**Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection**|Xiping Li et.al|[paper](https://arxiv.org/abs/2505.18934)|[code](https://github.com/HsipingLi/ChiGAD.)|-|
-|**2026-7-21**|**Context-structured Video Anomaly Detection with Large Vision-Language Models**|Dongjun Kim et.al|[paper](https://arxiv.org/abs/2607.19077)|-|<details><summary>detail</summary>AVSS 2026</details>|
-|**2026-7-21**|**IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion**|Lei Hu et.al|[paper](https://arxiv.org/abs/2607.19032)|[code](https://github.com/HULEI7/IMMoE)|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
 
 ## 3D Anomaly Detection
 
@@ -133,6 +133,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-29**|**OmniAD: Detect and Understand Industrial Anomaly via Multimodal Reasoning**|Shifang Zhao et.al|[paper](https://arxiv.org/abs/2505.22039)|-|-|
 |**2026-7-13**|**TC-MAF: Train-Calibrated Bounded Multi-Evidence Fusion for Multimodal Industrial Anomaly Detection**|Ming Deng et.al|[paper](https://arxiv.org/abs/2607.11170)|[code](https://anonymous.4open.science/r/TC_MAF-C3BB.)|<details><summary>detail</summary>accepted by ACM MM 2026</details>|
 |**2026-7-7**|**Tuned Reverse Distillation: Enhancing Multimodal Industrial Anomaly Detection with Crossmodal Tuners**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2412.08949)|[code](https://github.com/hito2448/TRD.)|<details><summary>detail</summary>Accepted by TMM</details>|
 |**2026-7-7**|**Modeling Normal Is All You Need: Joint Latent Clustering for Anomaly Detection in Multimodal Cyber-Physical Systems**|Alexander Apartsin et.al|[paper](https://arxiv.org/abs/2607.06094)|-|-|
@@ -157,7 +158,6 @@
 |**2026-3-23**|**Multimodal Industrial Anomaly Detection via Geometric Prior**|Min Li et.al|[paper](https://arxiv.org/abs/2603.22757)|-|<details><summary>detail</summary>Accepted for publication in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</details>|
 |**2026-3-23**|**Towards Multimodal Time Series Anomaly Detection with Semantic Alignment and Condensed Interaction**|Shiyan Hu et.al|[paper](https://arxiv.org/abs/2603.21612)|[code](https://github.com/decisionintelligence/MindTS.)|<details><summary>detail</summary>ICLR 2026</details>|
 |**2026-3-23**|**Exploring Multimodal Prompts For Unsupervised Continuous Anomaly Detection**|Mingle Zhou et.al|[paper](https://arxiv.org/abs/2603.21562)|-|-|
-|**2026-3-4**|**Cross-Modal Mapping and Dual-Branch Reconstruction for 2D-3D Multimodal Industrial Anomaly Detection**|Radia Daci et.al|[paper](https://arxiv.org/abs/2603.03939)|[code](https://github.com/ECGAI-Research/CMDR-IAD/)|-|
 
 ## Vector Quantization
 
