@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.07.30
+## Updated on 2026.07.31
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-30**|**BladeYOLO: Wind Turbine Blade Defect Detection with Limited Annotations and Weak-Saliency Awareness**|Yabin Xu et.al|[paper](https://arxiv.org/abs/2607.28065)|[code](https://github.com/zhangfangtao/BladeYOLO)|<details><summary>detail</summary>IEEE TGRS</details>|
 |**2026-7-22**|**SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection**|Paul Julius Kühn et.al|[paper](https://arxiv.org/abs/2604.26633)|-|-|
 |**2026-7-16**|**LPCAN: Lightweight Pyramid Cross-Attention Network for Rail Surface Defect Detection Using RGB-D Data**|Jackie Alex et.al|[paper](https://arxiv.org/abs/2601.09118)|-|<details><summary>detail</summary>arXiv admin note: This paper has been withdrawn by arXiv due to unverifiable authorship and affiliation</details>|
 |**2026-7-13**|**Rough Path Signature-Guided Geometry Augmentation for Few-Shot Industrial Surface Defect Detection**|Jiaqi Kuang et.al|[paper](https://arxiv.org/abs/2607.12245)|-|-|
@@ -37,7 +38,6 @@
 |**2026-5-20**|**BioDefect: The First Dataset for Defect Detection in Bioinformatics Software**|Tianxiang Xu et.al|[paper](https://arxiv.org/abs/2605.20788)|-|-|
 |**2026-5-19**|**Interpretable Computer Vision for Defect Detection in X-ray Tomography of Aerospace SiC/SiC Composites**|Antonio Peña Corredor et.al|[paper](https://arxiv.org/abs/2605.20159)|-|-|
 |**2026-5-17**|**Network Knowledge Prior Guided Learning for Data-Efficient Surface Defect Detection**|Hang-Cheng Dong et.al|[paper](https://arxiv.org/abs/2605.17780)|-|-|
-|**2026-5-13**|**Hybrid Quantum-MambaVision: A Quantum-enhanced State Space Model for Calibrated Mixed-type Wafer Defect Detection**|Satwik Sai Prakash Sahoo et.al|[paper](https://arxiv.org/abs/2605.16404)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-30**|**Learning to Detect Cyber Attacks: Neural Anomaly Detection for Cybersecurity with Theoretical Insights**|Tian-Yi Zhou et.al|[paper](https://arxiv.org/abs/2409.08521)|-|-|
+|**2026-7-30**|**Isolating to Harness: Cross-Division Distillation for Fully Unsupervised Anomaly Detection**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2508.18007)|[code](https://github.com/hito2448/CDD.)|<details><summary>detail</summary>Accepted by TCSVT</details>|
+|**2026-7-30**|**ZAPs: A Reward Attribution Framework for DeFi Ecosystems with Adversarial-Robust Scoring via Parallel Anomaly Ensemble Detection**|Girish G N et.al|[paper](https://arxiv.org/abs/2607.27859)|-|-|
+|**2026-7-29**|**CORE: In-Context Reconstruction for Unified Tabular Anomaly Detection**|Yunfeng Zhao et.al|[paper](https://arxiv.org/abs/2607.27615)|-|-|
+|**2026-7-29**|**INCLAIR: Inception-Based Longitudinal Clinical Anomaly Detection with Informed Reasoning**|Maxx Richard Rahman et.al|[paper](https://arxiv.org/abs/2607.27487)|-|-|
 |**2026-7-29**|**Early Failure Prediction from Near-Anomaly Detection: A Proactive Approach**|Léa Billet et.al|[paper](https://arxiv.org/abs/2607.26704)|-|<details><summary>detail</summary>Journal ref:37th International Conference on Principles of Diagnosis and Resilient Systems (DX 2026)</details>|
 |**2026-7-29**|**OmniAD: Detect and Understand Industrial Anomaly via Multimodal Reasoning**|Shifang Zhao et.al|[paper](https://arxiv.org/abs/2505.22039)|-|-|
 |**2026-7-29**|**When Rule Violations Are Rare: Chimera Training for Logical Anomaly Detection**|Alejandro Ascarate et.al|[paper](https://arxiv.org/abs/2605.26171)|-|-|
@@ -93,11 +98,6 @@
 |**2026-7-24**|**Conformal Anomaly Detection in Python: Moving Beyond Heuristic Thresholds with nonconform**|Oliver Hennhöfer et.al|[paper](https://arxiv.org/abs/2605.13642)|-|-|
 |**2026-7-24**|**Interpretable Anomaly and Drift Detection with Gaussian Mixture Models**|Behnam Asadi et.al|[paper](https://arxiv.org/abs/2607.16811)|-|-|
 |**2026-7-23**|**Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana**|T. Ansah-Narh et.al|[paper](https://arxiv.org/abs/2607.21559)|-|<details><summary>detail</summary>32</details>|
-|**2026-7-22**|**Rethinking Open-World Video Anomaly Detection: Diagnosing Definition Blindness**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2607.20780)|-|<details><summary>detail</summary>Preprint</details>|
-|**2026-7-22**|**Facade: High-Precision Insider Threat Detection Using Deep Contextual Anomaly Detection**|Alex Kantchelian et.al|[paper](https://arxiv.org/abs/2412.06700)|-|-|
-|**2026-7-22**|**Classical Hardware Acceleration of Quantum Autoencoders for Real-Time Anomaly Detection in Collider Experiments**|Ivan Ge et.al|[paper](https://arxiv.org/abs/2607.20302)|-|-|
-|**2026-7-22**|**NeuCoReClass AD: Redefining Self-Supervised Time Series Anomaly Detection**|Aitor Sánchez-Ferrera et.al|[paper](https://arxiv.org/abs/2508.00909)|-|<details><summary>detail</summary>Journal ref:Neural Networks</details>|
-|**2026-7-22**|**Drift-Aware RL-based Wavelet Denoising for Network-Traffic Anomaly Detection**|Priyalakshmi Sheela et.al|[paper](https://arxiv.org/abs/2607.20011)|-|<details><summary>detail</summary>Submitted to IEEE Transactions on Wireless Communications</details>|
 
 ## 3D Anomaly Detection
 
