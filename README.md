@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.08.04
+## Updated on 2026.08.05
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-4**|**Keep the Needle, Prune the Haystack: Defect-Preserving Token Pruning for Efficient Zero-Shot Anomaly Detection**|Yanning Hou et.al|[paper](https://arxiv.org/abs/2608.03681)|[code](https://github.com/7HHHHH/fast-uniadet)|<details><summary>detail</summary>Code: https://github</details>|
 |**2026-7-30**|**BladeYOLO: Wind Turbine Blade Defect Detection with Limited Annotations and Weak-Saliency Awareness**|Yabin Xu et.al|[paper](https://arxiv.org/abs/2607.28065)|[code](https://github.com/zhangfangtao/BladeYOLO)|<details><summary>detail</summary>IEEE TGRS</details>|
 |**2026-7-22**|**SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection**|Paul Julius Kühn et.al|[paper](https://arxiv.org/abs/2604.26633)|-|-|
 |**2026-7-16**|**LPCAN: Lightweight Pyramid Cross-Attention Network for Rail Surface Defect Detection Using RGB-D Data**|Jackie Alex et.al|[paper](https://arxiv.org/abs/2601.09118)|-|<details><summary>detail</summary>arXiv admin note: This paper has been withdrawn by arXiv due to unverifiable authorship and affiliation</details>|
@@ -37,7 +38,6 @@
 |**2026-5-23**|**FDDet: Achieving Data-Efficient Food Defect Detection Under Real-World Scenarios**|Ruihao Xu et.al|[paper](https://arxiv.org/abs/2605.24508)|-|-|
 |**2026-5-20**|**BioDefect: The First Dataset for Defect Detection in Bioinformatics Software**|Tianxiang Xu et.al|[paper](https://arxiv.org/abs/2605.20788)|-|-|
 |**2026-5-19**|**Interpretable Computer Vision for Defect Detection in X-ray Tomography of Aerospace SiC/SiC Composites**|Antonio Peña Corredor et.al|[paper](https://arxiv.org/abs/2605.20159)|-|-|
-|**2026-5-17**|**Network Knowledge Prior Guided Learning for Data-Efficient Surface Defect Detection**|Hang-Cheng Dong et.al|[paper](https://arxiv.org/abs/2605.17780)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-4**|**PRISM: Powerful Time Series to Image (TS2I) Representations for Multivariate Anomaly Detection**|Mateusz Smendowski et.al|[paper](https://arxiv.org/abs/2608.03926)|[code](https://github.com/Smendowski/PRISM.)|-|
+|**2026-8-4**|**Keep the Needle, Prune the Haystack: Defect-Preserving Token Pruning for Efficient Zero-Shot Anomaly Detection**|Yanning Hou et.al|[paper](https://arxiv.org/abs/2608.03681)|[code](https://github.com/7HHHHH/fast-uniadet)|<details><summary>detail</summary>Code: https://github</details>|
+|**2026-8-4**|**Conformal Anomaly Detection in Python: Moving Beyond Heuristic Thresholds with nonconform**|Oliver Hennhöfer et.al|[paper](https://arxiv.org/abs/2605.13642)|-|-|
+|**2026-8-4**|**STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2511.15339)|-|<details><summary>detail</summary>Published in the proceedings of the 2026 IEEE Intelligent Vehicles Symposium (IV 2026)</details>|
+|**2026-8-3**|**Material-Segmented Per-Pixel Emissivity Correction for Thermographic Anomaly Detection in Cultural Heritage Digital Twins**|Jonathan Klingspon et.al|[paper](https://arxiv.org/abs/2608.02964)|-|-|
+|**2026-8-3**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al|[paper](https://arxiv.org/abs/2410.00713)|[code](https://chang-xinhai.github.io/rad-website/.)|-|
 |**2026-8-3**|**CAPMix: Robust KPI Anomaly Detection for AIOps in Noisy and Dynamic Environments**|Xudong Mou et.al|[paper](https://arxiv.org/abs/2509.06419)|[code](https://doi.org/10.1145/3832783.3834487)|<details><summary>detail</summary>Accepted for publication at the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)</details>|
 |**2026-8-3**|**Early Failure Prediction from Near-Anomaly Detection: A Proactive Approach**|L{é}a Billet et.al|[paper](https://arxiv.org/abs/2607.26704)|-|<details><summary>detail</summary>Journal ref:37th International Conference on Principles of Diagnosis and Resilient Systems (DX 2026)</details>|
 |**2026-8-3**|**CARE: A Cascaded Framework for Efficient and Reliable Time Series Anomaly Detection**|Zemin Chao et.al|[paper](https://arxiv.org/abs/2608.01885)|-|-|
@@ -92,12 +98,6 @@
 |**2026-7-30**|**Simulative Anomaly Detection using 2D Tomography**|Moti Ben-Harush et.al|[paper](https://arxiv.org/abs/2607.28701)|-|-|
 |**2026-7-30**|**Isolating to Harness: Cross-Division Distillation for Fully Unsupervised Anomaly Detection**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2508.18007)|[code](https://github.com/hito2448/CDD.)|<details><summary>detail</summary>Accepted by TCSVT</details>|
 |**2026-7-30**|**ZAPs: A Reward Attribution Framework for DeFi Ecosystems with Adversarial-Robust Scoring via Parallel Anomaly Ensemble Detection**|Girish G N et.al|[paper](https://arxiv.org/abs/2607.27859)|-|-|
-|**2026-7-29**|**CORE: In-Context Reconstruction for Unified Tabular Anomaly Detection**|Yunfeng Zhao et.al|[paper](https://arxiv.org/abs/2607.27615)|-|-|
-|**2026-7-29**|**INCLAIR: Inception-Based Longitudinal Clinical Anomaly Detection with Informed Reasoning**|Maxx Richard Rahman et.al|[paper](https://arxiv.org/abs/2607.27487)|-|-|
-|**2026-7-29**|**OmniAD: Detect and Understand Industrial Anomaly via Multimodal Reasoning**|Shifang Zhao et.al|[paper](https://arxiv.org/abs/2505.22039)|-|-|
-|**2026-7-29**|**When Rule Violations Are Rare: Chimera Training for Logical Anomaly Detection**|Alejandro Ascarate et.al|[paper](https://arxiv.org/abs/2605.26171)|-|-|
-|**2026-7-28**|**Group Equivariant Diffusion for Anomaly Detection in Computational Cytology**|Swarnadip Chatterjee et.al|[paper](https://arxiv.org/abs/2607.25503)|[code](https://swchmida.github.io/D4diffCyto/.)|-|
-|**2026-7-28**|**CFR-Net:Collaborative Feature Refinement Network for Medical Image Anomaly Detection**|Zihan Nie et.al|[paper](https://arxiv.org/abs/2607.11509)|-|-|
 
 ## 3D Anomaly Detection
 
