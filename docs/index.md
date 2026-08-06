@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.08.05
+## Updated on 2026.08.06
 
 ## Defect Detection
 
@@ -73,10 +73,17 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-5**|**VQ-VAD: Vector-quantized Motion Representation Learning for Human-centric Video Anomaly Detection**|Narges Rashvand et.al|[paper](https://arxiv.org/abs/2608.05069)|[code](https://github.com/TeCSAR-UNCC/VQ-VAD.)|-|
+|**2026-8-5**|**Towards Valid B-Rep Generation: Training-Free Wireframe Anomaly Detection and Repair**|Jingyu Wu et.al|[paper](https://arxiv.org/abs/2608.04955)|-|<details><summary>detail</summary>AAAI 2027 submission</details>|
+|**2026-8-5**|**Attention, Anomalies! Handling Attention Layers in Unsupervised Federated Outlier Detection**|Mihailo Ilić et.al|[paper](https://arxiv.org/abs/2608.04753)|-|<details><summary>detail</summary>Submitted to the 4th IEEE International Conference on Federated Learning Technologies and Applications (FLTA 2026)</details>|
+|**2026-8-5**|**Why Ranking Anomaly Detection Algorithms Isn't as Reliable as You May Think**|Simon Klüttermann et.al|[paper](https://arxiv.org/abs/2608.04613)|-|<details><summary>detail</summary>the 2026 ICPR Workshop on Workshop on Reproducible Research in Pattern Recognition</details>|
+|**2026-8-5**|**Just Repair: A Minimal Denoising Network for Time Series Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2604.17388)|[code](https://github.com/iis-esslingen/JuRe.)|-|
+|**2026-8-4**|**PADFormer: Pose-agnostic Anomaly Detection from Sparse View Images**|Ruiqi Wang et.al|[paper](https://arxiv.org/abs/2608.04210)|-|<details><summary>detail</summary>ECCV 2026 (oral)</details>|
 |**2026-8-4**|**PRISM: Powerful Time Series to Image (TS2I) Representations for Multivariate Anomaly Detection**|Mateusz Smendowski et.al|[paper](https://arxiv.org/abs/2608.03926)|[code](https://github.com/Smendowski/PRISM.)|-|
 |**2026-8-4**|**Keep the Needle, Prune the Haystack: Defect-Preserving Token Pruning for Efficient Zero-Shot Anomaly Detection**|Yanning Hou et.al|[paper](https://arxiv.org/abs/2608.03681)|[code](https://github.com/7HHHHH/fast-uniadet)|<details><summary>detail</summary>Code: https://github</details>|
 |**2026-8-4**|**Conformal Anomaly Detection in Python: Moving Beyond Heuristic Thresholds with nonconform**|Oliver Hennhöfer et.al|[paper](https://arxiv.org/abs/2605.13642)|-|-|
 |**2026-8-4**|**STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2511.15339)|-|<details><summary>detail</summary>Published in the proceedings of the 2026 IEEE Intelligent Vehicles Symposium (IV 2026)</details>|
+|**2026-8-3**|**An Explainable LLM Agent Layer for Open-World Anomaly Detection in Oil Wells**|Lucas Gouveia Omena Lopes et.al|[paper](https://arxiv.org/abs/2608.04041)|-|-|
 |**2026-8-3**|**Material-Segmented Per-Pixel Emissivity Correction for Thermographic Anomaly Detection in Cultural Heritage Digital Twins**|Jonathan Klingspon et.al|[paper](https://arxiv.org/abs/2608.02964)|-|-|
 |**2026-8-3**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al|[paper](https://arxiv.org/abs/2410.00713)|[code](https://chang-xinhai.github.io/rad-website/.)|-|
 |**2026-8-3**|**CAPMix: Robust KPI Anomaly Detection for AIOps in Noisy and Dynamic Environments**|Xudong Mou et.al|[paper](https://arxiv.org/abs/2509.06419)|[code](https://doi.org/10.1145/3832783.3834487)|<details><summary>detail</summary>Accepted for publication at the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)</details>|
@@ -91,13 +98,6 @@
 |**2026-8-1**|**Beyond Static Anchors: Bounded Prototype Conditioning for Language-Free Medical Anomaly Detection**|Yibo Wan et.al|[paper](https://arxiv.org/abs/2608.00442)|-|-|
 |**2026-7-31**|**OrEdge: Efficient Multi-Modal Anomaly Detection in Distributed Software Systems via Orthogonal-Domain Learning**|Amr M. Zaki et.al|[paper](https://arxiv.org/abs/2608.00309)|[code](https://github.com/theamrzaki/MicroService_Twin_Original.)|-|
 |**2026-7-31**|**Exploring Block Anomaly Detection In HDFS Log Data Analysis**|WenYang Zhong et.al|[paper](https://arxiv.org/abs/2607.29383)|-|-|
-|**2026-7-31**|**VFAD: Variational Semantic Prompting Meets Frequency-Adaptive Representation Learning for Zero-Shot Anomaly Detection**|Peng Chen et.al|[paper](https://arxiv.org/abs/2607.29370)|-|-|
-|**2026-7-31**|**Latent Sculpting for Zero-Shot Generalization: A Manifold Learning Approach to Out-of-Distribution Anomaly Detection**|Rajeeb Thapa Chhetri et.al|[paper](https://arxiv.org/abs/2512.22179)|[code](https://github.com/Rajeeb321123/Latent_sculpting_using_two_stage_method)|-|
-|**2026-7-31**|**ReMoE: Report-Guided Mixture-of-Experts for Multimodal OCT/OCTA Anomaly Detection**|Zihan Nie et.al|[paper](https://arxiv.org/abs/2607.29039)|-|-|
-|**2026-7-30**|**Learning to Detect Cyber Attacks: Neural Anomaly Detection for Cybersecurity with Theoretical Insights**|Tian-Yi Zhou et.al|[paper](https://arxiv.org/abs/2409.08521)|-|-|
-|**2026-7-30**|**Simulative Anomaly Detection using 2D Tomography**|Moti Ben-Harush et.al|[paper](https://arxiv.org/abs/2607.28701)|-|-|
-|**2026-7-30**|**Isolating to Harness: Cross-Division Distillation for Fully Unsupervised Anomaly Detection**|Xinyue Liu et.al|[paper](https://arxiv.org/abs/2508.18007)|[code](https://github.com/hito2448/CDD.)|<details><summary>detail</summary>Accepted by TCSVT</details>|
-|**2026-7-30**|**ZAPs: A Reward Attribution Framework for DeFi Ecosystems with Adversarial-Robust Scoring via Parallel Anomaly Ensemble Detection**|Girish G N et.al|[paper](https://arxiv.org/abs/2607.27859)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-5**|**SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant**|Adel Javanmard et.al|[paper](https://arxiv.org/abs/2608.05127)|-|-|
+|**2026-8-5**|**VQ-VAD: Vector-quantized Motion Representation Learning for Human-centric Video Anomaly Detection**|Narges Rashvand et.al|[paper](https://arxiv.org/abs/2608.05069)|[code](https://github.com/TeCSAR-UNCC/VQ-VAD.)|-|
+|**2026-8-4**|**Spend Bits Where Queries Look: KV Cache Vector Quantization with Attention-Preserving Transforms**|Samuel Fernández-Menduiña et.al|[paper](https://arxiv.org/abs/2608.04074)|-|-|
 |**2026-7-31**|**Distributional Matching for Vector Quantization: A Unified Theoretical and Empirical Framework**|Xianghong Fang et.al|[paper](https://arxiv.org/abs/2607.15933)|-|-|
 |**2026-7-30**|**FairDiffuseVQVAE: Sampling-Time Fairness in Tabular Diffusion via Conditional Refinement of Vector-Quantized Latents**|Nitish Nagesh et.al|[paper](https://arxiv.org/abs/2607.28945)|-|-|
 |**2026-7-27**|**A Motion-Aware Vector Quantization Framework with Centroid Reuse for Efficient VLA Inference**|Zhuoran Song et.al|[paper](https://arxiv.org/abs/2607.24148)|-|-|
@@ -185,7 +188,4 @@
 |**2026-6-1**|**Channel-wise Vector Quantization**|Wei Song et.al|[paper](https://arxiv.org/abs/2605.26089)|-|-|
 |**2026-6-1**|**Massive Spikes in LLMs are Bias Vectors: Mechanistic Uncovering and Spike-Free Quantization**|Yung-Chin Chen et.al|[paper](https://arxiv.org/abs/2606.02288)|-|-|
 |**2026-5-31**|**Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning**|Zian Zhai et.al|[paper](https://arxiv.org/abs/2508.06588)|-|<details><summary>detail</summary>ICML2026</details>|
-|**2026-5-27**|**ArcVQ-VAE: A Spherical Vector Quantization Framework with ArcCosine Additive Margin**|Jaeyung Kim et.al|[paper](https://arxiv.org/abs/2605.13517)|[code](https://github.com/goals4292/ArcVQ-VAE)|<details><summary>detail</summary>To appear in Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)</details>|
-|**2026-5-26**|**DiVeQ: Differentiable Vector Quantization Using the Reparameterization Trick**|Mohammad Hassan Vali et.al|[paper](https://arxiv.org/abs/2509.26469)|-|-|
-|**2026-5-26**|**Training-Free Vector Quantization via Gaussian VAEs**|Tongda Xu et.al|[paper](https://arxiv.org/abs/2512.06609)|[code](https://github.com/tongdaxu/VQ-VAE-from-Gaussian-VAE.)|-|
 
