@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.08.09
+## Updated on 2026.08.10
 
 ## Defect Detection
 
@@ -73,6 +73,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-7**|**MuST-VAD: Mutual Structured Learning for Video Anomaly Detection**|Satoshi Hashimoto et.al|[paper](https://arxiv.org/abs/2608.06913)|-|-|
 |**2026-8-6**|**Localized Anomaly Detection via Differentiable D-vine Copulas**|Nicholas Andrea Pearson et.al|[paper](https://arxiv.org/abs/2607.25020)|-|<details><summary>detail</summary>Workshop paper accepted for presentation at the CAESAR workshop within ECML-PKDD (September 2026</details>|
 |**2026-8-6**|**ConceptADapt: Concept-guided Adaptive Feature Reconstruction with Dynamic Attention for Few-Shot Industrial Anomaly Detection**|Yufei Li et.al|[paper](https://arxiv.org/abs/2608.05743)|-|-|
 |**2026-8-6**|**Grounded Well-Condition Anomaly Detection on the Volve Field: Constructed Labels, a Baseline, and a Dual-Head Model**|Gospel Bassey et.al|[paper](https://arxiv.org/abs/2608.05685)|-|-|
@@ -97,7 +98,6 @@
 |**2026-8-1**|**ArcAD: Anomaly-Rectified Calibration for Cold-Start Supervised Anomaly Detection**|Ningning Han et.al|[paper](https://arxiv.org/abs/2607.02252)|[code](https://github.com/LGC-AD/ArcAD.)|<details><summary>detail</summary>European Conference on Computer Vision (ECCV) 2026</details>|
 |**2026-8-1**|**Towards Anomaly Detection on Relational Data**|Shiyuan Li et.al|[paper](https://arxiv.org/abs/2606.18621)|[code](https://github.com/Shiy-Li/RelAD.)|-|
 |**2026-8-1**|**FreqAnchorAD: Language-Free Zero-Shot Anomaly Detection via Frequency-Deviation Anchoring**|Jianfeng Qiu et.al|[paper](https://arxiv.org/abs/2608.00695)|-|-|
-|**2026-8-1**|**Reconstruction-Shift Discrimination via Mask-Guided Latent Diffusion for Medical Anomaly Detection**|Yibo Wan et.al|[paper](https://arxiv.org/abs/2608.00444)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,7 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-8-5**|**SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant**|Adel Javanmard et.al|[paper](https://arxiv.org/abs/2608.05127)|-|-|
+|**2026-8-6**|**SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant**|Adel Javanmard et.al|[paper](https://arxiv.org/abs/2608.05127)|-|-|
 |**2026-8-5**|**VQ-VAD: Vector-quantized Motion Representation Learning for Human-centric Video Anomaly Detection**|Narges Rashvand et.al|[paper](https://arxiv.org/abs/2608.05069)|[code](https://github.com/TeCSAR-UNCC/VQ-VAD.)|-|
 |**2026-8-4**|**Spend Bits Where Queries Look: KV Cache Vector Quantization with Attention-Preserving Transforms**|Samuel Fernández-Menduiña et.al|[paper](https://arxiv.org/abs/2608.04074)|-|-|
 |**2026-7-31**|**Distributional Matching for Vector Quantization: A Unified Theoretical and Empirical Framework**|Xianghong Fang et.al|[paper](https://arxiv.org/abs/2607.15933)|-|-|
