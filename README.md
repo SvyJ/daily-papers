@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.08.11
+## Updated on 2026.08.12
 
 ## Defect Detection
 
@@ -73,6 +73,15 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-11**|**ProTAGAD: A Foundation Model for TAG Anomaly Detection with Decoupled Topological and Textual Prototypes**|Ziyan Wang et.al|[paper](https://arxiv.org/abs/2608.10699)|-|-|
+|**2026-8-11**|**GridVAD: Open-Set Video Anomaly Detection via Spatial Reasoning over Stratified Frame Grids**|Mohamed Eltahir et.al|[paper](https://arxiv.org/abs/2603.25467)|[code](https://gridvad.github.io.)|<details><summary>detail</summary>the Large-scale Video Object Segmentation (LVOS) Workshop in conjunction with ECCV 2026</details>|
+|**2026-8-11**|**An Insight on Evaluation Metrics Under the Imbalanced Case of Anomaly Detection**|Romain Hermary et.al|[paper](https://arxiv.org/abs/2607.22286)|-|<details><summary>detail</summary>Published in EUVIP 2026</details>|
+|**2026-8-10**|**Anomaly Detection and Root Cause Analysis for Microservice Systems**|Luan Pham et.al|[paper](https://arxiv.org/abs/2606.09942)|-|<details><summary>detail</summary>This is the pre-print of my PhD thesis</details>|
+|**2026-8-10**|**From Detection to Understanding: TAR and TAR-Bench for Multi-Task Traffic Anomaly Reasoning**|Han Zhang et.al|[paper](https://arxiv.org/abs/2608.10317)|[code](https://huggingface.co/datasets/nvidia/PhysicalAI-Traffic-Anomaly-Reasoning)|-|
+|**2026-8-10**|**Embeddings based Anomaly Detection for Cleaning Global Crop Type Reference Datasets**|Syed Roshaan Ali Shah et.al|[paper](https://arxiv.org/abs/2607.23908)|-|<details><summary>detail</summary>Camera-ready version</details>|
+|**2026-8-10**|**STCAD: Scalable Trajectory Clustering and Anomaly Detection on Terabyte-Scale AIS Data**|Bertram Hage et.al|[paper](https://arxiv.org/abs/2608.10249)|-|<details><summary>detail</summary>IGARSS 2026</details>|
+|**2026-8-10**|**Unsupervised Detection of Groundwater Storage Anomalies in Ghana Using GRACE Satellite Data**|George Yamoah Afrifa et.al|[paper](https://arxiv.org/abs/2608.10233)|-|-|
+|**2026-8-10**|**DQS: A Low-Budget Query Strategy for Enhancing Unsupervised Data-driven Anomaly Detection Approaches**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2509.05663)|-|-|
 |**2026-8-10**|**Beyond Hazard Resemblance: Contrastive Event Adjudication for Training-Free Video Anomaly Detection**|Wenti Yin et.al|[paper](https://arxiv.org/abs/2608.09908)|[code](https://github.com/lessiYin/CEAVAD)|<details><summary>detail</summary>Code is available at https://github</details>|
 |**2026-8-10**|**ADOPD: Reference-Privileged On-Policy Distillation for MLLM-Based Industrial Anomaly Detection**|Jingtai He et.al|[paper](https://arxiv.org/abs/2608.09789)|[code](https://github.com/withTai/ADOPD.)|-|
 |**2026-8-10**|**Continual Visual Anomaly Detection on the Edge: Benchmark and Efficient Solutions**|Manuel Barusco et.al|[paper](https://arxiv.org/abs/2604.06435)|-|-|
@@ -81,7 +90,6 @@
 |**2026-8-9**|**Agentic Anomaly Detection with ORCA-Style Dynamic Inductive Bias Adaptation in Multimodal Wearable Time Series Data**|Anushka Roy et.al|[paper](https://arxiv.org/abs/2608.08859)|-|-|
 |**2026-8-9**|**Attention-Guided Perturbation Network for Industrial Anomaly Detection**|Tingfeng Huang et.al|[paper](https://arxiv.org/abs/2408.07490)|-|<details><summary>detail</summary>Accepted by PRCV 2026</details>|
 |**2026-8-9**|**Modeling Normal Is All You Need: Joint Latent Clustering for Anomaly Detection in Multimodal Cyber-Physical Systems**|Alexander Apartsin et.al|[paper](https://arxiv.org/abs/2607.06094)|-|-|
-|**2026-8-9**|**Anomaly Detection and Root Cause Analysis for Microservice Systems**|Luan Pham et.al|[paper](https://arxiv.org/abs/2606.09942)|-|<details><summary>detail</summary>This is the pre-print of my PhD thesis</details>|
 |**2026-8-9**|**Keep the Needle, Prune the Haystack: Defect-Preserving Token Pruning for Efficient Zero-Shot Anomaly Detection**|Yanning Hou et.al|[paper](https://arxiv.org/abs/2608.03681)|-|-|
 |**2026-8-8**|**VTO: Visual Tool Orchestration for Video Anomaly Detection**|Rui Wang et.al|[paper](https://arxiv.org/abs/2608.08219)|[code](https://github.com/MICLAB-BUPT/VTO.)|<details><summary>detail</summary>Accepted by ACM MM 2026</details>|
 |**2026-8-8**|**Adversarially Robust Few-Shot Anomaly Detection with Vision Foundation Models**|Akib Mohammed Khan et.al|[paper](https://arxiv.org/abs/2510.13643)|-|<details><summary>detail</summary>BMVC 2026</details>|
@@ -90,14 +98,6 @@
 |**2026-8-7**|**MuST-VAD: Mutual Structured Learning for Video Anomaly Detection**|Satoshi Hashimoto et.al|[paper](https://arxiv.org/abs/2608.06913)|-|-|
 |**2026-8-6**|**Localized Anomaly Detection via Differentiable D-vine Copulas**|Nicholas Andrea Pearson et.al|[paper](https://arxiv.org/abs/2607.25020)|-|<details><summary>detail</summary>Workshop paper accepted for presentation at the CAESAR workshop within ECML-PKDD (September 2026</details>|
 |**2026-8-6**|**ConceptADapt: Concept-guided Adaptive Feature Reconstruction with Dynamic Attention for Few-Shot Industrial Anomaly Detection**|Yufei Li et.al|[paper](https://arxiv.org/abs/2608.05743)|-|-|
-|**2026-8-6**|**Grounded Well-Condition Anomaly Detection on the Volve Field: Constructed Labels, a Baseline, and a Dual-Head Model**|Gospel Bassey et.al|[paper](https://arxiv.org/abs/2608.05685)|-|-|
-|**2026-8-6**|**Towards Valid B-Rep Generation: Training-Free Wireframe Anomaly Detection and Repair**|Jingyu Wu et.al|[paper](https://arxiv.org/abs/2608.04955)|-|-|
-|**2026-8-5**|**VQ-VAD: Vector-quantized Motion Representation Learning for Human-centric Video Anomaly Detection**|Narges Rashvand et.al|[paper](https://arxiv.org/abs/2608.05069)|[code](https://github.com/TeCSAR-UNCC/VQ-VAD.)|-|
-|**2026-8-5**|**Attention, Anomalies! Handling Attention Layers in Unsupervised Federated Outlier Detection**|Mihailo Ilić et.al|[paper](https://arxiv.org/abs/2608.04753)|-|<details><summary>detail</summary>Submitted to the 4th IEEE International Conference on Federated Learning Technologies and Applications (FLTA 2026)</details>|
-|**2026-8-5**|**Why Ranking Anomaly Detection Algorithms Isn't as Reliable as You May Think**|Simon Klüttermann et.al|[paper](https://arxiv.org/abs/2608.04613)|-|<details><summary>detail</summary>the 2026 ICPR Workshop on Workshop on Reproducible Research in Pattern Recognition</details>|
-|**2026-8-5**|**Just Repair: A Minimal Denoising Network for Time Series Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2604.17388)|[code](https://github.com/iis-esslingen/JuRe.)|-|
-|**2026-8-4**|**PADFormer: Pose-agnostic Anomaly Detection from Sparse View Images**|Ruiqi Wang et.al|[paper](https://arxiv.org/abs/2608.04210)|-|<details><summary>detail</summary>ECCV 2026 (oral)</details>|
-|**2026-8-4**|**PRISM: Powerful Time Series to Image (TS2I) Representations for Multivariate Anomaly Detection**|Mateusz Smendowski et.al|[paper](https://arxiv.org/abs/2608.03926)|[code](https://github.com/Smendowski/PRISM.)|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-11**|**Bandwidth-Efficient Multi-Agent Communication through Information Bottleneck and Vector Quantization**|Ahmad Farooq et.al|[paper](https://arxiv.org/abs/2602.02035)|-|<details><summary>detail</summary>IEEE ICRA 2026</details>|
+|**2026-8-11**|**GranQ: Efficient Channel-wise Quantization via Vectorized Pre-Scaling for Zero-Shot QAT**|Inpyo Hong et.al|[paper](https://arxiv.org/abs/2503.18339)|-|<details><summary>detail</summary>ACM SAC 2026</details>|
 |**2026-8-6**|**SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant**|Adel Javanmard et.al|[paper](https://arxiv.org/abs/2608.05127)|-|-|
 |**2026-8-5**|**VQ-VAD: Vector-quantized Motion Representation Learning for Human-centric Video Anomaly Detection**|Narges Rashvand et.al|[paper](https://arxiv.org/abs/2608.05069)|[code](https://github.com/TeCSAR-UNCC/VQ-VAD.)|-|
 |**2026-8-4**|**Spend Bits Where Queries Look: KV Cache Vector Quantization with Attention-Preserving Transforms**|Samuel Fernández-Menduiña et.al|[paper](https://arxiv.org/abs/2608.04074)|-|-|
@@ -186,6 +188,4 @@
 |**2026-6-5**|**ASH: Asymmetric Scalar Hashing With Learned Dimensionality Reduction for High-Fidelity Vector Quantization**|Mariano Tepper et.al|[paper](https://arxiv.org/abs/2606.07870)|-|-|
 |**2026-6-3**|**RAVQ-HoloNet: Rate-Adaptive Vector-Quantized Hologram Compression**|Shima Rafiei et.al|[paper](https://arxiv.org/abs/2511.21035)|-|-|
 |**2026-6-1**|**Channel-wise Vector Quantization**|Wei Song et.al|[paper](https://arxiv.org/abs/2605.26089)|-|-|
-|**2026-6-1**|**Massive Spikes in LLMs are Bias Vectors: Mechanistic Uncovering and Spike-Free Quantization**|Yung-Chin Chen et.al|[paper](https://arxiv.org/abs/2606.02288)|-|-|
-|**2026-5-31**|**Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning**|Zian Zhai et.al|[paper](https://arxiv.org/abs/2508.06588)|-|<details><summary>detail</summary>ICML2026</details>|
 
