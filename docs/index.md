@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.08.12
+## Updated on 2026.08.13
 
 ## Defect Detection
 
@@ -73,6 +73,16 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-12**|**MVFM-3DAD: Multi-view Flow Matching for 3D Anomaly Detection via Density Proxy Estimation**|Liangwei Li et.al|[paper](https://arxiv.org/abs/2608.12148)|[code](https://github.com/lil-wayne-0319/MV3D-AD)|<details><summary>detail</summary>ICIG 2026 oral presentation</details>|
+|**2026-8-12**|**Localizing to Debias: A Patch-Level Benchmark and Baseline for Weakly Supervised Spatial Anomaly Detection**|Sara Abdulaziz et.al|[paper](https://arxiv.org/abs/2608.12045)|-|<details><summary>detail</summary>ECCV 2026 FAILED Workshop</details>|
+|**2026-8-12**|**Auditing Frame-Level AUC in Weakly Supervised Video Anomaly Detection: Granularity, Resolution, and Scene Bias**|Sara Abdulaziz et.al|[paper](https://arxiv.org/abs/2608.11985)|-|<details><summary>detail</summary>ECCV 2026 ET Workshop</details>|
+|**2026-8-12**|**Dual Anchors, Do It Better: Hierarchical Group Merging for Zero-Shot Anomaly Detection**|Jimin Roh et.al|[paper](https://arxiv.org/abs/2608.11933)|-|-|
+|**2026-8-12**|**TD-VAD: Breaking Visual Dependence in Video Anomaly Detection with Text-Driven Learning**|Shuangqing Zhang et.al|[paper](https://arxiv.org/abs/2608.11820)|-|<details><summary>detail</summary>ICML2026</details>|
+|**2026-8-12**|**Towards Model-based Run-time Cybersecurity: On Control-Flow Anomaly Detection, Attack Identification, and Hardware Monitoring**|Martin Sachenbacher et.al|[paper](https://arxiv.org/abs/2608.11802)|-|-|
+|**2026-8-12**|**Hyper-FSAD: Training-Free and Language-Free Few-Shot Anomaly Detection via Sparse Hyper Matching**|Guohuan Xie et.al|[paper](https://arxiv.org/abs/2605.10628)|-|-|
+|**2026-8-12**|**AgenticTwin: An Agentic LLM Framework Integrated with Digital Twin for Anomaly Detection**|Touseef Hasan et.al|[paper](https://arxiv.org/abs/2608.11679)|-|-|
+|**2026-8-11**|**Grounded Well-Condition Anomaly Detection on the Volve Field: Constructed Labels, a Baseline, and a Dual-Head Model**|Gospel Bassey et.al|[paper](https://arxiv.org/abs/2608.05685)|-|-|
+|**2026-8-11**|**Modeling Spectral Energy Shifts in Spatio-Temporal Graph Anomaly Detection**|Yilin Liu et.al|[paper](https://arxiv.org/abs/2606.00304)|-|-|
 |**2026-8-11**|**ProTAGAD: A Foundation Model for TAG Anomaly Detection with Decoupled Topological and Textual Prototypes**|Ziyan Wang et.al|[paper](https://arxiv.org/abs/2608.10699)|-|-|
 |**2026-8-11**|**GridVAD: Open-Set Video Anomaly Detection via Spatial Reasoning over Stratified Frame Grids**|Mohamed Eltahir et.al|[paper](https://arxiv.org/abs/2603.25467)|[code](https://gridvad.github.io.)|<details><summary>detail</summary>the Large-scale Video Object Segmentation (LVOS) Workshop in conjunction with ECCV 2026</details>|
 |**2026-8-11**|**An Insight on Evaluation Metrics Under the Imbalanced Case of Anomaly Detection**|Romain Hermary et.al|[paper](https://arxiv.org/abs/2607.22286)|-|<details><summary>detail</summary>Published in EUVIP 2026</details>|
@@ -88,21 +98,12 @@
 |**2026-8-9**|**Beyond Static Anchors: Bounded Prototype Conditioning for Language-Free Medical Anomaly Detection**|Yibo Wan et.al|[paper](https://arxiv.org/abs/2608.00442)|-|-|
 |**2026-8-9**|**Federated Attention Autoencoders with a Stochastic Aggregation Scheme for Anomaly Detection**|Mihailo Ilić et.al|[paper](https://arxiv.org/abs/2608.08906)|-|<details><summary>detail</summary>Accepted and presented at the 3rd International Conference on Federated Learning Technologies and Applications (FLTA 2025)</details>|
 |**2026-8-9**|**Agentic Anomaly Detection with ORCA-Style Dynamic Inductive Bias Adaptation in Multimodal Wearable Time Series Data**|Anushka Roy et.al|[paper](https://arxiv.org/abs/2608.08859)|-|-|
-|**2026-8-9**|**Attention-Guided Perturbation Network for Industrial Anomaly Detection**|Tingfeng Huang et.al|[paper](https://arxiv.org/abs/2408.07490)|-|<details><summary>detail</summary>Accepted by PRCV 2026</details>|
-|**2026-8-9**|**Modeling Normal Is All You Need: Joint Latent Clustering for Anomaly Detection in Multimodal Cyber-Physical Systems**|Alexander Apartsin et.al|[paper](https://arxiv.org/abs/2607.06094)|-|-|
-|**2026-8-9**|**Keep the Needle, Prune the Haystack: Defect-Preserving Token Pruning for Efficient Zero-Shot Anomaly Detection**|Yanning Hou et.al|[paper](https://arxiv.org/abs/2608.03681)|-|-|
-|**2026-8-8**|**VTO: Visual Tool Orchestration for Video Anomaly Detection**|Rui Wang et.al|[paper](https://arxiv.org/abs/2608.08219)|[code](https://github.com/MICLAB-BUPT/VTO.)|<details><summary>detail</summary>Accepted by ACM MM 2026</details>|
-|**2026-8-8**|**Adversarially Robust Few-Shot Anomaly Detection with Vision Foundation Models**|Akib Mohammed Khan et.al|[paper](https://arxiv.org/abs/2510.13643)|-|<details><summary>detail</summary>BMVC 2026</details>|
-|**2026-8-8**|**LIBAD: A Multimodal Anomaly Detection Benchmark for Li-Ion Battery Electrode Manufacturing**|Wenbo Sui et.al|[paper](https://arxiv.org/abs/2608.07958)|-|-|
-|**2026-8-7**|**From Benchmark Performance to Tool Deployment: Human-in-the-Loop Anomaly Detection**|Mike Szklarzewski et.al|[paper](https://arxiv.org/abs/2608.07770)|-|-|
-|**2026-8-7**|**MuST-VAD: Mutual Structured Learning for Video Anomaly Detection**|Satoshi Hashimoto et.al|[paper](https://arxiv.org/abs/2608.06913)|-|-|
-|**2026-8-6**|**Localized Anomaly Detection via Differentiable D-vine Copulas**|Nicholas Andrea Pearson et.al|[paper](https://arxiv.org/abs/2607.25020)|-|<details><summary>detail</summary>Workshop paper accepted for presentation at the CAESAR workshop within ECML-PKDD (September 2026</details>|
-|**2026-8-6**|**ConceptADapt: Concept-guided Adaptive Feature Reconstruction with Dynamic Attention for Few-Shot Industrial Anomaly Detection**|Yufei Li et.al|[paper](https://arxiv.org/abs/2608.05743)|-|-|
 
 ## 3D Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-12**|**MVFM-3DAD: Multi-view Flow Matching for 3D Anomaly Detection via Density Proxy Estimation**|Liangwei Li et.al|[paper](https://arxiv.org/abs/2608.12148)|[code](https://github.com/lil-wayne-0319/MV3D-AD)|<details><summary>detail</summary>ICIG 2026 oral presentation</details>|
 |**2026-7-15**|**M2P-AD: Memory-to-Prototype Learning with Boundary-aware Score Refinement for 3D Anomaly Detection**|Seyoung Jeong et.al|[paper](https://arxiv.org/abs/2607.13499)|-|-|
 |**2026-7-12**|**Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection**|Kaiqiang Li et.al|[paper](https://arxiv.org/abs/2603.21511)|[code](https://github.com/wistful-8029/BTP-3DAD)|<details><summary>detail</summary>CVPR 2026</details>|
 |**2026-7-11**|**Physics-inspired Pseudo Anomaly Generation and Prototype Feature Guidance for 3D Anomaly Detection**|Jian Ning et.al|[paper](https://arxiv.org/abs/2607.10544)|[code](https://github.com/NingxiaoJian/PA3AD.)|-|
@@ -127,7 +128,6 @@
 |**2026-2-16**|**Training-Free Zero-Shot Anomaly Detection in 3D Brain MRI with 2D Foundation Models**|Tai Le-Gia et.al|[paper](https://arxiv.org/abs/2602.15315)|-|<details><summary>detail</summary>Accepted for MIDL 2026</details>|
 |**2026-2-11**|**DMP-3DAD: Cross-Category 3D Anomaly Detection via Realistic Depth Map Projection with Few Normal Samples**|Zi Wang et.al|[paper](https://arxiv.org/abs/2602.10806)|-|-|
 |**2025-12-15**|**3D Human-Human Interaction Anomaly Detection**|Shun Maeda et.al|[paper](https://arxiv.org/abs/2512.13560)|-|-|
-|**2025-12-14**|**A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2511.13115)|-|<details><summary>detail</summary>Preprint</details>|
 
 ## Multimodal Anomaly Detection
 
@@ -169,6 +169,7 @@
 |**2026-8-5**|**VQ-VAD: Vector-quantized Motion Representation Learning for Human-centric Video Anomaly Detection**|Narges Rashvand et.al|[paper](https://arxiv.org/abs/2608.05069)|[code](https://github.com/TeCSAR-UNCC/VQ-VAD.)|-|
 |**2026-8-4**|**Spend Bits Where Queries Look: KV Cache Vector Quantization with Attention-Preserving Transforms**|Samuel Fernández-Menduiña et.al|[paper](https://arxiv.org/abs/2608.04074)|-|-|
 |**2026-7-31**|**Distributional Matching for Vector Quantization: A Unified Theoretical and Empirical Framework**|Xianghong Fang et.al|[paper](https://arxiv.org/abs/2607.15933)|-|-|
+|**2026-7-31**|**VQ-bench: A Composable Vector Quantization Framework**|Ashwin Padaki et.al|[paper](https://arxiv.org/abs/2608.11240)|-|<details><summary>detail</summary>Results available on www</details>|
 |**2026-7-30**|**FairDiffuseVQVAE: Sampling-Time Fairness in Tabular Diffusion via Conditional Refinement of Vector-Quantized Latents**|Nitish Nagesh et.al|[paper](https://arxiv.org/abs/2607.28945)|-|-|
 |**2026-7-27**|**A Motion-Aware Vector Quantization Framework with Centroid Reuse for Efficient VLA Inference**|Zhuoran Song et.al|[paper](https://arxiv.org/abs/2607.24148)|-|-|
 |**2026-7-15**|**NSNQuant: A Double Normalization Approach for Calibration-Free Low-Bit Vector Quantization of KV Cache**|Donghyun Son et.al|[paper](https://arxiv.org/abs/2505.18231)|[code](https://github.com/DHdroid/NSNQuant.)|-|
@@ -187,5 +188,4 @@
 |**2026-6-9**|**NSVQ: Mitigating Codebook Collapse by Stabilizing Encoder Drift in Vector Quantization**|Hao Lu et.al|[paper](https://arxiv.org/abs/2606.11363)|-|-|
 |**2026-6-5**|**ASH: Asymmetric Scalar Hashing With Learned Dimensionality Reduction for High-Fidelity Vector Quantization**|Mariano Tepper et.al|[paper](https://arxiv.org/abs/2606.07870)|-|-|
 |**2026-6-3**|**RAVQ-HoloNet: Rate-Adaptive Vector-Quantized Hologram Compression**|Shima Rafiei et.al|[paper](https://arxiv.org/abs/2511.21035)|-|-|
-|**2026-6-1**|**Channel-wise Vector Quantization**|Wei Song et.al|[paper](https://arxiv.org/abs/2605.26089)|-|-|
 
