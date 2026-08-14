@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.08.13
+## Updated on 2026.08.14
 
 ## Defect Detection
 
@@ -73,10 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-12**|**Dual Spatial-Temporal Attribution: Architecture-Aligned Post-Hoc Explainability for Recurrent Graph Anomaly Detection**|Iyad Assaad Nekka et.al|[paper](https://arxiv.org/abs/2608.12441)|-|<details><summary>detail</summary>Under Review : The International Conference on Cooperative Information Systems (CoopIS)</details>|
 |**2026-8-12**|**MVFM-3DAD: Multi-view Flow Matching for 3D Anomaly Detection via Density Proxy Estimation**|Liangwei Li et.al|[paper](https://arxiv.org/abs/2608.12148)|[code](https://github.com/lil-wayne-0319/MV3D-AD)|<details><summary>detail</summary>ICIG 2026 oral presentation</details>|
 |**2026-8-12**|**Localizing to Debias: A Patch-Level Benchmark and Baseline for Weakly Supervised Spatial Anomaly Detection**|Sara Abdulaziz et.al|[paper](https://arxiv.org/abs/2608.12045)|-|<details><summary>detail</summary>ECCV 2026 FAILED Workshop</details>|
 |**2026-8-12**|**Auditing Frame-Level AUC in Weakly Supervised Video Anomaly Detection: Granularity, Resolution, and Scene Bias**|Sara Abdulaziz et.al|[paper](https://arxiv.org/abs/2608.11985)|-|<details><summary>detail</summary>ECCV 2026 ET Workshop</details>|
 |**2026-8-12**|**Dual Anchors, Do It Better: Hierarchical Group Merging for Zero-Shot Anomaly Detection**|Jimin Roh et.al|[paper](https://arxiv.org/abs/2608.11933)|-|-|
+|**2026-8-12**|**Zoom In, Reason Out: Efficient Far-field Anomaly Detection in Expressway Surveillance Videos via Focused VLM Reasoning Guided by Bayesian Inference**|Xiaowei Mao et.al|[paper](https://arxiv.org/abs/2604.23724)|-|-|
 |**2026-8-12**|**TD-VAD: Breaking Visual Dependence in Video Anomaly Detection with Text-Driven Learning**|Shuangqing Zhang et.al|[paper](https://arxiv.org/abs/2608.11820)|-|<details><summary>detail</summary>ICML2026</details>|
 |**2026-8-12**|**Towards Model-based Run-time Cybersecurity: On Control-Flow Anomaly Detection, Attack Identification, and Hardware Monitoring**|Martin Sachenbacher et.al|[paper](https://arxiv.org/abs/2608.11802)|-|-|
 |**2026-8-12**|**Hyper-FSAD: Training-Free and Language-Free Few-Shot Anomaly Detection via Sparse Hyper Matching**|Guohuan Xie et.al|[paper](https://arxiv.org/abs/2605.10628)|-|-|
@@ -96,8 +98,6 @@
 |**2026-8-10**|**ADOPD: Reference-Privileged On-Policy Distillation for MLLM-Based Industrial Anomaly Detection**|Jingtai He et.al|[paper](https://arxiv.org/abs/2608.09789)|[code](https://github.com/withTai/ADOPD.)|-|
 |**2026-8-10**|**Continual Visual Anomaly Detection on the Edge: Benchmark and Efficient Solutions**|Manuel Barusco et.al|[paper](https://arxiv.org/abs/2604.06435)|-|-|
 |**2026-8-9**|**Beyond Static Anchors: Bounded Prototype Conditioning for Language-Free Medical Anomaly Detection**|Yibo Wan et.al|[paper](https://arxiv.org/abs/2608.00442)|-|-|
-|**2026-8-9**|**Federated Attention Autoencoders with a Stochastic Aggregation Scheme for Anomaly Detection**|Mihailo Ilić et.al|[paper](https://arxiv.org/abs/2608.08906)|-|<details><summary>detail</summary>Accepted and presented at the 3rd International Conference on Federated Learning Technologies and Applications (FLTA 2025)</details>|
-|**2026-8-9**|**Agentic Anomaly Detection with ORCA-Style Dynamic Inductive Bias Adaptation in Multimodal Wearable Time Series Data**|Anushka Roy et.al|[paper](https://arxiv.org/abs/2608.08859)|-|-|
 
 ## 3D Anomaly Detection
 
