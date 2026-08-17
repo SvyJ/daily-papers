@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.08.16
+## Updated on 2026.08.17
 
 ## Defect Detection
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-14**|**Cyber Dynamics I: Finite Macrostates for Behavioral Anomaly Detection in Network Telemetry**|Abdul Rahman et.al|[paper](https://arxiv.org/abs/2607.07075)|-|-|
+|**2026-8-14**|**Revisiting Energy-based Tabular Anomaly Detection: Energy and Reconstruction are Complementary**|Junichiro Niimi et.al|[paper](https://arxiv.org/abs/2608.14186)|-|<details><summary>detail</summary>This is the author's version of a paper accepted at the 33rd International Conference on Neural Information Processing (ICONIP 2026)</details>|
+|**2026-8-14**|**Rethinking Auxiliary Modalities in Multimodal Zero-shot Anomaly Detection: From Semantic Fusion to Conditional Modulation**|Peng Wu et.al|[paper](https://arxiv.org/abs/2608.13973)|-|-|
+|**2026-8-13**|**Contrastive Learning for Interpretable Anomaly Detection at Collider Experiments**|Haoyi Jia et.al|[paper](https://arxiv.org/abs/2608.13652)|-|-|
 |**2026-8-12**|**Dual Spatial-Temporal Attribution: Architecture-Aligned Post-Hoc Explainability for Recurrent Graph Anomaly Detection**|Iyad Assaad Nekka et.al|[paper](https://arxiv.org/abs/2608.12441)|-|<details><summary>detail</summary>Under Review : The International Conference on Cooperative Information Systems (CoopIS)</details>|
 |**2026-8-12**|**MVFM-3DAD: Multi-view Flow Matching for 3D Anomaly Detection via Density Proxy Estimation**|Liangwei Li et.al|[paper](https://arxiv.org/abs/2608.12148)|[code](https://github.com/lil-wayne-0319/MV3D-AD)|<details><summary>detail</summary>ICIG 2026 oral presentation</details>|
 |**2026-8-12**|**Localizing to Debias: A Patch-Level Benchmark and Baseline for Weakly Supervised Spatial Anomaly Detection**|Sara Abdulaziz et.al|[paper](https://arxiv.org/abs/2608.12045)|-|<details><summary>detail</summary>ECCV 2026 FAILED Workshop</details>|
@@ -94,10 +98,6 @@
 |**2026-8-10**|**STCAD: Scalable Trajectory Clustering and Anomaly Detection on Terabyte-Scale AIS Data**|Bertram Hage et.al|[paper](https://arxiv.org/abs/2608.10249)|-|<details><summary>detail</summary>IGARSS 2026</details>|
 |**2026-8-10**|**Unsupervised Detection of Groundwater Storage Anomalies in Ghana Using GRACE Satellite Data**|George Yamoah Afrifa et.al|[paper](https://arxiv.org/abs/2608.10233)|-|-|
 |**2026-8-10**|**DQS: A Low-Budget Query Strategy for Enhancing Unsupervised Data-driven Anomaly Detection Approaches**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2509.05663)|-|-|
-|**2026-8-10**|**Beyond Hazard Resemblance: Contrastive Event Adjudication for Training-Free Video Anomaly Detection**|Wenti Yin et.al|[paper](https://arxiv.org/abs/2608.09908)|[code](https://github.com/lessiYin/CEAVAD)|<details><summary>detail</summary>Code is available at https://github</details>|
-|**2026-8-10**|**ADOPD: Reference-Privileged On-Policy Distillation for MLLM-Based Industrial Anomaly Detection**|Jingtai He et.al|[paper](https://arxiv.org/abs/2608.09789)|[code](https://github.com/withTai/ADOPD.)|-|
-|**2026-8-10**|**Continual Visual Anomaly Detection on the Edge: Benchmark and Efficient Solutions**|Manuel Barusco et.al|[paper](https://arxiv.org/abs/2604.06435)|-|-|
-|**2026-8-9**|**Beyond Static Anchors: Bounded Prototype Conditioning for Language-Free Medical Anomaly Detection**|Yibo Wan et.al|[paper](https://arxiv.org/abs/2608.00442)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -133,6 +133,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-14**|**Rethinking Auxiliary Modalities in Multimodal Zero-shot Anomaly Detection: From Semantic Fusion to Conditional Modulation**|Peng Wu et.al|[paper](https://arxiv.org/abs/2608.13973)|-|-|
 |**2026-8-9**|**Agentic Anomaly Detection with ORCA-Style Dynamic Inductive Bias Adaptation in Multimodal Wearable Time Series Data**|Anushka Roy et.al|[paper](https://arxiv.org/abs/2608.08859)|-|-|
 |**2026-8-9**|**Modeling Normal Is All You Need: Joint Latent Clustering for Anomaly Detection in Multimodal Cyber-Physical Systems**|Alexander Apartsin et.al|[paper](https://arxiv.org/abs/2607.06094)|-|-|
 |**2026-8-8**|**LIBAD: A Multimodal Anomaly Detection Benchmark for Li-Ion Battery Electrode Manufacturing**|Wenbo Sui et.al|[paper](https://arxiv.org/abs/2608.07958)|-|-|
@@ -157,7 +158,6 @@
 |**2026-4-10**|**Multimodal Anomaly Detection for Human-Robot Interaction**|Guilherme Ribeiro et.al|[paper](https://arxiv.org/abs/2604.09326)|-|-|
 |**2026-4-7**|**Reasoning-Guided Grounding: Elevating Video Anomaly Detection through Multimodal Large Language Models**|Sakshi Agarwal et.al|[paper](https://arxiv.org/abs/2605.02912)|-|<details><summary>detail</summary>under review at conference</details>|
 |**2026-4-7**|**SGANet: Semantic and Geometric Alignment for Multimodal Multi-view Anomaly Detection**|Letian Bai et.al|[paper](https://arxiv.org/abs/2604.05632)|-|-|
-|**2026-4-1**|**VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection**|Huilin Deng et.al|[paper](https://arxiv.org/abs/2409.20146)|-|-|
 
 ## Vector Quantization
 
