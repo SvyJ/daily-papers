@@ -7,13 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.08.17
+## Updated on 2026.08.18
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-8-9**|**RMR-Net: Degradation-Evidence-Guided Road-Image Restoration for Defect Detection**|Amir Ghorbani et.al|[paper](https://arxiv.org/abs/2608.08957)|-|<details><summary>detail</summary>Submitted to ICCAIS 2026</details>|
+|**2026-8-12**|**Low Cost Two-Stage Fabric Defect Detection at the Edge**|Rasel Hossen et.al|[paper](https://arxiv.org/abs/2608.14727)|-|-|
 |**2026-8-9**|**Keep the Needle, Prune the Haystack: Defect-Preserving Token Pruning for Efficient Zero-Shot Anomaly Detection**|Yanning Hou et.al|[paper](https://arxiv.org/abs/2608.03681)|-|-|
 |**2026-8-8**|**Machine-Learning-Based Diagnostic Framework for Passive Ultrasonic Detection of Railway Wheel Defects**|Aashish Shaju et.al|[paper](https://arxiv.org/abs/2608.08301)|-|<details><summary>detail</summary>Presented at the ASNT Research Symposium 2026</details>|
 |**2026-7-30**|**BladeYOLO: Wind Turbine Blade Defect Detection with Limited Annotations and Weak-Saliency Awareness**|Yabin Xu et.al|[paper](https://arxiv.org/abs/2607.28065)|[code](https://github.com/zhangfangtao/BladeYOLO)|<details><summary>detail</summary>IEEE TGRS</details>|
@@ -73,6 +73,16 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-17**|**Unsupervised Anomaly Detection for Image Dataset Quality Assurance in Multi-Center Breast MRI**|Chiara Tappermann et.al|[paper](https://arxiv.org/abs/2608.16725)|-|-|
+|**2026-8-16**|**RagGAD: Rationale-Aware Conditional Gaussian Mixture Normalizing Flow for Unsupervised Graph Anomaly Detection**|Junxin Lu et.al|[paper](https://arxiv.org/abs/2608.16018)|-|-|
+|**2026-8-16**|**Explainable Heterogeneous Anomaly Detection in Financial Networks via Adaptive Expert Routing**|Zan Li et.al|[paper](https://arxiv.org/abs/2510.17088)|-|<details><summary>detail</summary>Journal ref:XAI-FIN: International Joint Workshop on Explainable AI in Finance</details>|
+|**2026-8-16**|**FirstDiff: One-Step Diffusion-Based Anomaly Detection for Multivariate Time Series via Initial Noise Prediction**|Ali Boudaghi et.al|[paper](https://arxiv.org/abs/2608.15727)|-|-|
+|**2026-8-15**|**DRL-Guided Neural Batch Sampling for Semi-Supervised Pixel-Level Anomaly Detection**|Amirhossein Khadivi Noghredeh et.al|[paper](https://arxiv.org/abs/2511.20270)|-|<details><summary>detail</summary>Journal ref:2026 International Interdisciplinary Conference on Artificial Intelligence: Engineering</details>|
+|**2026-8-15**|**Memory-Bounded Continuation of Greedy Sampling for Continual Anomaly Detection**|Yoon Gyo Jung et.al|[paper](https://arxiv.org/abs/2608.15277)|[code](https://github.com/jungyg/ContCore)|<details><summary>detail</summary>Accepted by BMVC2026</details>|
+|**2026-8-15**|**Distribution-free false-alarm calibration and chance-corrected spatial evaluation for industrial anomaly detection**|Jie Deng et.al|[paper](https://arxiv.org/abs/2608.15090)|-|-|
+|**2026-8-14**|**Auditing Frame-Level AUC in Weakly Supervised Video Anomaly Detection: Granularity, Resolution, and Scene Bias**|Sara Abdulaziz et.al|[paper](https://arxiv.org/abs/2608.11985)|-|<details><summary>detail</summary>ECCV 2026 Empirical Theory (ET) Workshop</details>|
+|**2026-8-14**|**GridVAD: Open-Set Video Anomaly Detection via Spatial Reasoning over Stratified Frame Grids**|Mohamed Eltahir et.al|[paper](https://arxiv.org/abs/2603.25467)|[code](https://gridvad.github.io.)|<details><summary>detail</summary>the Large-scale Video Object Segmentation (LVOS) Workshop in conjunction with ECCV 2026</details>|
+|**2026-8-14**|**Explainability Boosted Anomaly Detection Framework for O-RAN based NextG Networks**|Nurullah Aksu et.al|[paper](https://arxiv.org/abs/2608.14826)|-|<details><summary>detail</summary>Accepted in IEEE WCNC 2026</details>|
 |**2026-8-14**|**Cyber Dynamics I: Finite Macrostates for Behavioral Anomaly Detection in Network Telemetry**|Abdul Rahman et.al|[paper](https://arxiv.org/abs/2607.07075)|-|-|
 |**2026-8-14**|**Revisiting Energy-based Tabular Anomaly Detection: Energy and Reconstruction are Complementary**|Junichiro Niimi et.al|[paper](https://arxiv.org/abs/2608.14186)|-|<details><summary>detail</summary>This is the author's version of a paper accepted at the 33rd International Conference on Neural Information Processing (ICONIP 2026)</details>|
 |**2026-8-14**|**Rethinking Auxiliary Modalities in Multimodal Zero-shot Anomaly Detection: From Semantic Fusion to Conditional Modulation**|Peng Wu et.al|[paper](https://arxiv.org/abs/2608.13973)|-|-|
@@ -80,7 +90,6 @@
 |**2026-8-12**|**Dual Spatial-Temporal Attribution: Architecture-Aligned Post-Hoc Explainability for Recurrent Graph Anomaly Detection**|Iyad Assaad Nekka et.al|[paper](https://arxiv.org/abs/2608.12441)|-|<details><summary>detail</summary>Under Review : The International Conference on Cooperative Information Systems (CoopIS)</details>|
 |**2026-8-12**|**MVFM-3DAD: Multi-view Flow Matching for 3D Anomaly Detection via Density Proxy Estimation**|Liangwei Li et.al|[paper](https://arxiv.org/abs/2608.12148)|[code](https://github.com/lil-wayne-0319/MV3D-AD)|<details><summary>detail</summary>ICIG 2026 oral presentation</details>|
 |**2026-8-12**|**Localizing to Debias: A Patch-Level Benchmark and Baseline for Weakly Supervised Spatial Anomaly Detection**|Sara Abdulaziz et.al|[paper](https://arxiv.org/abs/2608.12045)|-|<details><summary>detail</summary>ECCV 2026 FAILED Workshop</details>|
-|**2026-8-12**|**Auditing Frame-Level AUC in Weakly Supervised Video Anomaly Detection: Granularity, Resolution, and Scene Bias**|Sara Abdulaziz et.al|[paper](https://arxiv.org/abs/2608.11985)|-|<details><summary>detail</summary>ECCV 2026 ET Workshop</details>|
 |**2026-8-12**|**Dual Anchors, Do It Better: Hierarchical Group Merging for Zero-Shot Anomaly Detection**|Jimin Roh et.al|[paper](https://arxiv.org/abs/2608.11933)|-|-|
 |**2026-8-12**|**Zoom In, Reason Out: Efficient Far-field Anomaly Detection in Expressway Surveillance Videos via Focused VLM Reasoning Guided by Bayesian Inference**|Xiaowei Mao et.al|[paper](https://arxiv.org/abs/2604.23724)|-|-|
 |**2026-8-12**|**TD-VAD: Breaking Visual Dependence in Video Anomaly Detection with Text-Driven Learning**|Shuangqing Zhang et.al|[paper](https://arxiv.org/abs/2608.11820)|-|<details><summary>detail</summary>ICML2026</details>|
@@ -89,15 +98,6 @@
 |**2026-8-12**|**AgenticTwin: An Agentic LLM Framework Integrated with Digital Twin for Anomaly Detection**|Touseef Hasan et.al|[paper](https://arxiv.org/abs/2608.11679)|-|-|
 |**2026-8-11**|**Grounded Well-Condition Anomaly Detection on the Volve Field: Constructed Labels, a Baseline, and a Dual-Head Model**|Gospel Bassey et.al|[paper](https://arxiv.org/abs/2608.05685)|-|-|
 |**2026-8-11**|**Modeling Spectral Energy Shifts in Spatio-Temporal Graph Anomaly Detection**|Yilin Liu et.al|[paper](https://arxiv.org/abs/2606.00304)|-|-|
-|**2026-8-11**|**ProTAGAD: A Foundation Model for TAG Anomaly Detection with Decoupled Topological and Textual Prototypes**|Ziyan Wang et.al|[paper](https://arxiv.org/abs/2608.10699)|-|-|
-|**2026-8-11**|**GridVAD: Open-Set Video Anomaly Detection via Spatial Reasoning over Stratified Frame Grids**|Mohamed Eltahir et.al|[paper](https://arxiv.org/abs/2603.25467)|[code](https://gridvad.github.io.)|<details><summary>detail</summary>the Large-scale Video Object Segmentation (LVOS) Workshop in conjunction with ECCV 2026</details>|
-|**2026-8-11**|**An Insight on Evaluation Metrics Under the Imbalanced Case of Anomaly Detection**|Romain Hermary et.al|[paper](https://arxiv.org/abs/2607.22286)|-|<details><summary>detail</summary>Published in EUVIP 2026</details>|
-|**2026-8-10**|**Anomaly Detection and Root Cause Analysis for Microservice Systems**|Luan Pham et.al|[paper](https://arxiv.org/abs/2606.09942)|-|<details><summary>detail</summary>This is the pre-print of my PhD thesis</details>|
-|**2026-8-10**|**From Detection to Understanding: TAR and TAR-Bench for Multi-Task Traffic Anomaly Reasoning**|Han Zhang et.al|[paper](https://arxiv.org/abs/2608.10317)|[code](https://huggingface.co/datasets/nvidia/PhysicalAI-Traffic-Anomaly-Reasoning)|-|
-|**2026-8-10**|**Embeddings based Anomaly Detection for Cleaning Global Crop Type Reference Datasets**|Syed Roshaan Ali Shah et.al|[paper](https://arxiv.org/abs/2607.23908)|-|<details><summary>detail</summary>Camera-ready version</details>|
-|**2026-8-10**|**STCAD: Scalable Trajectory Clustering and Anomaly Detection on Terabyte-Scale AIS Data**|Bertram Hage et.al|[paper](https://arxiv.org/abs/2608.10249)|-|<details><summary>detail</summary>IGARSS 2026</details>|
-|**2026-8-10**|**Unsupervised Detection of Groundwater Storage Anomalies in Ghana Using GRACE Satellite Data**|George Yamoah Afrifa et.al|[paper](https://arxiv.org/abs/2608.10233)|-|-|
-|**2026-8-10**|**DQS: A Low-Budget Query Strategy for Enhancing Unsupervised Data-driven Anomaly Detection Approaches**|Lucas Correia et.al|[paper](https://arxiv.org/abs/2509.05663)|-|-|
 
 ## 3D Anomaly Detection
 
