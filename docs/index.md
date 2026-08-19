@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.08.18
+## Updated on 2026.08.19
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-18**|**Continuity-Driven Representation Learning for Industrial Defect Detection**|Minjong Kim et.al|[paper](https://arxiv.org/abs/2608.17362)|-|<details><summary>detail</summary>the British Machine Vision Conference (BMVC) 2026</details>|
 |**2026-8-12**|**Low Cost Two-Stage Fabric Defect Detection at the Edge**|Rasel Hossen et.al|[paper](https://arxiv.org/abs/2608.14727)|-|-|
 |**2026-8-9**|**Keep the Needle, Prune the Haystack: Defect-Preserving Token Pruning for Efficient Zero-Shot Anomaly Detection**|Yanning Hou et.al|[paper](https://arxiv.org/abs/2608.03681)|-|-|
 |**2026-8-8**|**Machine-Learning-Based Diagnostic Framework for Passive Ultrasonic Detection of Railway Wheel Defects**|Aashish Shaju et.al|[paper](https://arxiv.org/abs/2608.08301)|-|<details><summary>detail</summary>Presented at the ASNT Research Symposium 2026</details>|
@@ -37,7 +38,6 @@
 |**2026-5-25**|**A Universal Cliff and a Design Fingerprint: Cross-Section Defect Detection Under LLM Orchestration**|Hiroki Fukui et.al|[paper](https://arxiv.org/abs/2605.26174)|-|-|
 |**2026-5-23**|**From Full Boards to Tiny Defects: Scale-Aware Tile Inference with Topology-Aware Merging for High-Resolution PCB Defect Detection**|Mohammad Alijanpour Shalmani et.al|[paper](https://arxiv.org/abs/2605.24726)|-|-|
 |**2026-5-23**|**FDDet: Achieving Data-Efficient Food Defect Detection Under Real-World Scenarios**|Ruihao Xu et.al|[paper](https://arxiv.org/abs/2605.24508)|-|-|
-|**2026-5-20**|**BioDefect: The First Dataset for Defect Detection in Bioinformatics Software**|Tianxiang Xu et.al|[paper](https://arxiv.org/abs/2605.20788)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-18**|**Unsupervised Deep Generative Models for Anomaly Detection in Neuroimaging: A Systematic Scoping Review**|Youwan Mahé et.al|[paper](https://arxiv.org/abs/2510.14462)|-|-|
+|**2026-8-18**|**Too Sure to Be Safe: Model Calibration for Reliable Log Anomaly Detection**|Bin Li et.al|[paper](https://arxiv.org/abs/2608.17965)|-|<details><summary>detail</summary>the 2026 IEEE International Conference on Data Mining (ICDM 2026)</details>|
+|**2026-8-18**|**Training-Free Human-in-the-Loop Anomaly Detection via Memory Bank Correction**|Ayusha Abbas et.al|[paper](https://arxiv.org/abs/2608.17775)|-|-|
 |**2026-8-17**|**Unsupervised Anomaly Detection for Image Dataset Quality Assurance in Multi-Center Breast MRI**|Chiara Tappermann et.al|[paper](https://arxiv.org/abs/2608.16725)|-|-|
 |**2026-8-16**|**RagGAD: Rationale-Aware Conditional Gaussian Mixture Normalizing Flow for Unsupervised Graph Anomaly Detection**|Junxin Lu et.al|[paper](https://arxiv.org/abs/2608.16018)|-|-|
 |**2026-8-16**|**Explainable Heterogeneous Anomaly Detection in Financial Networks via Adaptive Expert Routing**|Zan Li et.al|[paper](https://arxiv.org/abs/2510.17088)|-|<details><summary>detail</summary>Journal ref:XAI-FIN: International Joint Workshop on Explainable AI in Finance</details>|
@@ -95,9 +98,6 @@
 |**2026-8-12**|**TD-VAD: Breaking Visual Dependence in Video Anomaly Detection with Text-Driven Learning**|Shuangqing Zhang et.al|[paper](https://arxiv.org/abs/2608.11820)|-|<details><summary>detail</summary>ICML2026</details>|
 |**2026-8-12**|**Towards Model-based Run-time Cybersecurity: On Control-Flow Anomaly Detection, Attack Identification, and Hardware Monitoring**|Martin Sachenbacher et.al|[paper](https://arxiv.org/abs/2608.11802)|-|-|
 |**2026-8-12**|**Hyper-FSAD: Training-Free and Language-Free Few-Shot Anomaly Detection via Sparse Hyper Matching**|Guohuan Xie et.al|[paper](https://arxiv.org/abs/2605.10628)|-|-|
-|**2026-8-12**|**AgenticTwin: An Agentic LLM Framework Integrated with Digital Twin for Anomaly Detection**|Touseef Hasan et.al|[paper](https://arxiv.org/abs/2608.11679)|-|-|
-|**2026-8-11**|**Grounded Well-Condition Anomaly Detection on the Volve Field: Constructed Labels, a Baseline, and a Dual-Head Model**|Gospel Bassey et.al|[paper](https://arxiv.org/abs/2608.05685)|-|-|
-|**2026-8-11**|**Modeling Spectral Energy Shifts in Spatio-Temporal Graph Anomaly Detection**|Yilin Liu et.al|[paper](https://arxiv.org/abs/2606.00304)|-|-|
 
 ## 3D Anomaly Detection
 
