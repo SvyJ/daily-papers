@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.08.19
+## Updated on 2026.08.20
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-19**|**Online Conformal Anomaly Detection with Prediction-Powered Data Acquisition**|Amirmohammad Farzaneh et.al|[paper](https://arxiv.org/abs/2505.01783)|-|-|
+|**2026-8-19**|**SPARC: Subspace Position-Aware Robust Few-Shot Calibration for Distribution-Shifted Industrial Anomaly Detection**|Seokhee Han et.al|[paper](https://arxiv.org/abs/2608.18585)|-|-|
+|**2026-8-18**|**Low-Power, Neuromorphic, Acoustic Anomaly Detection for Persistent Machine Monitoring**|Steven C. Nesbit et.al|[paper](https://arxiv.org/abs/2608.18341)|-|-|
 |**2026-8-18**|**Unsupervised Deep Generative Models for Anomaly Detection in Neuroimaging: A Systematic Scoping Review**|Youwan Mahé et.al|[paper](https://arxiv.org/abs/2510.14462)|-|-|
 |**2026-8-18**|**Too Sure to Be Safe: Model Calibration for Reliable Log Anomaly Detection**|Bin Li et.al|[paper](https://arxiv.org/abs/2608.17965)|-|<details><summary>detail</summary>the 2026 IEEE International Conference on Data Mining (ICDM 2026)</details>|
 |**2026-8-18**|**Training-Free Human-in-the-Loop Anomaly Detection via Memory Bank Correction**|Ayusha Abbas et.al|[paper](https://arxiv.org/abs/2608.17775)|-|-|
@@ -95,9 +98,6 @@
 |**2026-8-12**|**Localizing to Debias: A Patch-Level Benchmark and Baseline for Weakly Supervised Spatial Anomaly Detection**|Sara Abdulaziz et.al|[paper](https://arxiv.org/abs/2608.12045)|-|<details><summary>detail</summary>ECCV 2026 FAILED Workshop</details>|
 |**2026-8-12**|**Dual Anchors, Do It Better: Hierarchical Group Merging for Zero-Shot Anomaly Detection**|Jimin Roh et.al|[paper](https://arxiv.org/abs/2608.11933)|-|-|
 |**2026-8-12**|**Zoom In, Reason Out: Efficient Far-field Anomaly Detection in Expressway Surveillance Videos via Focused VLM Reasoning Guided by Bayesian Inference**|Xiaowei Mao et.al|[paper](https://arxiv.org/abs/2604.23724)|-|-|
-|**2026-8-12**|**TD-VAD: Breaking Visual Dependence in Video Anomaly Detection with Text-Driven Learning**|Shuangqing Zhang et.al|[paper](https://arxiv.org/abs/2608.11820)|-|<details><summary>detail</summary>ICML2026</details>|
-|**2026-8-12**|**Towards Model-based Run-time Cybersecurity: On Control-Flow Anomaly Detection, Attack Identification, and Hardware Monitoring**|Martin Sachenbacher et.al|[paper](https://arxiv.org/abs/2608.11802)|-|-|
-|**2026-8-12**|**Hyper-FSAD: Training-Free and Language-Free Few-Shot Anomaly Detection via Sparse Hyper Matching**|Guohuan Xie et.al|[paper](https://arxiv.org/abs/2605.10628)|-|-|
 
 ## 3D Anomaly Detection
 
