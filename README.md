@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.08.20
+## Updated on 2026.08.21
 
 ## Defect Detection
 
@@ -73,11 +73,16 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-20**|**STEP: Score-Based Temporal Energy for Human Pose Video Anomaly Detection**|Jakub Micorek et.al|[paper](https://arxiv.org/abs/2608.19987)|[code](https://jakubmicorek.github.io/STEP-demo)|<details><summary>detail</summary>ECCV 2026</details>|
+|**2026-8-20**|**From Noise to Signal: Improving Security Log Anomaly Detection Using LLMs with Endpoint-Specific Logs**|Christopher Henshaw et.al|[paper](https://arxiv.org/abs/2608.19938)|-|-|
+|**2026-8-20**|**Online Test-Time Adaptation for Generalizable Dynamic Graph Anomaly Detection**|Jialun Zheng et.al|[paper](https://arxiv.org/abs/2608.19858)|-|-|
+|**2026-8-20**|**Unsupervised Anomaly Detection Using Flow Matching on Tabular Data**|Philip Konz et.al|[paper](https://arxiv.org/abs/2608.19801)|-|-|
+|**2026-8-19**|**LLM as Detector: An In-context Learning Approach for Tabular Anomaly Detection**|Tu Anh Hoang Nguyen et.al|[paper](https://arxiv.org/abs/2608.19463)|-|<details><summary>detail</summary>International Conference on Neural Information Processing (ICONIP) 2026</details>|
+|**2026-8-19**|**Too Sure to Be Safe: Model Calibration for Reliable Log Anomaly Detection**|Bin Li et.al|[paper](https://arxiv.org/abs/2608.17965)|-|<details><summary>detail</summary>the 2026 IEEE International Conference on Data Mining (ICDM 2026)</details>|
 |**2026-8-19**|**Online Conformal Anomaly Detection with Prediction-Powered Data Acquisition**|Amirmohammad Farzaneh et.al|[paper](https://arxiv.org/abs/2505.01783)|-|-|
 |**2026-8-19**|**SPARC: Subspace Position-Aware Robust Few-Shot Calibration for Distribution-Shifted Industrial Anomaly Detection**|Seokhee Han et.al|[paper](https://arxiv.org/abs/2608.18585)|-|-|
 |**2026-8-18**|**Low-Power, Neuromorphic, Acoustic Anomaly Detection for Persistent Machine Monitoring**|Steven C. Nesbit et.al|[paper](https://arxiv.org/abs/2608.18341)|-|-|
 |**2026-8-18**|**Unsupervised Deep Generative Models for Anomaly Detection in Neuroimaging: A Systematic Scoping Review**|Youwan Mahé et.al|[paper](https://arxiv.org/abs/2510.14462)|-|-|
-|**2026-8-18**|**Too Sure to Be Safe: Model Calibration for Reliable Log Anomaly Detection**|Bin Li et.al|[paper](https://arxiv.org/abs/2608.17965)|-|<details><summary>detail</summary>the 2026 IEEE International Conference on Data Mining (ICDM 2026)</details>|
 |**2026-8-18**|**Training-Free Human-in-the-Loop Anomaly Detection via Memory Bank Correction**|Ayusha Abbas et.al|[paper](https://arxiv.org/abs/2608.17775)|-|-|
 |**2026-8-17**|**Unsupervised Anomaly Detection for Image Dataset Quality Assurance in Multi-Center Breast MRI**|Chiara Tappermann et.al|[paper](https://arxiv.org/abs/2608.16725)|-|-|
 |**2026-8-16**|**RagGAD: Rationale-Aware Conditional Gaussian Mixture Normalizing Flow for Unsupervised Graph Anomaly Detection**|Junxin Lu et.al|[paper](https://arxiv.org/abs/2608.16018)|-|-|
@@ -93,11 +98,6 @@
 |**2026-8-14**|**Revisiting Energy-based Tabular Anomaly Detection: Energy and Reconstruction are Complementary**|Junichiro Niimi et.al|[paper](https://arxiv.org/abs/2608.14186)|-|<details><summary>detail</summary>This is the author's version of a paper accepted at the 33rd International Conference on Neural Information Processing (ICONIP 2026)</details>|
 |**2026-8-14**|**Rethinking Auxiliary Modalities in Multimodal Zero-shot Anomaly Detection: From Semantic Fusion to Conditional Modulation**|Peng Wu et.al|[paper](https://arxiv.org/abs/2608.13973)|-|-|
 |**2026-8-13**|**Contrastive Learning for Interpretable Anomaly Detection at Collider Experiments**|Haoyi Jia et.al|[paper](https://arxiv.org/abs/2608.13652)|-|-|
-|**2026-8-12**|**Dual Spatial-Temporal Attribution: Architecture-Aligned Post-Hoc Explainability for Recurrent Graph Anomaly Detection**|Iyad Assaad Nekka et.al|[paper](https://arxiv.org/abs/2608.12441)|-|<details><summary>detail</summary>Under Review : The International Conference on Cooperative Information Systems (CoopIS)</details>|
-|**2026-8-12**|**MVFM-3DAD: Multi-view Flow Matching for 3D Anomaly Detection via Density Proxy Estimation**|Liangwei Li et.al|[paper](https://arxiv.org/abs/2608.12148)|[code](https://github.com/lil-wayne-0319/MV3D-AD)|<details><summary>detail</summary>ICIG 2026 oral presentation</details>|
-|**2026-8-12**|**Localizing to Debias: A Patch-Level Benchmark and Baseline for Weakly Supervised Spatial Anomaly Detection**|Sara Abdulaziz et.al|[paper](https://arxiv.org/abs/2608.12045)|-|<details><summary>detail</summary>ECCV 2026 FAILED Workshop</details>|
-|**2026-8-12**|**Dual Anchors, Do It Better: Hierarchical Group Merging for Zero-Shot Anomaly Detection**|Jimin Roh et.al|[paper](https://arxiv.org/abs/2608.11933)|-|-|
-|**2026-8-12**|**Zoom In, Reason Out: Efficient Far-field Anomaly Detection in Expressway Surveillance Videos via Focused VLM Reasoning Guided by Bayesian Inference**|Xiaowei Mao et.al|[paper](https://arxiv.org/abs/2604.23724)|-|-|
 
 ## 3D Anomaly Detection
 
