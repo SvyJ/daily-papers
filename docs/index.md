@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.08.23
+## Updated on 2026.08.24
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-20**|**AGIDefect-4K: A Richly Annotated Dataset for AI-Generated Image Defect Detection, Localization and Explanation**|Xiangfei Sheng et.al|[paper](https://arxiv.org/abs/2608.20713)|[code](https://github.com/sxfly99/AGIDefect-4K.)|-|
 |**2026-8-18**|**Continuity-Driven Representation Learning for Industrial Defect Detection**|Minjong Kim et.al|[paper](https://arxiv.org/abs/2608.17362)|-|<details><summary>detail</summary>the British Machine Vision Conference (BMVC) 2026</details>|
 |**2026-8-12**|**Low Cost Two-Stage Fabric Defect Detection at the Edge**|Rasel Hossen et.al|[paper](https://arxiv.org/abs/2608.14727)|-|-|
 |**2026-8-9**|**Keep the Needle, Prune the Haystack: Defect-Preserving Token Pruning for Efficient Zero-Shot Anomaly Detection**|Yanning Hou et.al|[paper](https://arxiv.org/abs/2608.03681)|-|-|
@@ -37,7 +38,6 @@
 |**2026-5-26**|**Advancing Metallic Surface Defect Detection via Anomaly-Guided Pretraining on a Large Industrial Dataset**|Chuni Liu et.al|[paper](https://arxiv.org/abs/2509.18919)|[code](https://clovermini.github.io/AGSSP-Dev/.)|<details><summary>detail</summary>Accepted for publication in Pattern Recognition</details>|
 |**2026-5-25**|**A Universal Cliff and a Design Fingerprint: Cross-Section Defect Detection Under LLM Orchestration**|Hiroki Fukui et.al|[paper](https://arxiv.org/abs/2605.26174)|-|-|
 |**2026-5-23**|**From Full Boards to Tiny Defects: Scale-Aware Tile Inference with Topology-Aware Merging for High-Resolution PCB Defect Detection**|Mohammad Alijanpour Shalmani et.al|[paper](https://arxiv.org/abs/2605.24726)|-|-|
-|**2026-5-23**|**FDDet: Achieving Data-Efficient Food Defect Detection Under Real-World Scenarios**|Ruihao Xu et.al|[paper](https://arxiv.org/abs/2605.24508)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-21**|**TRACE-C: Rank-Calibrated Relational Anomaly Detection for Multi-Stream Operational Telemetry**|Matthew Faucher et.al|[paper](https://arxiv.org/abs/2608.21251)|[code](https://github.com/mars-arch/trace-c)|-|
+|**2026-8-21**|**A VLM Answer Is Not an Anomaly Score: Rank Compression in Training-Free Video Anomaly Detection**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2608.21244)|-|<details><summary>detail</summary>Preprint</details>|
+|**2026-8-20**|**Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detection**|Alireza Salehi et.al|[paper](https://arxiv.org/abs/2504.11055)|[code](https://github.com/Alireza99Salehi/Crane.)|<details><summary>detail</summary>British Machine Vision Conference (BMVC 2026)</details>|
 |**2026-8-20**|**STEP: Score-Based Temporal Energy for Human Pose Video Anomaly Detection**|Jakub Micorek et.al|[paper](https://arxiv.org/abs/2608.19987)|[code](https://jakubmicorek.github.io/STEP-demo)|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-8-20**|**From Noise to Signal: Improving Security Log Anomaly Detection Using LLMs with Endpoint-Specific Logs**|Christopher Henshaw et.al|[paper](https://arxiv.org/abs/2608.19938)|-|-|
 |**2026-8-20**|**Online Test-Time Adaptation for Generalizable Dynamic Graph Anomaly Detection**|Jialun Zheng et.al|[paper](https://arxiv.org/abs/2608.19858)|-|-|
@@ -95,9 +98,6 @@
 |**2026-8-14**|**GridVAD: Open-Set Video Anomaly Detection via Spatial Reasoning over Stratified Frame Grids**|Mohamed Eltahir et.al|[paper](https://arxiv.org/abs/2603.25467)|[code](https://gridvad.github.io.)|<details><summary>detail</summary>the Large-scale Video Object Segmentation (LVOS) Workshop in conjunction with ECCV 2026</details>|
 |**2026-8-14**|**Explainability Boosted Anomaly Detection Framework for O-RAN based NextG Networks**|Nurullah Aksu et.al|[paper](https://arxiv.org/abs/2608.14826)|-|<details><summary>detail</summary>Accepted in IEEE WCNC 2026</details>|
 |**2026-8-14**|**Cyber Dynamics I: Finite Macrostates for Behavioral Anomaly Detection in Network Telemetry**|Abdul Rahman et.al|[paper](https://arxiv.org/abs/2607.07075)|-|-|
-|**2026-8-14**|**Revisiting Energy-based Tabular Anomaly Detection: Energy and Reconstruction are Complementary**|Junichiro Niimi et.al|[paper](https://arxiv.org/abs/2608.14186)|-|<details><summary>detail</summary>This is the author's version of a paper accepted at the 33rd International Conference on Neural Information Processing (ICONIP 2026)</details>|
-|**2026-8-14**|**Rethinking Auxiliary Modalities in Multimodal Zero-shot Anomaly Detection: From Semantic Fusion to Conditional Modulation**|Peng Wu et.al|[paper](https://arxiv.org/abs/2608.13973)|-|-|
-|**2026-8-13**|**Contrastive Learning for Interpretable Anomaly Detection at Collider Experiments**|Haoyi Jia et.al|[paper](https://arxiv.org/abs/2608.13652)|-|-|
 
 ## 3D Anomaly Detection
 
