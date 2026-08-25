@@ -7,12 +7,14 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.08.24
+## Updated on 2026.08.25
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-24**|**What Remains Normal? Clean Images Miss Useful Near-Defect Normal Patches for Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2608.23299)|[code](https://github.com/jw-chae/cleancon.)|-|
+|**2026-8-22**|**When More References Hurt: Contamination-Aware DINOv2 Memory Banks for Few-Shot Steel Defect Detection**|Hannaneh Kalantari et.al|[paper](https://arxiv.org/abs/2608.22082)|-|-|
 |**2026-8-20**|**AGIDefect-4K: A Richly Annotated Dataset for AI-Generated Image Defect Detection, Localization and Explanation**|Xiangfei Sheng et.al|[paper](https://arxiv.org/abs/2608.20713)|[code](https://github.com/sxfly99/AGIDefect-4K.)|-|
 |**2026-8-18**|**Continuity-Driven Representation Learning for Industrial Defect Detection**|Minjong Kim et.al|[paper](https://arxiv.org/abs/2608.17362)|-|<details><summary>detail</summary>the British Machine Vision Conference (BMVC) 2026</details>|
 |**2026-8-12**|**Low Cost Two-Stage Fabric Defect Detection at the Edge**|Rasel Hossen et.al|[paper](https://arxiv.org/abs/2608.14727)|-|-|
@@ -36,8 +38,6 @@
 |**2026-5-30**|**RefDiffNet: Learning to Expose Subtle PCB Defects Before Detection**|Vinay Edula et.al|[paper](https://arxiv.org/abs/2606.00852)|-|-|
 |**2026-5-28**|**Unsupervised Defect Detection for Surgical Instruments**|Joseph Huang et.al|[paper](https://arxiv.org/abs/2509.21561)|-|-|
 |**2026-5-26**|**Advancing Metallic Surface Defect Detection via Anomaly-Guided Pretraining on a Large Industrial Dataset**|Chuni Liu et.al|[paper](https://arxiv.org/abs/2509.18919)|[code](https://clovermini.github.io/AGSSP-Dev/.)|<details><summary>detail</summary>Accepted for publication in Pattern Recognition</details>|
-|**2026-5-25**|**A Universal Cliff and a Design Fingerprint: Cross-Section Defect Detection Under LLM Orchestration**|Hiroki Fukui et.al|[paper](https://arxiv.org/abs/2605.26174)|-|-|
-|**2026-5-23**|**From Full Boards to Tiny Defects: Scale-Aware Tile Inference with Topology-Aware Merging for High-Resolution PCB Defect Detection**|Mohammad Alijanpour Shalmani et.al|[paper](https://arxiv.org/abs/2605.24726)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,15 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-24**|**Robustness of Anomaly Detection Models for Industrial Control Systems under Training-Time Data Contamination**|Mustafa Umut Ozbek et.al|[paper](https://arxiv.org/abs/2608.23547)|[code](https://github.com/ANTS-OntarioTechU/Robustness-Anomaly-Detection-ICS-Data-Contamination)|<details><summary>detail</summary>Accepted and to appear in IEEE CASCON 2026</details>|
+|**2026-8-24**|**RAD: Rule-Augmented Relational Anomaly Detection**|Noah Dahle et.al|[paper](https://arxiv.org/abs/2608.23468)|[code](https://github.com/noahd15/RAD_RelationalAnomalyDetection.)|-|
+|**2026-8-24**|**What Remains Normal? Clean Images Miss Useful Near-Defect Normal Patches for Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2608.23299)|[code](https://github.com/jw-chae/cleancon.)|-|
+|**2026-8-24**|**What Memory Composition Does Not Tell Us About Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2608.23295)|-|-|
+|**2026-8-24**|**The Surprising Effectiveness of LLMs in BGP Security: Mining An Unprecedented Amount of Incidents and Boosting Anomaly Detection**|Libin Liu et.al|[paper](https://arxiv.org/abs/2608.22812)|-|<details><summary>detail</summary>Accepted by IEEE ICNP 2026</details>|
+|**2026-8-24**|**GuidedFlow: An Attention-Guided Framework for Anomaly Detection in Additive Manufacturing**|Sosmita Paul et.al|[paper](https://arxiv.org/abs/2608.22789)|-|<details><summary>detail</summary>Journal ref:Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2026</details>|
+|**2026-8-23**|**Lightweight Multi-scale Hierarchical Anomaly Detection and Localization for Geospatial Big Data Applications at the Edge**|Thomas Benton Townsend et.al|[paper](https://arxiv.org/abs/2608.22648)|-|<details><summary>detail</summary>IEEE GLOBECOM 2026</details>|
+|**2026-8-22**|**Text-ADBench: Text Anomaly Detection Benchmark Based on LLM Embeddings**|Feng Xiao et.al|[paper](https://arxiv.org/abs/2507.12295)|[code](https://github.com/jicongfan/Text-Anomaly-Detection-Benchmark.)|-|
+|**2026-8-22**|**Frame-Level Evaluation in Weakly Supervised Video Anomaly Detection Mostly Measures Video-Level Ranking**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2608.21854)|-|<details><summary>detail</summary>Preprint</details>|
 |**2026-8-21**|**TRACE-C: Rank-Calibrated Relational Anomaly Detection for Multi-Stream Operational Telemetry**|Matthew Faucher et.al|[paper](https://arxiv.org/abs/2608.21251)|[code](https://github.com/mars-arch/trace-c)|-|
 |**2026-8-21**|**A VLM Answer Is Not an Anomaly Score: Rank Compression in Training-Free Video Anomaly Detection**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2608.21244)|-|<details><summary>detail</summary>Preprint</details>|
 |**2026-8-20**|**Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detection**|Alireza Salehi et.al|[paper](https://arxiv.org/abs/2504.11055)|[code](https://github.com/Alireza99Salehi/Crane.)|<details><summary>detail</summary>British Machine Vision Conference (BMVC 2026)</details>|
@@ -89,15 +98,6 @@
 |**2026-8-18**|**Training-Free Human-in-the-Loop Anomaly Detection via Memory Bank Correction**|Ayusha Abbas et.al|[paper](https://arxiv.org/abs/2608.17775)|-|-|
 |**2026-8-17**|**Unsupervised Anomaly Detection for Image Dataset Quality Assurance in Multi-Center Breast MRI**|Chiara Tappermann et.al|[paper](https://arxiv.org/abs/2608.16725)|-|-|
 |**2026-8-16**|**RagGAD: Rationale-Aware Conditional Gaussian Mixture Normalizing Flow for Unsupervised Graph Anomaly Detection**|Junxin Lu et.al|[paper](https://arxiv.org/abs/2608.16018)|-|-|
-|**2026-8-16**|**Explainable Heterogeneous Anomaly Detection in Financial Networks via Adaptive Expert Routing**|Zan Li et.al|[paper](https://arxiv.org/abs/2510.17088)|-|<details><summary>detail</summary>Journal ref:XAI-FIN: International Joint Workshop on Explainable AI in Finance</details>|
-|**2026-8-16**|**FirstDiff: One-Step Diffusion-Based Anomaly Detection for Multivariate Time Series via Initial Noise Prediction**|Ali Boudaghi et.al|[paper](https://arxiv.org/abs/2608.15727)|-|-|
-|**2026-8-15**|**DRL-Guided Neural Batch Sampling for Semi-Supervised Pixel-Level Anomaly Detection**|Amirhossein Khadivi Noghredeh et.al|[paper](https://arxiv.org/abs/2511.20270)|-|<details><summary>detail</summary>Journal ref:2026 International Interdisciplinary Conference on Artificial Intelligence: Engineering</details>|
-|**2026-8-15**|**Memory-Bounded Continuation of Greedy Sampling for Continual Anomaly Detection**|Yoon Gyo Jung et.al|[paper](https://arxiv.org/abs/2608.15277)|[code](https://github.com/jungyg/ContCore)|<details><summary>detail</summary>Accepted by BMVC2026</details>|
-|**2026-8-15**|**Distribution-free false-alarm calibration and chance-corrected spatial evaluation for industrial anomaly detection**|Jie Deng et.al|[paper](https://arxiv.org/abs/2608.15090)|-|-|
-|**2026-8-14**|**Auditing Frame-Level AUC in Weakly Supervised Video Anomaly Detection: Granularity, Resolution, and Scene Bias**|Sara Abdulaziz et.al|[paper](https://arxiv.org/abs/2608.11985)|-|<details><summary>detail</summary>ECCV 2026 Empirical Theory (ET) Workshop</details>|
-|**2026-8-14**|**GridVAD: Open-Set Video Anomaly Detection via Spatial Reasoning over Stratified Frame Grids**|Mohamed Eltahir et.al|[paper](https://arxiv.org/abs/2603.25467)|[code](https://gridvad.github.io.)|<details><summary>detail</summary>the Large-scale Video Object Segmentation (LVOS) Workshop in conjunction with ECCV 2026</details>|
-|**2026-8-14**|**Explainability Boosted Anomaly Detection Framework for O-RAN based NextG Networks**|Nurullah Aksu et.al|[paper](https://arxiv.org/abs/2608.14826)|-|<details><summary>detail</summary>Accepted in IEEE WCNC 2026</details>|
-|**2026-8-14**|**Cyber Dynamics I: Finite Macrostates for Behavioral Anomaly Detection in Network Telemetry**|Abdul Rahman et.al|[paper](https://arxiv.org/abs/2607.07075)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-24**|**ASH: Asymmetric Scalar Hashing With Learned Dimensionality Reduction for High-Fidelity Vector Quantization**|Mariano Tepper et.al|[paper](https://arxiv.org/abs/2606.07870)|-|<details><summary>detail</summary>CIKM 2026</details>|
 |**2026-8-11**|**Bandwidth-Efficient Multi-Agent Communication through Information Bottleneck and Vector Quantization**|Ahmad Farooq et.al|[paper](https://arxiv.org/abs/2602.02035)|-|<details><summary>detail</summary>IEEE ICRA 2026</details>|
 |**2026-8-11**|**GranQ: Efficient Channel-wise Quantization via Vectorized Pre-Scaling for Zero-Shot QAT**|Inpyo Hong et.al|[paper](https://arxiv.org/abs/2503.18339)|-|<details><summary>detail</summary>ACM SAC 2026</details>|
 |**2026-8-6**|**SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant**|Adel Javanmard et.al|[paper](https://arxiv.org/abs/2608.05127)|-|-|
@@ -186,6 +187,5 @@
 |**2026-6-9**|**ViP-VL: Vietnamese Self-supervised Speech Pretraining Model with Vector-Quantization Learning**|Khanh Le et.al|[paper](https://arxiv.org/abs/2606.10360)|-|<details><summary>detail</summary>INTERSPEECH 2026</details>|
 |**2026-6-9**|**Vector Quantized Latent Concepts: A Scalable Alternative to Clustering-Based Concept Discovery**|Xuemin Yu et.al|[paper](https://arxiv.org/abs/2602.02726)|-|-|
 |**2026-6-9**|**NSVQ: Mitigating Codebook Collapse by Stabilizing Encoder Drift in Vector Quantization**|Hao Lu et.al|[paper](https://arxiv.org/abs/2606.11363)|-|-|
-|**2026-6-5**|**ASH: Asymmetric Scalar Hashing With Learned Dimensionality Reduction for High-Fidelity Vector Quantization**|Mariano Tepper et.al|[paper](https://arxiv.org/abs/2606.07870)|-|-|
 |**2026-6-3**|**RAVQ-HoloNet: Rate-Adaptive Vector-Quantized Hologram Compression**|Shima Rafiei et.al|[paper](https://arxiv.org/abs/2511.21035)|-|-|
 
