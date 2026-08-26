@@ -7,14 +7,14 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.08.25
+## Updated on 2026.08.26
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-25**|**When More References Hurt: Contamination-Aware DINOv2 Memory Banks for Few-Shot Steel Defect Detection**|Hannaneh Kalantary et.al|[paper](https://arxiv.org/abs/2608.22082)|-|-|
 |**2026-8-24**|**What Remains Normal? Clean Images Miss Useful Near-Defect Normal Patches for Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2608.23299)|[code](https://github.com/jw-chae/cleancon.)|-|
-|**2026-8-22**|**When More References Hurt: Contamination-Aware DINOv2 Memory Banks for Few-Shot Steel Defect Detection**|Hannaneh Kalantari et.al|[paper](https://arxiv.org/abs/2608.22082)|-|-|
 |**2026-8-20**|**AGIDefect-4K: A Richly Annotated Dataset for AI-Generated Image Defect Detection, Localization and Explanation**|Xiangfei Sheng et.al|[paper](https://arxiv.org/abs/2608.20713)|[code](https://github.com/sxfly99/AGIDefect-4K.)|-|
 |**2026-8-18**|**Continuity-Driven Representation Learning for Industrial Defect Detection**|Minjong Kim et.al|[paper](https://arxiv.org/abs/2608.17362)|-|<details><summary>detail</summary>the British Machine Vision Conference (BMVC) 2026</details>|
 |**2026-8-12**|**Low Cost Two-Stage Fabric Defect Detection at the Edge**|Rasel Hossen et.al|[paper](https://arxiv.org/abs/2608.14727)|-|-|
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-25**|**Strictly Causal Streaming Video Anomaly Detection with a Theoretically-Grounded State-Space Core**|Yogesh Kumar et.al|[paper](https://arxiv.org/abs/2608.24810)|-|-|
+|**2026-8-25**|**Single State Update Predictive Coding training for Time Series Forecasting and Anomaly Detection**|Matteo Cardoni et.al|[paper](https://arxiv.org/abs/2608.24697)|-|-|
+|**2026-8-25**|**Structured Frequency-Domain Evidence for LLM-Based Time-Series Anomaly Detection**|Jungwook Seo et.al|[paper](https://arxiv.org/abs/2608.24113)|-|-|
+|**2026-8-24**|**DriftAD: Visually-Guided Text Drift for Few-Shot Industrial Anomaly Detection**|Wenyang Liu et.al|[paper](https://arxiv.org/abs/2608.23723)|[code](https://github.com/wenyang001/DriftAD.)|<details><summary>detail</summary>Accepted by ACM Multimedia 2026 (ACM MM 2026)</details>|
 |**2026-8-24**|**Robustness of Anomaly Detection Models for Industrial Control Systems under Training-Time Data Contamination**|Mustafa Umut Ozbek et.al|[paper](https://arxiv.org/abs/2608.23547)|[code](https://github.com/ANTS-OntarioTechU/Robustness-Anomaly-Detection-ICS-Data-Contamination)|<details><summary>detail</summary>Accepted and to appear in IEEE CASCON 2026</details>|
 |**2026-8-24**|**RAD: Rule-Augmented Relational Anomaly Detection**|Noah Dahle et.al|[paper](https://arxiv.org/abs/2608.23468)|[code](https://github.com/noahd15/RAD_RelationalAnomalyDetection.)|-|
 |**2026-8-24**|**What Remains Normal? Clean Images Miss Useful Near-Defect Normal Patches for Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2608.23299)|[code](https://github.com/jw-chae/cleancon.)|-|
@@ -94,10 +98,6 @@
 |**2026-8-19**|**Online Conformal Anomaly Detection with Prediction-Powered Data Acquisition**|Amirmohammad Farzaneh et.al|[paper](https://arxiv.org/abs/2505.01783)|-|-|
 |**2026-8-19**|**SPARC: Subspace Position-Aware Robust Few-Shot Calibration for Distribution-Shifted Industrial Anomaly Detection**|Seokhee Han et.al|[paper](https://arxiv.org/abs/2608.18585)|-|-|
 |**2026-8-18**|**Low-Power, Neuromorphic, Acoustic Anomaly Detection for Persistent Machine Monitoring**|Steven C. Nesbit et.al|[paper](https://arxiv.org/abs/2608.18341)|-|-|
-|**2026-8-18**|**Unsupervised Deep Generative Models for Anomaly Detection in Neuroimaging: A Systematic Scoping Review**|Youwan Mahé et.al|[paper](https://arxiv.org/abs/2510.14462)|-|-|
-|**2026-8-18**|**Training-Free Human-in-the-Loop Anomaly Detection via Memory Bank Correction**|Ayusha Abbas et.al|[paper](https://arxiv.org/abs/2608.17775)|-|-|
-|**2026-8-17**|**Unsupervised Anomaly Detection for Image Dataset Quality Assurance in Multi-Center Breast MRI**|Chiara Tappermann et.al|[paper](https://arxiv.org/abs/2608.16725)|-|-|
-|**2026-8-16**|**RagGAD: Rationale-Aware Conditional Gaussian Mixture Normalizing Flow for Unsupervised Graph Anomaly Detection**|Junxin Lu et.al|[paper](https://arxiv.org/abs/2608.16018)|-|-|
 
 ## 3D Anomaly Detection
 
