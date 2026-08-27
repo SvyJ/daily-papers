@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.08.26
+## Updated on 2026.08.27
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-25**|**Lowering the Barrier to AI-Driven Inspection: A No-Code Workflow for Automated Structural Defect Detection**|Michael Holm et.al|[paper](https://arxiv.org/abs/2608.25176)|[code](https://github.com/michaelholm6/YOLOEZ)|-|
 |**2026-8-25**|**When More References Hurt: Contamination-Aware DINOv2 Memory Banks for Few-Shot Steel Defect Detection**|Hannaneh Kalantary et.al|[paper](https://arxiv.org/abs/2608.22082)|-|-|
 |**2026-8-24**|**What Remains Normal? Clean Images Miss Useful Near-Defect Normal Patches for Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2608.23299)|[code](https://github.com/jw-chae/cleancon.)|-|
 |**2026-8-20**|**AGIDefect-4K: A Richly Annotated Dataset for AI-Generated Image Defect Detection, Localization and Explanation**|Xiangfei Sheng et.al|[paper](https://arxiv.org/abs/2608.20713)|[code](https://github.com/sxfly99/AGIDefect-4K.)|-|
@@ -37,7 +38,6 @@
 |**2026-6-1**|**Improving Combined Detection and Classification of TEM Defects via Mask-Conditioned Latent Diffusion Augmentation**|Ni Li et.al|[paper](https://arxiv.org/abs/2606.02532)|-|-|
 |**2026-5-30**|**RefDiffNet: Learning to Expose Subtle PCB Defects Before Detection**|Vinay Edula et.al|[paper](https://arxiv.org/abs/2606.00852)|-|-|
 |**2026-5-28**|**Unsupervised Defect Detection for Surgical Instruments**|Joseph Huang et.al|[paper](https://arxiv.org/abs/2509.21561)|-|-|
-|**2026-5-26**|**Advancing Metallic Surface Defect Detection via Anomaly-Guided Pretraining on a Large Industrial Dataset**|Chuni Liu et.al|[paper](https://arxiv.org/abs/2509.18919)|[code](https://clovermini.github.io/AGSSP-Dev/.)|<details><summary>detail</summary>Accepted for publication in Pattern Recognition</details>|
 
 ## Defect Segmentation
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-26**|**Contrastive Learning for Interpretable Anomaly Detection at Collider Experiments**|Haoyi Jia et.al|[paper](https://arxiv.org/abs/2608.13652)|-|-|
+|**2026-8-26**|**Defending the Peg: Real-Time Dynamic Protection and Anomaly Detection in DeFi Stablecoins**|Hengxing Zeng et.al|[paper](https://arxiv.org/abs/2608.25600)|-|-|
+|**2026-8-25**|**DeCoFlow: Structural Decomposition of Normalizing Flows for Continual Anomaly Detection**|Hun Im et.al|[paper](https://arxiv.org/abs/2606.26687)|[code](https://github.com/crimama/DeCoFlow)|<details><summary>detail</summary>ECCV 2026</details>|
+|**2026-8-25**|**See More, Detect Less? Taming Information Leakage in Multi-View Anomaly Detection**|Shang-Fu Chen et.al|[paper](https://arxiv.org/abs/2608.25168)|-|-|
 |**2026-8-25**|**Strictly Causal Streaming Video Anomaly Detection with a Theoretically-Grounded State-Space Core**|Yogesh Kumar et.al|[paper](https://arxiv.org/abs/2608.24810)|-|-|
 |**2026-8-25**|**Single State Update Predictive Coding training for Time Series Forecasting and Anomaly Detection**|Matteo Cardoni et.al|[paper](https://arxiv.org/abs/2608.24697)|-|-|
 |**2026-8-25**|**Structured Frequency-Domain Evidence for LLM-Based Time-Series Anomaly Detection**|Jungwook Seo et.al|[paper](https://arxiv.org/abs/2608.24113)|-|-|
@@ -83,6 +87,7 @@
 |**2026-8-24**|**What Memory Composition Does Not Tell Us About Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2608.23295)|-|-|
 |**2026-8-24**|**The Surprising Effectiveness of LLMs in BGP Security: Mining An Unprecedented Amount of Incidents and Boosting Anomaly Detection**|Libin Liu et.al|[paper](https://arxiv.org/abs/2608.22812)|-|<details><summary>detail</summary>Accepted by IEEE ICNP 2026</details>|
 |**2026-8-24**|**GuidedFlow: An Attention-Guided Framework for Anomaly Detection in Additive Manufacturing**|Sosmita Paul et.al|[paper](https://arxiv.org/abs/2608.22789)|-|<details><summary>detail</summary>Journal ref:Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2026</details>|
+|**2026-8-23**|**Multi-Modal Anomaly Detection: A Survey**|Xudong Mou et.al|[paper](https://arxiv.org/abs/2608.24937)|-|<details><summary>detail</summary>Accepted for publication in IEEE Transactions on Big Data</details>|
 |**2026-8-23**|**Lightweight Multi-scale Hierarchical Anomaly Detection and Localization for Geospatial Big Data Applications at the Edge**|Thomas Benton Townsend et.al|[paper](https://arxiv.org/abs/2608.22648)|-|<details><summary>detail</summary>IEEE GLOBECOM 2026</details>|
 |**2026-8-22**|**Text-ADBench: Text Anomaly Detection Benchmark Based on LLM Embeddings**|Feng Xiao et.al|[paper](https://arxiv.org/abs/2507.12295)|[code](https://github.com/jicongfan/Text-Anomaly-Detection-Benchmark.)|-|
 |**2026-8-22**|**Frame-Level Evaluation in Weakly Supervised Video Anomaly Detection Mostly Measures Video-Level Ranking**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2608.21854)|-|<details><summary>detail</summary>Preprint</details>|
@@ -93,11 +98,6 @@
 |**2026-8-20**|**From Noise to Signal: Improving Security Log Anomaly Detection Using LLMs with Endpoint-Specific Logs**|Christopher Henshaw et.al|[paper](https://arxiv.org/abs/2608.19938)|-|-|
 |**2026-8-20**|**Online Test-Time Adaptation for Generalizable Dynamic Graph Anomaly Detection**|Jialun Zheng et.al|[paper](https://arxiv.org/abs/2608.19858)|-|-|
 |**2026-8-20**|**Unsupervised Anomaly Detection Using Flow Matching on Tabular Data**|Philip Konz et.al|[paper](https://arxiv.org/abs/2608.19801)|-|-|
-|**2026-8-19**|**LLM as Detector: An In-context Learning Approach for Tabular Anomaly Detection**|Tu Anh Hoang Nguyen et.al|[paper](https://arxiv.org/abs/2608.19463)|-|<details><summary>detail</summary>International Conference on Neural Information Processing (ICONIP) 2026</details>|
-|**2026-8-19**|**Too Sure to Be Safe: Model Calibration for Reliable Log Anomaly Detection**|Bin Li et.al|[paper](https://arxiv.org/abs/2608.17965)|-|<details><summary>detail</summary>the 2026 IEEE International Conference on Data Mining (ICDM 2026)</details>|
-|**2026-8-19**|**Online Conformal Anomaly Detection with Prediction-Powered Data Acquisition**|Amirmohammad Farzaneh et.al|[paper](https://arxiv.org/abs/2505.01783)|-|-|
-|**2026-8-19**|**SPARC: Subspace Position-Aware Robust Few-Shot Calibration for Distribution-Shifted Industrial Anomaly Detection**|Seokhee Han et.al|[paper](https://arxiv.org/abs/2608.18585)|-|-|
-|**2026-8-18**|**Low-Power, Neuromorphic, Acoustic Anomaly Detection for Persistent Machine Monitoring**|Steven C. Nesbit et.al|[paper](https://arxiv.org/abs/2608.18341)|-|-|
 
 ## 3D Anomaly Detection
 
