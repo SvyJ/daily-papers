@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.08.27
+## Updated on 2026.08.28
 
 ## Defect Detection
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-27**|**X-WAD: eXplainable Web Anomaly Detection**|Matteo Bitussi et.al|[paper](https://arxiv.org/abs/2608.27172)|-|-|
+|**2026-8-27**|**Feature Transformation Enhanced Jacobi Polynomial Graph Filtering for Graph Anomaly Detection**|Xiang Wang et.al|[paper](https://arxiv.org/abs/2608.27144)|-|-|
+|**2026-8-27**|**Cyber-Electromagnetic Anomaly Detection Through Time-Series Analysis**|María Teresa Guillén Navarro et.al|[paper](https://arxiv.org/abs/2608.27043)|-|-|
+|**2026-8-27**|**GeoMAD: Geometry-Aware Multi-View Anomaly Detection via Deformable Fusion and Distributional Alignment**|Shang-Fu Chen et.al|[paper](https://arxiv.org/abs/2608.26724)|-|-|
 |**2026-8-26**|**Contrastive Learning for Interpretable Anomaly Detection at Collider Experiments**|Haoyi Jia et.al|[paper](https://arxiv.org/abs/2608.13652)|-|-|
 |**2026-8-26**|**Defending the Peg: Real-Time Dynamic Protection and Anomaly Detection in DeFi Stablecoins**|Hengxing Zeng et.al|[paper](https://arxiv.org/abs/2608.25600)|-|-|
 |**2026-8-25**|**DeCoFlow: Structural Decomposition of Normalizing Flows for Continual Anomaly Detection**|Hun Im et.al|[paper](https://arxiv.org/abs/2606.26687)|[code](https://github.com/crimama/DeCoFlow)|<details><summary>detail</summary>ECCV 2026</details>|
@@ -94,10 +98,6 @@
 |**2026-8-21**|**TRACE-C: Rank-Calibrated Relational Anomaly Detection for Multi-Stream Operational Telemetry**|Matthew Faucher et.al|[paper](https://arxiv.org/abs/2608.21251)|[code](https://github.com/mars-arch/trace-c)|-|
 |**2026-8-21**|**A VLM Answer Is Not an Anomaly Score: Rank Compression in Training-Free Video Anomaly Detection**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2608.21244)|-|<details><summary>detail</summary>Preprint</details>|
 |**2026-8-20**|**Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detection**|Alireza Salehi et.al|[paper](https://arxiv.org/abs/2504.11055)|[code](https://github.com/Alireza99Salehi/Crane.)|<details><summary>detail</summary>British Machine Vision Conference (BMVC 2026)</details>|
-|**2026-8-20**|**STEP: Score-Based Temporal Energy for Human Pose Video Anomaly Detection**|Jakub Micorek et.al|[paper](https://arxiv.org/abs/2608.19987)|[code](https://jakubmicorek.github.io/STEP-demo)|<details><summary>detail</summary>ECCV 2026</details>|
-|**2026-8-20**|**From Noise to Signal: Improving Security Log Anomaly Detection Using LLMs with Endpoint-Specific Logs**|Christopher Henshaw et.al|[paper](https://arxiv.org/abs/2608.19938)|-|-|
-|**2026-8-20**|**Online Test-Time Adaptation for Generalizable Dynamic Graph Anomaly Detection**|Jialun Zheng et.al|[paper](https://arxiv.org/abs/2608.19858)|-|-|
-|**2026-8-20**|**Unsupervised Anomaly Detection Using Flow Matching on Tabular Data**|Philip Konz et.al|[paper](https://arxiv.org/abs/2608.19801)|-|-|
 
 ## 3D Anomaly Detection
 
