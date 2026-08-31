@@ -7,12 +7,14 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.08.30
+## Updated on 2026.08.31
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-28**|**CF-YOLO: Context-Aware Feature Refinement for Camouflaged Industrial Micro-Defect Detection**|Xinda Yu et.al|[paper](https://arxiv.org/abs/2608.28070)|[code](https://github.com/Yu-Xinda/CFYOLO-Context-Aware-Feature-Refinement-for-Camouflaged-Industrial-Micro-Defect-Detection)|-|
+|**2026-8-27**|**ShiftSplit-AD: Separating Domain Shift from Defects in Foundation-Feature Visual Anomaly Detection**|Muhamathu Ameer Ali Aacaas Muhamath et.al|[paper](https://arxiv.org/abs/2608.27610)|-|-|
 |**2026-8-25**|**Lowering the Barrier to AI-Driven Inspection: A No-Code Workflow for Automated Structural Defect Detection**|Michael Holm et.al|[paper](https://arxiv.org/abs/2608.25176)|[code](https://github.com/michaelholm6/YOLOEZ)|-|
 |**2026-8-25**|**When More References Hurt: Contamination-Aware DINOv2 Memory Banks for Few-Shot Steel Defect Detection**|Hannaneh Kalantary et.al|[paper](https://arxiv.org/abs/2608.22082)|-|-|
 |**2026-8-24**|**What Remains Normal? Clean Images Miss Useful Near-Defect Normal Patches for Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2608.23299)|[code](https://github.com/jw-chae/cleancon.)|-|
@@ -36,8 +38,6 @@
 |**2026-6-2**|**Structure-Guided Mixed Masked Pretraining and Spatial Continuity Regularization for Printed Circuit Board Defect Detection**|Peitong Wang et.al|[paper](https://arxiv.org/abs/2606.03508)|-|<details><summary>detail</summary>Preprint</details>|
 |**2026-6-2**|**Contrastive Augmented Transformer with Domain-specific Enhancement for Robust Multi-scenario Metal Surface Defect Detection**|Yiyao Liu et.al|[paper](https://arxiv.org/abs/2606.01962)|-|-|
 |**2026-6-1**|**Improving Combined Detection and Classification of TEM Defects via Mask-Conditioned Latent Diffusion Augmentation**|Ni Li et.al|[paper](https://arxiv.org/abs/2606.02532)|-|-|
-|**2026-5-30**|**RefDiffNet: Learning to Expose Subtle PCB Defects Before Detection**|Vinay Edula et.al|[paper](https://arxiv.org/abs/2606.00852)|-|-|
-|**2026-5-28**|**Unsupervised Defect Detection for Surgical Instruments**|Joseph Huang et.al|[paper](https://arxiv.org/abs/2509.21561)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-28**|**Localizing Global Discrepancies: Marginal Contributions and Contextual Anomaly Detection**|Tommaso dorigo et.al|[paper](https://arxiv.org/abs/2608.28375)|-|-|
+|**2026-8-27**|**Enhancing Network Resilience via Graph-Based Anomaly Detection in Sovereign Functions**|Xin Hao et.al|[paper](https://arxiv.org/abs/2605.17716)|-|-|
+|**2026-8-27**|**ShiftSplit-AD: Separating Domain Shift from Defects in Foundation-Feature Visual Anomaly Detection**|Muhamathu Ameer Ali Aacaas Muhamath et.al|[paper](https://arxiv.org/abs/2608.27610)|-|-|
 |**2026-8-27**|**X-WAD: eXplainable Web Anomaly Detection**|Matteo Bitussi et.al|[paper](https://arxiv.org/abs/2608.27172)|-|-|
 |**2026-8-27**|**Feature Transformation Enhanced Jacobi Polynomial Graph Filtering for Graph Anomaly Detection**|Xiang Wang et.al|[paper](https://arxiv.org/abs/2608.27144)|-|-|
 |**2026-8-27**|**Cyber-Electromagnetic Anomaly Detection Through Time-Series Analysis**|María Teresa Guillén Navarro et.al|[paper](https://arxiv.org/abs/2608.27043)|-|-|
@@ -95,9 +98,6 @@
 |**2026-8-23**|**Lightweight Multi-scale Hierarchical Anomaly Detection and Localization for Geospatial Big Data Applications at the Edge**|Thomas Benton Townsend et.al|[paper](https://arxiv.org/abs/2608.22648)|-|<details><summary>detail</summary>IEEE GLOBECOM 2026</details>|
 |**2026-8-22**|**Text-ADBench: Text Anomaly Detection Benchmark Based on LLM Embeddings**|Feng Xiao et.al|[paper](https://arxiv.org/abs/2507.12295)|[code](https://github.com/jicongfan/Text-Anomaly-Detection-Benchmark.)|-|
 |**2026-8-22**|**Frame-Level Evaluation in Weakly Supervised Video Anomaly Detection Mostly Measures Video-Level Ranking**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2608.21854)|-|<details><summary>detail</summary>Preprint</details>|
-|**2026-8-21**|**TRACE-C: Rank-Calibrated Relational Anomaly Detection for Multi-Stream Operational Telemetry**|Matthew Faucher et.al|[paper](https://arxiv.org/abs/2608.21251)|[code](https://github.com/mars-arch/trace-c)|-|
-|**2026-8-21**|**A VLM Answer Is Not an Anomaly Score: Rank Compression in Training-Free Video Anomaly Detection**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2608.21244)|-|<details><summary>detail</summary>Preprint</details>|
-|**2026-8-20**|**Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detection**|Alireza Salehi et.al|[paper](https://arxiv.org/abs/2504.11055)|[code](https://github.com/Alireza99Salehi/Crane.)|<details><summary>detail</summary>British Machine Vision Conference (BMVC 2026)</details>|
 
 ## 3D Anomaly Detection
 
