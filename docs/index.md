@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.09.01
+## Updated on 2026.09.02
 
 ## Defect Detection
 
@@ -43,6 +43,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-31**|**SAM3-LoRA: Parameter-Efficient Adaptation of a Concept-Promptable Foundation Model for Multi-Class Structural Defect Segmentation**|P. Malaisree et.al|[paper](https://arxiv.org/abs/2609.00469)|-|-|
 |**2026-8-31**|**SePArate: Segmenting Patterns from Defects in Wafer Manufacturing Using Weak Supervision**|Dain Kwon et.al|[paper](https://arxiv.org/abs/2608.30410)|-|-|
 |**2026-7-23**|**SPDCN: Strip-based Deformable Convolutional Network for Steel Surface Defect Segmentation**|Zhongming Liu et.al|[paper](https://arxiv.org/abs/2607.21456)|[code](https://github.com/DWlzm)|-|
 |**2026-7-15**|**XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation**|Md Mahedi Hasan et.al|[paper](https://arxiv.org/abs/2607.14287)|[code](https://github.com/Mahedi-61/XCT-SAM.git)|-|
@@ -67,12 +68,13 @@
 |**2025-6-17**|**synth-dacl: Does Synthetic Defect Data Enhance Segmentation Accuracy and Robustness for Real-World Bridge Inspections?**|Johannes Flotzinger et.al|[paper](https://arxiv.org/abs/2506.14255)|-|-|
 |**2025-4-24**|**Conformal Segmentation in Industrial Surface Defect Detection with Statistical Guarantees**|Cheng Shen et.al|[paper](https://arxiv.org/abs/2504.17721)|-|<details><summary>detail</summary>Under Review</details>|
 |**2025-4-11**|**Weakly Supervised Panoptic Segmentation for Defect-Based Grading of Fresh Produce**|Manuel Knott et.al|[paper](https://arxiv.org/abs/2411.16219)|[code](https://github.com/manuelknott/banana-defect-segmentation)|<details><summary>detail</summary>Accepted as a paper to the 6th International Workshop on Agriculture-Vision: Challenges & Opportunities for Computer Vision in Agriculture in conjunction with IEEE/CVF CVPR 2025</details>|
-|**2025-2-11**|**Exploring Few-Shot Defect Segmentation in General Industrial Scenarios with Metric Learning and Vision Foundation Models**|Tongkun Liu et.al|[paper](https://arxiv.org/abs/2502.01216)|[code](https://github.com/liutongkun/GFDS.)|-|
 
 ## Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-1**|**Spatial Autoregressive Modeling of DINOv3 Embeddings for Unsupervised Anomaly Detection**|Ertunc Erdil et.al|[paper](https://arxiv.org/abs/2603.02974)|[code](https://eerdil.github.io/spatial-ar-dinov3-uad/)|-|
+|**2026-9-1**|**Auditing Frozen-Encoder Anomaly Detection Across Mechanical Systems: Representation Provenance, Calibration, and Protocol Effects**|Jose Sánchez Andreu et.al|[paper](https://arxiv.org/abs/2601.11415)|-|-|
 |**2026-8-31**|**Real-Time Video Anomaly Detection Using YOLO Pose Estimation and CLIP-Based Semantic Scoring**|Vanodhya G. Warnasooriya et.al|[paper](https://arxiv.org/abs/2608.31074)|-|-|
 |**2026-8-31**|**Automated Batch Distillation Process Simulation for a Large Hybrid Dataset for Deep Anomaly Detection**|Jennifer Werner et.al|[paper](https://arxiv.org/abs/2604.09166)|-|<details><summary>detail</summary>Journal ref:Comput</details>|
 |**2026-8-31**|**LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection**|Jingwei Ye et.al|[paper](https://arxiv.org/abs/2512.09627)|-|-|
@@ -96,8 +98,6 @@
 |**2026-8-26**|**Defending the Peg: Real-Time Dynamic Protection and Anomaly Detection in DeFi Stablecoins**|Hengxing Zeng et.al|[paper](https://arxiv.org/abs/2608.25600)|-|-|
 |**2026-8-25**|**DeCoFlow: Structural Decomposition of Normalizing Flows for Continual Anomaly Detection**|Hun Im et.al|[paper](https://arxiv.org/abs/2606.26687)|[code](https://github.com/crimama/DeCoFlow)|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-8-25**|**See More, Detect Less? Taming Information Leakage in Multi-View Anomaly Detection**|Shang-Fu Chen et.al|[paper](https://arxiv.org/abs/2608.25168)|-|-|
-|**2026-8-25**|**Strictly Causal Streaming Video Anomaly Detection with a Theoretically-Grounded State-Space Core**|Yogesh Kumar et.al|[paper](https://arxiv.org/abs/2608.24810)|-|-|
-|**2026-8-25**|**Single State Update Predictive Coding training for Time Series Forecasting and Anomaly Detection**|Matteo Cardoni et.al|[paper](https://arxiv.org/abs/2608.24697)|-|-|
 
 ## 3D Anomaly Detection
 
