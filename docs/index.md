@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.09.03
+## Updated on 2026.09.04
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-3**|**ISP-AD: A Large-Scale Real-World Dataset for Advancing Industrial Anomaly Detection with Synthetic and Real Defects**|Paul J. Krassnig et.al|[paper](https://arxiv.org/abs/2503.04997)|[code](https://doi.org/10.5281/zenodo.14911042,)|-|
 |**2026-9-2**|**FuDU: A Fuzzy Dual-dimensional Uncertainty Framework for Streaming Active Learning in Industrial Defect Detection**|Zhaoyang Wang et.al|[paper](https://arxiv.org/abs/2609.02212)|[code](https://github.com/wangzhaoyang-508/FuDU.)|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-9-1**|**When Agents Implement Systems: A Case Study in Defects, Detection, and Evaluation Rigor**|Phanindra Reddy Madduru et.al|[paper](https://arxiv.org/abs/2609.01985)|-|-|
 |**2026-9-1**|**Integrated Laser Scanning and Image-Based Topology Optimization Techniques for Detection and Quantification of Visible and Subsurface Structural Defects**|Mehrdad Shafiei Dizaji et.al|[paper](https://arxiv.org/abs/2609.01808)|-|<details><summary>detail</summary>9</details>|
@@ -37,7 +38,6 @@
 |**2026-6-11**|**Multi-Modal Agents for Power Distribution Defect Detection: An Evaluation of Foundation Models**|Quan Quan et.al|[paper](https://arxiv.org/abs/2606.12969)|-|-|
 |**2026-6-7**|**Failure-Aware Refinement of Vision-Language Model for Lithography Defect Detection**|Pangyun Jeong et.al|[paper](https://arxiv.org/abs/2606.08908)|-|-|
 |**2026-6-3**|**Attention-Guided Autoencoder Fusion for Insulator Defect Detection Using UAV Transmission-Line Imaging**|Malak Allam et.al|[paper](https://arxiv.org/abs/2606.06536)|-|-|
-|**2026-6-3**|**Real-Time Industrial Defect Detection on Edge Hardware Using Fine-Tuned YOLOv8: A Systematic Benchmark on the NEU Surface Defect Database and MVTec AD with Automotive & Battery Manufacturing Extensions**|Emmanuel Ezeji Somtochukwu et.al|[paper](https://arxiv.org/abs/2606.07659)|-|-|
 
 ## Defect Segmentation
 
@@ -73,7 +73,13 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-3**|**Differentiable Interval Bottlenecks for Interpretable Anomaly Detection in Numerical Data**|Lamine Diop et.al|[paper](https://arxiv.org/abs/2609.03878)|-|<details><summary>detail</summary>ICDM 2026</details>|
+|**2026-9-3**|**ISP-AD: A Large-Scale Real-World Dataset for Advancing Industrial Anomaly Detection with Synthetic and Real Defects**|Paul J. Krassnig et.al|[paper](https://arxiv.org/abs/2503.04997)|[code](https://doi.org/10.5281/zenodo.14911042,)|-|
+|**2026-9-3**|**PL-SCEA: Reconfiguring Pretrained Attention for Few-Shot Industrial Anomaly Detection**|Xiaoyu Yang et.al|[paper](https://arxiv.org/abs/2609.03655)|-|-|
+|**2026-9-3**|**An Adversarial Zero-Shot Learning Approach for Anomaly Detection in Multivariate IoT Traffic Data**|Mahshid Rezakhani et.al|[paper](https://arxiv.org/abs/2609.03505)|-|-|
+|**2026-9-3**|**Neural-Collapse-guided Task-Free Continual Anomaly Detection**|Xiaotong Kong et.al|[paper](https://arxiv.org/abs/2609.03406)|-|-|
 |**2026-9-2**|**RINSE: Robust Target-Time Normality Estimation for Zero-Shot Graph Anomaly Detection**|Taufikur Rahman Fuad et.al|[paper](https://arxiv.org/abs/2609.02497)|-|-|
+|**2026-9-2**|**Statistical Feature Augmentation for Anomaly Detection in Dynamic Graphs**|Philipp Schlinge et.al|[paper](https://arxiv.org/abs/2609.02965)|-|-|
 |**2026-9-1**|**Monotonic anomaly detection**|Oliver Urs Lenz et.al|[paper](https://arxiv.org/abs/2410.23158)|-|-|
 |**2026-9-1**|**Spatial Autoregressive Modeling of DINOv3 Embeddings for Unsupervised Anomaly Detection**|Ertunc Erdil et.al|[paper](https://arxiv.org/abs/2603.02974)|[code](https://eerdil.github.io/spatial-ar-dinov3-uad/)|-|
 |**2026-9-1**|**Auditing Frozen-Encoder Anomaly Detection Across Mechanical Systems: Representation Provenance, Calibration, and Protocol Effects**|Jose Sánchez Andreu et.al|[paper](https://arxiv.org/abs/2601.11415)|-|-|
@@ -92,12 +98,6 @@
 |**2026-8-28**|**Localizing Global Discrepancies: Marginal Contributions and Contextual Anomaly Detection**|Tommaso dorigo et.al|[paper](https://arxiv.org/abs/2608.28375)|-|-|
 |**2026-8-27**|**Enhancing Network Resilience via Graph-Based Anomaly Detection in Sovereign Functions**|Xin Hao et.al|[paper](https://arxiv.org/abs/2605.17716)|-|-|
 |**2026-8-27**|**ShiftSplit-AD: Separating Domain Shift from Defects in Foundation-Feature Visual Anomaly Detection**|Muhamathu Ameer Ali Aacaas Muhamath et.al|[paper](https://arxiv.org/abs/2608.27610)|-|-|
-|**2026-8-27**|**X-WAD: eXplainable Web Anomaly Detection**|Matteo Bitussi et.al|[paper](https://arxiv.org/abs/2608.27172)|-|-|
-|**2026-8-27**|**Feature Transformation Enhanced Jacobi Polynomial Graph Filtering for Graph Anomaly Detection**|Xiang Wang et.al|[paper](https://arxiv.org/abs/2608.27144)|-|-|
-|**2026-8-27**|**Cyber-Electromagnetic Anomaly Detection Through Time-Series Analysis**|María Teresa Guillén Navarro et.al|[paper](https://arxiv.org/abs/2608.27043)|-|-|
-|**2026-8-27**|**GeoMAD: Geometry-Aware Multi-View Anomaly Detection via Deformable Fusion and Distributional Alignment**|Shang-Fu Chen et.al|[paper](https://arxiv.org/abs/2608.26724)|-|-|
-|**2026-8-26**|**Contrastive Learning for Interpretable Anomaly Detection at Collider Experiments**|Haoyi Jia et.al|[paper](https://arxiv.org/abs/2608.13652)|-|-|
-|**2026-8-26**|**Defending the Peg: Real-Time Dynamic Protection and Anomaly Detection in DeFi Stablecoins**|Hengxing Zeng et.al|[paper](https://arxiv.org/abs/2608.25600)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-3**|**Tree-Structured Vector Quantization For Efficient And Progressive Image Compression**|Xinkun Wang et.al|[paper](https://arxiv.org/abs/2609.03641)|-|-|
+|**2026-9-3**|**PACodec: A Low-bitrate Neural Speech Codec with Parallel Additive Vector Quantization**|Fei Liu et.al|[paper](https://arxiv.org/abs/2609.03363)|-|<details><summary>detail</summary>Accepted by APSIPA 2026</details>|
 |**2026-9-2**|**A Unified Rate-Distortion Perspective on Vector, Product, and Scalar Quantization**|Xianghong Fang et.al|[paper](https://arxiv.org/abs/2609.02107)|-|-|
 |**2026-8-31**|**RSLM: Training-Free Vector Quantization for Approximate Nearest Neighbor Search**|Rastislav Lenhardt et.al|[paper](https://arxiv.org/abs/2608.30384)|-|<details><summary>detail</summary>14 Pages</details>|
 |**2026-8-24**|**ASH: Asymmetric Scalar Hashing With Learned Dimensionality Reduction for High-Fidelity Vector Quantization**|Mariano Tepper et.al|[paper](https://arxiv.org/abs/2606.07870)|-|<details><summary>detail</summary>CIKM 2026</details>|
@@ -186,6 +188,4 @@
 |**2026-6-19**|**Fast-TurboQuant: A Multiplier-Free Online Vector Quantization Approach**|Pedro M. R. Pereira et.al|[paper](https://arxiv.org/abs/2606.21448)|-|-|
 |**2026-6-15**|**Price of metric universality in vector quantization is at most 0.11 bit**|Alina Harbuzova et.al|[paper](https://arxiv.org/abs/2602.05790)|-|<details><summary>detail</summary>41 page</details>|
 |**2026-6-12**|**VQ4SNN: Vector Quantization for Memory-Efficient FPGA Spiking Neural Networks**|Dimitrios Sekertzis et.al|[paper](https://arxiv.org/abs/2606.20675)|-|-|
-|**2026-6-9**|**ViP-VL: Vietnamese Self-supervised Speech Pretraining Model with Vector-Quantization Learning**|Khanh Le et.al|[paper](https://arxiv.org/abs/2606.10360)|-|<details><summary>detail</summary>INTERSPEECH 2026</details>|
-|**2026-6-9**|**Vector Quantized Latent Concepts: A Scalable Alternative to Clustering-Based Concept Discovery**|Xuemin Yu et.al|[paper](https://arxiv.org/abs/2602.02726)|-|-|
 
