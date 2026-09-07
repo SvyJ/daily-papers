@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.09.06
+## Updated on 2026.09.07
 
 ## Defect Detection
 
@@ -73,6 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-4**|**Hyperedge Anomaly Detection with Hypergraph Neural Network**|Md. Tanvir Alam et.al|[paper](https://arxiv.org/abs/2412.05641)|-|-|
+|**2026-9-4**|**GLASS: Graph-Language Alignment with Spherical Scoring for Transferable Graph-Level Anomaly Detection**|Xudong Wang et.al|[paper](https://arxiv.org/abs/2609.05253)|-|<details><summary>detail</summary>Preprint</details>|
+|**2026-9-4**|**Training-Free Logical and Structural Anomaly Detection via Calibrated Fusion**|Changyi Li et.al|[paper](https://arxiv.org/abs/2609.05091)|-|<details><summary>detail</summary>Accepted by PRCV 2026</details>|
+|**2026-9-4**|**Adaptive Multi-Granularity Temporal Modeling for Weakly Supervised Video Anomaly Detection**|Changyi Li et.al|[paper](https://arxiv.org/abs/2609.05066)|-|<details><summary>detail</summary>Accepted by PRCV 2026</details>|
+|**2026-9-4**|**LUMIN: Lightweight Universal Manufacturing Inspection Network for Anomaly Detection**|Pengfei Yang et.al|[paper](https://arxiv.org/abs/2609.04775)|-|-|
 |**2026-9-3**|**Differentiable Interval Bottlenecks for Interpretable Anomaly Detection in Numerical Data**|Lamine Diop et.al|[paper](https://arxiv.org/abs/2609.03878)|-|<details><summary>detail</summary>ICDM 2026</details>|
 |**2026-9-3**|**ISP-AD: A Large-Scale Real-World Dataset for Advancing Industrial Anomaly Detection with Synthetic and Real Defects**|Paul J. Krassnig et.al|[paper](https://arxiv.org/abs/2503.04997)|[code](https://doi.org/10.5281/zenodo.14911042,)|-|
 |**2026-9-3**|**PL-SCEA: Reconfiguring Pretrained Attention for Few-Shot Industrial Anomaly Detection**|Xiaoyu Yang et.al|[paper](https://arxiv.org/abs/2609.03655)|-|-|
@@ -93,11 +98,6 @@
 |**2026-8-29**|**Co-Evolutionary Prompt Optimization with Cross-Category Transfer for Zero-Shot Anomaly Detection**|Sisi Zhu et.al|[paper](https://arxiv.org/abs/2608.29467)|[code](https://github.com/rstao-bjtu/CoEvoAD.)|-|
 |**2026-8-29**|**NFAD: Nuisance-Filtered Anomaly Detection Under Distribution Shift**|Dat Cao et.al|[paper](https://arxiv.org/abs/2608.29112)|-|-|
 |**2026-8-29**|**A Zero-shot Generalized Graph Anomaly Detection Framework via Node Reconstruction**|Phan Nguyen et.al|[paper](https://arxiv.org/abs/2606.12673)|-|<details><summary>detail</summary>PRICAI 2026</details>|
-|**2026-8-28**|**Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts**|Xinyu Zhao et.al|[paper](https://arxiv.org/abs/2602.06859)|-|<details><summary>detail</summary>Accepted by IEEE International Conference on Data Mining (ICDM 2026)</details>|
-|**2026-8-28**|**Generalist Graph Anomaly Detection via Prototype-Based Distillation**|Yiming Xu et.al|[paper](https://arxiv.org/abs/2605.26857)|-|<details><summary>detail</summary>Accepted by ICML 2026</details>|
-|**2026-8-28**|**Localizing Global Discrepancies: Marginal Contributions and Contextual Anomaly Detection**|Tommaso dorigo et.al|[paper](https://arxiv.org/abs/2608.28375)|-|-|
-|**2026-8-27**|**Enhancing Network Resilience via Graph-Based Anomaly Detection in Sovereign Functions**|Xin Hao et.al|[paper](https://arxiv.org/abs/2605.17716)|-|-|
-|**2026-8-27**|**ShiftSplit-AD: Separating Domain Shift from Defects in Foundation-Feature Visual Anomaly Detection**|Muhamathu Ameer Ali Aacaas Muhamath et.al|[paper](https://arxiv.org/abs/2608.27610)|-|-|
 
 ## 3D Anomaly Detection
 
