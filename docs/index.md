@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.09.09
+## Updated on 2026.09.10
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-8**|**Positional task conditioning for scalable defect detection across product families in large product catalogs**|Soham Satyadharma et.al|[paper](https://arxiv.org/abs/2609.09567)|-|-|
 |**2026-9-7**|**Explainable Temporal Attention-based Defect Detection For Fillet Joints in Real-Time Gas Metal Arc Welding Based on Multi-modal Data**|Mobina Mobaraki et.al|[paper](https://arxiv.org/abs/2609.07893)|-|-|
 |**2026-9-5**|**Spatial Attention Supervision for Defect Localization: Exploiting Ground-Truth Masks as Training Signal in Diffusion-Augmented Defect Detection**|Sajjad Rezvani Boroujeni et.al|[paper](https://arxiv.org/abs/2609.06232)|[code](https://github.com/Actual-Reality/Glass-Defect-Detection-Attention-Supervision)|-|
 |**2026-9-3**|**ISP-AD: A Large-Scale Real-World Dataset for Advancing Industrial Anomaly Detection with Synthetic and Real Defects**|Paul J. Krassnig et.al|[paper](https://arxiv.org/abs/2503.04997)|[code](https://doi.org/10.5281/zenodo.14911042,)|-|
@@ -37,7 +38,6 @@
 |**2026-7-2**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|<details><summary>detail</summary>Journal ref:European Conference on Computer Vision (ECCV 2026)</details>|
 |**2026-7-1**|**Morphology-Aware Sample Assignment: Overcoming IoU Insensitivity for Surface Defect Detection**|Pengfei Liu et.al|[paper](https://arxiv.org/abs/2606.13723)|-|-|
 |**2026-6-23**|**An Integrated Hardware-Software Design for Low-Data Spatial Defect Detection in Robotic Visual Inspection with Hybrid Optoelectronic Neural Networks**|Chaoqing Tang et.al|[paper](https://arxiv.org/abs/2606.25277)|-|-|
-|**2026-6-11**|**Multi-Modal Agents for Power Distribution Defect Detection: An Evaluation of Foundation Models**|Quan Quan et.al|[paper](https://arxiv.org/abs/2606.12969)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-9**|**Structure-Aware Unsupervised Anomaly Detection for Spacecraft Telemetry with Adaptive EVT Thresholding**|Óscar Alcarria et.al|[paper](https://arxiv.org/abs/2609.10017)|-|-|
+|**2026-9-9**|**A VLM Answer Is Not an Anomaly Score: Rank Compression Across Image and Video Anomaly Detection**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2608.21244)|-|<details><summary>detail</summary>Preprint</details>|
+|**2026-9-8**|**Bounding-Box Trajectories Matter for Video Anomaly Detection**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2605.21957)|-|<details><summary>detail</summary>ECCV 2026</details>|
+|**2026-9-8**|**Real-time and adaptive anomaly detection algorithm for cyclostationary models**|Justyna Witulska et.al|[paper](https://arxiv.org/abs/2609.09326)|-|-|
 |**2026-9-8**|**AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization**|Jingyi Liao et.al|[paper](https://arxiv.org/abs/2508.04175)|-|-|
 |**2026-9-7**|**SIM: Subspace Interaction-based Method for Token-Level Text Anomaly Detection**|Kehan Yan et.al|[paper](https://arxiv.org/abs/2609.08200)|[code](https://github.com/yankehan/SIM-TAD.)|-|
 |**2026-9-7**|**Hyperspectral Anomaly Detection via Group Sparse Low-Rank Tensor Factorization With Automatic Anomaly Grouping**|Quan Yu et.al|[paper](https://arxiv.org/abs/2609.08121)|-|-|
@@ -94,10 +98,6 @@
 |**2026-9-3**|**PL-SCEA: Reconfiguring Pretrained Attention for Few-Shot Industrial Anomaly Detection**|Xiaoyu Yang et.al|[paper](https://arxiv.org/abs/2609.03655)|-|-|
 |**2026-9-3**|**An Adversarial Zero-Shot Learning Approach for Anomaly Detection in Multivariate IoT Traffic Data**|Mahshid Rezakhani et.al|[paper](https://arxiv.org/abs/2609.03505)|-|-|
 |**2026-9-3**|**Neural-Collapse-guided Task-Free Continual Anomaly Detection**|Xiaotong Kong et.al|[paper](https://arxiv.org/abs/2609.03406)|-|-|
-|**2026-9-2**|**RINSE: Robust Target-Time Normality Estimation for Zero-Shot Graph Anomaly Detection**|Taufikur Rahman Fuad et.al|[paper](https://arxiv.org/abs/2609.02497)|-|-|
-|**2026-9-2**|**Statistical Feature Augmentation for Anomaly Detection in Dynamic Graphs**|Philipp Schlinge et.al|[paper](https://arxiv.org/abs/2609.02965)|-|-|
-|**2026-9-1**|**Monotonic anomaly detection**|Oliver Urs Lenz et.al|[paper](https://arxiv.org/abs/2410.23158)|-|-|
-|**2026-9-1**|**Spatial Autoregressive Modeling of DINOv3 Embeddings for Unsupervised Anomaly Detection**|Ertunc Erdil et.al|[paper](https://arxiv.org/abs/2603.02974)|[code](https://eerdil.github.io/spatial-ar-dinov3-uad/)|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-9**|**When Does Low-Bit Quantization Preserve the Decisions of Vector Search?**|Wenxuan Xiao et.al|[paper](https://arxiv.org/abs/2609.09854)|-|<details><summary>detail</summary>JMLR-style preprint with theoretical and experimental appendices</details>|
 |**2026-9-4**|**SeRV: Semantic-Aligned Residual Vector Quantization for American Sign Language Generation**|Hongyu Wu et.al|[paper](https://arxiv.org/abs/2609.05742)|-|-|
 |**2026-9-3**|**Tree-Structured Vector Quantization For Efficient And Progressive Image Compression**|Xinkun Wang et.al|[paper](https://arxiv.org/abs/2609.03641)|-|-|
 |**2026-9-3**|**PACodec: A Low-bitrate Neural Speech Codec with Parallel Additive Vector Quantization**|Fei Liu et.al|[paper](https://arxiv.org/abs/2609.03363)|-|<details><summary>detail</summary>Accepted by APSIPA 2026</details>|
@@ -187,5 +188,4 @@
 |**2026-6-21**|**LVQAC: Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression**|Xi Zhang et.al|[paper](https://arxiv.org/abs/2304.12319)|[code](https://github.com/xzhang9308/LVQAC.)|<details><summary>detail</summary>Accepted by CVPR 2023</details>|
 |**2026-6-19**|**VQActFlow: Vector-Quantized Action Mode Steering for Multi-Task Robot Manipulation**|Zhigen Zhao et.al|[paper](https://arxiv.org/abs/2606.21600)|-|-|
 |**2026-6-19**|**Fast-TurboQuant: A Multiplier-Free Online Vector Quantization Approach**|Pedro M. R. Pereira et.al|[paper](https://arxiv.org/abs/2606.21448)|-|-|
-|**2026-6-15**|**Price of metric universality in vector quantization is at most 0.11 bit**|Alina Harbuzova et.al|[paper](https://arxiv.org/abs/2602.05790)|-|<details><summary>detail</summary>41 page</details>|
 
