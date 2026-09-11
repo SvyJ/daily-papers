@@ -7,13 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.09.10
+## Updated on 2026.09.11
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-9-8**|**Positional task conditioning for scalable defect detection across product families in large product catalogs**|Soham Satyadharma et.al|[paper](https://arxiv.org/abs/2609.09567)|-|-|
+|**2026-9-10**|**Positional task conditioning for scalable defect detection across product families in large product catalogs**|Soham Satyadharma et.al|[paper](https://arxiv.org/abs/2609.09567)|-|-|
 |**2026-9-7**|**Explainable Temporal Attention-based Defect Detection For Fillet Joints in Real-Time Gas Metal Arc Welding Based on Multi-modal Data**|Mobina Mobaraki et.al|[paper](https://arxiv.org/abs/2609.07893)|-|-|
 |**2026-9-5**|**Spatial Attention Supervision for Defect Localization: Exploiting Ground-Truth Masks as Training Signal in Diffusion-Augmented Defect Detection**|Sajjad Rezvani Boroujeni et.al|[paper](https://arxiv.org/abs/2609.06232)|[code](https://github.com/Actual-Reality/Glass-Defect-Detection-Attention-Supervision)|-|
 |**2026-9-3**|**ISP-AD: A Large-Scale Real-World Dataset for Advancing Industrial Anomaly Detection with Synthetic and Real Defects**|Paul J. Krassnig et.al|[paper](https://arxiv.org/abs/2503.04997)|[code](https://doi.org/10.5281/zenodo.14911042,)|-|
