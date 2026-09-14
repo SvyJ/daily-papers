@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.09.13
+## Updated on 2026.09.14
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-11**|**Auditing Frame-Level AUC in Weakly Supervised Video Anomaly Detection: Granularity, Resolution, and Scene Bias**|Sara Abdulaziz et.al|[paper](https://arxiv.org/abs/2608.11985)|-|<details><summary>detail</summary>ECCV 2026 Empirical Theory (ET) Workshop v3: corrected a GT frame-alignment error in the prototype-based evaluation</details>|
+|**2026-9-11**|**Bridging Vision Foundation Model Priors with CLIP for Spatial-aware Few-shot Anomaly Detection in Medical Images**|Juzheng Miao et.al|[paper](https://arxiv.org/abs/2609.12454)|[code](https://github.com/JuzhengMiao/Spatial-FAD.)|<details><summary>detail</summary>Accepted by MICCAI 2026</details>|
+|**2026-9-10**|**Self-Verifying Anomaly Detection using Explainable AI for Cybersecurity of DER Networks**|Damilola Popoola et.al|[paper](https://arxiv.org/abs/2609.12305)|-|-|
 |**2026-9-9**|**Structure-Aware Unsupervised Anomaly Detection for Spacecraft Telemetry with Adaptive EVT Thresholding**|Óscar Alcarria et.al|[paper](https://arxiv.org/abs/2609.10017)|-|-|
 |**2026-9-9**|**A VLM Answer Is Not an Anomaly Score: Rank Compression Across Image and Video Anomaly Detection**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2608.21244)|-|<details><summary>detail</summary>Preprint</details>|
 |**2026-9-8**|**Bounding-Box Trajectories Matter for Video Anomaly Detection**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2605.21957)|-|<details><summary>detail</summary>ECCV 2026</details>|
@@ -95,9 +98,6 @@
 |**2026-9-4**|**LUMIN: Lightweight Universal Manufacturing Inspection Network for Anomaly Detection**|Pengfei Yang et.al|[paper](https://arxiv.org/abs/2609.04775)|-|-|
 |**2026-9-3**|**Differentiable Interval Bottlenecks for Interpretable Anomaly Detection in Numerical Data**|Lamine Diop et.al|[paper](https://arxiv.org/abs/2609.03878)|-|<details><summary>detail</summary>ICDM 2026</details>|
 |**2026-9-3**|**ISP-AD: A Large-Scale Real-World Dataset for Advancing Industrial Anomaly Detection with Synthetic and Real Defects**|Paul J. Krassnig et.al|[paper](https://arxiv.org/abs/2503.04997)|[code](https://doi.org/10.5281/zenodo.14911042,)|-|
-|**2026-9-3**|**PL-SCEA: Reconfiguring Pretrained Attention for Few-Shot Industrial Anomaly Detection**|Xiaoyu Yang et.al|[paper](https://arxiv.org/abs/2609.03655)|-|-|
-|**2026-9-3**|**An Adversarial Zero-Shot Learning Approach for Anomaly Detection in Multivariate IoT Traffic Data**|Mahshid Rezakhani et.al|[paper](https://arxiv.org/abs/2609.03505)|-|-|
-|**2026-9-3**|**Neural-Collapse-guided Task-Free Continual Anomaly Detection**|Xiaotong Kong et.al|[paper](https://arxiv.org/abs/2609.03406)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-10**|**LC-QAT: Data-Efficient 2-Bit QAT for LLMs via Linear-Constrained Vector Quantization**|Haoyu Wang et.al|[paper](https://arxiv.org/abs/2606.10531)|[code](https://github.com/AI9Stars/UniSVQ.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
 |**2026-9-9**|**When Does Low-Bit Quantization Preserve the Decisions of Vector Search?**|Wenxuan Xiao et.al|[paper](https://arxiv.org/abs/2609.09854)|-|<details><summary>detail</summary>JMLR-style preprint with theoretical and experimental appendices</details>|
 |**2026-9-4**|**SeRV: Semantic-Aligned Residual Vector Quantization for American Sign Language Generation**|Hongyu Wu et.al|[paper](https://arxiv.org/abs/2609.05742)|-|-|
 |**2026-9-3**|**Tree-Structured Vector Quantization For Efficient And Progressive Image Compression**|Xinkun Wang et.al|[paper](https://arxiv.org/abs/2609.03641)|-|-|
@@ -184,7 +185,6 @@
 |**2026-7-7**|**Leech Lattice Vector Quantization for Efficient LLM Compression**|Tycho F. A. van der Ouderaa et.al|[paper](https://arxiv.org/abs/2603.11021)|-|-|
 |**2026-7-2**|**Sparse-Aware Vector Quantization for Bandwidth-Efficient Collaborative 3D Semantic Occupancy Prediction**|Feng Li et.al|[paper](https://arxiv.org/abs/2607.01928)|-|<details><summary>detail</summary>Accepted by ECCV26</details>|
 |**2026-6-30**|**UniSVQ: 2-bit Unified Scalar-Vector Quantization**|Haoyu Wang et.al|[paper](https://arxiv.org/abs/2606.10520)|[code](https://github.com/AI9Stars/UniSVQ.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
-|**2026-6-30**|**LC-QAT: Data-Efficient 2-Bit QAT for LLMs via Linear-Constrained Vector Quantization**|Haoyu Wang et.al|[paper](https://arxiv.org/abs/2606.10531)|[code](https://github.com/AI9Stars/UniSVQ.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
 |**2026-6-21**|**LVQAC: Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression**|Xi Zhang et.al|[paper](https://arxiv.org/abs/2304.12319)|[code](https://github.com/xzhang9308/LVQAC.)|<details><summary>detail</summary>Accepted by CVPR 2023</details>|
 |**2026-6-19**|**VQActFlow: Vector-Quantized Action Mode Steering for Multi-Task Robot Manipulation**|Zhigen Zhao et.al|[paper](https://arxiv.org/abs/2606.21600)|-|-|
 |**2026-6-19**|**Fast-TurboQuant: A Multiplier-Free Online Vector Quantization Approach**|Pedro M. R. Pereira et.al|[paper](https://arxiv.org/abs/2606.21448)|-|-|
