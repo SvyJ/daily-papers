@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.09.15
+## Updated on 2026.09.16
 
 ## Defect Detection
 
@@ -73,6 +73,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-15**|**Probe-VAD: Ordinal Likelihood Probing for Training-Free Video Anomaly Detection**|Jiawei Gu et.al|[paper](https://arxiv.org/abs/2609.17211)|[code](https://github.com/yvestine/COVAS-VAD.)|<details><summary>detail</summary>Under Review</details>|
+|**2026-9-15**|**PSMP-CLIP: Patch-Prompt SAM and Multi-Semantic Prompting for CLIP-Based Zero-Shot Anomaly Detection**|Xuezhi Xiang et.al|[paper](https://arxiv.org/abs/2609.16785)|-|-|
 |**2026-9-14**|**GSLAD: Prototype-Regularized Graph Structure Learning for Multivariate Time Series Anomaly Detection**|Zepeng Zhang et.al|[paper](https://arxiv.org/abs/2609.15483)|-|-|
 |**2026-9-14**|**LogICL: Demonstration Retrieval to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection**|Jingwei Ye et.al|[paper](https://arxiv.org/abs/2512.09627)|-|-|
 |**2026-9-13**|**Isolation-based Spherical Ensemble Representations for Tabular Anomaly Detection**|Yang Cao et.al|[paper](https://arxiv.org/abs/2510.13311)|-|<details><summary>detail</summary>The IEEE International Conference on Data Mining (ICDM 2026)</details>|
@@ -96,8 +98,6 @@
 |**2026-9-7**|**FPScan: An Automated Constraint-Based Analyzer for Floating-Point Anomaly Detection**|Julien Bortolussi et.al|[paper](https://arxiv.org/abs/2609.07492)|-|-|
 |**2026-9-7**|**Parser-Free VLM Verification for Federated Weakly Supervised Video Anomaly Detection**|Sébastien Thuau et.al|[paper](https://arxiv.org/abs/2609.07455)|-|-|
 |**2026-9-7**|**Towards a Resilience-Theoretic Foundation for Adversarial Robustness in Industrial Control System Anomaly Detection**|Branka Stojanović et.al|[paper](https://arxiv.org/abs/2609.07244)|-|-|
-|**2026-9-7**|**Proximity-CLIP: Text-Guided Semantic Proximity Learning for Zero-Shot Anomaly Detection**|Manwen Yang et.al|[paper](https://arxiv.org/abs/2609.07229)|-|<details><summary>detail</summary>ECCV 2026</details>|
-|**2026-9-6**|**Likelihood-Based Unsupervised Anomaly Detection in CMS Dijet Events**|Bhavishya Chebrolu et.al|[paper](https://arxiv.org/abs/2609.06686)|-|-|
 
 ## 3D Anomaly Detection
 
