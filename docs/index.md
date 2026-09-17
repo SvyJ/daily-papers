@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.09.16
+## Updated on 2026.09.17
 
 ## Defect Detection
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-16**|**Unsupervised Anomaly Detection for Image Dataset Quality Assurance in Multi-Center Breast MRI**|Chiara Tappermann et.al|[paper](https://arxiv.org/abs/2608.16725)|-|-|
+|**2026-9-16**|**Anomaly Detection in General Ledger Data: Results from a Hybrid Approach**|Jan Gronewald et.al|[paper](https://arxiv.org/abs/2609.18228)|-|<details><summary>detail</summary>Presented at the International Conference on Auditing and Artificial Intelligence 2024</details>|
+|**2026-9-16**|**FoundAna: A GNN-assisted Foundation Model for Graph Anomaly Detection**|Suprim Nakarmi et.al|[paper](https://arxiv.org/abs/2609.18107)|[code](https://github.com/FoundAna331/FoundAna.)|-|
+|**2026-9-15**|**RoboVAD: A Large Cross-Domain Evaluation Benchmark for Anomaly Detection in Robotic Arm Manipulation Videos**|Alexandru-Bogdan Dura et.al|[paper](https://arxiv.org/abs/2609.17843)|[code](https://zenodo.org/records/22754659.)|-|
 |**2026-9-15**|**Probe-VAD: Ordinal Likelihood Probing for Training-Free Video Anomaly Detection**|Jiawei Gu et.al|[paper](https://arxiv.org/abs/2609.17211)|[code](https://github.com/yvestine/COVAS-VAD.)|<details><summary>detail</summary>Under Review</details>|
 |**2026-9-15**|**PSMP-CLIP: Patch-Prompt SAM and Multi-Semantic Prompting for CLIP-Based Zero-Shot Anomaly Detection**|Xuezhi Xiang et.al|[paper](https://arxiv.org/abs/2609.16785)|-|-|
 |**2026-9-14**|**GSLAD: Prototype-Regularized Graph Structure Learning for Multivariate Time Series Anomaly Detection**|Zepeng Zhang et.al|[paper](https://arxiv.org/abs/2609.15483)|-|-|
@@ -94,10 +98,6 @@
 |**2026-9-8**|**AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization**|Jingyi Liao et.al|[paper](https://arxiv.org/abs/2508.04175)|-|-|
 |**2026-9-8**|**GaugeDefect: Detecting Surface Anomalies by Curvature of Feature Transport**|Yefan Wang et.al|[paper](https://arxiv.org/abs/2609.13282)|-|<details><summary>detail</summary>the 9th Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2026)</details>|
 |**2026-9-7**|**SIM: Subspace Interaction-based Method for Token-Level Text Anomaly Detection**|Kehan Yan et.al|[paper](https://arxiv.org/abs/2609.08200)|[code](https://github.com/yankehan/SIM-TAD.)|-|
-|**2026-9-7**|**Hyperspectral Anomaly Detection via Group Sparse Low-Rank Tensor Factorization With Automatic Anomaly Grouping**|Quan Yu et.al|[paper](https://arxiv.org/abs/2609.08121)|-|-|
-|**2026-9-7**|**FPScan: An Automated Constraint-Based Analyzer for Floating-Point Anomaly Detection**|Julien Bortolussi et.al|[paper](https://arxiv.org/abs/2609.07492)|-|-|
-|**2026-9-7**|**Parser-Free VLM Verification for Federated Weakly Supervised Video Anomaly Detection**|Sébastien Thuau et.al|[paper](https://arxiv.org/abs/2609.07455)|-|-|
-|**2026-9-7**|**Towards a Resilience-Theoretic Foundation for Adversarial Robustness in Industrial Control System Anomaly Detection**|Branka Stojanović et.al|[paper](https://arxiv.org/abs/2609.07244)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-15**|**Prior-Aided Masked Vector Quantization CSI Feedback for FDD Massive MIMO Systems**|Yi Song et.al|[paper](https://arxiv.org/abs/2609.17769)|-|-|
 |**2026-9-10**|**LC-QAT: Data-Efficient 2-Bit QAT for LLMs via Linear-Constrained Vector Quantization**|Haoyu Wang et.al|[paper](https://arxiv.org/abs/2606.10531)|[code](https://github.com/AI9Stars/UniSVQ.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
 |**2026-9-9**|**When Does Low-Bit Quantization Preserve the Decisions of Vector Search?**|Wenxuan Xiao et.al|[paper](https://arxiv.org/abs/2609.09854)|-|<details><summary>detail</summary>JMLR-style preprint with theoretical and experimental appendices</details>|
 |**2026-9-4**|**SeRV: Semantic-Aligned Residual Vector Quantization for American Sign Language Generation**|Hongyu Wu et.al|[paper](https://arxiv.org/abs/2609.05742)|-|-|
@@ -187,5 +188,4 @@
 |**2026-6-30**|**UniSVQ: 2-bit Unified Scalar-Vector Quantization**|Haoyu Wang et.al|[paper](https://arxiv.org/abs/2606.10520)|[code](https://github.com/AI9Stars/UniSVQ.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
 |**2026-6-21**|**LVQAC: Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression**|Xi Zhang et.al|[paper](https://arxiv.org/abs/2304.12319)|[code](https://github.com/xzhang9308/LVQAC.)|<details><summary>detail</summary>Accepted by CVPR 2023</details>|
 |**2026-6-19**|**VQActFlow: Vector-Quantized Action Mode Steering for Multi-Task Robot Manipulation**|Zhigen Zhao et.al|[paper](https://arxiv.org/abs/2606.21600)|-|-|
-|**2026-6-19**|**Fast-TurboQuant: A Multiplier-Free Online Vector Quantization Approach**|Pedro M. R. Pereira et.al|[paper](https://arxiv.org/abs/2606.21448)|-|-|
 
