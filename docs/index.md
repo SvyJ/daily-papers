@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.09.17
+## Updated on 2026.09.18
 
 ## Defect Detection
 
@@ -73,6 +73,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-16**|**From Detection to Understanding: TAR and TAR-Bench for Multi-Task Traffic Anomaly Reasoning**|Han Zhang et.al|[paper](https://arxiv.org/abs/2608.10317)|[code](https://huggingface.co/datasets/nvidia/PhysicalAI-Traffic-Anomaly-Reasoning)|-|
 |**2026-9-16**|**Unsupervised Anomaly Detection for Image Dataset Quality Assurance in Multi-Center Breast MRI**|Chiara Tappermann et.al|[paper](https://arxiv.org/abs/2608.16725)|-|-|
 |**2026-9-16**|**Anomaly Detection in General Ledger Data: Results from a Hybrid Approach**|Jan Gronewald et.al|[paper](https://arxiv.org/abs/2609.18228)|-|<details><summary>detail</summary>Presented at the International Conference on Auditing and Artificial Intelligence 2024</details>|
 |**2026-9-16**|**FoundAna: A GNN-assisted Foundation Model for Graph Anomaly Detection**|Suprim Nakarmi et.al|[paper](https://arxiv.org/abs/2609.18107)|[code](https://github.com/FoundAna331/FoundAna.)|-|
@@ -97,7 +98,6 @@
 |**2026-9-8**|**Real-time and adaptive anomaly detection algorithm for cyclostationary models**|Justyna Witulska et.al|[paper](https://arxiv.org/abs/2609.09326)|-|-|
 |**2026-9-8**|**AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization**|Jingyi Liao et.al|[paper](https://arxiv.org/abs/2508.04175)|-|-|
 |**2026-9-8**|**GaugeDefect: Detecting Surface Anomalies by Curvature of Feature Transport**|Yefan Wang et.al|[paper](https://arxiv.org/abs/2609.13282)|-|<details><summary>detail</summary>the 9th Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2026)</details>|
-|**2026-9-7**|**SIM: Subspace Interaction-based Method for Token-Level Text Anomaly Detection**|Kehan Yan et.al|[paper](https://arxiv.org/abs/2609.08200)|[code](https://github.com/yankehan/SIM-TAD.)|-|
 
 ## 3D Anomaly Detection
 
