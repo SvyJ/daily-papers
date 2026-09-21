@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.09.20
+## Updated on 2026.09.21
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-18**|**What Remains Normal? Clean Images Miss Useful Near-Defect Normal Patches for Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2608.23299)|[code](https://github.com/jw-chae/boundary_support.)|-|
 |**2026-9-10**|**Positional task conditioning for scalable defect detection across product families in large product catalogs**|Soham Satyadharma et.al|[paper](https://arxiv.org/abs/2609.09567)|-|-|
 |**2026-9-7**|**Explainable Temporal Attention-based Defect Detection For Fillet Joints in Real-Time Gas Metal Arc Welding Based on Multi-modal Data**|Mobina Mobaraki et.al|[paper](https://arxiv.org/abs/2609.07893)|-|-|
 |**2026-9-5**|**Spatial Attention Supervision for Defect Localization: Exploiting Ground-Truth Masks as Training Signal in Diffusion-Augmented Defect Detection**|Sajjad Rezvani Boroujeni et.al|[paper](https://arxiv.org/abs/2609.06232)|[code](https://github.com/Actual-Reality/Glass-Defect-Detection-Attention-Supervision)|-|
@@ -24,7 +25,6 @@
 |**2026-8-27**|**ShiftSplit-AD: Separating Domain Shift from Defects in Foundation-Feature Visual Anomaly Detection**|Muhamathu Ameer Ali Aacaas Muhamath et.al|[paper](https://arxiv.org/abs/2608.27610)|-|-|
 |**2026-8-25**|**Lowering the Barrier to AI-Driven Inspection: A No-Code Workflow for Automated Structural Defect Detection**|Michael Holm et.al|[paper](https://arxiv.org/abs/2608.25176)|[code](https://github.com/michaelholm6/YOLOEZ)|-|
 |**2026-8-25**|**When More References Hurt: Contamination-Aware DINOv2 Memory Banks for Few-Shot Steel Defect Detection**|Hannaneh Kalantary et.al|[paper](https://arxiv.org/abs/2608.22082)|-|-|
-|**2026-8-24**|**What Remains Normal? Clean Images Miss Useful Near-Defect Normal Patches for Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2608.23299)|[code](https://github.com/jw-chae/cleancon.)|-|
 |**2026-8-20**|**AGIDefect-4K: A Richly Annotated Dataset for AI-Generated Image Defect Detection, Localization and Explanation**|Xiangfei Sheng et.al|[paper](https://arxiv.org/abs/2608.20713)|[code](https://github.com/sxfly99/AGIDefect-4K.)|-|
 |**2026-8-18**|**Continuity-Driven Representation Learning for Industrial Defect Detection**|Minjong Kim et.al|[paper](https://arxiv.org/abs/2608.17362)|-|<details><summary>detail</summary>the British Machine Vision Conference (BMVC) 2026</details>|
 |**2026-8-12**|**Low Cost Two-Stage Fabric Defect Detection at the Edge**|Rasel Hossen et.al|[paper](https://arxiv.org/abs/2608.14727)|-|-|
@@ -43,6 +43,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-18**|**P$^3$-SAM: SAM with Perceptual Parallel Prompt for Few-Shot Strip Steel Surface Defect Segmentation**|Qian Xu et.al|[paper](https://arxiv.org/abs/2609.21424)|-|<details><summary>detail</summary>Accepted by ICME 2026</details>|
 |**2026-8-31**|**SAM3-LoRA: Parameter-Efficient Adaptation of a Concept-Promptable Foundation Model for Multi-Class Structural Defect Segmentation**|P. Malaisree et.al|[paper](https://arxiv.org/abs/2609.00469)|-|-|
 |**2026-8-31**|**SePArate: Segmenting Patterns from Defects in Wafer Manufacturing Using Weak Supervision**|Dain Kwon et.al|[paper](https://arxiv.org/abs/2608.30410)|-|-|
 |**2026-7-23**|**SPDCN: Strip-based Deformable Convolutional Network for Steel Surface Defect Segmentation**|Zhongming Liu et.al|[paper](https://arxiv.org/abs/2607.21456)|[code](https://github.com/DWlzm)|-|
@@ -67,12 +68,16 @@
 |**2025-6-24**|**Evolutionary computing-based image segmentation method to detect defects and features in Additive Friction Stir Deposition Process**|Akshansh Mishra et.al|[paper](https://arxiv.org/abs/2507.00046)|-|-|
 |**2025-6-17**|**synth-dacl: Does Synthetic Defect Data Enhance Segmentation Accuracy and Robustness for Real-World Bridge Inspections?**|Johannes Flotzinger et.al|[paper](https://arxiv.org/abs/2506.14255)|-|-|
 |**2025-4-24**|**Conformal Segmentation in Industrial Surface Defect Detection with Statistical Guarantees**|Cheng Shen et.al|[paper](https://arxiv.org/abs/2504.17721)|-|<details><summary>detail</summary>Under Review</details>|
-|**2025-4-11**|**Weakly Supervised Panoptic Segmentation for Defect-Based Grading of Fresh Produce**|Manuel Knott et.al|[paper](https://arxiv.org/abs/2411.16219)|[code](https://github.com/manuelknott/banana-defect-segmentation)|<details><summary>detail</summary>Accepted as a paper to the 6th International Workshop on Agriculture-Vision: Challenges & Opportunities for Computer Vision in Agriculture in conjunction with IEEE/CVF CVPR 2025</details>|
 
 ## Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-18**|**LLM-Generated Feature Pools for Time Series Anomaly Detection**|Youssef Attia El Hili et.al|[paper](https://arxiv.org/abs/2609.21801)|-|<details><summary>detail</summary>MSC Class:68T05</details>|
+|**2026-9-18**|**A Principled Approach to Unsupervised Anomaly Detection**|James Myles et.al|[paper](https://arxiv.org/abs/2609.21800)|[code](https://github.com/jgmyles/inverse-uad.)|-|
+|**2026-9-18**|**What Remains Normal? Clean Images Miss Useful Near-Defect Normal Patches for Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2608.23299)|[code](https://github.com/jw-chae/boundary_support.)|-|
+|**2026-9-17**|**Combining Exploratory Analysis and Automated Analysis for Anomaly Detection in Real-Time Data Streams**|Ahmed Shah et.al|[paper](https://arxiv.org/abs/2609.21222)|-|<details><summary>detail</summary>Journal ref:Technology Innovation Management Review</details>|
+|**2026-9-17**|**Hand-Aware Transition Modeling for Bimanual Procedural Anomaly Detection**|Di Wen et.al|[paper](https://arxiv.org/abs/2609.21207)|[code](https://github.com/Kratos-Wen/HACT.)|-|
 |**2026-9-16**|**From Detection to Understanding: TAR and TAR-Bench for Multi-Task Traffic Anomaly Reasoning**|Han Zhang et.al|[paper](https://arxiv.org/abs/2608.10317)|[code](https://huggingface.co/datasets/nvidia/PhysicalAI-Traffic-Anomaly-Reasoning)|-|
 |**2026-9-16**|**Unsupervised Anomaly Detection for Image Dataset Quality Assurance in Multi-Center Breast MRI**|Chiara Tappermann et.al|[paper](https://arxiv.org/abs/2608.16725)|-|-|
 |**2026-9-16**|**Anomaly Detection in General Ledger Data: Results from a Hybrid Approach**|Jan Gronewald et.al|[paper](https://arxiv.org/abs/2609.18228)|-|<details><summary>detail</summary>Presented at the International Conference on Auditing and Artificial Intelligence 2024</details>|
@@ -93,11 +98,6 @@
 |**2026-9-10**|**Self-Verifying Anomaly Detection using Explainable AI for Cybersecurity of DER Networks**|Damilola Popoola et.al|[paper](https://arxiv.org/abs/2609.12305)|-|-|
 |**2026-9-9**|**Variational Template Matching with Statistical Fusion for Anomaly Detection in Patterned Structures**|Qinwu Xu et.al|[paper](https://arxiv.org/abs/2609.13298)|-|-|
 |**2026-9-9**|**Structure-Aware Unsupervised Anomaly Detection for Spacecraft Telemetry with Adaptive EVT Thresholding**|Óscar Alcarria et.al|[paper](https://arxiv.org/abs/2609.10017)|-|-|
-|**2026-9-9**|**A VLM Answer Is Not an Anomaly Score: Rank Compression Across Image and Video Anomaly Detection**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2608.21244)|-|<details><summary>detail</summary>Preprint</details>|
-|**2026-9-8**|**Bounding-Box Trajectories Matter for Video Anomaly Detection**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2605.21957)|-|<details><summary>detail</summary>ECCV 2026</details>|
-|**2026-9-8**|**Real-time and adaptive anomaly detection algorithm for cyclostationary models**|Justyna Witulska et.al|[paper](https://arxiv.org/abs/2609.09326)|-|-|
-|**2026-9-8**|**AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization**|Jingyi Liao et.al|[paper](https://arxiv.org/abs/2508.04175)|-|-|
-|**2026-9-8**|**GaugeDefect: Detecting Surface Anomalies by Curvature of Feature Transport**|Yefan Wang et.al|[paper](https://arxiv.org/abs/2609.13282)|-|<details><summary>detail</summary>the 9th Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2026)</details>|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-17**|**VQ-Logits: Compressing the Output Bottleneck of Large Language Models via Vector Quantized Logits**|Jintian Shao et.al|[paper](https://arxiv.org/abs/2505.10202)|-|<details><summary>detail</summary>Lack of sufficient experiments and detailed format alignment</details>|
 |**2026-9-15**|**Prior-Aided Masked Vector Quantization CSI Feedback for FDD Massive MIMO Systems**|Yi Song et.al|[paper](https://arxiv.org/abs/2609.17769)|-|-|
 |**2026-9-10**|**LC-QAT: Data-Efficient 2-Bit QAT for LLMs via Linear-Constrained Vector Quantization**|Haoyu Wang et.al|[paper](https://arxiv.org/abs/2606.10531)|[code](https://github.com/AI9Stars/UniSVQ.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
 |**2026-9-9**|**When Does Low-Bit Quantization Preserve the Decisions of Vector Search?**|Wenxuan Xiao et.al|[paper](https://arxiv.org/abs/2609.09854)|-|<details><summary>detail</summary>JMLR-style preprint with theoretical and experimental appendices</details>|
@@ -187,5 +188,4 @@
 |**2026-7-2**|**Sparse-Aware Vector Quantization for Bandwidth-Efficient Collaborative 3D Semantic Occupancy Prediction**|Feng Li et.al|[paper](https://arxiv.org/abs/2607.01928)|-|<details><summary>detail</summary>Accepted by ECCV26</details>|
 |**2026-6-30**|**UniSVQ: 2-bit Unified Scalar-Vector Quantization**|Haoyu Wang et.al|[paper](https://arxiv.org/abs/2606.10520)|[code](https://github.com/AI9Stars/UniSVQ.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
 |**2026-6-21**|**LVQAC: Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression**|Xi Zhang et.al|[paper](https://arxiv.org/abs/2304.12319)|[code](https://github.com/xzhang9308/LVQAC.)|<details><summary>detail</summary>Accepted by CVPR 2023</details>|
-|**2026-6-19**|**VQActFlow: Vector-Quantized Action Mode Steering for Multi-Task Robot Manipulation**|Zhigen Zhao et.al|[paper](https://arxiv.org/abs/2606.21600)|-|-|
 
