@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.09.21
+## Updated on 2026.09.22
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-19**|**Signal-Informed Temporal Routing for Vinyl Defect Regime Detection**|Yi-Hung Kan et.al|[paper](https://arxiv.org/abs/2609.23164)|-|-|
 |**2026-9-18**|**What Remains Normal? Clean Images Miss Useful Near-Defect Normal Patches for Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2608.23299)|[code](https://github.com/jw-chae/boundary_support.)|-|
 |**2026-9-10**|**Positional task conditioning for scalable defect detection across product families in large product catalogs**|Soham Satyadharma et.al|[paper](https://arxiv.org/abs/2609.09567)|-|-|
 |**2026-9-7**|**Explainable Temporal Attention-based Defect Detection For Fillet Joints in Real-Time Gas Metal Arc Welding Based on Multi-modal Data**|Mobina Mobaraki et.al|[paper](https://arxiv.org/abs/2609.07893)|-|-|
@@ -37,7 +38,6 @@
 |**2026-7-6**|**ICME 2026 Grand Challenge on Cross-Scenario Defect Detection and Fine-Grained Severity Grading for High-Precision Manufacturing**|Wei Sun et.al|[paper](https://arxiv.org/abs/2607.04675)|-|-|
 |**2026-7-2**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|<details><summary>detail</summary>Journal ref:European Conference on Computer Vision (ECCV 2026)</details>|
 |**2026-7-1**|**Morphology-Aware Sample Assignment: Overcoming IoU Insensitivity for Surface Defect Detection**|Pengfei Liu et.al|[paper](https://arxiv.org/abs/2606.13723)|-|-|
-|**2026-6-23**|**An Integrated Hardware-Software Design for Low-Data Spatial Defect Detection in Robotic Visual Inspection with Hybrid Optoelectronic Neural Networks**|Chaoqing Tang et.al|[paper](https://arxiv.org/abs/2606.25277)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-21**|**Unsupervised Brain Anomaly Detection as a Bayesian Inverse Problem with Diffusion Prior**|Hugues Roy et.al|[paper](https://arxiv.org/abs/2609.24265)|[code](https://github.com/HuguesRoy/UAD_DAPS.)|-|
+|**2026-9-20**|**Uncertainty-Weighted Fusion of Image and Synthetic Event for Video Anomaly Detection**|Sungheon Jeong et.al|[paper](https://arxiv.org/abs/2505.02393)|-|-|
+|**2026-9-20**|**Collaborative Streaming Anomaly Detection with Interactive Explanations and Ensemble Consensus**|Diogo Risca et.al|[paper](https://arxiv.org/abs/2609.23883)|-|<details><summary>detail</summary>Streaming Continual Learning ECML PKDD Workshop 2026</details>|
+|**2026-9-19**|**Interpretable Multi-Hypersphere Deep Anomaly Detection for Open-set Supervised Anomaly Detection**|Zhiji Yang et.al|[paper](https://arxiv.org/abs/2609.23008)|-|-|
+|**2026-9-19**|**DDGAD: Disagreement-Driven Graph Anomaly Detection via Adapt-Then-Combine**|Yuxin Yang et.al|[paper](https://arxiv.org/abs/2605.26446)|-|-|
 |**2026-9-18**|**LLM-Generated Feature Pools for Time Series Anomaly Detection**|Youssef Attia El Hili et.al|[paper](https://arxiv.org/abs/2609.21801)|-|<details><summary>detail</summary>MSC Class:68T05</details>|
 |**2026-9-18**|**A Principled Approach to Unsupervised Anomaly Detection**|James Myles et.al|[paper](https://arxiv.org/abs/2609.21800)|[code](https://github.com/jgmyles/inverse-uad.)|-|
 |**2026-9-18**|**What Remains Normal? Clean Images Miss Useful Near-Defect Normal Patches for Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2608.23299)|[code](https://github.com/jw-chae/boundary_support.)|-|
@@ -93,11 +98,6 @@
 |**2026-9-12**|**Optimal Transport for Efficient, Unsupervised Anomaly Detection on Industrial Data**|Abigail Langbridge et.al|[paper](https://arxiv.org/abs/2609.13940)|-|<details><summary>detail</summary>Journal ref:Langbridge</details>|
 |**2026-9-12**|**Surprised by Attention: Predictable Query Dynamics for Time Series Anomaly Detection**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2603.12916)|[code](https://github.com/iis-esslingen/AxonAD.)|<details><summary>detail</summary>Published in the ECML-PKDD 2026 proceedings and awarded the Applied Data Science Track Best Paper Award</details>|
 |**2026-9-12**|**Frequency-Guided Diffusion Model with Perturbation Training for Skeleton-Based Video Anomaly Detection**|Xiaofeng Tan et.al|[paper](https://arxiv.org/abs/2412.03044)|[code](https://xiaofeng-tan.github.io/projects/FG-Diff.)|<details><summary>detail</summary>Journal ref:IEEE Transactions on Image Processing</details>|
-|**2026-9-11**|**Auditing Frame-Level AUC in Weakly Supervised Video Anomaly Detection: Granularity, Resolution, and Scene Bias**|Sara Abdulaziz et.al|[paper](https://arxiv.org/abs/2608.11985)|-|<details><summary>detail</summary>ECCV 2026 Empirical Theory (ET) Workshop v3: corrected a GT frame-alignment error in the prototype-based evaluation</details>|
-|**2026-9-11**|**Bridging Vision Foundation Model Priors with CLIP for Spatial-aware Few-shot Anomaly Detection in Medical Images**|Juzheng Miao et.al|[paper](https://arxiv.org/abs/2609.12454)|[code](https://github.com/JuzhengMiao/Spatial-FAD.)|<details><summary>detail</summary>Accepted by MICCAI 2026</details>|
-|**2026-9-10**|**Self-Verifying Anomaly Detection using Explainable AI for Cybersecurity of DER Networks**|Damilola Popoola et.al|[paper](https://arxiv.org/abs/2609.12305)|-|-|
-|**2026-9-9**|**Variational Template Matching with Statistical Fusion for Anomaly Detection in Patterned Structures**|Qinwu Xu et.al|[paper](https://arxiv.org/abs/2609.13298)|-|-|
-|**2026-9-9**|**Structure-Aware Unsupervised Anomaly Detection for Spacecraft Telemetry with Adaptive EVT Thresholding**|Óscar Alcarria et.al|[paper](https://arxiv.org/abs/2609.10017)|-|-|
 
 ## 3D Anomaly Detection
 
