@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.09.23
+## Updated on 2026.09.24
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-23**|**TEEP-RCNN: Texture-Enhanced Edge-aware Perception for Steel Surface Defect Detection via Improved Convolutional Block Attention in Faster R-CNN**|Kirtan Rajesh et.al|[paper](https://arxiv.org/abs/2609.28077)|-|-|
 |**2026-9-19**|**Signal-Informed Temporal Routing for Vinyl Defect Regime Detection**|Yi-Hung Kan et.al|[paper](https://arxiv.org/abs/2609.23164)|-|-|
 |**2026-9-18**|**What Remains Normal? Clean Images Miss Useful Near-Defect Normal Patches for Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2608.23299)|[code](https://github.com/jw-chae/boundary_support.)|-|
 |**2026-9-10**|**Positional task conditioning for scalable defect detection across product families in large product catalogs**|Soham Satyadharma et.al|[paper](https://arxiv.org/abs/2609.09567)|-|-|
@@ -37,7 +38,6 @@
 |**2026-7-13**|**Rough Path Signature-Guided Geometry Augmentation for Few-Shot Industrial Surface Defect Detection**|Jiaqi Kuang et.al|[paper](https://arxiv.org/abs/2607.12245)|-|-|
 |**2026-7-6**|**ICME 2026 Grand Challenge on Cross-Scenario Defect Detection and Fine-Grained Severity Grading for High-Precision Manufacturing**|Wei Sun et.al|[paper](https://arxiv.org/abs/2607.04675)|-|-|
 |**2026-7-2**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|<details><summary>detail</summary>Journal ref:European Conference on Computer Vision (ECCV 2026)</details>|
-|**2026-7-1**|**Morphology-Aware Sample Assignment: Overcoming IoU Insensitivity for Surface Defect Detection**|Pengfei Liu et.al|[paper](https://arxiv.org/abs/2606.13723)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-23**|**PISCES: Physics-Informed Solar-wind Convolutional autoEncoder for Space-weather Anomaly Detection and Early Warning**|Kevin Lee et.al|[paper](https://arxiv.org/abs/2609.28022)|[code](https://github.com/magnaprog/PISCES)|<details><summary>detail</summary>Poster presented at NASA 5th Eddy Cross-Disciplinary Symposium</details>|
+|**2026-9-23**|**SAGEGAN: Style-Based Anomaly Detection with Gaussian Embeddings using Generative Adversarial Networks**|Thesath Wijayasiri et.al|[paper](https://arxiv.org/abs/2609.27357)|-|-|
+|**2026-9-22**|**Comparative Evaluation of Static Embedding Models for HTTP Request Anomaly Detection**|Amanda Riverol et.al|[paper](https://arxiv.org/abs/2609.26860)|-|-|
 |**2026-9-22**|**Can We Predict Anomaly Detection Performance from Embedding-Space Geometry?**|Kevin Wilkinghoff et.al|[paper](https://arxiv.org/abs/2609.26460)|-|-|
 |**2026-9-22**|**AT3D-AD: Anomaly Type-Aware 3D Anomaly Detection via Hierarchical Point-Language Alignment**|Jingyu Zeng et.al|[paper](https://arxiv.org/abs/2609.25930)|-|-|
 |**2026-9-22**|**Confidence-Guided Cross-Modal Knowledge Transfer for Multimodal Anomaly Detection in Microservice Systems**|Peipeng Wang et.al|[paper](https://arxiv.org/abs/2609.25856)|-|-|
@@ -82,6 +85,7 @@
 |**2026-9-21**|**Unsupervised Brain Anomaly Detection as a Bayesian Inverse Problem with Diffusion Prior**|Hugues Roy et.al|[paper](https://arxiv.org/abs/2609.24265)|[code](https://github.com/HuguesRoy/UAD_DAPS.)|-|
 |**2026-9-20**|**Uncertainty-Weighted Fusion of Image and Synthetic Event for Video Anomaly Detection**|Sungheon Jeong et.al|[paper](https://arxiv.org/abs/2505.02393)|-|-|
 |**2026-9-20**|**Collaborative Streaming Anomaly Detection with Interactive Explanations and Ensemble Consensus**|Diogo Risca et.al|[paper](https://arxiv.org/abs/2609.23883)|-|<details><summary>detail</summary>Streaming Continual Learning ECML PKDD Workshop 2026</details>|
+|**2026-9-20**|**Signal2Symbol: Neuro-Symbolic Temporal Reasoning for Explainable Physiological Time-Series Anomaly Detection**|Naser Mansour et.al|[paper](https://arxiv.org/abs/2609.26820)|-|-|
 |**2026-9-19**|**Interpretable Multi-Hypersphere Deep Anomaly Detection for Open-set Supervised Anomaly Detection**|Zhiji Yang et.al|[paper](https://arxiv.org/abs/2609.23008)|-|-|
 |**2026-9-18**|**LLM-Generated Feature Pools for Time Series Anomaly Detection**|Youssef Attia El Hili et.al|[paper](https://arxiv.org/abs/2609.21801)|-|<details><summary>detail</summary>MSC Class:68T05</details>|
 |**2026-9-18**|**A Principled Approach to Unsupervised Anomaly Detection**|James Myles et.al|[paper](https://arxiv.org/abs/2609.21800)|[code](https://github.com/jgmyles/inverse-uad.)|-|
@@ -94,10 +98,6 @@
 |**2026-9-16**|**FoundAna: A GNN-assisted Foundation Model for Graph Anomaly Detection**|Suprim Nakarmi et.al|[paper](https://arxiv.org/abs/2609.18107)|[code](https://github.com/FoundAna331/FoundAna.)|-|
 |**2026-9-15**|**RoboVAD: A Large Cross-Domain Evaluation Benchmark for Anomaly Detection in Robotic Arm Manipulation Videos**|Alexandru-Bogdan Dura et.al|[paper](https://arxiv.org/abs/2609.17843)|[code](https://zenodo.org/records/22754659.)|-|
 |**2026-9-15**|**Probe-VAD: Ordinal Likelihood Probing for Training-Free Video Anomaly Detection**|Jiawei Gu et.al|[paper](https://arxiv.org/abs/2609.17211)|[code](https://github.com/yvestine/COVAS-VAD.)|<details><summary>detail</summary>Under Review</details>|
-|**2026-9-15**|**PSMP-CLIP: Patch-Prompt SAM and Multi-Semantic Prompting for CLIP-Based Zero-Shot Anomaly Detection**|Xuezhi Xiang et.al|[paper](https://arxiv.org/abs/2609.16785)|-|-|
-|**2026-9-14**|**GSLAD: Prototype-Regularized Graph Structure Learning for Multivariate Time Series Anomaly Detection**|Zepeng Zhang et.al|[paper](https://arxiv.org/abs/2609.15483)|-|-|
-|**2026-9-14**|**LogICL: Demonstration Retrieval to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection**|Jingwei Ye et.al|[paper](https://arxiv.org/abs/2512.09627)|-|-|
-|**2026-9-13**|**Isolation-based Spherical Ensemble Representations for Tabular Anomaly Detection**|Yang Cao et.al|[paper](https://arxiv.org/abs/2510.13311)|-|<details><summary>detail</summary>The IEEE International Conference on Data Mining (ICDM 2026)</details>|
 
 ## 3D Anomaly Detection
 
