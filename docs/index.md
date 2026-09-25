@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.09.24
+## Updated on 2026.09.25
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-24**|**Industrial Anomaly Detection via Defect-Grounded Reasoning in Visual Latent Space**|Jaron Yeh et.al|[paper](https://arxiv.org/abs/2609.29457)|[code](https://github.com/Yen666/Anomaly-LR.)|-|
 |**2026-9-23**|**TEEP-RCNN: Texture-Enhanced Edge-aware Perception for Steel Surface Defect Detection via Improved Convolutional Block Attention in Faster R-CNN**|Kirtan Rajesh et.al|[paper](https://arxiv.org/abs/2609.28077)|-|-|
 |**2026-9-19**|**Signal-Informed Temporal Routing for Vinyl Defect Regime Detection**|Yi-Hung Kan et.al|[paper](https://arxiv.org/abs/2609.23164)|-|-|
 |**2026-9-18**|**What Remains Normal? Clean Images Miss Useful Near-Defect Normal Patches for Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2608.23299)|[code](https://github.com/jw-chae/boundary_support.)|-|
@@ -37,7 +38,6 @@
 |**2026-7-16**|**LPCAN: Lightweight Pyramid Cross-Attention Network for Rail Surface Defect Detection Using RGB-D Data**|Jackie Alex et.al|[paper](https://arxiv.org/abs/2601.09118)|-|<details><summary>detail</summary>arXiv admin note: This paper has been withdrawn by arXiv due to unverifiable authorship and affiliation</details>|
 |**2026-7-13**|**Rough Path Signature-Guided Geometry Augmentation for Few-Shot Industrial Surface Defect Detection**|Jiaqi Kuang et.al|[paper](https://arxiv.org/abs/2607.12245)|-|-|
 |**2026-7-6**|**ICME 2026 Grand Challenge on Cross-Scenario Defect Detection and Fine-Grained Severity Grading for High-Precision Manufacturing**|Wei Sun et.al|[paper](https://arxiv.org/abs/2607.04675)|-|-|
-|**2026-7-2**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al|[paper](https://arxiv.org/abs/2512.09446)|-|<details><summary>detail</summary>Journal ref:European Conference on Computer Vision (ECCV 2026)</details>|
 
 ## Defect Segmentation
 
@@ -73,6 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-24**|**Too Sure to Be Safe: Model Calibration for Reliable Log Anomaly Detection**|Bin Li et.al|[paper](https://arxiv.org/abs/2608.17965)|-|<details><summary>detail</summary>the 2026 IEEE International Conference on Data Mining (ICDM 2026)</details>|
+|**2026-9-24**|**Improving the Reliability of Anomaly Detection for Encrypted OPC UA Traffic over Private 5G**|Song Son Ha et.al|[paper](https://arxiv.org/abs/2609.29745)|-|<details><summary>detail</summary>Accepted for presentation at the 19th IEEE International Conference on Cyber</details>|
+|**2026-9-24**|**Deep Positive-Unlabeled Anomaly Detection for Contaminated Unlabeled Data**|Hiroshi Takahashi et.al|[paper](https://arxiv.org/abs/2405.18929)|[code](https://github.com/takahashihiroshi/pusvdd)|<details><summary>detail</summary>Accepted for publication in Neurocomputing</details>|
+|**2026-9-24**|**Industrial Anomaly Detection via Defect-Grounded Reasoning in Visual Latent Space**|Jaron Yeh et.al|[paper](https://arxiv.org/abs/2609.29457)|[code](https://github.com/Yen666/Anomaly-LR.)|-|
+|**2026-9-23**|**When Does Unsupervised Learning Succeed or Fail? A PoS Perspective on Reconstruction-Based Anomaly Detection**|Mehmet Yamaç et.al|[paper](https://arxiv.org/abs/2609.28832)|-|-|
+|**2026-9-23**|**From Detection to Understanding: TAR and TAR-Bench for Multi-Task Traffic Anomaly Reasoning**|Han Zhang et.al|[paper](https://arxiv.org/abs/2608.10317)|[code](https://huggingface.co/datasets/nvidia/PhysicalAI-Traffic-Anomaly-Reasoning)|-|
 |**2026-9-23**|**PISCES: Physics-Informed Solar-wind Convolutional autoEncoder for Space-weather Anomaly Detection and Early Warning**|Kevin Lee et.al|[paper](https://arxiv.org/abs/2609.28022)|[code](https://github.com/magnaprog/PISCES)|<details><summary>detail</summary>Poster presented at NASA 5th Eddy Cross-Disciplinary Symposium</details>|
 |**2026-9-23**|**SAGEGAN: Style-Based Anomaly Detection with Gaussian Embeddings using Generative Adversarial Networks**|Thesath Wijayasiri et.al|[paper](https://arxiv.org/abs/2609.27357)|-|-|
 |**2026-9-22**|**Comparative Evaluation of Static Embedding Models for HTTP Request Anomaly Detection**|Amanda Riverol et.al|[paper](https://arxiv.org/abs/2609.26860)|-|-|
@@ -92,12 +98,6 @@
 |**2026-9-18**|**What Remains Normal? Clean Images Miss Useful Near-Defect Normal Patches for Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2608.23299)|[code](https://github.com/jw-chae/boundary_support.)|-|
 |**2026-9-17**|**Combining Exploratory Analysis and Automated Analysis for Anomaly Detection in Real-Time Data Streams**|Ahmed Shah et.al|[paper](https://arxiv.org/abs/2609.21222)|-|<details><summary>detail</summary>Journal ref:Technology Innovation Management Review</details>|
 |**2026-9-17**|**Hand-Aware Transition Modeling for Bimanual Procedural Anomaly Detection**|Di Wen et.al|[paper](https://arxiv.org/abs/2609.21207)|[code](https://github.com/Kratos-Wen/HACT.)|-|
-|**2026-9-16**|**From Detection to Understanding: TAR and TAR-Bench for Multi-Task Traffic Anomaly Reasoning**|Han Zhang et.al|[paper](https://arxiv.org/abs/2608.10317)|[code](https://huggingface.co/datasets/nvidia/PhysicalAI-Traffic-Anomaly-Reasoning)|-|
-|**2026-9-16**|**Unsupervised Anomaly Detection for Image Dataset Quality Assurance in Multi-Center Breast MRI**|Chiara Tappermann et.al|[paper](https://arxiv.org/abs/2608.16725)|-|-|
-|**2026-9-16**|**Anomaly Detection in General Ledger Data: Results from a Hybrid Approach**|Jan Gronewald et.al|[paper](https://arxiv.org/abs/2609.18228)|-|<details><summary>detail</summary>Presented at the International Conference on Auditing and Artificial Intelligence 2024</details>|
-|**2026-9-16**|**FoundAna: A GNN-assisted Foundation Model for Graph Anomaly Detection**|Suprim Nakarmi et.al|[paper](https://arxiv.org/abs/2609.18107)|[code](https://github.com/FoundAna331/FoundAna.)|-|
-|**2026-9-15**|**RoboVAD: A Large Cross-Domain Evaluation Benchmark for Anomaly Detection in Robotic Arm Manipulation Videos**|Alexandru-Bogdan Dura et.al|[paper](https://arxiv.org/abs/2609.17843)|[code](https://zenodo.org/records/22754659.)|-|
-|**2026-9-15**|**Probe-VAD: Ordinal Likelihood Probing for Training-Free Video Anomaly Detection**|Jiawei Gu et.al|[paper](https://arxiv.org/abs/2609.17211)|[code](https://github.com/yvestine/COVAS-VAD.)|<details><summary>detail</summary>Under Review</details>|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-24**|**VQ-LIC: Shared Vector-Quantized Learned Image Compression on a Resource-Constrained FPGA**|Muhammad Fahd Ibrahim Bhatti et.al|[paper](https://arxiv.org/abs/2609.29727)|-|-|
 |**2026-9-22**|**StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training**|Bao Tang et.al|[paper](https://arxiv.org/abs/2609.26774)|[code](https://tt-day.github.io/StableVQ/)|<details><summary>detail</summary>Project page: https://tt-day</details>|
 |**2026-9-17**|**VQ-Logits: Compressing the Output Bottleneck of Large Language Models via Vector Quantized Logits**|Jintian Shao et.al|[paper](https://arxiv.org/abs/2505.10202)|-|<details><summary>detail</summary>Lack of sufficient experiments and detailed format alignment</details>|
 |**2026-9-15**|**Prior-Aided Masked Vector Quantization CSI Feedback for FDD Massive MIMO Systems**|Yi Song et.al|[paper](https://arxiv.org/abs/2609.17769)|-|-|
@@ -187,5 +188,4 @@
 |**2026-7-14**|**AVQ-Attention: Adaptive Vector-Quantized Attention**|Winfried van den dool et.al|[paper](https://arxiv.org/abs/2607.12789)|-|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-7-7**|**Leech Lattice Vector Quantization for Efficient LLM Compression**|Tycho F. A. van der Ouderaa et.al|[paper](https://arxiv.org/abs/2603.11021)|-|-|
 |**2026-7-2**|**Sparse-Aware Vector Quantization for Bandwidth-Efficient Collaborative 3D Semantic Occupancy Prediction**|Feng Li et.al|[paper](https://arxiv.org/abs/2607.01928)|-|<details><summary>detail</summary>Accepted by ECCV26</details>|
-|**2026-6-30**|**UniSVQ: 2-bit Unified Scalar-Vector Quantization**|Haoyu Wang et.al|[paper](https://arxiv.org/abs/2606.10520)|[code](https://github.com/AI9Stars/UniSVQ.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
 
