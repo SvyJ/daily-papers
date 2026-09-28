@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.09.27
+## Updated on 2026.09.28
 
 ## Defect Detection
 
@@ -73,7 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-9-24**|**Too Sure to Be Safe: Model Calibration for Reliable Log Anomaly Detection**|Bin Li et.al|[paper](https://arxiv.org/abs/2608.17965)|-|<details><summary>detail</summary>the 2026 IEEE International Conference on Data Mining (ICDM 2026)</details>|
+|**2026-9-25**|**Too Sure to Be Safe: Model Calibration for Reliable Log Anomaly Detection**|Bin Li et.al|[paper](https://arxiv.org/abs/2608.17965)|-|<details><summary>detail</summary>the 2026 IEEE International Conference on Data Mining (ICDM 2026)</details>|
+|**2026-9-25**|**Towards Understanding LLM-Based Log Anomaly Detection: An Empirical Study of Performance, Efficiency, and Robustness**|Bin Li et.al|[paper](https://arxiv.org/abs/2609.31371)|-|-|
+|**2026-9-25**|**Adapting Visualization Techniques for Time-Series Anomaly Detection: From Convolutional Neural Networks to Convolutional-Recurrent Neural Networks**|Fabien Poirier et.al|[paper](https://arxiv.org/abs/2411.04707)|-|-|
+|**2026-9-25**|**Detecting Time Series Anomalies Like an Expert: A Multi-Agent LLM Framework with Specialized Analyzers**|Hyeongwon Kang et.al|[paper](https://arxiv.org/abs/2605.05725)|-|<details><summary>detail</summary>Preprint</details>|
+|**2026-9-25**|**Bayesian Tensor Autoencoder with Physics-informed Predictive Prior for Multi-dimensional Time Series Anomaly Detection**|Jianan Liu et.al|[paper](https://arxiv.org/abs/2609.31157)|-|-|
 |**2026-9-24**|**Improving the Reliability of Anomaly Detection for Encrypted OPC UA Traffic over Private 5G**|Song Son Ha et.al|[paper](https://arxiv.org/abs/2609.29745)|-|<details><summary>detail</summary>Accepted for presentation at the 19th IEEE International Conference on Cyber</details>|
 |**2026-9-24**|**Deep Positive-Unlabeled Anomaly Detection for Contaminated Unlabeled Data**|Hiroshi Takahashi et.al|[paper](https://arxiv.org/abs/2405.18929)|[code](https://github.com/takahashihiroshi/pusvdd)|<details><summary>detail</summary>Accepted for publication in Neurocomputing</details>|
 |**2026-9-24**|**Industrial Anomaly Detection via Defect-Grounded Reasoning in Visual Latent Space**|Jaron Yeh et.al|[paper](https://arxiv.org/abs/2609.29457)|[code](https://github.com/Yen666/Anomaly-LR.)|-|
@@ -94,10 +98,6 @@
 |**2026-9-20**|**Signal2Symbol: Neuro-Symbolic Temporal Reasoning for Explainable Physiological Time-Series Anomaly Detection**|Naser Mansour et.al|[paper](https://arxiv.org/abs/2609.26820)|-|-|
 |**2026-9-19**|**Interpretable Multi-Hypersphere Deep Anomaly Detection for Open-set Supervised Anomaly Detection**|Zhiji Yang et.al|[paper](https://arxiv.org/abs/2609.23008)|-|-|
 |**2026-9-18**|**LLM-Generated Feature Pools for Time Series Anomaly Detection**|Youssef Attia El Hili et.al|[paper](https://arxiv.org/abs/2609.21801)|-|<details><summary>detail</summary>MSC Class:68T05</details>|
-|**2026-9-18**|**A Principled Approach to Unsupervised Anomaly Detection**|James Myles et.al|[paper](https://arxiv.org/abs/2609.21800)|[code](https://github.com/jgmyles/inverse-uad.)|-|
-|**2026-9-18**|**What Remains Normal? Clean Images Miss Useful Near-Defect Normal Patches for Anomaly Detection**|Joongwon Chae et.al|[paper](https://arxiv.org/abs/2608.23299)|[code](https://github.com/jw-chae/boundary_support.)|-|
-|**2026-9-17**|**Combining Exploratory Analysis and Automated Analysis for Anomaly Detection in Real-Time Data Streams**|Ahmed Shah et.al|[paper](https://arxiv.org/abs/2609.21222)|-|<details><summary>detail</summary>Journal ref:Technology Innovation Management Review</details>|
-|**2026-9-17**|**Hand-Aware Transition Modeling for Bimanual Procedural Anomaly Detection**|Di Wen et.al|[paper](https://arxiv.org/abs/2609.21207)|[code](https://github.com/Kratos-Wen/HACT.)|-|
 
 ## 3D Anomaly Detection
 
