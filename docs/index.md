@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.09.30
+## Updated on 2026.10.01
 
 ## Defect Detection
 
@@ -43,6 +43,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-29**|**DCM-SAM: Defect-Conditioned Mixture of LoRA Experts for NPU-Deployed AM Defect Segmentation**|Md Mushfiqur Rahaman et.al|[paper](https://arxiv.org/abs/2609.38811)|[code](https://github.com/MushfiqShovon/DCM-SAM.)|-|
 |**2026-9-18**|**P$^3$-SAM: SAM with Perceptual Parallel Prompt for Few-Shot Strip Steel Surface Defect Segmentation**|Qian Xu et.al|[paper](https://arxiv.org/abs/2609.21424)|-|<details><summary>detail</summary>Accepted by ICME 2026</details>|
 |**2026-8-31**|**SAM3-LoRA: Parameter-Efficient Adaptation of a Concept-Promptable Foundation Model for Multi-Class Structural Defect Segmentation**|P. Malaisree et.al|[paper](https://arxiv.org/abs/2609.00469)|-|-|
 |**2026-8-31**|**SePArate: Segmenting Patterns from Defects in Wafer Manufacturing Using Weak Supervision**|Dain Kwon et.al|[paper](https://arxiv.org/abs/2608.30410)|-|-|
@@ -67,12 +68,19 @@
 |**2025-6-28**|**Region-Aware CAM: High-Resolution Weakly-Supervised Defect Segmentation via Salient Region Perception**|Hang-Cheng Dong et.al|[paper](https://arxiv.org/abs/2506.22866)|-|-|
 |**2025-6-24**|**Evolutionary computing-based image segmentation method to detect defects and features in Additive Friction Stir Deposition Process**|Akshansh Mishra et.al|[paper](https://arxiv.org/abs/2507.00046)|-|-|
 |**2025-6-17**|**synth-dacl: Does Synthetic Defect Data Enhance Segmentation Accuracy and Robustness for Real-World Bridge Inspections?**|Johannes Flotzinger et.al|[paper](https://arxiv.org/abs/2506.14255)|-|-|
-|**2025-4-24**|**Conformal Segmentation in Industrial Surface Defect Detection with Statistical Guarantees**|Cheng Shen et.al|[paper](https://arxiv.org/abs/2504.17721)|-|<details><summary>detail</summary>Under Review</details>|
 
 ## Anomaly Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-30**|**MADGRAV: a multilevel anomaly-detection pipeline for gravitational-wave searches applied to LIGO data**|Gianluca Inguglia et.al|[paper](https://arxiv.org/abs/2609.39583)|-|-|
+|**2026-9-30**|**From Benchmarks to Production: Transferring Time Series Anomaly Detection Methods for Electricity Production Monitoring**|Nicolas Vautier et.al|[paper](https://arxiv.org/abs/2609.39257)|-|<details><summary>detail</summary>Journal ref:IEEE International Conference on Data Engineering (ICDE)</details>|
+|**2026-9-30**|**What Streaming Anomaly Detection Finds (and Misses) in Industrial Time Series**|Magali Parrino et.al|[paper](https://arxiv.org/abs/2609.39232)|-|<details><summary>detail</summary>Journal ref:European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)</details>|
+|**2026-9-30**|**In a Streaming World, Should You Stand Still? A Comprehensive Benchmark of Anomaly Detection in Streams**|Magali Parrino et.al|[paper](https://arxiv.org/abs/2609.39215)|-|<details><summary>detail</summary>Journal ref:Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining</details>|
+|**2026-9-30**|**Beyond Normal References: Discriminative Few-Shot Anomaly Detection**|Huan Wang et.al|[paper](https://arxiv.org/abs/2605.23231)|[code](https://github.com/mala-lab/IDEAL)|-|
+|**2026-9-30**|**Cycle-Aware Autoencoder with Cross-SignalConsistency for Railway Door Anomaly Detection**|Ammar Bouketta et.al|[paper](https://arxiv.org/abs/2609.39035)|-|-|
+|**2026-9-29**|**LEARN-TS: LLM-Enhanced Alignment and Reconstruction with Normality Guidance for Multivariate Time-Series Anomaly Detection**|Jahyeob Koo et.al|[paper](https://arxiv.org/abs/2609.38789)|-|-|
+|**2026-9-29**|**Graph Anomaly Detection as Finite-Horizon Control: Training-Free Scoring via Empirical Bayes**|Fred Xu et.al|[paper](https://arxiv.org/abs/2609.38424)|-|<details><summary>detail</summary>Paper already accepted at Neurips</details>|
 |**2026-9-29**|**No Scale Left Behind: Multi-Scale Autoencoder with Bi-directional Attention for Time Series Anomaly Detection**|Jiaheng Guo et.al|[paper](https://arxiv.org/abs/2609.38004)|-|-|
 |**2026-9-29**|**Post-Anomaly Detection Inference for Deep SVDD**|Cao Le Cong Thanh et.al|[paper](https://arxiv.org/abs/2609.37935)|-|-|
 |**2026-9-29**|**FLASH: A "Generate Once, Synthesize Many" Framework for Synthetic Anomaly Generation in Industrial Anomaly Detection**|Abhay Kumar Das et.al|[paper](https://arxiv.org/abs/2609.37314)|-|<details><summary>detail</summary>Submitted to WACV 2027</details>|
@@ -90,14 +98,6 @@
 |**2026-9-27**|**Beyond Geometry: Benchmarking and Consistency Reasoning for 3D Logical Anomaly Detection**|Zhiqiang Qin et.al|[paper](https://arxiv.org/abs/2609.34143)|-|-|
 |**2026-9-27**|**Sparse, self-organizing ensembles of local kernels detect rare statistical anomalies**|Gaia Grosso et.al|[paper](https://arxiv.org/abs/2511.03095)|-|-|
 |**2026-9-27**|**DynGraphAgentBench: A Benchmark for Agentic Lifecycle Control in Dynamic Graph Anomaly Detection**|Yuwei Han et.al|[paper](https://arxiv.org/abs/2609.33980)|-|-|
-|**2026-9-27**|**Augmenting Visual Anomaly Detection with Automated Interpretability**|Antonio De Santis et.al|[paper](https://arxiv.org/abs/2609.33818)|-|<details><summary>detail</summary>Preprint</details>|
-|**2026-9-27**|**Supervision Recovery for Time Series Anomaly Detection via Context-Anchored Pairing**|Yifei Gao et.al|[paper](https://arxiv.org/abs/2609.33610)|-|-|
-|**2026-9-27**|**The Selection Rule Decides the Winner: A Pre-Registered Audit of Open-Set Graph Anomaly Detection**|Farhan Shahriyar Hossain et.al|[paper](https://arxiv.org/abs/2609.33370)|-|-|
-|**2026-9-27**|**COGNOS: Universal Enhancement for Time Series Anomaly Detection via Constrained Gaussian-Noise Optimization and Smoothing**|Wenlong Shang et.al|[paper](https://arxiv.org/abs/2511.06894)|-|<details><summary>detail</summary>Paper accepted by the 43rd International Conference on Machine Learning</details>|
-|**2026-9-26**|**Rethinking Open-World Video Anomaly Detection: Diagnosing Definition Blindness**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2607.20780)|-|<details><summary>detail</summary>Preprint</details>|
-|**2026-9-26**|**A VLM Answer Is Not an Anomaly Score: Rank Compression Across Image and Video Anomaly Detection**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2608.21244)|-|<details><summary>detail</summary>Preprint</details>|
-|**2026-9-26**|**Look Inside Each Video: Rethinking How Video Anomaly Detection Is Evaluated**|Inpyo Song et.al|[paper](https://arxiv.org/abs/2608.21854)|-|<details><summary>detail</summary>Preprint</details>|
-|**2026-9-26**|**Dinomaly2: A Unified Framework for Unsupervised Image Anomaly Detection**|Jia Guo et.al|[paper](https://arxiv.org/abs/2510.17611)|-|<details><summary>detail</summary>Extended version of CVPR2025</details>|
 
 ## 3D Anomaly Detection
 
