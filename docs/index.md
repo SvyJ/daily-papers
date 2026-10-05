@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.10.04
+## Updated on 2026.10.05
 
 ## Defect Detection
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-2**|**On-Board Anomaly Detection for Efficient Marine Environmental Monitoring**|Thomas Goudemant et.al|[paper](https://arxiv.org/abs/2610.03649)|-|-|
+|**2026-10-2**|**Smart Sensing for Safer Bridges: From Sensor Signals to AI-Driven Anomaly Detection**|Rahul Jaiswal et.al|[paper](https://arxiv.org/abs/2610.03082)|-|-|
+|**2026-10-2**|**LogLLM: Log-based Anomaly Detection Using Large Language Models**|Wei Guan et.al|[paper](https://arxiv.org/abs/2411.08561)|-|-|
+|**2026-10-1**|**A Two-Stage Cascade for Near-Real-Time Forest Anomaly Detection from Sentinel-1 SAR Time Series**|Pann Thinzar Seint et.al|[paper](https://arxiv.org/abs/2610.02763)|-|-|
 |**2026-10-1**|**GenGait: A Transformer-Based Model for Human Gait Anomaly Detection and Normative Twin Generation**|Elisa Motta et.al|[paper](https://arxiv.org/abs/2604.01997)|[code](https://youtu.be/Rcm3jqR5pN4.)|-|
 |**2026-10-1**|**Cog-VADU: A Training-Free Cognitive Reasoning Framework for Video Anomaly Detection and Understanding**|Mohd Ubaid Wani et.al|[paper](https://arxiv.org/abs/2610.01754)|-|<details><summary>detail</summary>Published in Transactions on Machine Learning Research (TMLR)</details>|
 |**2026-10-1**|**GLASS: Graph-Language Alignment with Spherical Scoring for Transferable Graph-Level Anomaly Detection**|Xudong Wang et.al|[paper](https://arxiv.org/abs/2609.05253)|-|<details><summary>detail</summary>This work and project were done in Apr</details>|
@@ -94,10 +98,6 @@
 |**2026-9-29**|**Post-Anomaly Detection Inference for Deep SVDD**|Cao Le Cong Thanh et.al|[paper](https://arxiv.org/abs/2609.37935)|-|-|
 |**2026-9-29**|**FLASH: A "Generate Once, Synthesize Many" Framework for Synthetic Anomaly Generation in Industrial Anomaly Detection**|Abhay Kumar Das et.al|[paper](https://arxiv.org/abs/2609.37314)|-|<details><summary>detail</summary>Submitted to WACV 2027</details>|
 |**2026-9-29**|**TaskBridge: Bridging Unsupervised Tabular Anomaly Detection and In-Context Learning via Virtual Tasks**|Doyun Choi et.al|[paper](https://arxiv.org/abs/2609.36968)|-|-|
-|**2026-9-29**|**PARSEE-VAD: Efficient Training-Free Online Video Anomaly Detection via Proposition-Aware Reasoning and Streaming Evidence Escalation**|Ji Wang et.al|[paper](https://arxiv.org/abs/2609.33236)|-|<details><summary>detail</summary>Minor formatting correction</details>|
-|**2026-9-29**|**Graph-Spectral Flow Matching for Multivariate Time Series Anomaly Detection**|Zepeng Zhang et.al|[paper](https://arxiv.org/abs/2609.36765)|-|-|
-|**2026-9-28**|**MAADBench: The Refreshable Paradigm for Anomaly Detection in Multi-Agent Systems**|Lei Ma et.al|[paper](https://arxiv.org/abs/2609.36556)|[code](https://huggingface.co/datasets/hww123/MAADBench-full.)|<details><summary>detail</summary>pre-print</details>|
-|**2026-9-28**|**Towards Generalizable 3D Anomaly Detection via Relational Inconsistency Modeling**|KunHo Heo et.al|[paper](https://arxiv.org/abs/2609.35059)|[code](https://visualsciencelab-khu.github.io/GRIM_project/.)|<details><summary>detail</summary>Accepted by NeurIPS 2026</details>|
 
 ## 3D Anomaly Detection
 
