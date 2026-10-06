@@ -7,12 +7,14 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.10.05
+## Updated on 2026.10.06
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-5**|**Feature identification for parameter extraction and defect detection using machine learning**|Yan Guo et.al|[paper](https://arxiv.org/abs/2610.05812)|-|-|
+|**2026-10-3**|**Detecting Defects that Matter: An Application-Driven Benchmark for Anomaly Detection in Manufacturing and Retail Logistics (VAND 4.0 Challenge)**|Lars Heckler-Kram et.al|[paper](https://arxiv.org/abs/2610.04392)|[code](https://sites.google.com/view/vand4-cvpr2026/challenge)|-|
 |**2026-9-24**|**Industrial Anomaly Detection via Defect-Grounded Reasoning in Visual Latent Space**|Jaron Yeh et.al|[paper](https://arxiv.org/abs/2609.29457)|[code](https://github.com/Yen666/Anomaly-LR.)|-|
 |**2026-9-23**|**TEEP-RCNN: Texture-Enhanced Edge-aware Perception for Steel Surface Defect Detection via Improved Convolutional Block Attention in Faster R-CNN**|Kirtan Rajesh et.al|[paper](https://arxiv.org/abs/2609.28077)|-|-|
 |**2026-9-19**|**Signal-Informed Temporal Routing for Vinyl Defect Regime Detection**|Yi-Hung Kan et.al|[paper](https://arxiv.org/abs/2609.23164)|-|-|
@@ -36,8 +38,6 @@
 |**2026-8-8**|**Machine-Learning-Based Diagnostic Framework for Passive Ultrasonic Detection of Railway Wheel Defects**|Aashish Shaju et.al|[paper](https://arxiv.org/abs/2608.08301)|-|<details><summary>detail</summary>Presented at the ASNT Research Symposium 2026</details>|
 |**2026-7-30**|**BladeYOLO: Wind Turbine Blade Defect Detection with Limited Annotations and Weak-Saliency Awareness**|Yabin Xu et.al|[paper](https://arxiv.org/abs/2607.28065)|[code](https://github.com/zhangfangtao/BladeYOLO)|<details><summary>detail</summary>IEEE TGRS</details>|
 |**2026-7-22**|**SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection**|Paul Julius Kühn et.al|[paper](https://arxiv.org/abs/2604.26633)|-|-|
-|**2026-7-16**|**LPCAN: Lightweight Pyramid Cross-Attention Network for Rail Surface Defect Detection Using RGB-D Data**|Jackie Alex et.al|[paper](https://arxiv.org/abs/2601.09118)|-|<details><summary>detail</summary>arXiv admin note: This paper has been withdrawn by arXiv due to unverifiable authorship and affiliation</details>|
-|**2026-7-13**|**Rough Path Signature-Guided Geometry Augmentation for Few-Shot Industrial Surface Defect Detection**|Jiaqi Kuang et.al|[paper](https://arxiv.org/abs/2607.12245)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,20 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-5**|**Adapting prior-data fitted networks for tabular anomaly detection**|Maximilian Bershtman et.al|[paper](https://arxiv.org/abs/2610.06693)|-|<details><summary>detail</summary>Submitted for a review to ICLR 2027</details>|
+|**2026-10-5**|**Detecting Nighttime Anomalies from NASA Black Marble Using a Generalized Spatio-Temporally Robust Framework of Machine Leaning Ensembles**|Srija Chakraborty et.al|[paper](https://arxiv.org/abs/2610.06674)|-|-|
+|**2026-10-5**|**Normality Constraint Learning: Adapting Foundation Models for Time Series Anomaly Detection**|Xiaohui Zhou et.al|[paper](https://arxiv.org/abs/2610.06453)|-|-|
+|**2026-10-5**|**Anlu: Enabling In-Context Time Series Anomaly Detection in Foundation Models via Counterfactual Supervision**|Tian Lan et.al|[paper](https://arxiv.org/abs/2610.06180)|-|-|
+|**2026-10-5**|**OCSVM-Guided Representation Learning for Unsupervised Anomaly Detection**|Nicolas Pinon et.al|[paper](https://arxiv.org/abs/2507.21164)|[code](https://github.com/Nicolas-Pinon/uad\_ocsvm\_guided\_repr\_learning.)|-|
+|**2026-10-5**|**Lightweight CNN-Based Anomaly Detection for High Voltage Converter Modulators in the Spallation Neutron Source**|Alberto D. Cencillo et.al|[paper](https://arxiv.org/abs/2605.31259)|-|-|
+|**2026-10-5**|**Adaptive-Shot Hybrid Quantum Anomaly Detection for Tactile Internet Security: Reliability-Aware Measurement Allocation Under Resource Constraints**|Mubassir Serneabat Sudipto et.al|[paper](https://arxiv.org/abs/2610.05835)|[code](https://github.com/msudipto/AdaptiveShot_HybridQAD_Framework)|<details><summary>detail</summary>the 40th Conference on Neural Information Processing Systems (NeurIPS 2026)</details>|
+|**2026-10-5**|**Protocol-Sensitive Evaluation of Log Anomaly Detection: Component Costs and Target-Access Sensitivity on HDFS and BGL**|Hang Xiao et.al|[paper](https://arxiv.org/abs/2610.05807)|[code](https://doi.org/10.5281/zenodo.23151002)|<details><summary>detail</summary>DASC 2026</details>|
+|**2026-10-4**|**RoMod: Temporal Routing Modulation via Mixture-of-Experts for Video Anomaly Detection**|Chao Huang et.al|[paper](https://arxiv.org/abs/2610.05131)|-|-|
+|**2026-10-4**|**Representation--Behavior Alignment for Explainable Weakly-Supervised Video Anomaly Detection**|Chao Huang et.al|[paper](https://arxiv.org/abs/2610.05129)|-|-|
+|**2026-10-4**|**MedAD-R1: Consistency-Reinforced Policy Optimization for Interpretable Medical Anomaly Detection**|Haitao Zhang et.al|[paper](https://arxiv.org/abs/2602.01081)|[code](https://github.com/zhtstar/MedAD-R1.)|<details><summary>detail</summary>Revised manuscript with an updated title</details>|
+|**2026-10-3**|**DeNoise: Learning Robust Graph Representations for Unsupervised Graph-Level Anomaly Detection**|Qingfeng Chen et.al|[paper](https://arxiv.org/abs/2511.04086)|-|<details><summary>detail</summary>Withdrawn by the authors because issues were identified in the original data and experimental evaluation</details>|
+|**2026-10-3**|**Anomaly Detection and Generation with Diffusion Models: A Survey**|Yang Liu et.al|[paper](https://arxiv.org/abs/2506.09368)|-|-|
+|**2026-10-3**|**Detecting Defects that Matter: An Application-Driven Benchmark for Anomaly Detection in Manufacturing and Retail Logistics (VAND 4.0 Challenge)**|Lars Heckler-Kram et.al|[paper](https://arxiv.org/abs/2610.04392)|[code](https://sites.google.com/view/vand4-cvpr2026/challenge)|-|
 |**2026-10-2**|**On-Board Anomaly Detection for Efficient Marine Environmental Monitoring**|Thomas Goudemant et.al|[paper](https://arxiv.org/abs/2610.03649)|-|-|
 |**2026-10-2**|**Smart Sensing for Safer Bridges: From Sensor Signals to AI-Driven Anomaly Detection**|Rahul Jaiswal et.al|[paper](https://arxiv.org/abs/2610.03082)|-|-|
 |**2026-10-2**|**LogLLM: Log-based Anomaly Detection Using Large Language Models**|Wei Guan et.al|[paper](https://arxiv.org/abs/2411.08561)|-|-|
@@ -84,20 +98,6 @@
 |**2026-10-1**|**Detect, Explain, Interpret: An End-to-End Benchmark for Time Series Anomaly Detection, Explainability and Interpretability**|Roberto Stanzione et.al|[paper](https://arxiv.org/abs/2610.01168)|-|-|
 |**2026-9-30**|**Generalist Representation, Specialist Detection: TS-Router for Time-Series Anomaly Detection**|Tian Lan et.al|[paper](https://arxiv.org/abs/2610.00978)|[code](https://anonymous.4open.science/r/TS-Router-D8FF.)|-|
 |**2026-9-30**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Xinhai Chang et.al|[paper](https://arxiv.org/abs/2410.00713)|[code](https://chang-xinhai.github.io/rad-website/.)|-|
-|**2026-9-30**|**Harbormaster: Evidence-Gated, Replay-Safe Maritime Anomaly Detection on AWS**|Arun Sharma et.al|[paper](https://arxiv.org/abs/2610.00519)|-|-|
-|**2026-9-30**|**MADGRAV: a multilevel anomaly-detection pipeline for gravitational-wave searches applied to LIGO data**|Gianluca Inguglia et.al|[paper](https://arxiv.org/abs/2609.39583)|-|-|
-|**2026-9-30**|**From Benchmarks to Production: Transferring Time Series Anomaly Detection Methods for Electricity Production Monitoring**|Nicolas Vautier et.al|[paper](https://arxiv.org/abs/2609.39257)|-|<details><summary>detail</summary>Journal ref:IEEE International Conference on Data Engineering (ICDE)</details>|
-|**2026-9-30**|**What Streaming Anomaly Detection Finds (and Misses) in Industrial Time Series**|Magali Parrino et.al|[paper](https://arxiv.org/abs/2609.39232)|-|<details><summary>detail</summary>Journal ref:European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)</details>|
-|**2026-9-30**|**In a Streaming World, Should You Stand Still? A Comprehensive Benchmark of Anomaly Detection in Streams**|Magali Parrino et.al|[paper](https://arxiv.org/abs/2609.39215)|-|<details><summary>detail</summary>Journal ref:Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining</details>|
-|**2026-9-30**|**Deep Learning for Anomaly Detection in Railway Systems: A Structured Survey**|Ammar Bouketta et.al|[paper](https://arxiv.org/abs/2610.00363)|-|<details><summary>detail</summary>Survey paper</details>|
-|**2026-9-30**|**Beyond Normal References: Discriminative Few-Shot Anomaly Detection**|Huan Wang et.al|[paper](https://arxiv.org/abs/2605.23231)|[code](https://github.com/mala-lab/IDEAL)|-|
-|**2026-9-30**|**Cycle-Aware Autoencoder with Cross-SignalConsistency for Railway Door Anomaly Detection**|Ammar Bouketta et.al|[paper](https://arxiv.org/abs/2609.39035)|-|-|
-|**2026-9-29**|**LEARN-TS: LLM-Enhanced Alignment and Reconstruction with Normality Guidance for Multivariate Time-Series Anomaly Detection**|Jahyeob Koo et.al|[paper](https://arxiv.org/abs/2609.38789)|-|-|
-|**2026-9-29**|**Graph Anomaly Detection as Finite-Horizon Control: Training-Free Scoring via Empirical Bayes**|Fred Xu et.al|[paper](https://arxiv.org/abs/2609.38424)|-|<details><summary>detail</summary>Paper already accepted at Neurips</details>|
-|**2026-9-29**|**No Scale Left Behind: Multi-Scale Autoencoder with Bi-directional Attention for Time Series Anomaly Detection**|Jiaheng Guo et.al|[paper](https://arxiv.org/abs/2609.38004)|-|-|
-|**2026-9-29**|**Post-Anomaly Detection Inference for Deep SVDD**|Cao Le Cong Thanh et.al|[paper](https://arxiv.org/abs/2609.37935)|-|-|
-|**2026-9-29**|**FLASH: A "Generate Once, Synthesize Many" Framework for Synthetic Anomaly Generation in Industrial Anomaly Detection**|Abhay Kumar Das et.al|[paper](https://arxiv.org/abs/2609.37314)|-|<details><summary>detail</summary>Submitted to WACV 2027</details>|
-|**2026-9-29**|**TaskBridge: Bridging Unsupervised Tabular Anomaly Detection and In-Context Learning via Virtual Tasks**|Doyun Choi et.al|[paper](https://arxiv.org/abs/2609.36968)|-|-|
 
 ## 3D Anomaly Detection
 
