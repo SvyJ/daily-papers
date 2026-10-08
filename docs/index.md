@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.10.07
+## Updated on 2026.10.08
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-6**|**Epistemic Uncertainty-Aware Defect Detection for Quality Control in Medical Device Manufacturing**|Raham A. Butt et.al|[paper](https://arxiv.org/abs/2610.09057)|-|-|
 |**2026-10-5**|**Feature identification for parameter extraction and defect detection using machine learning**|Yan Guo et.al|[paper](https://arxiv.org/abs/2610.05812)|-|-|
 |**2026-10-3**|**Detecting Defects that Matter: An Application-Driven Benchmark for Anomaly Detection in Manufacturing and Retail Logistics (VAND 4.0 Challenge)**|Lars Heckler-Kram et.al|[paper](https://arxiv.org/abs/2610.04392)|[code](https://sites.google.com/view/vand4-cvpr2026/challenge)|-|
 |**2026-9-24**|**Industrial Anomaly Detection via Defect-Grounded Reasoning in Visual Latent Space**|Jaron Yeh et.al|[paper](https://arxiv.org/abs/2609.29457)|[code](https://github.com/Yen666/Anomaly-LR.)|-|
@@ -37,7 +38,6 @@
 |**2026-8-9**|**Keep the Needle, Prune the Haystack: Defect-Preserving Token Pruning for Efficient Zero-Shot Anomaly Detection**|Yanning Hou et.al|[paper](https://arxiv.org/abs/2608.03681)|-|-|
 |**2026-8-8**|**Machine-Learning-Based Diagnostic Framework for Passive Ultrasonic Detection of Railway Wheel Defects**|Aashish Shaju et.al|[paper](https://arxiv.org/abs/2608.08301)|-|<details><summary>detail</summary>Presented at the ASNT Research Symposium 2026</details>|
 |**2026-7-30**|**BladeYOLO: Wind Turbine Blade Defect Detection with Limited Annotations and Weak-Saliency Awareness**|Yabin Xu et.al|[paper](https://arxiv.org/abs/2607.28065)|[code](https://github.com/zhangfangtao/BladeYOLO)|<details><summary>detail</summary>IEEE TGRS</details>|
-|**2026-7-22**|**SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection**|Paul Julius Kühn et.al|[paper](https://arxiv.org/abs/2604.26633)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,13 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-7**|**Efficient Patch-Based Anomaly Detection Fused with Diffusion Driven Generative Modeling for Semiconductor Wafer Bin Map Open Set Anomaly Detection**|Limon Bin Hossain et.al|[paper](https://arxiv.org/abs/2610.09993)|-|-|
+|**2026-10-7**|**Pareto-optimal quantum kernel selection for unsupervised anomaly detection on real malware beaconing data**|Boaz Micah et.al|[paper](https://arxiv.org/abs/2610.09717)|-|-|
+|**2026-10-7**|**A Multi-Source Ultrasound Benchmark Revealing the Limits of Contemporary Self-Supervised Anomaly Detection Methods**|Marco Riedenauer et.al|[paper](https://arxiv.org/abs/2610.09677)|-|-|
+|**2026-10-7**|**Quasi-Binarized Autoencoders: An Architecture-Independent Information Bottleneck for Medical Image Anomaly Detection**|Shouhei Hanaoka et.al|[paper](https://arxiv.org/abs/2610.09670)|[code](https://github.com/hanaokalog/MedIAnomalyQB.)|-|
+|**2026-10-7**|**Quantum anomaly detection in real scarce data**|Emanuele Casciaro et.al|[paper](https://arxiv.org/abs/2610.09635)|-|-|
+|**2026-10-7**|**MORA: Modeling Observed Changes for Drift-Robust Time-Series Anomaly Detection**|Xudong Mou et.al|[paper](https://arxiv.org/abs/2610.09473)|-|-|
+|**2026-10-6**|**GRC-Net: Global Representation Consistency Network for Unsupervised Multimodal Anomaly Detection**|Seyoung Jeong et.al|[paper](https://arxiv.org/abs/2610.09329)|-|-|
 |**2026-10-5**|**Adapting prior-data fitted networks for tabular anomaly detection**|Maximilian Bershtman et.al|[paper](https://arxiv.org/abs/2610.06693)|-|<details><summary>detail</summary>Submitted for a review to ICLR 2027</details>|
 |**2026-10-5**|**Detecting Nighttime Anomalies from NASA Black Marble Using a Generalized Spatio-Temporally Robust Framework of Machine Leaning Ensembles**|Srija Chakraborty et.al|[paper](https://arxiv.org/abs/2610.06674)|-|-|
 |**2026-10-5**|**Normality Constraint Learning: Adapting Foundation Models for Time Series Anomaly Detection**|Xiaohui Zhou et.al|[paper](https://arxiv.org/abs/2610.06453)|-|-|
@@ -91,13 +98,6 @@
 |**2026-10-2**|**Low-Rank and Structured Sparse Tensor Decomposition for Anomaly Detection in Multivariate Functional Data**|Mohammad N. Bisheh et.al|[paper](https://arxiv.org/abs/2610.06930)|-|-|
 |**2026-10-2**|**On-Board Anomaly Detection for Efficient Marine Environmental Monitoring**|Thomas Goudemant et.al|[paper](https://arxiv.org/abs/2610.03649)|-|-|
 |**2026-10-2**|**Smart Sensing for Safer Bridges: From Sensor Signals to AI-Driven Anomaly Detection**|Rahul Jaiswal et.al|[paper](https://arxiv.org/abs/2610.03082)|-|-|
-|**2026-10-2**|**LogLLM: Log-based Anomaly Detection Using Large Language Models**|Wei Guan et.al|[paper](https://arxiv.org/abs/2411.08561)|-|-|
-|**2026-10-1**|**A Two-Stage Cascade for Near-Real-Time Forest Anomaly Detection from Sentinel-1 SAR Time Series**|Pann Thinzar Seint et.al|[paper](https://arxiv.org/abs/2610.02763)|-|-|
-|**2026-10-1**|**GenGait: A Transformer-Based Model for Human Gait Anomaly Detection and Normative Twin Generation**|Elisa Motta et.al|[paper](https://arxiv.org/abs/2604.01997)|[code](https://youtu.be/Rcm3jqR5pN4.)|-|
-|**2026-10-1**|**Cog-VADU: A Training-Free Cognitive Reasoning Framework for Video Anomaly Detection and Understanding**|Mohd Ubaid Wani et.al|[paper](https://arxiv.org/abs/2610.01754)|-|<details><summary>detail</summary>Published in Transactions on Machine Learning Research (TMLR)</details>|
-|**2026-10-1**|**GLASS: Graph-Language Alignment with Spherical Scoring for Transferable Graph-Level Anomaly Detection**|Xudong Wang et.al|[paper](https://arxiv.org/abs/2609.05253)|-|<details><summary>detail</summary>This work and project were done in Apr</details>|
-|**2026-10-1**|**Anomaly Detection and Localization for the Pantograph-Catenary System**|Francesco Vitale et.al|[paper](https://arxiv.org/abs/2610.01721)|-|<details><summary>detail</summary>Accepted and presented at the Industry Track of the IEEE International Conference on Intelligent Transportation Systems 2026 (IEEE ITSC 2026)</details>|
-|**2026-10-1**|**Detect, Explain, Interpret: An End-to-End Benchmark for Time Series Anomaly Detection, Explainability and Interpretability**|Roberto Stanzione et.al|[paper](https://arxiv.org/abs/2610.01168)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -133,6 +133,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-6**|**GRC-Net: Global Representation Consistency Network for Unsupervised Multimodal Anomaly Detection**|Seyoung Jeong et.al|[paper](https://arxiv.org/abs/2610.09329)|-|-|
 |**2026-9-22**|**Confidence-Guided Cross-Modal Knowledge Transfer for Multimodal Anomaly Detection in Microservice Systems**|Peipeng Wang et.al|[paper](https://arxiv.org/abs/2609.25856)|-|-|
 |**2026-9-22**|**When Point Clouds Outperform Pixels: Rethinking Zero-Shot Multimodal Anomaly Detection**|Chenglin Ye et.al|[paper](https://arxiv.org/abs/2609.25793)|-|-|
 |**2026-9-8**|**AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization**|Jingyi Liao et.al|[paper](https://arxiv.org/abs/2508.04175)|-|-|
@@ -157,7 +158,6 @@
 |**2026-4-23**|**Anomaly Detection in Smart Power Grids with Graph-Regularized MS-SVDD: a Multimodal Subspace Learning Approach**|Thomas Debelle et.al|[paper](https://arxiv.org/abs/2502.15793)|-|-|
 |**2026-4-20**|**ZSG-IAD: A Multimodal Framework for Zero-Shot Grounded Industrial Anomaly Detection**|Qiuhui Chen et.al|[paper](https://arxiv.org/abs/2604.17949)|-|-|
 |**2026-4-14**|**Out of Context: Reliability in Multimodal Anomaly Detection Requires Contextual Inference**|Kevin Wilkinghoff et.al|[paper](https://arxiv.org/abs/2604.13252)|-|-|
-|**2026-4-13**|**MMR-AD: A Large-Scale Multimodal Dataset for Benchmarking General Anomaly Detection with Multimodal Large Language Models**|Xincheng Yao et.al|[paper](https://arxiv.org/abs/2604.10971)|-|<details><summary>detail</summary>Accepted by CVPR2026</details>|
 
 ## Vector Quantization
 
