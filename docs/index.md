@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.10.08
+## Updated on 2026.10.09
 
 ## Defect Detection
 
@@ -73,11 +73,17 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-8**|**RIFT: Relative Isolation From Trees For Anomaly Detection**|Mark Daniel Szalai et.al|[paper](https://arxiv.org/abs/2610.12244)|-|-|
+|**2026-10-8**|**Is Real-World Training Data Necessary for Generalist Graph Anomaly Detection?**|Yujing Liu et.al|[paper](https://arxiv.org/abs/2610.12167)|-|-|
+|**2026-10-8**|**Onboard Marine Anomaly Detection on $Φ$sat-2: From Simulation-Based Development to In-Orbit Demonstration**|Clotilde Szywala et.al|[paper](https://arxiv.org/abs/2610.11735)|-|-|
+|**2026-10-7**|**A Unified Score Matching Paradigm for Video Anomaly Detection and Anticipation**|Congqi Cao et.al|[paper](https://arxiv.org/abs/2610.11149)|-|-|
+|**2026-10-7**|**Adaptive Anomaly Detection in the Presence of Concept Drift: Extended Report**|Jongjun Park et.al|[paper](https://arxiv.org/abs/2506.15831)|-|<details><summary>detail</summary>Extended version (to be updated)</details>|
 |**2026-10-7**|**Efficient Patch-Based Anomaly Detection Fused with Diffusion Driven Generative Modeling for Semiconductor Wafer Bin Map Open Set Anomaly Detection**|Limon Bin Hossain et.al|[paper](https://arxiv.org/abs/2610.09993)|-|-|
 |**2026-10-7**|**Pareto-optimal quantum kernel selection for unsupervised anomaly detection on real malware beaconing data**|Boaz Micah et.al|[paper](https://arxiv.org/abs/2610.09717)|-|-|
 |**2026-10-7**|**A Multi-Source Ultrasound Benchmark Revealing the Limits of Contemporary Self-Supervised Anomaly Detection Methods**|Marco Riedenauer et.al|[paper](https://arxiv.org/abs/2610.09677)|-|-|
 |**2026-10-7**|**Quasi-Binarized Autoencoders: An Architecture-Independent Information Bottleneck for Medical Image Anomaly Detection**|Shouhei Hanaoka et.al|[paper](https://arxiv.org/abs/2610.09670)|[code](https://github.com/hanaokalog/MedIAnomalyQB.)|-|
 |**2026-10-7**|**Quantum anomaly detection in real scarce data**|Emanuele Casciaro et.al|[paper](https://arxiv.org/abs/2610.09635)|-|-|
+|**2026-10-7**|**Temporal transformer CAN encoder with federated lightweight heads for anomaly detection**|Konstantinos Gyftodimos et.al|[paper](https://arxiv.org/abs/2610.10613)|-|<details><summary>detail</summary>Journal ref:Presented at ITS European Congress 2025</details>|
 |**2026-10-7**|**MORA: Modeling Observed Changes for Drift-Robust Time-Series Anomaly Detection**|Xudong Mou et.al|[paper](https://arxiv.org/abs/2610.09473)|-|-|
 |**2026-10-6**|**GRC-Net: Global Representation Consistency Network for Unsupervised Multimodal Anomaly Detection**|Seyoung Jeong et.al|[paper](https://arxiv.org/abs/2610.09329)|-|-|
 |**2026-10-5**|**Adapting prior-data fitted networks for tabular anomaly detection**|Maximilian Bershtman et.al|[paper](https://arxiv.org/abs/2610.06693)|-|<details><summary>detail</summary>Submitted for a review to ICLR 2027</details>|
@@ -92,12 +98,6 @@
 |**2026-10-4**|**RoMod: Temporal Routing Modulation via Mixture-of-Experts for Video Anomaly Detection**|Chao Huang et.al|[paper](https://arxiv.org/abs/2610.05131)|-|-|
 |**2026-10-4**|**Representation--Behavior Alignment for Explainable Weakly-Supervised Video Anomaly Detection**|Chao Huang et.al|[paper](https://arxiv.org/abs/2610.05129)|-|-|
 |**2026-10-4**|**MedAD-R1: Consistency-Reinforced Policy Optimization for Interpretable Medical Anomaly Detection**|Haitao Zhang et.al|[paper](https://arxiv.org/abs/2602.01081)|[code](https://github.com/zhtstar/MedAD-R1.)|<details><summary>detail</summary>Revised manuscript with an updated title</details>|
-|**2026-10-3**|**DeNoise: Learning Robust Graph Representations for Unsupervised Graph-Level Anomaly Detection**|Qingfeng Chen et.al|[paper](https://arxiv.org/abs/2511.04086)|-|<details><summary>detail</summary>Withdrawn by the authors because issues were identified in the original data and experimental evaluation</details>|
-|**2026-10-3**|**Anomaly Detection and Generation with Diffusion Models: A Survey**|Yang Liu et.al|[paper](https://arxiv.org/abs/2506.09368)|-|-|
-|**2026-10-3**|**Detecting Defects that Matter: An Application-Driven Benchmark for Anomaly Detection in Manufacturing and Retail Logistics (VAND 4.0 Challenge)**|Lars Heckler-Kram et.al|[paper](https://arxiv.org/abs/2610.04392)|[code](https://sites.google.com/view/vand4-cvpr2026/challenge)|-|
-|**2026-10-2**|**Low-Rank and Structured Sparse Tensor Decomposition for Anomaly Detection in Multivariate Functional Data**|Mohammad N. Bisheh et.al|[paper](https://arxiv.org/abs/2610.06930)|-|-|
-|**2026-10-2**|**On-Board Anomaly Detection for Efficient Marine Environmental Monitoring**|Thomas Goudemant et.al|[paper](https://arxiv.org/abs/2610.03649)|-|-|
-|**2026-10-2**|**Smart Sensing for Safer Bridges: From Sensor Signals to AI-Driven Anomaly Detection**|Rahul Jaiswal et.al|[paper](https://arxiv.org/abs/2610.03082)|-|-|
 
 ## 3D Anomaly Detection
 
