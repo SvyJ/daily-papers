@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.10.11
+## Updated on 2026.10.12
 
 ## Defect Detection
 
@@ -73,6 +73,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-9**|**Local Diagnostics of Learned Event Representations for Anomaly Detection at the HL-LHC**|Donatella Genovese et.al|[paper](https://arxiv.org/abs/2610.13437)|-|<details><summary>detail</summary>Submission to SciPost</details>|
+|**2026-10-8**|**NV-Tesseract-AD: Curriculum-Enhanced Conditional Diffusion for Multivariate Time-Series Anomaly Detection**|Aditi Gautam et.al|[paper](https://arxiv.org/abs/2610.12754)|-|-|
 |**2026-10-8**|**RIFT: Relative Isolation From Trees For Anomaly Detection**|Mark Daniel Szalai et.al|[paper](https://arxiv.org/abs/2610.12244)|-|-|
 |**2026-10-8**|**Is Real-World Training Data Necessary for Generalist Graph Anomaly Detection?**|Yujing Liu et.al|[paper](https://arxiv.org/abs/2610.12167)|-|-|
 |**2026-10-8**|**Onboard Marine Anomaly Detection on $Φ$sat-2: From Simulation-Based Development to In-Orbit Demonstration**|Clotilde Szywala et.al|[paper](https://arxiv.org/abs/2610.11735)|-|-|
@@ -96,8 +98,6 @@
 |**2026-10-5**|**Protocol-Sensitive Evaluation of Log Anomaly Detection: Component Costs and Target-Access Sensitivity on HDFS and BGL**|Hang Xiao et.al|[paper](https://arxiv.org/abs/2610.05807)|[code](https://doi.org/10.5281/zenodo.23151002)|<details><summary>detail</summary>DASC 2026</details>|
 |**2026-10-4**|**Anchor and Adapt: Asymmetric Prompt Adaptation for Few-Shot Industrial Anomaly Detection**|Mengyang Zhao et.al|[paper](https://arxiv.org/abs/2610.07016)|-|-|
 |**2026-10-4**|**RoMod: Temporal Routing Modulation via Mixture-of-Experts for Video Anomaly Detection**|Chao Huang et.al|[paper](https://arxiv.org/abs/2610.05131)|-|-|
-|**2026-10-4**|**Representation--Behavior Alignment for Explainable Weakly-Supervised Video Anomaly Detection**|Chao Huang et.al|[paper](https://arxiv.org/abs/2610.05129)|-|-|
-|**2026-10-4**|**MedAD-R1: Consistency-Reinforced Policy Optimization for Interpretable Medical Anomaly Detection**|Haitao Zhang et.al|[paper](https://arxiv.org/abs/2602.01081)|[code](https://github.com/zhtstar/MedAD-R1.)|<details><summary>detail</summary>Revised manuscript with an updated title</details>|
 
 ## 3D Anomaly Detection
 
