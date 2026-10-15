@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-13**|**Cross-Scenario Industrial Defect Detection via Domain-Robust Training and Metric-Aligned Selection**|Dikai Li et.al|[paper](https://arxiv.org/abs/2610.19540)|[code](https://github.com/GZHU-DVL/Dikai.)|<details><summary>detail</summary>This paper has been accepted for presentation in IEEE ICME 2026</details>|
 |**2026-10-6**|**Epistemic Uncertainty-Aware Defect Detection for Quality Control in Medical Device Manufacturing**|Raham A. Butt et.al|[paper](https://arxiv.org/abs/2610.09057)|-|-|
 |**2026-10-5**|**Feature identification for parameter extraction and defect detection using machine learning**|Yan Guo et.al|[paper](https://arxiv.org/abs/2610.05812)|-|-|
 |**2026-10-3**|**Detecting Defects that Matter: An Application-Driven Benchmark for Anomaly Detection in Manufacturing and Retail Logistics (VAND 4.0 Challenge)**|Lars Heckler-Kram et.al|[paper](https://arxiv.org/abs/2610.04392)|[code](https://sites.google.com/view/vand4-cvpr2026/challenge)|-|
@@ -37,7 +38,6 @@
 |**2026-8-12**|**Low Cost Two-Stage Fabric Defect Detection at the Edge**|Rasel Hossen et.al|[paper](https://arxiv.org/abs/2608.14727)|-|-|
 |**2026-8-9**|**Keep the Needle, Prune the Haystack: Defect-Preserving Token Pruning for Efficient Zero-Shot Anomaly Detection**|Yanning Hou et.al|[paper](https://arxiv.org/abs/2608.03681)|-|-|
 |**2026-8-8**|**Machine-Learning-Based Diagnostic Framework for Passive Ultrasonic Detection of Railway Wheel Defects**|Aashish Shaju et.al|[paper](https://arxiv.org/abs/2608.08301)|-|<details><summary>detail</summary>Presented at the ASNT Research Symposium 2026</details>|
-|**2026-7-30**|**BladeYOLO: Wind Turbine Blade Defect Detection with Limited Annotations and Weak-Saliency Awareness**|Yabin Xu et.al|[paper](https://arxiv.org/abs/2607.28065)|[code](https://github.com/zhangfangtao/BladeYOLO)|<details><summary>detail</summary>IEEE TGRS</details>|
 
 ## Defect Segmentation
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-14**|**Retrieval Over Training: Similarity search-based Model Selection for Time Series Anomaly Detection**|Christos Panourgias et.al|[paper](https://arxiv.org/abs/2610.20243)|-|-|
+|**2026-10-14**|**Causally-Constrained Probabilistic Forecasting for Time-Series Anomaly Detection**|Pooyan Khosravinia et.al|[paper](https://arxiv.org/abs/2604.17998)|-|<details><summary>detail</summary>This work is currently under review for possible publication in the IEEE Access journal</details>|
+|**2026-10-14**|**Beyond Reconstruction: Reconstruction-to-Vector Diffusion for Hyperspectral Anomaly Detection**|Jijun Xiang et.al|[paper](https://arxiv.org/abs/2604.11390)|[code](https://github.com/Bondojijun/R2VD.)|-|
+|**2026-10-13**|**Physical Layer Anomaly Detection via Adaptive Gaussian Mixture Model**|Mamady Delamou et.al|[paper](https://arxiv.org/abs/2610.18946)|-|<details><summary>detail</summary>7 figures et 1 tableau</details>|
 |**2026-10-13**|**Robust Logical Anomaly Detection under Capture Shifts via Synthetic Anomalies**|Ufuk Efe et.al|[paper](https://arxiv.org/abs/2610.18295)|-|-|
 |**2026-10-12**|**VETime: Vision Enhanced Zero-Shot Time Series Anomaly Detection**|Yingyuan Yang et.al|[paper](https://arxiv.org/abs/2602.16681)|[code](https://github.com/yyyangcoder/VETime)|-|
 |**2026-10-12**|**Signature-Kernel One-Class Learning with Manifold Regularisation for Multivariate Time Series Anomaly Detection**|Shervin Rahimzadeh Arashloo et.al|[paper](https://arxiv.org/abs/2507.23449)|-|-|
@@ -94,10 +98,6 @@
 |**2026-10-8**|**Is Real-World Training Data Necessary for Generalist Graph Anomaly Detection?**|Yujing Liu et.al|[paper](https://arxiv.org/abs/2610.12167)|-|-|
 |**2026-10-8**|**Onboard Marine Anomaly Detection on $Φ$sat-2: From Simulation-Based Development to In-Orbit Demonstration**|Clotilde Szywala et.al|[paper](https://arxiv.org/abs/2610.11735)|-|-|
 |**2026-10-7**|**A Unified Score Matching Paradigm for Video Anomaly Detection and Anticipation**|Congqi Cao et.al|[paper](https://arxiv.org/abs/2610.11149)|-|-|
-|**2026-10-7**|**Adaptive Anomaly Detection in the Presence of Concept Drift: Extended Report**|Jongjun Park et.al|[paper](https://arxiv.org/abs/2506.15831)|-|<details><summary>detail</summary>Extended version (to be updated)</details>|
-|**2026-10-7**|**Efficient Patch-Based Anomaly Detection Fused with Diffusion Driven Generative Modeling for Semiconductor Wafer Bin Map Open Set Anomaly Detection**|Limon Bin Hossain et.al|[paper](https://arxiv.org/abs/2610.09993)|-|-|
-|**2026-10-7**|**Pareto-optimal quantum kernel selection for unsupervised anomaly detection on real malware beaconing data**|Boaz Micah et.al|[paper](https://arxiv.org/abs/2610.09717)|-|-|
-|**2026-10-7**|**A Multi-Source Ultrasound Benchmark Revealing the Limits of Contemporary Self-Supervised Anomaly Detection Methods**|Marco Riedenauer et.al|[paper](https://arxiv.org/abs/2610.09677)|-|-|
 
 ## 3D Anomaly Detection
 
