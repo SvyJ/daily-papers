@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.10.15
+## Updated on 2026.10.16
 
 ## Defect Detection
 
@@ -73,7 +73,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-10-14**|**Retrieval Over Training: Similarity search-based Model Selection for Time Series Anomaly Detection**|Christos Panourgias et.al|[paper](https://arxiv.org/abs/2610.20243)|-|-|
+|**2026-10-15**|**Retrieval Over Training: Similarity search-based Model Selection for Time Series Anomaly Detection**|Christos Panourgias et.al|[paper](https://arxiv.org/abs/2610.20243)|-|-|
 |**2026-10-14**|**Causally-Constrained Probabilistic Forecasting for Time-Series Anomaly Detection**|Pooyan Khosravinia et.al|[paper](https://arxiv.org/abs/2604.17998)|-|<details><summary>detail</summary>This work is currently under review for possible publication in the IEEE Access journal</details>|
 |**2026-10-14**|**Beyond Reconstruction: Reconstruction-to-Vector Diffusion for Hyperspectral Anomaly Detection**|Jijun Xiang et.al|[paper](https://arxiv.org/abs/2604.11390)|[code](https://github.com/Bondojijun/R2VD.)|-|
 |**2026-10-13**|**Physical Layer Anomaly Detection via Adaptive Gaussian Mixture Model**|Mamady Delamou et.al|[paper](https://arxiv.org/abs/2610.18946)|-|<details><summary>detail</summary>7 figures et 1 tableau</details>|
