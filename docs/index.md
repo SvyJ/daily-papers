@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.10.18
+## Updated on 2026.10.19
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-16**|**Universal Semantic Enhancement for Weakly Supervised Anomaly Detection**|Siyu Zhou et.al|[paper](https://arxiv.org/abs/2610.23765)|[code](https://github.com/Simon-zsy/USE-AD)|<details><summary>detail</summary>https://github</details>|
+|**2026-10-16**|**Knowledge-Guided Distributional Prompt Learning with Visual Hierarchy for Zero-Shot Anomaly Detection**|Jiyul Ham et.al|[paper](https://arxiv.org/abs/2610.23172)|-|-|
+|**2026-10-16**|**RAD: A Realistic Multi-View Benchmark for Pose-Agnostic Anomaly Detection**|Xinhai Chang et.al|[paper](https://arxiv.org/abs/2410.00713)|[code](https://chang-xinhai.github.io/rad-website/.)|-|
 |**2026-10-15**|**Retrieval Over Training: Similarity search-based Model Selection for Time Series Anomaly Detection**|Christos Panourgias et.al|[paper](https://arxiv.org/abs/2610.20243)|-|-|
 |**2026-10-14**|**Causally-Constrained Probabilistic Forecasting for Time-Series Anomaly Detection**|Pooyan Khosravinia et.al|[paper](https://arxiv.org/abs/2604.17998)|-|<details><summary>detail</summary>This work is currently under review for possible publication in the IEEE Access journal</details>|
 |**2026-10-14**|**Beyond Reconstruction: Reconstruction-to-Vector Diffusion for Hyperspectral Anomaly Detection**|Jijun Xiang et.al|[paper](https://arxiv.org/abs/2604.11390)|[code](https://github.com/Bondojijun/R2VD.)|-|
@@ -95,9 +98,6 @@
 |**2026-10-9**|**Local Diagnostics of Learned Event Representations for Anomaly Detection at the HL-LHC**|Donatella Genovese et.al|[paper](https://arxiv.org/abs/2610.13437)|-|<details><summary>detail</summary>Submission to SciPost</details>|
 |**2026-10-8**|**NV-Tesseract-AD: Curriculum-Enhanced Conditional Diffusion for Multivariate Time-Series Anomaly Detection**|Aditi Gautam et.al|[paper](https://arxiv.org/abs/2610.12754)|-|-|
 |**2026-10-8**|**RIFT: Relative Isolation From Trees For Anomaly Detection**|Mark Daniel Szalai et.al|[paper](https://arxiv.org/abs/2610.12244)|-|-|
-|**2026-10-8**|**Is Real-World Training Data Necessary for Generalist Graph Anomaly Detection?**|Yujing Liu et.al|[paper](https://arxiv.org/abs/2610.12167)|-|-|
-|**2026-10-8**|**Onboard Marine Anomaly Detection on $Φ$sat-2: From Simulation-Based Development to In-Orbit Demonstration**|Clotilde Szywala et.al|[paper](https://arxiv.org/abs/2610.11735)|-|-|
-|**2026-10-7**|**A Unified Score Matching Paradigm for Video Anomaly Detection and Anticipation**|Congqi Cao et.al|[paper](https://arxiv.org/abs/2610.11149)|-|-|
 
 ## 3D Anomaly Detection
 
