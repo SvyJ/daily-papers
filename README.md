@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.10.20
+## Updated on 2026.10.21
 
 ## Defect Detection
 
@@ -73,13 +73,15 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-20**|**Agentic Ensemble with Vision-Language Models for Visual Anomaly Detection**|Shangquan Sun et.al|[paper](https://arxiv.org/abs/2610.28560)|-|-|
+|**2026-10-20**|**IndusAgent: Agentic Reinforcement Learning for Cross-Category Industrial Anomaly Detection**|Rongbin Tan et.al|[paper](https://arxiv.org/abs/2605.20682)|-|-|
+|**2026-10-19**|**BEACON: Bridging Multimodal Semantics and Asynchronous Propagation for Cloud System Anomaly Detection**|Zhe Li et.al|[paper](https://arxiv.org/abs/2610.27542)|-|<details><summary>detail</summary>Accepted by ICDE 2027</details>|
 |**2026-10-19**|**YUTELA: A Scalable Edge Cloud AIoT System for Multi-Site Video Anomaly Detection with Scene Specific Adaptation**|Shanle Yao et.al|[paper](https://arxiv.org/abs/2610.26468)|-|-|
 |**2026-10-19**|**MADGRAV: a multilevel anomaly-detection pipeline for gravitational-wave searches applied to LIGO data**|Gianluca Inguglia et.al|[paper](https://arxiv.org/abs/2609.39583)|-|-|
 |**2026-10-19**|**Extending Reconstruction: Reconstruction-to-Vector Diffusion for Hyperspectral Anomaly Detection**|Jijun Xiang et.al|[paper](https://arxiv.org/abs/2604.11390)|[code](https://github.com/Bondojijun/R2VD.)|-|
 |**2026-10-18**|**LUMIN: Lifecycle-Utility-aware and Metadata-Informed Network for Visual Anomaly Detection**|Pengfei Yang et.al|[paper](https://arxiv.org/abs/2609.04775)|-|-|
 |**2026-10-18**|**KPI-Aware Multimodal Anomaly Detection for 5G and Open RAN Telemetry**|Chiman Salavati et.al|[paper](https://arxiv.org/abs/2610.25510)|-|<details><summary>detail</summary>the IEEE ICDM 2026 Applied Research Track</details>|
 |**2026-10-18**|**HCFM: Helmholtz Component Flow Matching for Time Series Anomaly Detection**|Shyam Sundar Saravanan et.al|[paper](https://arxiv.org/abs/2610.25059)|[code](https://github.com/TrustAIoT/HCFM__time-series-anomaly/)|<details><summary>detail</summary>To appear as a conference paper in ICDE 2027</details>|
-|**2026-10-17**|**IndusAgent: Agentic Reinforcement Learning for Cross-Category Industrial Anomaly Detection**|Rongbin Tan* et.al|[paper](https://arxiv.org/abs/2605.20682)|-|-|
 |**2026-10-16**|**Universal Semantic Enhancement for Weakly Supervised Anomaly Detection**|Siyu Zhou et.al|[paper](https://arxiv.org/abs/2610.23765)|[code](https://github.com/Simon-zsy/USE-AD)|<details><summary>detail</summary>https://github</details>|
 |**2026-10-16**|**What Remains Without Test Labels? Re-evaluating a Graph-Level Anomaly Detection Benchmark**|Yujie Lu et.al|[paper](https://arxiv.org/abs/2610.24045)|[code](https://github.com/Lu-Yujie/Label-Free-GLAD)|-|
 |**2026-10-16**|**Knowledge-Guided Distributional Prompt Learning with Visual Hierarchy for Zero-Shot Anomaly Detection**|Jiyul Ham et.al|[paper](https://arxiv.org/abs/2610.23172)|-|-|
@@ -96,8 +98,6 @@
 |**2026-10-12**|**OneShot: Label-Efficient Detector Weighting for Time Series Anomaly Detection**|Seunghan Lee et.al|[paper](https://arxiv.org/abs/2610.16219)|[code](https://github.com/seunghan96/one_shot.)|-|
 |**2026-10-11**|**Benchmarking Deep Learning Models for Anomaly Detection in Real-World Cloud Telemetry**|Sumit Dhyani et.al|[paper](https://arxiv.org/abs/2610.15818)|-|<details><summary>detail</summary>Published in 2026 11th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA)</details>|
 |**2026-10-11**|**A Novel GPT-Based Framework for Anomaly Detection in System Logs**|Zeng Zhang et.al|[paper](https://arxiv.org/abs/2510.16044)|-|-|
-|**2026-10-11**|**SphereVAD: Training-Free Video Anomaly Detection via Geodesic Inference on the Unit Hypersphere**|Chao Huang et.al|[paper](https://arxiv.org/abs/2605.08003)|-|-|
-|**2026-10-11**|**Frequency-Guided Diffusion Model with Perturbation Training for Skeleton-Based Video Anomaly Detection**|Xiaofeng Tan et.al|[paper](https://arxiv.org/abs/2412.03044)|[code](https://xiaofeng-tan.github.io/projects/FG-Diff.)|<details><summary>detail</summary>Journal ref:IEEE Transactions on Image Processing</details>|
 
 ## 3D Anomaly Detection
 
@@ -133,6 +133,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-19**|**BEACON: Bridging Multimodal Semantics and Asynchronous Propagation for Cloud System Anomaly Detection**|Zhe Li et.al|[paper](https://arxiv.org/abs/2610.27542)|-|<details><summary>detail</summary>Accepted by ICDE 2027</details>|
 |**2026-10-18**|**KPI-Aware Multimodal Anomaly Detection for 5G and Open RAN Telemetry**|Chiman Salavati et.al|[paper](https://arxiv.org/abs/2610.25510)|-|<details><summary>detail</summary>the IEEE ICDM 2026 Applied Research Track</details>|
 |**2026-10-10**|**Bidirectional Adaptive Transformers for Multimodal Anomaly Detection**|Yuxin Jiang et.al|[paper](https://arxiv.org/abs/2610.14598)|-|-|
 |**2026-10-6**|**GRC-Net: Global Representation Consistency Network for Unsupervised Multimodal Anomaly Detection**|Seyoung Jeong et.al|[paper](https://arxiv.org/abs/2610.09329)|-|-|
@@ -157,7 +158,6 @@
 |**2026-5-15**|**Parameter Efficient Multi-Class Intelligent Scheduling for Multimodal Online Distributed Industrial Anomaly Detection**|Heqiang Wang et.al|[paper](https://arxiv.org/abs/2605.23984)|-|-|
 |**2026-5-7**|**EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models**|Xiaomeng Peng et.al|[paper](https://arxiv.org/abs/2602.17419)|-|-|
 |**2026-4-24**|**Text-Guided Multimodal Unified Industrial Anomaly Detection**|Zewen Li et.al|[paper](https://arxiv.org/abs/2604.22899)|-|-|
-|**2026-4-23**|**Anomaly Detection in Smart Power Grids with Graph-Regularized MS-SVDD: a Multimodal Subspace Learning Approach**|Thomas Debelle et.al|[paper](https://arxiv.org/abs/2502.15793)|-|-|
 
 ## Vector Quantization
 
