@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.10.21
+## Updated on 2026.10.22
 
 ## Defect Detection
 
@@ -73,6 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-21**|**Towards Explainable Industrial Anomaly Detection via Knowledge-Guided Latent Reasoning**|Peng Chen et.al|[paper](https://arxiv.org/abs/2602.09850)|[code](https://github.com/chenpeng052/Reason-IAD.)|-|
+|**2026-10-21**|**MS2CAST: A Video Anomaly Detection Framework via Multi-Scale Spatial Cross-Attention and Efficient Spatiotemporal Networks**|Ali Safaei et.al|[paper](https://arxiv.org/abs/2610.29649)|-|-|
+|**2026-10-20**|**Structured Temporal Causality for Interpretable Multivariate Time Series Anomaly Detection**|Dongchan Cho et.al|[paper](https://arxiv.org/abs/2510.16511)|-|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
+|**2026-10-20**|**Distilling Multi-Teacher Scoring Principles for Unsupervised Time Series Anomaly Detection**|Dongchan Cho et.al|[paper](https://arxiv.org/abs/2610.29063)|-|<details><summary>detail</summary>Accepted by NeurIPS 2026</details>|
+|**2026-10-20**|**Adversarially Robust Few-Shot Anomaly Detection with Vision Foundation Models**|Akib Mohammed Khan et.al|[paper](https://arxiv.org/abs/2510.13643)|-|<details><summary>detail</summary>BMVC 2026</details>|
 |**2026-10-20**|**Agentic Ensemble with Vision-Language Models for Visual Anomaly Detection**|Shangquan Sun et.al|[paper](https://arxiv.org/abs/2610.28560)|-|-|
 |**2026-10-20**|**IndusAgent: Agentic Reinforcement Learning for Cross-Category Industrial Anomaly Detection**|Rongbin Tan et.al|[paper](https://arxiv.org/abs/2605.20682)|-|-|
 |**2026-10-19**|**BEACON: Bridging Multimodal Semantics and Asynchronous Propagation for Cloud System Anomaly Detection**|Zhe Li et.al|[paper](https://arxiv.org/abs/2610.27542)|-|<details><summary>detail</summary>Accepted by ICDE 2027</details>|
@@ -93,11 +98,6 @@
 |**2026-10-12**|**VETime: Vision Enhanced Zero-Shot Time Series Anomaly Detection**|Yingyuan Yang et.al|[paper](https://arxiv.org/abs/2602.16681)|[code](https://github.com/yyyangcoder/VETime)|-|
 |**2026-10-12**|**Signature-Kernel One-Class Learning with Manifold Regularisation for Multivariate Time Series Anomaly Detection**|Shervin Rahimzadeh Arashloo et.al|[paper](https://arxiv.org/abs/2507.23449)|-|-|
 |**2026-10-12**|**Explainable Visual Anomaly Detection via Concept Bottleneck Models**|Arianna Stropeni et.al|[paper](https://arxiv.org/abs/2511.20088)|-|-|
-|**2026-10-12**|**Auditing Observation-Quality Shortcuts in the Evaluation of Person-Centered Motion for Video Anomaly Detection**|Chaehyun Kim et.al|[paper](https://arxiv.org/abs/2610.16471)|-|-|
-|**2026-10-12**|**Moment-Based Anomaly Detection in High-Dimensional Mixed Data**|Davide Ferrari et.al|[paper](https://arxiv.org/abs/2610.16285)|-|-|
-|**2026-10-12**|**OneShot: Label-Efficient Detector Weighting for Time Series Anomaly Detection**|Seunghan Lee et.al|[paper](https://arxiv.org/abs/2610.16219)|[code](https://github.com/seunghan96/one_shot.)|-|
-|**2026-10-11**|**Benchmarking Deep Learning Models for Anomaly Detection in Real-World Cloud Telemetry**|Sumit Dhyani et.al|[paper](https://arxiv.org/abs/2610.15818)|-|<details><summary>detail</summary>Published in 2026 11th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA)</details>|
-|**2026-10-11**|**A Novel GPT-Based Framework for Anomaly Detection in System Logs**|Zeng Zhang et.al|[paper](https://arxiv.org/abs/2510.16044)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,8 +163,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-20**|**Vector-Quantized World Model: Latent Feedback Motion Planning for Robot Manipulation**|Xuezhou Xu et.al|[paper](https://arxiv.org/abs/2610.25600)|-|-|
 |**2026-10-19**|**VQActFlow: Vector-Quantized Action Mode Steering for Multi-Task Robot Manipulation**|Zhigen Zhao et.al|[paper](https://arxiv.org/abs/2606.21600)|[code](https://vqactflow.github.io/vqactflow/)|-|
-|**2026-10-18**|**Vector-Quantized World Model: Latent Feedback Motion Planning for Robot Manipulation**|Xuezhou Xu et.al|[paper](https://arxiv.org/abs/2610.25600)|-|-|
 |**2026-10-13**|**VQEL: Enabling Self-Play in Emergent Language Games via Agent-Internal Vector Quantization**|Mohammad Mahdi Samiei Paqaleh et.al|[paper](https://arxiv.org/abs/2503.04940)|-|<details><summary>detail</summary>Journal ref:Transactions on Machine Learning Research</details>|
 |**2026-10-13**|**SeRV: Semantic-Aligned Residual Vector Quantization for American Sign Language Generation**|Hongyu Wu et.al|[paper](https://arxiv.org/abs/2609.05742)|[code](https://signvideos.github.io/Demo/.)|-|
 |**2026-10-10**|**SAGE: Pushing 2-Bit Vector-Quantized LLMs toward Real-World Usability**|Xianglong Yan et.al|[paper](https://arxiv.org/abs/2610.14745)|[code](https://github.com/Zincwolf/sage.)|-|
