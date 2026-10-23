@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.10.22
+## Updated on 2026.10.23
 
 ## Defect Detection
 
@@ -73,6 +73,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-22**|**LACToS: Local Anomaly Detection via Conditional Typicality of Superpixels**|Jihoon Hong et.al|[paper](https://arxiv.org/abs/2610.31538)|[code](https://github.com/voilalab/LACToS.)|-|
+|**2026-10-22**|**MoG-VLM: Efficient Video Anomaly Detection through Motion-Guided Vision-Language Models**|Khaled Waleed Dawoud et.al|[paper](https://arxiv.org/abs/2610.31478)|[code](https://github.com/kdawoud91/MoG-VLM.)|<details><summary>detail</summary>BMVC 2026</details>|
+|**2026-10-22**|**HARMONY: Hierarchical Anchor Retrieval on Manifold for Oblivious-source Machinery Acoustic Anomaly Detection**|Yuhang Zhang et.al|[paper](https://arxiv.org/abs/2610.31093)|[code](https://github.com/Zzyh0208/HARMONY.)|-|
+|**2026-10-22**|**One Pretrained Decision Model Is Enough for Training-Free Generalist Graph Anomaly Detection**|Xinyu Zhao et.al|[paper](https://arxiv.org/abs/2610.30777)|-|-|
+|**2026-10-21**|**Future of Time Series Anomaly Detection: From Historical Review to Unified Outlook**|Zhijie Zhong et.al|[paper](https://arxiv.org/abs/2610.30628)|-|-|
+|**2026-10-21**|**Bridging the Closed-World Gap: Interpretable Anomaly Detection via a Hybrid TSK-FCM Ensemble on the BETH Dataset**|Lohith Srikanth Pentapalli et.al|[paper](https://arxiv.org/abs/2610.30576)|-|<details><summary>detail</summary>Presented at North American Fuzzy Information Processing Society (NAFIPS) 2026</details>|
 |**2026-10-21**|**Towards Explainable Industrial Anomaly Detection via Knowledge-Guided Latent Reasoning**|Peng Chen et.al|[paper](https://arxiv.org/abs/2602.09850)|[code](https://github.com/chenpeng052/Reason-IAD.)|-|
 |**2026-10-21**|**MS2CAST: A Video Anomaly Detection Framework via Multi-Scale Spatial Cross-Attention and Efficient Spatiotemporal Networks**|Ali Safaei et.al|[paper](https://arxiv.org/abs/2610.29649)|-|-|
 |**2026-10-20**|**Structured Temporal Causality for Interpretable Multivariate Time Series Anomaly Detection**|Dongchan Cho et.al|[paper](https://arxiv.org/abs/2510.16511)|-|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
@@ -92,12 +98,6 @@
 |**2026-10-16**|**Knowledge-Guided Distributional Prompt Learning with Visual Hierarchy for Zero-Shot Anomaly Detection**|Jiyul Ham et.al|[paper](https://arxiv.org/abs/2610.23172)|-|-|
 |**2026-10-16**|**RAD: A Realistic Multi-View Benchmark for Pose-Agnostic Anomaly Detection**|Xinhai Chang et.al|[paper](https://arxiv.org/abs/2410.00713)|[code](https://chang-xinhai.github.io/rad-website/.)|-|
 |**2026-10-15**|**Retrieval Over Training: Similarity search-based Model Selection for Time Series Anomaly Detection**|Christos Panourgias et.al|[paper](https://arxiv.org/abs/2610.20243)|-|-|
-|**2026-10-14**|**Causally-Constrained Probabilistic Forecasting for Time-Series Anomaly Detection**|Pooyan Khosravinia et.al|[paper](https://arxiv.org/abs/2604.17998)|-|<details><summary>detail</summary>This work is currently under review for possible publication in the IEEE Access journal</details>|
-|**2026-10-13**|**Physical Layer Anomaly Detection via Adaptive Gaussian Mixture Model**|Mamady Delamou et.al|[paper](https://arxiv.org/abs/2610.18946)|-|<details><summary>detail</summary>7 figures et 1 tableau</details>|
-|**2026-10-13**|**Robust Logical Anomaly Detection under Capture Shifts via Synthetic Anomalies**|Ufuk Efe et.al|[paper](https://arxiv.org/abs/2610.18295)|-|-|
-|**2026-10-12**|**VETime: Vision Enhanced Zero-Shot Time Series Anomaly Detection**|Yingyuan Yang et.al|[paper](https://arxiv.org/abs/2602.16681)|[code](https://github.com/yyyangcoder/VETime)|-|
-|**2026-10-12**|**Signature-Kernel One-Class Learning with Manifold Regularisation for Multivariate Time Series Anomaly Detection**|Shervin Rahimzadeh Arashloo et.al|[paper](https://arxiv.org/abs/2507.23449)|-|-|
-|**2026-10-12**|**Explainable Visual Anomaly Detection via Concept Bottleneck Models**|Arianna Stropeni et.al|[paper](https://arxiv.org/abs/2511.20088)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-22**|**SQuAT: Spherical Lattice Vector Quantization-Aware Training**|Sebastian Loeschcke et.al|[paper](https://arxiv.org/abs/2610.31412)|-|-|
+|**2026-10-22**|**Extreme Compression of Per-Layer Embeddings via Cross-Layer Latent Vector Quantization**|Jiacheng Liu et.al|[paper](https://arxiv.org/abs/2610.31309)|[code](https://github.com/VILA-Lab/optic)|<details><summary>detail</summary>Code at https://github</details>|
 |**2026-10-20**|**Vector-Quantized World Model: Latent Feedback Motion Planning for Robot Manipulation**|Xuezhou Xu et.al|[paper](https://arxiv.org/abs/2610.25600)|-|-|
 |**2026-10-19**|**VQActFlow: Vector-Quantized Action Mode Steering for Multi-Task Robot Manipulation**|Zhigen Zhao et.al|[paper](https://arxiv.org/abs/2606.21600)|[code](https://vqactflow.github.io/vqactflow/)|-|
 |**2026-10-13**|**VQEL: Enabling Self-Play in Emergent Language Games via Agent-Internal Vector Quantization**|Mohammad Mahdi Samiei Paqaleh et.al|[paper](https://arxiv.org/abs/2503.04940)|-|<details><summary>detail</summary>Journal ref:Transactions on Machine Learning Research</details>|
@@ -186,6 +188,4 @@
 |**2026-8-31**|**RSLM: Training-Free Vector Quantization for Approximate Nearest Neighbor Search**|Rastislav Lenhardt et.al|[paper](https://arxiv.org/abs/2608.30384)|-|<details><summary>detail</summary>14 Pages</details>|
 |**2026-8-24**|**ASH: Asymmetric Scalar Hashing With Learned Dimensionality Reduction for High-Fidelity Vector Quantization**|Mariano Tepper et.al|[paper](https://arxiv.org/abs/2606.07870)|-|<details><summary>detail</summary>CIKM 2026</details>|
 |**2026-8-11**|**Bandwidth-Efficient Multi-Agent Communication through Information Bottleneck and Vector Quantization**|Ahmad Farooq et.al|[paper](https://arxiv.org/abs/2602.02035)|-|<details><summary>detail</summary>IEEE ICRA 2026</details>|
-|**2026-8-11**|**GranQ: Efficient Channel-wise Quantization via Vectorized Pre-Scaling for Zero-Shot QAT**|Inpyo Hong et.al|[paper](https://arxiv.org/abs/2503.18339)|-|<details><summary>detail</summary>ACM SAC 2026</details>|
-|**2026-8-5**|**VQ-VAD: Vector-quantized Motion Representation Learning for Human-centric Video Anomaly Detection**|Narges Rashvand et.al|[paper](https://arxiv.org/abs/2608.05069)|[code](https://github.com/TeCSAR-UNCC/VQ-VAD.)|-|
 
