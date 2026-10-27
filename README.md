@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.10.26
+## Updated on 2026.10.27
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-25**|**Real-Time Conveyor Belt Defect Detection via Edge TPU-Accelerated YOLOv11 on Raspberry Pi 5**|Muhammad Nur Bijak Bestari et.al|[paper](https://arxiv.org/abs/2610.34304)|-|-|
 |**2026-10-13**|**Cross-Scenario Industrial Defect Detection via Domain-Robust Training and Metric-Aligned Selection**|Dikai Li et.al|[paper](https://arxiv.org/abs/2610.19540)|[code](https://github.com/GZHU-DVL/Dikai.)|<details><summary>detail</summary>This paper has been accepted for presentation in IEEE ICME 2026</details>|
 |**2026-10-6**|**Epistemic Uncertainty-Aware Defect Detection for Quality Control in Medical Device Manufacturing**|Raham A. Butt et.al|[paper](https://arxiv.org/abs/2610.09057)|-|-|
 |**2026-10-5**|**Feature identification for parameter extraction and defect detection using machine learning**|Yan Guo et.al|[paper](https://arxiv.org/abs/2610.05812)|-|-|
@@ -37,7 +38,6 @@
 |**2026-8-18**|**Continuity-Driven Representation Learning for Industrial Defect Detection**|Minjong Kim et.al|[paper](https://arxiv.org/abs/2608.17362)|-|<details><summary>detail</summary>the British Machine Vision Conference (BMVC) 2026</details>|
 |**2026-8-12**|**Low Cost Two-Stage Fabric Defect Detection at the Edge**|Rasel Hossen et.al|[paper](https://arxiv.org/abs/2608.14727)|-|-|
 |**2026-8-9**|**Keep the Needle, Prune the Haystack: Defect-Preserving Token Pruning for Efficient Zero-Shot Anomaly Detection**|Yanning Hou et.al|[paper](https://arxiv.org/abs/2608.03681)|-|-|
-|**2026-8-8**|**Machine-Learning-Based Diagnostic Framework for Passive Ultrasonic Detection of Railway Wheel Defects**|Aashish Shaju et.al|[paper](https://arxiv.org/abs/2608.08301)|-|<details><summary>detail</summary>Presented at the ASNT Research Symposium 2026</details>|
 
 ## Defect Segmentation
 
@@ -73,7 +73,18 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-26**|**CLOSURE: Cross-Channel Closure for Multivariate Time Series Anomaly Detection**|Fan Xu et.al|[paper](https://arxiv.org/abs/2610.35753)|-|-|
+|**2026-10-26**|**Detecting bus delays and service anomalies in Niterói with autoencoder latent feature representations**|Matheus Germano et.al|[paper](https://arxiv.org/abs/2610.35710)|-|-|
+|**2026-10-26**|**ExCal: Optimization-Free Multivariate Time Series Anomaly Detection via Excess Calibration**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2610.35568)|-|<details><summary>detail</summary>the 2026 IEEE International Conference on Big Data (IEEE BigData 2026)</details>|
+|**2026-10-26**|**AdaTrendLike: Adaptive Hierarchical Detrending and Trend Likelihood Scoring for Time Series Anomaly Detection**|Van Kwan Zhi Koh et.al|[paper](https://arxiv.org/abs/2610.35400)|-|<details><summary>detail</summary>Journal ref:IEEE Transactions on Industrial Informatics (2026)</details>|
+|**2026-10-26**|**LEAP: a Latent Embedding Anomaly Patch-Transformer for time-series anomaly detection**|Cristhian Moya-Mota et.al|[paper](https://arxiv.org/abs/2610.35190)|-|-|
+|**2026-10-26**|**MINT: Mitigating Structural Inconsistency via Attentive Message Passing for Financial Anomaly Detection**|Yin-Ju Wu et.al|[paper](https://arxiv.org/abs/2610.34950)|-|<details><summary>detail</summary>CIKM 2026 (Short Research Paper)</details>|
+|**2026-10-26**|**SGDB: Semantic-Geometric Decoupling and Evidence Binding for Logical Anomaly Detection**|Chenrui Ji et.al|[paper](https://arxiv.org/abs/2610.34897)|[code](https://github.com/Qybc/SGDB)|-|
+|**2026-10-25**|**Do Words Matter? What Text Contributes to Few and Full-Shot Vision-Language Anomaly Detection**|Arda Baris Basaran et.al|[paper](https://arxiv.org/abs/2610.34610)|-|-|
+|**2026-10-25**|**Towards Explainable Industrial Anomaly Detection via Knowledge-Guided Latent Reasoning**|Peng Chen et.al|[paper](https://arxiv.org/abs/2602.09850)|[code](https://github.com/chenpeng052/Reason-IAD.)|-|
+|**2026-10-25**|**BE-CTDE: Blockchain-Enabled Multi-Agent Reinforcement Learning with Anomaly Detection and Token Economics**|Chih-Wei Huang et.al|[paper](https://arxiv.org/abs/2610.34121)|-|-|
 |**2026-10-23**|**Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection**|Bernardo Perrone Ribeiro et.al|[paper](https://arxiv.org/abs/2610.32964)|[code](https://github.com/b-rbmp/Flownomaly.)|<details><summary>detail</summary>WACV 2027</details>|
+|**2026-10-23**|**Learning Pathology-Sensitive Representations for Unsupervised Retinal OCT Anomaly Detection**|Tania Haghighi et.al|[paper](https://arxiv.org/abs/2610.33143)|-|-|
 |**2026-10-23**|**Efficient Zero-Shot Video Anomaly Detection via Signal-Aware Adaptive Fusion (SAAF)**|Khaled Waleed Dawoud et.al|[paper](https://arxiv.org/abs/2610.32486)|[code](https://github.com/kdawoud91/SAAF)|<details><summary>detail</summary>WACV 2027</details>|
 |**2026-10-23**|**Data Quality Audit and Bivariate Temperature-Humidity Analysis of a Long-Term LoRaWAN Network: Anomaly Detection, PCA, Clustering and Machine Learning**|Mamadou Sow et.al|[paper](https://arxiv.org/abs/2610.32438)|-|-|
 |**2026-10-23**|**TENET: Time-point Encoding Network for Multivariate Time Series Anomaly Detection**|Dongchan Cho et.al|[paper](https://arxiv.org/abs/2610.32337)|-|<details><summary>detail</summary>Accepted by NeurIPS 2026</details>|
@@ -87,17 +98,6 @@
 |**2026-10-22**|**One Pretrained Decision Model Is Enough for Training-Free Generalist Graph Anomaly Detection**|Xinyu Zhao et.al|[paper](https://arxiv.org/abs/2610.30777)|-|-|
 |**2026-10-21**|**Future of Time Series Anomaly Detection: From Historical Review to Unified Outlook**|Zhijie Zhong et.al|[paper](https://arxiv.org/abs/2610.30628)|-|-|
 |**2026-10-21**|**Bridging the Closed-World Gap: Interpretable Anomaly Detection via a Hybrid TSK-FCM Ensemble on the BETH Dataset**|Lohith Srikanth Pentapalli et.al|[paper](https://arxiv.org/abs/2610.30576)|-|<details><summary>detail</summary>Presented at North American Fuzzy Information Processing Society (NAFIPS) 2026</details>|
-|**2026-10-21**|**Towards Explainable Industrial Anomaly Detection via Knowledge-Guided Latent Reasoning**|Peng Chen et.al|[paper](https://arxiv.org/abs/2602.09850)|[code](https://github.com/chenpeng052/Reason-IAD.)|-|
-|**2026-10-21**|**MS2CAST: A Video Anomaly Detection Framework via Multi-Scale Spatial Cross-Attention and Efficient Spatiotemporal Networks**|Ali Safaei et.al|[paper](https://arxiv.org/abs/2610.29649)|-|-|
-|**2026-10-20**|**Structured Temporal Causality for Interpretable Multivariate Time Series Anomaly Detection**|Dongchan Cho et.al|[paper](https://arxiv.org/abs/2510.16511)|-|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
-|**2026-10-20**|**Distilling Multi-Teacher Scoring Principles for Unsupervised Time Series Anomaly Detection**|Dongchan Cho et.al|[paper](https://arxiv.org/abs/2610.29063)|-|<details><summary>detail</summary>Accepted by NeurIPS 2026</details>|
-|**2026-10-20**|**Adversarially Robust Few-Shot Anomaly Detection with Vision Foundation Models**|Akib Mohammed Khan et.al|[paper](https://arxiv.org/abs/2510.13643)|-|<details><summary>detail</summary>BMVC 2026</details>|
-|**2026-10-20**|**Agentic Ensemble with Vision-Language Models for Visual Anomaly Detection**|Shangquan Sun et.al|[paper](https://arxiv.org/abs/2610.28560)|-|-|
-|**2026-10-20**|**IndusAgent: Agentic Reinforcement Learning for Cross-Category Industrial Anomaly Detection**|Rongbin Tan et.al|[paper](https://arxiv.org/abs/2605.20682)|-|-|
-|**2026-10-19**|**BEACON: Bridging Multimodal Semantics and Asynchronous Propagation for Cloud System Anomaly Detection**|Zhe Li et.al|[paper](https://arxiv.org/abs/2610.27542)|-|<details><summary>detail</summary>Accepted by ICDE 2027</details>|
-|**2026-10-19**|**YUTELA: A Scalable Edge Cloud AIoT System for Multi-Site Video Anomaly Detection with Scene Specific Adaptation**|Shanle Yao et.al|[paper](https://arxiv.org/abs/2610.26468)|-|-|
-|**2026-10-19**|**MADGRAV: a multilevel anomaly-detection pipeline for gravitational-wave searches applied to LIGO data**|Gianluca Inguglia et.al|[paper](https://arxiv.org/abs/2609.39583)|-|-|
-|**2026-10-19**|**Extending Reconstruction: Reconstruction-to-Vector Diffusion for Hyperspectral Anomaly Detection**|Jijun Xiang et.al|[paper](https://arxiv.org/abs/2604.11390)|[code](https://github.com/Bondojijun/R2VD.)|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-26**|**Divide et Calibra: Multiclass Local Calibration via Vector Quantization**|Cesare Barbera et.al|[paper](https://arxiv.org/abs/2605.21060)|-|<details><summary>detail</summary>the Fortieth Annual Conference on Neural Information Processing System (NeurIPS 2026)</details>|
+|**2026-10-26**|**Transporting Quantiles to Codebook: Scalable Vector Quantization without Codebook Collapse**|Yuwei Zeng et.al|[paper](https://arxiv.org/abs/2610.34828)|-|-|
 |**2026-10-22**|**SQuAT: Spherical Lattice Vector Quantization-Aware Training**|Sebastian Loeschcke et.al|[paper](https://arxiv.org/abs/2610.31412)|-|-|
 |**2026-10-22**|**Extreme Compression of Per-Layer Embeddings via Cross-Layer Latent Vector Quantization**|Jiacheng Liu et.al|[paper](https://arxiv.org/abs/2610.31309)|[code](https://github.com/VILA-Lab/optic)|<details><summary>detail</summary>Code at https://github</details>|
 |**2026-10-20**|**Vector-Quantized World Model: Latent Feedback Motion Planning for Robot Manipulation**|Xuezhou Xu et.al|[paper](https://arxiv.org/abs/2610.25600)|-|-|
@@ -186,6 +188,4 @@
 |**2026-9-3**|**PACodec: A Low-bitrate Neural Speech Codec with Parallel Additive Vector Quantization**|Fei Liu et.al|[paper](https://arxiv.org/abs/2609.03363)|-|<details><summary>detail</summary>Accepted by APSIPA 2026</details>|
 |**2026-9-2**|**A Unified Rate-Distortion Perspective on Vector, Product, and Scalar Quantization**|Xianghong Fang et.al|[paper](https://arxiv.org/abs/2609.02107)|-|-|
 |**2026-8-31**|**RSLM: Training-Free Vector Quantization for Approximate Nearest Neighbor Search**|Rastislav Lenhardt et.al|[paper](https://arxiv.org/abs/2608.30384)|-|<details><summary>detail</summary>14 Pages</details>|
-|**2026-8-24**|**ASH: Asymmetric Scalar Hashing With Learned Dimensionality Reduction for High-Fidelity Vector Quantization**|Mariano Tepper et.al|[paper](https://arxiv.org/abs/2606.07870)|-|<details><summary>detail</summary>CIKM 2026</details>|
-|**2026-8-11**|**Bandwidth-Efficient Multi-Agent Communication through Information Bottleneck and Vector Quantization**|Ahmad Farooq et.al|[paper](https://arxiv.org/abs/2602.02035)|-|<details><summary>detail</summary>IEEE ICRA 2026</details>|
 
