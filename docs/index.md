@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.10.27
+## Updated on 2026.10.28
 
 ## Defect Detection
 
@@ -73,6 +73,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-27**|**What Remains Without Leaking Test Labels? Exposing Evaluation Flaws in Graph-Level Anomaly Detection**|Yujie Lu et.al|[paper](https://arxiv.org/abs/2610.24045)|-|<details><summary>detail</summary>v2: Retitled</details>|
+|**2026-10-27**|**AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection**|Hezhe Qiao et.al|[paper](https://arxiv.org/abs/2502.09254)|-|<details><summary>detail</summary>Accepted by KDD2025</details>|
+|**2026-10-27**|**Generative Semi-supervised Graph Anomaly Detection**|Hezhe Qiao et.al|[paper](https://arxiv.org/abs/2402.11887)|[code](https://github.com/mala-lab/GGAD.)|<details><summary>detail</summary>Accepted by NeurIPS 2024</details>|
+|**2026-10-26**|**Anomaly Detection via Autoencoder Composite Features and NCE**|Yalin Liao et.al|[paper](https://arxiv.org/abs/2502.01920)|-|-|
 |**2026-10-26**|**CLOSURE: Cross-Channel Closure for Multivariate Time Series Anomaly Detection**|Fan Xu et.al|[paper](https://arxiv.org/abs/2610.35753)|-|-|
 |**2026-10-26**|**Detecting bus delays and service anomalies in Niterói with autoencoder latent feature representations**|Matheus Germano et.al|[paper](https://arxiv.org/abs/2610.35710)|-|-|
 |**2026-10-26**|**ExCal: Optimization-Free Multivariate Time Series Anomaly Detection via Excess Calibration**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2610.35568)|-|<details><summary>detail</summary>the 2026 IEEE International Conference on Big Data (IEEE BigData 2026)</details>|
@@ -94,10 +98,6 @@
 |**2026-10-22**|**LACToS: Local Anomaly Detection via Conditional Typicality of Superpixels**|Jihoon Hong et.al|[paper](https://arxiv.org/abs/2610.31538)|[code](https://github.com/voilalab/LACToS.)|-|
 |**2026-10-22**|**MoG-VLM: Efficient Video Anomaly Detection through Motion-Guided Vision-Language Models**|Khaled Waleed Dawoud et.al|[paper](https://arxiv.org/abs/2610.31478)|[code](https://github.com/kdawoud91/MoG-VLM.)|<details><summary>detail</summary>BMVC 2026</details>|
 |**2026-10-22**|**HARMONY: Hierarchical Anchor Retrieval on Manifold for Oblivious-source Machinery Acoustic Anomaly Detection**|Yuhang Zhang et.al|[paper](https://arxiv.org/abs/2610.31093)|[code](https://github.com/Zzyh0208/HARMONY.)|-|
-|**2026-10-22**|**Autoregressive Multimodal Anomaly Detection with Large Language Models for Microservice Systems**|Yixiang Tang et.al|[paper](https://arxiv.org/abs/2610.31722)|-|-|
-|**2026-10-22**|**One Pretrained Decision Model Is Enough for Training-Free Generalist Graph Anomaly Detection**|Xinyu Zhao et.al|[paper](https://arxiv.org/abs/2610.30777)|-|-|
-|**2026-10-21**|**Future of Time Series Anomaly Detection: From Historical Review to Unified Outlook**|Zhijie Zhong et.al|[paper](https://arxiv.org/abs/2610.30628)|-|-|
-|**2026-10-21**|**Bridging the Closed-World Gap: Interpretable Anomaly Detection via a Hybrid TSK-FCM Ensemble on the BETH Dataset**|Lohith Srikanth Pentapalli et.al|[paper](https://arxiv.org/abs/2610.30576)|-|<details><summary>detail</summary>Presented at North American Fuzzy Information Processing Society (NAFIPS) 2026</details>|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-27**|**CoS-VQ: Coordinated Shared-Scale Vector Quantization for Large Language Models**|Zukang Xu et.al|[paper](https://arxiv.org/abs/2610.37336)|[code](https://github.com/xzktx003/Cos_VQ.)|-|
 |**2026-10-26**|**Divide et Calibra: Multiclass Local Calibration via Vector Quantization**|Cesare Barbera et.al|[paper](https://arxiv.org/abs/2605.21060)|-|<details><summary>detail</summary>the Fortieth Annual Conference on Neural Information Processing System (NeurIPS 2026)</details>|
 |**2026-10-26**|**Transporting Quantiles to Codebook: Scalable Vector Quantization without Codebook Collapse**|Yuwei Zeng et.al|[paper](https://arxiv.org/abs/2610.34828)|-|-|
 |**2026-10-22**|**SQuAT: Spherical Lattice Vector Quantization-Aware Training**|Sebastian Loeschcke et.al|[paper](https://arxiv.org/abs/2610.31412)|-|-|
@@ -187,5 +188,4 @@
 |**2026-9-9**|**When Does Low-Bit Quantization Preserve the Decisions of Vector Search?**|Wenxuan Xiao et.al|[paper](https://arxiv.org/abs/2609.09854)|-|<details><summary>detail</summary>JMLR-style preprint with theoretical and experimental appendices</details>|
 |**2026-9-3**|**PACodec: A Low-bitrate Neural Speech Codec with Parallel Additive Vector Quantization**|Fei Liu et.al|[paper](https://arxiv.org/abs/2609.03363)|-|<details><summary>detail</summary>Accepted by APSIPA 2026</details>|
 |**2026-9-2**|**A Unified Rate-Distortion Perspective on Vector, Product, and Scalar Quantization**|Xianghong Fang et.al|[paper](https://arxiv.org/abs/2609.02107)|-|-|
-|**2026-8-31**|**RSLM: Training-Free Vector Quantization for Approximate Nearest Neighbor Search**|Rastislav Lenhardt et.al|[paper](https://arxiv.org/abs/2608.30384)|-|<details><summary>detail</summary>14 Pages</details>|
 
