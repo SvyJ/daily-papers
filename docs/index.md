@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.10.29
+## Updated on 2026.10.30
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-27**|**Prototype-Guided Dynamic Domain Modulation and a Large-Scale Multi-SKU Benchmark for Shampoo Bottle Surface Defect Detection**|Yuehang Li et.al|[paper](https://arxiv.org/abs/2610.38194)|-|-|
 |**2026-10-25**|**Real-Time Conveyor Belt Defect Detection via Edge TPU-Accelerated YOLOv11 on Raspberry Pi 5**|Muhammad Nur Bijak Bestari et.al|[paper](https://arxiv.org/abs/2610.34304)|-|-|
 |**2026-10-13**|**Cross-Scenario Industrial Defect Detection via Domain-Robust Training and Metric-Aligned Selection**|Dikai Li et.al|[paper](https://arxiv.org/abs/2610.19540)|[code](https://github.com/GZHU-DVL/Dikai.)|<details><summary>detail</summary>This paper has been accepted for presentation in IEEE ICME 2026</details>|
 |**2026-10-6**|**Epistemic Uncertainty-Aware Defect Detection for Quality Control in Medical Device Manufacturing**|Raham A. Butt et.al|[paper](https://arxiv.org/abs/2610.09057)|-|-|
@@ -37,7 +38,6 @@
 |**2026-8-20**|**AGIDefect-4K: A Richly Annotated Dataset for AI-Generated Image Defect Detection, Localization and Explanation**|Xiangfei Sheng et.al|[paper](https://arxiv.org/abs/2608.20713)|[code](https://github.com/sxfly99/AGIDefect-4K.)|-|
 |**2026-8-18**|**Continuity-Driven Representation Learning for Industrial Defect Detection**|Minjong Kim et.al|[paper](https://arxiv.org/abs/2608.17362)|-|<details><summary>detail</summary>the British Machine Vision Conference (BMVC) 2026</details>|
 |**2026-8-12**|**Low Cost Two-Stage Fabric Defect Detection at the Edge**|Rasel Hossen et.al|[paper](https://arxiv.org/abs/2608.14727)|-|-|
-|**2026-8-9**|**Keep the Needle, Prune the Haystack: Defect-Preserving Token Pruning for Efficient Zero-Shot Anomaly Detection**|Yanning Hou et.al|[paper](https://arxiv.org/abs/2608.03681)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-29**|**RADIOlogy: A Single-Pass Approach to Training-Free Zero-Shot Anomaly Detection**|Joaquín Figueira et.al|[paper](https://arxiv.org/abs/2610.40580)|[code](https://github.com/jacomof/RADIOlogy.)|<details><summary>detail</summary>WACV 2027</details>|
+|**2026-10-29**|**Cross-Encoder Anchor Refinement for Zero-Shot Anomaly Detection**|Kaisong Ji et.al|[paper](https://arxiv.org/abs/2610.39727)|-|-|
+|**2026-10-29**|**PairWatch: Pair-Aware Anomaly Transformer for Detecting Adversarial Rendezvous in Public Satellite Catalogs**|Young Eun Kwon et.al|[paper](https://arxiv.org/abs/2610.39679)|[code](https://github.com/e9uation/PairWatch)|-|
+|**2026-10-29**|**Why Does Counterintuitive Likelihood Behavior Rarely Emerge in Tabular Anomaly Detection?**|Donghwan Kim et.al|[paper](https://arxiv.org/abs/2602.09593)|-|-|
+|**2026-10-28**|**VETime: Vision Enhanced Zero-Shot Time Series Anomaly Detection**|Yingyuan Yang et.al|[paper](https://arxiv.org/abs/2602.16681)|[code](https://github.com/yyyangcoder/VETime)|-|
 |**2026-10-27**|**What Remains Without Leaking Test Labels? Exposing Evaluation Flaws in Graph-Level Anomaly Detection**|Yujie Lu et.al|[paper](https://arxiv.org/abs/2610.24045)|-|<details><summary>detail</summary>v2: Retitled</details>|
 |**2026-10-27**|**AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection**|Hezhe Qiao et.al|[paper](https://arxiv.org/abs/2502.09254)|-|<details><summary>detail</summary>Accepted by KDD2025</details>|
 |**2026-10-27**|**Generative Semi-supervised Graph Anomaly Detection**|Hezhe Qiao et.al|[paper](https://arxiv.org/abs/2402.11887)|[code](https://github.com/mala-lab/GGAD.)|<details><summary>detail</summary>Accepted by NeurIPS 2024</details>|
@@ -92,12 +97,7 @@
 |**2026-10-23**|**Efficient Zero-Shot Video Anomaly Detection via Signal-Aware Adaptive Fusion (SAAF)**|Khaled Waleed Dawoud et.al|[paper](https://arxiv.org/abs/2610.32486)|[code](https://github.com/kdawoud91/SAAF)|<details><summary>detail</summary>WACV 2027</details>|
 |**2026-10-23**|**Data Quality Audit and Bivariate Temperature-Humidity Analysis of a Long-Term LoRaWAN Network: Anomaly Detection, PCA, Clustering and Machine Learning**|Mamadou Sow et.al|[paper](https://arxiv.org/abs/2610.32438)|-|-|
 |**2026-10-23**|**TENET: Time-point Encoding Network for Multivariate Time Series Anomaly Detection**|Dongchan Cho et.al|[paper](https://arxiv.org/abs/2610.32337)|-|<details><summary>detail</summary>Accepted by NeurIPS 2026</details>|
-|**2026-10-23**|**Why Does Counterintuitive Likelihood Behavior Rarely Emerge in Tabular Anomaly Detection?**|Donghwan Kim et.al|[paper](https://arxiv.org/abs/2602.09593)|-|-|
 |**2026-10-23**|**Towards Generalizable 3D Anomaly Detection via Relational Inconsistency Modeling**|KunHo Heo et.al|[paper](https://arxiv.org/abs/2609.35059)|[code](https://visualsciencelab-khu.github.io/GRIM_project/.)|<details><summary>detail</summary>Accepted by NeurIPS 2026</details>|
-|**2026-10-22**|**WADE: An LSTM-Based Anomaly Detection Engine for WebAssembly Applications**|Ilaria Campestrini et.al|[paper](https://arxiv.org/abs/2610.31984)|-|-|
-|**2026-10-22**|**LACToS: Local Anomaly Detection via Conditional Typicality of Superpixels**|Jihoon Hong et.al|[paper](https://arxiv.org/abs/2610.31538)|[code](https://github.com/voilalab/LACToS.)|-|
-|**2026-10-22**|**MoG-VLM: Efficient Video Anomaly Detection through Motion-Guided Vision-Language Models**|Khaled Waleed Dawoud et.al|[paper](https://arxiv.org/abs/2610.31478)|[code](https://github.com/kdawoud91/MoG-VLM.)|<details><summary>detail</summary>BMVC 2026</details>|
-|**2026-10-22**|**HARMONY: Hierarchical Anchor Retrieval on Manifold for Oblivious-source Machinery Acoustic Anomaly Detection**|Yuhang Zhang et.al|[paper](https://arxiv.org/abs/2610.31093)|[code](https://github.com/Zzyh0208/HARMONY.)|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-29**|**One Vector or Many? Clustered Optimal-Transport Steering under Quantization**|Illia Makarov et.al|[paper](https://arxiv.org/abs/2610.40055)|-|-|
+|**2026-10-28**|**REVBRAIN: Real-time Probabilistic EEG Forecasting Using Residual Vector Quantization**|Hanna Pankka et.al|[paper](https://arxiv.org/abs/2610.38558)|-|-|
 |**2026-10-27**|**CoS-VQ: Coordinated Shared-Scale Vector Quantization for Large Language Models**|Zukang Xu et.al|[paper](https://arxiv.org/abs/2610.37336)|[code](https://github.com/xzktx003/Cos_VQ.)|-|
 |**2026-10-26**|**Divide et Calibra: Multiclass Local Calibration via Vector Quantization**|Cesare Barbera et.al|[paper](https://arxiv.org/abs/2605.21060)|-|<details><summary>detail</summary>the Fortieth Annual Conference on Neural Information Processing System (NeurIPS 2026)</details>|
 |**2026-10-26**|**Transporting Quantiles to Codebook: Scalable Vector Quantization without Codebook Collapse**|Yuwei Zeng et.al|[paper](https://arxiv.org/abs/2610.34828)|-|-|
@@ -186,6 +188,4 @@
 |**2026-9-15**|**Prior-Aided Masked Vector Quantization CSI Feedback for FDD Massive MIMO Systems**|Yi Song et.al|[paper](https://arxiv.org/abs/2609.17769)|-|-|
 |**2026-9-10**|**LC-QAT: Data-Efficient 2-Bit QAT for LLMs via Linear-Constrained Vector Quantization**|Haoyu Wang et.al|[paper](https://arxiv.org/abs/2606.10531)|[code](https://github.com/AI9Stars/UniSVQ.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
 |**2026-9-9**|**When Does Low-Bit Quantization Preserve the Decisions of Vector Search?**|Wenxuan Xiao et.al|[paper](https://arxiv.org/abs/2609.09854)|-|<details><summary>detail</summary>JMLR-style preprint with theoretical and experimental appendices</details>|
-|**2026-9-3**|**PACodec: A Low-bitrate Neural Speech Codec with Parallel Additive Vector Quantization**|Fei Liu et.al|[paper](https://arxiv.org/abs/2609.03363)|-|<details><summary>detail</summary>Accepted by APSIPA 2026</details>|
-|**2026-9-2**|**A Unified Rate-Distortion Perspective on Vector, Product, and Scalar Quantization**|Xianghong Fang et.al|[paper](https://arxiv.org/abs/2609.02107)|-|-|
 
