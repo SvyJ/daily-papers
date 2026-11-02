@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-29**|**Beyond CLIP: Calibrated (Few-Shot) Defect Detection With System One Decision Models**|Fadel M. Megahed et.al|[paper](https://arxiv.org/abs/2610.41199)|-|-|
 |**2026-10-27**|**Prototype-Guided Dynamic Domain Modulation and a Large-Scale Multi-SKU Benchmark for Shampoo Bottle Surface Defect Detection**|Yuehang Li et.al|[paper](https://arxiv.org/abs/2610.38194)|-|-|
 |**2026-10-25**|**Real-Time Conveyor Belt Defect Detection via Edge TPU-Accelerated YOLOv11 on Raspberry Pi 5**|Muhammad Nur Bijak Bestari et.al|[paper](https://arxiv.org/abs/2610.34304)|-|-|
 |**2026-10-13**|**Cross-Scenario Industrial Defect Detection via Domain-Robust Training and Metric-Aligned Selection**|Dikai Li et.al|[paper](https://arxiv.org/abs/2610.19540)|[code](https://github.com/GZHU-DVL/Dikai.)|<details><summary>detail</summary>This paper has been accepted for presentation in IEEE ICME 2026</details>|
@@ -37,7 +38,6 @@
 |**2026-8-25**|**When More References Hurt: Contamination-Aware DINOv2 Memory Banks for Few-Shot Steel Defect Detection**|Hannaneh Kalantary et.al|[paper](https://arxiv.org/abs/2608.22082)|-|-|
 |**2026-8-20**|**AGIDefect-4K: A Richly Annotated Dataset for AI-Generated Image Defect Detection, Localization and Explanation**|Xiangfei Sheng et.al|[paper](https://arxiv.org/abs/2608.20713)|[code](https://github.com/sxfly99/AGIDefect-4K.)|-|
 |**2026-8-18**|**Continuity-Driven Representation Learning for Industrial Defect Detection**|Minjong Kim et.al|[paper](https://arxiv.org/abs/2608.17362)|-|<details><summary>detail</summary>the British Machine Vision Conference (BMVC) 2026</details>|
-|**2026-8-12**|**Low Cost Two-Stage Fabric Defect Detection at the Edge**|Rasel Hossen et.al|[paper](https://arxiv.org/abs/2608.14727)|-|-|
 
 ## Defect Segmentation
 
@@ -73,7 +73,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-30**|**VariaFlow: Uncertainty-Aware Flow Matching for Unsupervised Anomaly Detection**|Arnela Hadzic et.al|[paper](https://arxiv.org/abs/2610.41494)|-|<details><summary>detail</summary>Accepted for WACV 2027</details>|
+|**2026-10-30**|**A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection**|Hugues Leger et.al|[paper](https://arxiv.org/abs/2610.41424)|-|-|
+|**2026-10-29**|**Predictive Maintenance at the Edge: An Embedded Anomaly Detection Pipeline Trained with Quantum Optimization**|Filipe Chagas Ferraz et.al|[paper](https://arxiv.org/abs/2610.40848)|-|-|
 |**2026-10-29**|**RADIOlogy: A Single-Pass Approach to Training-Free Zero-Shot Anomaly Detection**|Joaquín Figueira et.al|[paper](https://arxiv.org/abs/2610.40580)|[code](https://github.com/jacomof/RADIOlogy.)|<details><summary>detail</summary>WACV 2027</details>|
+|**2026-10-29**|**Don't Just Impute, Detect: Task-Aware Diffusion Pipelines for Edge Anomaly Detection**|Jeongsu Park et.al|[paper](https://arxiv.org/abs/2610.40732)|[code](https://github.com/int-park422/TADR.)|-|
 |**2026-10-29**|**Cross-Encoder Anchor Refinement for Zero-Shot Anomaly Detection**|Kaisong Ji et.al|[paper](https://arxiv.org/abs/2610.39727)|-|-|
 |**2026-10-29**|**PairWatch: Pair-Aware Anomaly Transformer for Detecting Adversarial Rendezvous in Public Satellite Catalogs**|Young Eun Kwon et.al|[paper](https://arxiv.org/abs/2610.39679)|[code](https://github.com/e9uation/PairWatch)|-|
 |**2026-10-29**|**Why Does Counterintuitive Likelihood Behavior Rarely Emerge in Tabular Anomaly Detection?**|Donghwan Kim et.al|[paper](https://arxiv.org/abs/2602.09593)|-|-|
@@ -94,10 +98,6 @@
 |**2026-10-25**|**BE-CTDE: Blockchain-Enabled Multi-Agent Reinforcement Learning with Anomaly Detection and Token Economics**|Chih-Wei Huang et.al|[paper](https://arxiv.org/abs/2610.34121)|-|-|
 |**2026-10-23**|**Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection**|Bernardo Perrone Ribeiro et.al|[paper](https://arxiv.org/abs/2610.32964)|[code](https://github.com/b-rbmp/Flownomaly.)|<details><summary>detail</summary>WACV 2027</details>|
 |**2026-10-23**|**Learning Pathology-Sensitive Representations for Unsupervised Retinal OCT Anomaly Detection**|Tania Haghighi et.al|[paper](https://arxiv.org/abs/2610.33143)|-|-|
-|**2026-10-23**|**Efficient Zero-Shot Video Anomaly Detection via Signal-Aware Adaptive Fusion (SAAF)**|Khaled Waleed Dawoud et.al|[paper](https://arxiv.org/abs/2610.32486)|[code](https://github.com/kdawoud91/SAAF)|<details><summary>detail</summary>WACV 2027</details>|
-|**2026-10-23**|**Data Quality Audit and Bivariate Temperature-Humidity Analysis of a Long-Term LoRaWAN Network: Anomaly Detection, PCA, Clustering and Machine Learning**|Mamadou Sow et.al|[paper](https://arxiv.org/abs/2610.32438)|-|-|
-|**2026-10-23**|**TENET: Time-point Encoding Network for Multivariate Time Series Anomaly Detection**|Dongchan Cho et.al|[paper](https://arxiv.org/abs/2610.32337)|-|<details><summary>detail</summary>Accepted by NeurIPS 2026</details>|
-|**2026-10-23**|**Towards Generalizable 3D Anomaly Detection via Relational Inconsistency Modeling**|KunHo Heo et.al|[paper](https://arxiv.org/abs/2609.35059)|[code](https://visualsciencelab-khu.github.io/GRIM_project/.)|<details><summary>detail</summary>Accepted by NeurIPS 2026</details>|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-30**|**Trainable Vector Quantization for Large Language Models**|Anastasiia Prutianova et.al|[paper](https://arxiv.org/abs/2610.41822)|-|<details><summary>detail</summary>ECML PKDD 2026</details>|
 |**2026-10-29**|**One Vector or Many? Clustered Optimal-Transport Steering under Quantization**|Illia Makarov et.al|[paper](https://arxiv.org/abs/2610.40055)|-|-|
 |**2026-10-28**|**REVBRAIN: Real-time Probabilistic EEG Forecasting Using Residual Vector Quantization**|Hanna Pankka et.al|[paper](https://arxiv.org/abs/2610.38558)|-|-|
 |**2026-10-27**|**CoS-VQ: Coordinated Shared-Scale Vector Quantization for Large Language Models**|Zukang Xu et.al|[paper](https://arxiv.org/abs/2610.37336)|[code](https://github.com/xzktx003/Cos_VQ.)|-|
@@ -187,5 +188,4 @@
 |**2026-9-17**|**VQ-Logits: Compressing the Output Bottleneck of Large Language Models via Vector Quantized Logits**|Jintian Shao et.al|[paper](https://arxiv.org/abs/2505.10202)|-|<details><summary>detail</summary>Lack of sufficient experiments and detailed format alignment</details>|
 |**2026-9-15**|**Prior-Aided Masked Vector Quantization CSI Feedback for FDD Massive MIMO Systems**|Yi Song et.al|[paper](https://arxiv.org/abs/2609.17769)|-|-|
 |**2026-9-10**|**LC-QAT: Data-Efficient 2-Bit QAT for LLMs via Linear-Constrained Vector Quantization**|Haoyu Wang et.al|[paper](https://arxiv.org/abs/2606.10531)|[code](https://github.com/AI9Stars/UniSVQ.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
-|**2026-9-9**|**When Does Low-Bit Quantization Preserve the Decisions of Vector Search?**|Wenxuan Xiao et.al|[paper](https://arxiv.org/abs/2609.09854)|-|<details><summary>detail</summary>JMLR-style preprint with theoretical and experimental appendices</details>|
 
