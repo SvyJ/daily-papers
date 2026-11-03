@@ -7,14 +7,15 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.11.02
+## Updated on 2026.11.03
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-31**|**Prototype-Guided Dynamic Domain Modulation and a Large-Scale Multi-SKU Benchmark for Shampoo Bottle Surface Defect Detection**|Yuehang Li et.al|[paper](https://arxiv.org/abs/2610.38194)|[code](https://github.com/Event-AHU/Industrial_Anomaly_Detection)|-|
+|**2026-10-30**|**A Self-Evolving Defect Detection Framework for Industrial Photovoltaic Systems**|Haoyu He et.al|[paper](https://arxiv.org/abs/2603.14869)|-|-|
 |**2026-10-29**|**Beyond CLIP: Calibrated (Few-Shot) Defect Detection With System One Decision Models**|Fadel M. Megahed et.al|[paper](https://arxiv.org/abs/2610.41199)|-|-|
-|**2026-10-27**|**Prototype-Guided Dynamic Domain Modulation and a Large-Scale Multi-SKU Benchmark for Shampoo Bottle Surface Defect Detection**|Yuehang Li et.al|[paper](https://arxiv.org/abs/2610.38194)|-|-|
 |**2026-10-25**|**Real-Time Conveyor Belt Defect Detection via Edge TPU-Accelerated YOLOv11 on Raspberry Pi 5**|Muhammad Nur Bijak Bestari et.al|[paper](https://arxiv.org/abs/2610.34304)|-|-|
 |**2026-10-13**|**Cross-Scenario Industrial Defect Detection via Domain-Robust Training and Metric-Aligned Selection**|Dikai Li et.al|[paper](https://arxiv.org/abs/2610.19540)|[code](https://github.com/GZHU-DVL/Dikai.)|<details><summary>detail</summary>This paper has been accepted for presentation in IEEE ICME 2026</details>|
 |**2026-10-6**|**Epistemic Uncertainty-Aware Defect Detection for Quality Control in Medical Device Manufacturing**|Raham A. Butt et.al|[paper](https://arxiv.org/abs/2610.09057)|-|-|
@@ -37,7 +38,6 @@
 |**2026-8-25**|**Lowering the Barrier to AI-Driven Inspection: A No-Code Workflow for Automated Structural Defect Detection**|Michael Holm et.al|[paper](https://arxiv.org/abs/2608.25176)|[code](https://github.com/michaelholm6/YOLOEZ)|-|
 |**2026-8-25**|**When More References Hurt: Contamination-Aware DINOv2 Memory Banks for Few-Shot Steel Defect Detection**|Hannaneh Kalantary et.al|[paper](https://arxiv.org/abs/2608.22082)|-|-|
 |**2026-8-20**|**AGIDefect-4K: A Richly Annotated Dataset for AI-Generated Image Defect Detection, Localization and Explanation**|Xiangfei Sheng et.al|[paper](https://arxiv.org/abs/2608.20713)|[code](https://github.com/sxfly99/AGIDefect-4K.)|-|
-|**2026-8-18**|**Continuity-Driven Representation Learning for Industrial Defect Detection**|Minjong Kim et.al|[paper](https://arxiv.org/abs/2608.17362)|-|<details><summary>detail</summary>the British Machine Vision Conference (BMVC) 2026</details>|
 
 ## Defect Segmentation
 
@@ -73,6 +73,15 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-11-2**|**A Hybrid Visitor Prediction Framework using Interpretable Temporal features, Integrating IQR and Anomaly Detection in Lakes in Nebraska**|Israt Zarin et.al|[paper](https://arxiv.org/abs/2611.03486)|-|-|
+|**2026-11-2**|**Deep learning-based self-supervised detection and localization of magnetic resonance imaging anomalies in artificial intelligence-supported radiotherapy workflows**|Mustafa Kadhim et.al|[paper](https://arxiv.org/abs/2605.24609)|-|<details><summary>detail</summary>This paper has been published in Physics and Imaging in Radiation Oncology (phiRO)</details>|
+|**2026-11-2**|**MOPDA: Mixed-Trajectory On-Policy Distillation for Language-Guided Industrial Anomaly Detection**|Shuimu Chen et.al|[paper](https://arxiv.org/abs/2607.18850)|-|-|
+|**2026-11-2**|**VerdictAD: Few-Shot Anomaly Detection via Decision-Guided Refinement**|Shangquan Sun et.al|[paper](https://arxiv.org/abs/2611.02654)|[code](https://github.com/sgstq0811/VerdictAD-Jev-AD.)|<details><summary>detail</summary>Preprint with 5 tables and 7 figures</details>|
+|**2026-11-1**|**A Hybrid Anomaly Detection Method for Multivariate Time Series**|Ali Babalhavaeji et.al|[paper](https://arxiv.org/abs/2611.01661)|-|-|
+|**2026-11-1**|**A Hybrid Anomaly Detection Method for Electric Vehicle Identification from Smart Meter Recordings**|Ali Babalhavaeji et.al|[paper](https://arxiv.org/abs/2611.01655)|-|-|
+|**2026-10-31**|**Reproducing INP-Former: Reconstructing Intrinsic Normal Prototypes for Industrial Anomaly Detection**|Yunfei Liang et.al|[paper](https://arxiv.org/abs/2611.01230)|[code](https://github.com/garasnote/Repro-INPFormer)|<details><summary>detail</summary>Reproducibility study</details>|
+|**2026-10-31**|**HieraNTP: Structured Risk Representations for Time-Series Anomaly Detection via Hierarchical Next-Token Prediction**|Yujie Li et.al|[paper](https://arxiv.org/abs/2611.00945)|[code](https://github.com/blisky-li/HieraNTP.)|-|
+|**2026-10-30**|**Localized anomaly detection with a calorimeter normalizing flow**|Raunav Mendiratta et.al|[paper](https://arxiv.org/abs/2611.00234)|-|-|
 |**2026-10-30**|**VariaFlow: Uncertainty-Aware Flow Matching for Unsupervised Anomaly Detection**|Arnela Hadzic et.al|[paper](https://arxiv.org/abs/2610.41494)|-|<details><summary>detail</summary>Accepted for WACV 2027</details>|
 |**2026-10-30**|**A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection**|Hugues Leger et.al|[paper](https://arxiv.org/abs/2610.41424)|-|-|
 |**2026-10-29**|**Predictive Maintenance at the Edge: An Embedded Anomaly Detection Pipeline Trained with Quantum Optimization**|Filipe Chagas Ferraz et.al|[paper](https://arxiv.org/abs/2610.40848)|-|-|
@@ -89,15 +98,6 @@
 |**2026-10-26**|**CLOSURE: Cross-Channel Closure for Multivariate Time Series Anomaly Detection**|Fan Xu et.al|[paper](https://arxiv.org/abs/2610.35753)|-|-|
 |**2026-10-26**|**Detecting bus delays and service anomalies in Niterói with autoencoder latent feature representations**|Matheus Germano et.al|[paper](https://arxiv.org/abs/2610.35710)|-|-|
 |**2026-10-26**|**ExCal: Optimization-Free Multivariate Time Series Anomaly Detection via Excess Calibration**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2610.35568)|-|<details><summary>detail</summary>the 2026 IEEE International Conference on Big Data (IEEE BigData 2026)</details>|
-|**2026-10-26**|**AdaTrendLike: Adaptive Hierarchical Detrending and Trend Likelihood Scoring for Time Series Anomaly Detection**|Van Kwan Zhi Koh et.al|[paper](https://arxiv.org/abs/2610.35400)|-|<details><summary>detail</summary>Journal ref:IEEE Transactions on Industrial Informatics (2026)</details>|
-|**2026-10-26**|**LEAP: a Latent Embedding Anomaly Patch-Transformer for time-series anomaly detection**|Cristhian Moya-Mota et.al|[paper](https://arxiv.org/abs/2610.35190)|-|-|
-|**2026-10-26**|**MINT: Mitigating Structural Inconsistency via Attentive Message Passing for Financial Anomaly Detection**|Yin-Ju Wu et.al|[paper](https://arxiv.org/abs/2610.34950)|-|<details><summary>detail</summary>CIKM 2026 (Short Research Paper)</details>|
-|**2026-10-26**|**SGDB: Semantic-Geometric Decoupling and Evidence Binding for Logical Anomaly Detection**|Chenrui Ji et.al|[paper](https://arxiv.org/abs/2610.34897)|[code](https://github.com/Qybc/SGDB)|-|
-|**2026-10-25**|**Do Words Matter? What Text Contributes to Few and Full-Shot Vision-Language Anomaly Detection**|Arda Baris Basaran et.al|[paper](https://arxiv.org/abs/2610.34610)|-|-|
-|**2026-10-25**|**Towards Explainable Industrial Anomaly Detection via Knowledge-Guided Latent Reasoning**|Peng Chen et.al|[paper](https://arxiv.org/abs/2602.09850)|[code](https://github.com/chenpeng052/Reason-IAD.)|-|
-|**2026-10-25**|**BE-CTDE: Blockchain-Enabled Multi-Agent Reinforcement Learning with Anomaly Detection and Token Economics**|Chih-Wei Huang et.al|[paper](https://arxiv.org/abs/2610.34121)|-|-|
-|**2026-10-23**|**Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection**|Bernardo Perrone Ribeiro et.al|[paper](https://arxiv.org/abs/2610.32964)|[code](https://github.com/b-rbmp/Flownomaly.)|<details><summary>detail</summary>WACV 2027</details>|
-|**2026-10-23**|**Learning Pathology-Sensitive Representations for Unsupervised Retinal OCT Anomaly Detection**|Tania Haghighi et.al|[paper](https://arxiv.org/abs/2610.33143)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-30**|**MXCode: Vector Quantization for MX-Native Inference at Scale**|Gaurav Kolhe et.al|[paper](https://arxiv.org/abs/2611.00403)|-|-|
 |**2026-10-30**|**Trainable Vector Quantization for Large Language Models**|Anastasiia Prutianova et.al|[paper](https://arxiv.org/abs/2610.41822)|-|<details><summary>detail</summary>ECML PKDD 2026</details>|
 |**2026-10-29**|**One Vector or Many? Clustered Optimal-Transport Steering under Quantization**|Illia Makarov et.al|[paper](https://arxiv.org/abs/2610.40055)|-|-|
 |**2026-10-28**|**REVBRAIN: Real-time Probabilistic EEG Forecasting Using Residual Vector Quantization**|Hanna Pankka et.al|[paper](https://arxiv.org/abs/2610.38558)|-|-|
@@ -187,5 +188,4 @@
 |**2026-9-22**|**StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training**|Bao Tang et.al|[paper](https://arxiv.org/abs/2609.26774)|[code](https://tt-day.github.io/StableVQ/)|<details><summary>detail</summary>Project page: https://tt-day</details>|
 |**2026-9-17**|**VQ-Logits: Compressing the Output Bottleneck of Large Language Models via Vector Quantized Logits**|Jintian Shao et.al|[paper](https://arxiv.org/abs/2505.10202)|-|<details><summary>detail</summary>Lack of sufficient experiments and detailed format alignment</details>|
 |**2026-9-15**|**Prior-Aided Masked Vector Quantization CSI Feedback for FDD Massive MIMO Systems**|Yi Song et.al|[paper](https://arxiv.org/abs/2609.17769)|-|-|
-|**2026-9-10**|**LC-QAT: Data-Efficient 2-Bit QAT for LLMs via Linear-Constrained Vector Quantization**|Haoyu Wang et.al|[paper](https://arxiv.org/abs/2606.10531)|[code](https://github.com/AI9Stars/UniSVQ.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
 
