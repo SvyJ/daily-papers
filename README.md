@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.11.03
+## Updated on 2026.11.04
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-11-3**|**Anomaly Detection on Resource-Constrained Devices with Reservoir Computing**|Marco Angioli et.al|[paper](https://arxiv.org/abs/2611.04835)|-|-|
+|**2026-11-3**|**Bounded AUKS: A Novel Evaluation Metric for Anomaly Detection via Bounded Area Under the Kolmogorov--Smirnov Curve**|Yanshuo Zhang et.al|[paper](https://arxiv.org/abs/2611.04754)|-|-|
+|**2026-11-3**|**Rethinking the Unsupervised Paradigm in Time Series Anomaly Detection: An Empirical Study and Minimalist Baseline**|Zhijie Zhong et.al|[paper](https://arxiv.org/abs/2511.16145)|[code](https://emorzz1g.github.io/STAND.)|-|
 |**2026-11-2**|**A Hybrid Visitor Prediction Framework using Interpretable Temporal features, Integrating IQR and Anomaly Detection in Lakes in Nebraska**|Israt Zarin et.al|[paper](https://arxiv.org/abs/2611.03486)|-|-|
 |**2026-11-2**|**Deep learning-based self-supervised detection and localization of magnetic resonance imaging anomalies in artificial intelligence-supported radiotherapy workflows**|Mustafa Kadhim et.al|[paper](https://arxiv.org/abs/2605.24609)|-|<details><summary>detail</summary>This paper has been published in Physics and Imaging in Radiation Oncology (phiRO)</details>|
 |**2026-11-2**|**MOPDA: Mixed-Trajectory On-Policy Distillation for Language-Guided Industrial Anomaly Detection**|Shuimu Chen et.al|[paper](https://arxiv.org/abs/2607.18850)|-|-|
@@ -95,9 +98,6 @@
 |**2026-10-27**|**AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection**|Hezhe Qiao et.al|[paper](https://arxiv.org/abs/2502.09254)|-|<details><summary>detail</summary>Accepted by KDD2025</details>|
 |**2026-10-27**|**Generative Semi-supervised Graph Anomaly Detection**|Hezhe Qiao et.al|[paper](https://arxiv.org/abs/2402.11887)|[code](https://github.com/mala-lab/GGAD.)|<details><summary>detail</summary>Accepted by NeurIPS 2024</details>|
 |**2026-10-26**|**Anomaly Detection via Autoencoder Composite Features and NCE**|Yalin Liao et.al|[paper](https://arxiv.org/abs/2502.01920)|-|-|
-|**2026-10-26**|**CLOSURE: Cross-Channel Closure for Multivariate Time Series Anomaly Detection**|Fan Xu et.al|[paper](https://arxiv.org/abs/2610.35753)|-|-|
-|**2026-10-26**|**Detecting bus delays and service anomalies in Niterói with autoencoder latent feature representations**|Matheus Germano et.al|[paper](https://arxiv.org/abs/2610.35710)|-|-|
-|**2026-10-26**|**ExCal: Optimization-Free Multivariate Time Series Anomaly Detection via Excess Calibration**|Kadir-Kaan Özer et.al|[paper](https://arxiv.org/abs/2610.35568)|-|<details><summary>detail</summary>the 2026 IEEE International Conference on Big Data (IEEE BigData 2026)</details>|
 
 ## 3D Anomaly Detection
 
