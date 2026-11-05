@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.11.04
+## Updated on 2026.11.05
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-11-4**|**Quantum-Inspired Tensor Network Autoencoders for Anomaly Detection: A MERA-Based Approach**|Emre Gurkanli et.al|[paper](https://arxiv.org/abs/2604.06541)|-|-|
+|**2026-11-4**|**Explainable Anomaly Detection in 5G Networks through Continuous Time Graphs**|Thomas Hoger et.al|[paper](https://arxiv.org/abs/2611.06225)|-|<details><summary>detail</summary>Journal ref:The International Conference on Future and Intelligent Communication and Networking</details>|
+|**2026-11-3**|**Constraint-Aware Evaluation of Reinforcement Learning and Unsupervised Anomaly Detection for Security Operations Alert Triage**|Radityo Ghifiardi et.al|[paper](https://arxiv.org/abs/2611.05746)|-|-|
 |**2026-11-3**|**Anomaly Detection on Resource-Constrained Devices with Reservoir Computing**|Marco Angioli et.al|[paper](https://arxiv.org/abs/2611.04835)|-|-|
 |**2026-11-3**|**Bounded AUKS: A Novel Evaluation Metric for Anomaly Detection via Bounded Area Under the Kolmogorov--Smirnov Curve**|Yanshuo Zhang et.al|[paper](https://arxiv.org/abs/2611.04754)|-|-|
 |**2026-11-3**|**Rethinking the Unsupervised Paradigm in Time Series Anomaly Detection: An Empirical Study and Minimalist Baseline**|Zhijie Zhong et.al|[paper](https://arxiv.org/abs/2511.16145)|[code](https://emorzz1g.github.io/STAND.)|-|
@@ -95,9 +98,6 @@
 |**2026-10-29**|**Why Does Counterintuitive Likelihood Behavior Rarely Emerge in Tabular Anomaly Detection?**|Donghwan Kim et.al|[paper](https://arxiv.org/abs/2602.09593)|-|-|
 |**2026-10-28**|**VETime: Vision Enhanced Zero-Shot Time Series Anomaly Detection**|Yingyuan Yang et.al|[paper](https://arxiv.org/abs/2602.16681)|[code](https://github.com/yyyangcoder/VETime)|-|
 |**2026-10-27**|**What Remains Without Leaking Test Labels? Exposing Evaluation Flaws in Graph-Level Anomaly Detection**|Yujie Lu et.al|[paper](https://arxiv.org/abs/2610.24045)|-|<details><summary>detail</summary>v2: Retitled</details>|
-|**2026-10-27**|**AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection**|Hezhe Qiao et.al|[paper](https://arxiv.org/abs/2502.09254)|-|<details><summary>detail</summary>Accepted by KDD2025</details>|
-|**2026-10-27**|**Generative Semi-supervised Graph Anomaly Detection**|Hezhe Qiao et.al|[paper](https://arxiv.org/abs/2402.11887)|[code](https://github.com/mala-lab/GGAD.)|<details><summary>detail</summary>Accepted by NeurIPS 2024</details>|
-|**2026-10-26**|**Anomaly Detection via Autoencoder Composite Features and NCE**|Yalin Liao et.al|[paper](https://arxiv.org/abs/2502.01920)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-11-4**|**Semantic Residual Vector Quantization for Sign Language Generation**|Chang Liu et.al|[paper](https://arxiv.org/abs/2611.06781)|-|<details><summary>detail</summary>WACV 2027</details>|
+|**2026-11-4**|**Learning Optimal Lattice Vector Quantizers for End-to-end Neural Image Compression**|Xi Zhang et.al|[paper](https://arxiv.org/abs/2411.16119)|[code](https://github.com/xzhang9308/OLVQ.)|<details><summary>detail</summary>Accepted by NeurIPS 2024</details>|
 |**2026-10-30**|**MXCode: Vector Quantization for MX-Native Inference at Scale**|Gaurav Kolhe et.al|[paper](https://arxiv.org/abs/2611.00403)|-|-|
 |**2026-10-30**|**Trainable Vector Quantization for Large Language Models**|Anastasiia Prutianova et.al|[paper](https://arxiv.org/abs/2610.41822)|-|<details><summary>detail</summary>ECML PKDD 2026</details>|
 |**2026-10-29**|**One Vector or Many? Clustered Optimal-Transport Steering under Quantization**|Illia Makarov et.al|[paper](https://arxiv.org/abs/2610.40055)|-|-|
@@ -186,6 +188,4 @@
 |**2026-9-27**|**Pushing Toward the Simplex Vertices: A Simple Remedy for Code Collapse in Smoothed Vector Quantization**|Takashi Morita et.al|[paper](https://arxiv.org/abs/2509.22161)|-|-|
 |**2026-9-24**|**VQ-LIC: Shared Vector-Quantized Learned Image Compression on a Resource-Constrained FPGA**|Muhammad Fahd Ibrahim Bhatti et.al|[paper](https://arxiv.org/abs/2609.29727)|-|-|
 |**2026-9-22**|**StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training**|Bao Tang et.al|[paper](https://arxiv.org/abs/2609.26774)|[code](https://tt-day.github.io/StableVQ/)|<details><summary>detail</summary>Project page: https://tt-day</details>|
-|**2026-9-17**|**VQ-Logits: Compressing the Output Bottleneck of Large Language Models via Vector Quantized Logits**|Jintian Shao et.al|[paper](https://arxiv.org/abs/2505.10202)|-|<details><summary>detail</summary>Lack of sufficient experiments and detailed format alignment</details>|
-|**2026-9-15**|**Prior-Aided Masked Vector Quantization CSI Feedback for FDD Massive MIMO Systems**|Yi Song et.al|[paper](https://arxiv.org/abs/2609.17769)|-|-|
 
