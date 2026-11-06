@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.11.05
+## Updated on 2026.11.06
 
 ## Defect Detection
 
@@ -73,6 +73,20 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-11-5**|**Adaptive Low-Light Enhancement for Road Anomaly Detection: A Multi-Architecture Benchmark and Edge Deployment Study**|Obed Honour Eje et.al|[paper](https://arxiv.org/abs/2611.08393)|-|-|
+|**2026-11-5**|**VACE: Learning Geometrically Structured Representations for Time Series Anomaly Detection**|Alberto D. Cencillo et.al|[paper](https://arxiv.org/abs/2605.23504)|-|-|
+|**2026-11-5**|**DART: Domain-Agnostic Residual Transfer for Generalist Anomaly Detection**|Muhammad Aqeel et.al|[paper](https://arxiv.org/abs/2611.08271)|[code](https://github.com/aqeeelmirza/DART)|<details><summary>detail</summary>NeurIPS 2026</details>|
+|**2026-11-5**|**Fault-Guided Cross-Layer Prediction for Unsupervised Anomaly Detection**|Tao Wang et.al|[paper](https://arxiv.org/abs/2611.08140)|-|-|
+|**2026-11-5**|**How Far Can Untrained Neural Networks Go in Anomaly Detection? From Tables to Pixels**|Hyojun Yi et.al|[paper](https://arxiv.org/abs/2611.08136)|-|-|
+|**2026-11-5**|**Spatiotemporal Dynamics-Aware Industrial Anomaly Detection and Reasoning**|S-Wei Chen et.al|[paper](https://arxiv.org/abs/2611.08080)|-|<details><summary>detail</summary>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2027</details>|
+|**2026-11-5**|**Fast Unsupervised Anomaly Detection Methods on Software Logs - An Empirical Study**|Jesse Nyyssölä et.al|[paper](https://arxiv.org/abs/2611.07760)|-|-|
+|**2026-11-5**|**Evaluating Language Model Features for Zero-Shot Time-Series Anomaly Detection Under Isolation Assumption**|Romain Hermary et.al|[paper](https://arxiv.org/abs/2611.07720)|-|-|
+|**2026-11-5**|**Towards Generalist Graph-Level Anomaly Detection**|Junjun Pan et.al|[paper](https://arxiv.org/abs/2611.07706)|-|<details><summary>detail</summary>Accepted by NIPS26</details>|
+|**2026-11-4**|**Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection**|Xiaona Zhou et.al|[paper](https://arxiv.org/abs/2605.30344)|-|<details><summary>detail</summary>NeurIPS 2026</details>|
+|**2026-11-4**|**FedDyMem: Efficient Federated Learning with Dynamic Memory and Memory-Reduce for Unsupervised Image Anomaly Detection**|Silin Chen et.al|[paper](https://arxiv.org/abs/2502.21012)|-|-|
+|**2026-11-4**|**Acoustic Anomaly Detection for Early Identification of Drill Jamming**|Maria Beatriz Silva et.al|[paper](https://arxiv.org/abs/2611.07356)|-|<details><summary>detail</summary>Accepted for publication at IEEE INDIN 2026</details>|
+|**2026-11-4**|**Physics-Attested Federated Learning: Securing Collaborative Anomaly Detection in Critical Water Infrastructure**|Jeff Nijsse et.al|[paper](https://arxiv.org/abs/2609.34804)|-|<details><summary>detail</summary>Published in Information</details>|
+|**2026-11-4**|**FLASH: A "Generate Once, Synthesize Many" Framework for Synthetic Anomaly Generation in Industrial Anomaly Detection**|Abhay Kumar Das et.al|[paper](https://arxiv.org/abs/2609.37314)|-|<details><summary>detail</summary>the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2027</details>|
 |**2026-11-4**|**Quantum-Inspired Tensor Network Autoencoders for Anomaly Detection: A MERA-Based Approach**|Emre Gurkanli et.al|[paper](https://arxiv.org/abs/2604.06541)|-|-|
 |**2026-11-4**|**Explainable Anomaly Detection in 5G Networks through Continuous Time Graphs**|Thomas Hoger et.al|[paper](https://arxiv.org/abs/2611.06225)|-|<details><summary>detail</summary>Journal ref:The International Conference on Future and Intelligent Communication and Networking</details>|
 |**2026-11-3**|**Constraint-Aware Evaluation of Reinforcement Learning and Unsupervised Anomaly Detection for Security Operations Alert Triage**|Radityo Ghifiardi et.al|[paper](https://arxiv.org/abs/2611.05746)|-|-|
@@ -84,20 +98,6 @@
 |**2026-11-2**|**MOPDA: Mixed-Trajectory On-Policy Distillation for Language-Guided Industrial Anomaly Detection**|Shuimu Chen et.al|[paper](https://arxiv.org/abs/2607.18850)|-|-|
 |**2026-11-2**|**VerdictAD: Few-Shot Anomaly Detection via Decision-Guided Refinement**|Shangquan Sun et.al|[paper](https://arxiv.org/abs/2611.02654)|[code](https://github.com/sgstq0811/VerdictAD-Jev-AD.)|<details><summary>detail</summary>Preprint with 5 tables and 7 figures</details>|
 |**2026-11-1**|**A Hybrid Anomaly Detection Method for Multivariate Time Series**|Ali Babalhavaeji et.al|[paper](https://arxiv.org/abs/2611.01661)|-|-|
-|**2026-11-1**|**A Hybrid Anomaly Detection Method for Electric Vehicle Identification from Smart Meter Recordings**|Ali Babalhavaeji et.al|[paper](https://arxiv.org/abs/2611.01655)|-|-|
-|**2026-10-31**|**Reproducing INP-Former: Reconstructing Intrinsic Normal Prototypes for Industrial Anomaly Detection**|Yunfei Liang et.al|[paper](https://arxiv.org/abs/2611.01230)|[code](https://github.com/garasnote/Repro-INPFormer)|<details><summary>detail</summary>Reproducibility study</details>|
-|**2026-10-31**|**HieraNTP: Structured Risk Representations for Time-Series Anomaly Detection via Hierarchical Next-Token Prediction**|Yujie Li et.al|[paper](https://arxiv.org/abs/2611.00945)|[code](https://github.com/blisky-li/HieraNTP.)|-|
-|**2026-10-30**|**Localized anomaly detection with a calorimeter normalizing flow**|Raunav Mendiratta et.al|[paper](https://arxiv.org/abs/2611.00234)|-|-|
-|**2026-10-30**|**VariaFlow: Uncertainty-Aware Flow Matching for Unsupervised Anomaly Detection**|Arnela Hadzic et.al|[paper](https://arxiv.org/abs/2610.41494)|-|<details><summary>detail</summary>Accepted for WACV 2027</details>|
-|**2026-10-30**|**A Unified XAI-NSAI Analytical Framework for Trustworthy IoT Anomaly Detection**|Hugues Leger et.al|[paper](https://arxiv.org/abs/2610.41424)|-|-|
-|**2026-10-29**|**Predictive Maintenance at the Edge: An Embedded Anomaly Detection Pipeline Trained with Quantum Optimization**|Filipe Chagas Ferraz et.al|[paper](https://arxiv.org/abs/2610.40848)|-|-|
-|**2026-10-29**|**RADIOlogy: A Single-Pass Approach to Training-Free Zero-Shot Anomaly Detection**|Joaquín Figueira et.al|[paper](https://arxiv.org/abs/2610.40580)|[code](https://github.com/jacomof/RADIOlogy.)|<details><summary>detail</summary>WACV 2027</details>|
-|**2026-10-29**|**Don't Just Impute, Detect: Task-Aware Diffusion Pipelines for Edge Anomaly Detection**|Jeongsu Park et.al|[paper](https://arxiv.org/abs/2610.40732)|[code](https://github.com/int-park422/TADR.)|-|
-|**2026-10-29**|**Cross-Encoder Anchor Refinement for Zero-Shot Anomaly Detection**|Kaisong Ji et.al|[paper](https://arxiv.org/abs/2610.39727)|-|-|
-|**2026-10-29**|**PairWatch: Pair-Aware Anomaly Transformer for Detecting Adversarial Rendezvous in Public Satellite Catalogs**|Young Eun Kwon et.al|[paper](https://arxiv.org/abs/2610.39679)|[code](https://github.com/e9uation/PairWatch)|-|
-|**2026-10-29**|**Why Does Counterintuitive Likelihood Behavior Rarely Emerge in Tabular Anomaly Detection?**|Donghwan Kim et.al|[paper](https://arxiv.org/abs/2602.09593)|-|-|
-|**2026-10-28**|**VETime: Vision Enhanced Zero-Shot Time Series Anomaly Detection**|Yingyuan Yang et.al|[paper](https://arxiv.org/abs/2602.16681)|[code](https://github.com/yyyangcoder/VETime)|-|
-|**2026-10-27**|**What Remains Without Leaking Test Labels? Exposing Evaluation Flaws in Graph-Level Anomaly Detection**|Yujie Lu et.al|[paper](https://arxiv.org/abs/2610.24045)|-|<details><summary>detail</summary>v2: Retitled</details>|
 
 ## 3D Anomaly Detection
 
