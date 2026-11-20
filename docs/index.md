@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.11.19
+## Updated on 2026.11.20
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-11-19**|**When Does Causality Help in Multivariate Time-Series Anomaly Detection?**|Long Zhang et.al|[paper](https://arxiv.org/abs/2611.15073)|-|<details><summary>detail</summary>Accepted for publication in the Proceedings of 2026 IEEE 8th International Conference on Robotics</details>|
+|**2026-11-19**|**DAST: A VLM-LLM Framework for Cross-Interface Anomaly Detection in O-RAN**|Francesco Spinelli et.al|[paper](https://arxiv.org/abs/2606.06261)|-|-|
+|**2026-11-18**|**MADJEPA: Enhanced Multi-Stage Joint-Embedding Predictive Architecture for Medical Anomaly Detection**|Ioana-Sabina Stoian et.al|[paper](https://arxiv.org/abs/2611.25194)|[code](https://github.com/Sabina085/madjepa.)|<details><summary>detail</summary>WACV 2027</details>|
 |**2026-11-18**|**AggCLIP: Aggregating CLIP for Zero-Shot Multimodal Anomaly Detection**|Zhi Li et.al|[paper](https://arxiv.org/abs/2611.24643)|-|-|
 |**2026-11-18**|**Fuse Before Reconstruct: A Novel Reconstruction Paradigm for Multimodal Industrial Anomaly Detection**|Zhi Li et.al|[paper](https://arxiv.org/abs/2611.24541)|[code](https://github.com/LiZhi-CASIA/FBR)|<details><summary>detail</summary>Preprint before peer review</details>|
 |**2026-11-18**|**TGTV: Interpretable Multivariate Time-Series Anomaly Detection in UAV Telemetry**|Zixuan Wang et.al|[paper](https://arxiv.org/abs/2610.38106)|-|-|
@@ -95,9 +98,6 @@
 |**2026-11-12**|**ScrewSense: Mapping the Invisible - Anomaly Detection and Error Classification in Screwdriving Processes**|Tobias Lettner et.al|[paper](https://arxiv.org/abs/2611.16789)|-|<details><summary>detail</summary>Accepted manuscript</details>|
 |**2026-11-12**|**GNN-Enhanced TCN Algorithms for ECG Anomaly Detection**|Angelica Simonetti et.al|[paper](https://arxiv.org/abs/2611.16648)|-|<details><summary>detail</summary>Follow-up to arXiv:2310</details>|
 |**2026-11-11**|**Online Test-Time Adaptation for Generalizable Dynamic Graph Anomaly Detection**|Jialun Zheng et.al|[paper](https://arxiv.org/abs/2608.19858)|-|-|
-|**2026-11-11**|**Flow-CAD: Flow Matching for Contextual Anomaly Detection and Explanation in Tabular Data**|Zhong Li et.al|[paper](https://arxiv.org/abs/2611.16184)|[code](https://github.com/ZhongLIFR/FlowCAD.)|-|
-|**2026-11-11**|**Co-Evolutionary Prompt Optimization with Cross-Category Transfer for Zero-Shot Anomaly Detection**|Sisi Zhu et.al|[paper](https://arxiv.org/abs/2608.29467)|[code](https://github.com/rstao-bjtu/CoEvoAD.)|-|
-|**2026-11-11**|**On-Edge Acoustic Continual Anomaly Detection: A Cross-Platform Comparative Study**|Rami Zewail et.al|[paper](https://arxiv.org/abs/2611.15465)|-|<details><summary>detail</summary>the 14th International Japan-Africa Conference on Electronics</details>|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-11-19**|**Channel-wise Vector Quantization: Native 1D Visual Tokenization with Learnable Ordering**|Wei Song et.al|[paper](https://arxiv.org/abs/2605.26089)|-|<details><summary>detail</summary>NeurIPS 2026</details>|
 |**2026-11-17**|**Unsupervised Skeleton-Based Action Segmentation via Hierarchical Spatiotemporal Vector Quantization**|Umer Ahmed et.al|[paper](https://arxiv.org/abs/2604.15196)|-|-|
 |**2026-11-17**|**HADVQ: Hessian Aware Directional Vector Quantization**|Daniil Li et.al|[paper](https://arxiv.org/abs/2611.22721)|-|-|
 |**2026-11-11**|**When Does Low-Bit Quantization Preserve the Decisions of Vector Search?**|Wenxuan Xiao et.al|[paper](https://arxiv.org/abs/2609.09854)|-|-|
@@ -187,5 +188,4 @@
 |**2026-10-6**|**Tree-VQ: Progressive Image Compression from Pretrained Vector Quantizers**|Mingming Ma et.al|[paper](https://arxiv.org/abs/2609.03641)|-|-|
 |**2026-10-1**|**FedFit: Federated Fine-Tuning of LLMs via Vector-Bank Parameterization and Quantization**|Hang Zou et.al|[paper](https://arxiv.org/abs/2610.01537)|-|-|
 |**2026-9-30**|**Spatial Strategies, Not Actions: Vector-Quantized Geodesics as Tools for LLM-Driven Agents**|Gabriel Turinici et.al|[paper](https://arxiv.org/abs/2610.00613)|-|<details><summary>detail</summary>MSC Class:68T05</details>|
-|**2026-9-29**|**Task-Oriented Visual Feature Compression via Residual Vector Quantization for Device-Edge Multimodal Inference**|Luning Pang et.al|[paper](https://arxiv.org/abs/2609.37090)|-|-|
 
