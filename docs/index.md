@@ -7,12 +7,14 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.11.22
+## Updated on 2026.11.23
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-11-20**|**Morphology-Aware Sample Assignment: Overcoming IoU Insensitivity for Surface Defect Detection**|Pengfei Liu et.al|[paper](https://arxiv.org/abs/2606.13723)|-|-|
+|**2026-11-19**|**Effectiveness of Synthetic Defects for Anomaly Detection in Industrial Small Load Carriers**|Vincent Wahyudi et.al|[paper](https://arxiv.org/abs/2611.26868)|-|<details><summary>detail</summary>Submitted to ESANN 2027</details>|
 |**2026-11-13**|**Open-Set Supervised 3D Anomaly Detection: An Industrial Dataset and a Generalisable Framework for Unknown Defects**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2604.01171)|-|<details><summary>detail</summary>ACM Class:F</details>|
 |**2026-11-7**|**A Self-Evolving Defect Detection Framework for Industrial Photovoltaic Systems**|Haoyu He et.al|[paper](https://arxiv.org/abs/2603.14869)|-|-|
 |**2026-10-31**|**Prototype-Guided Dynamic Domain Modulation and a Large-Scale Multi-SKU Benchmark for Shampoo Bottle Surface Defect Detection**|Yuehang Li et.al|[paper](https://arxiv.org/abs/2610.38194)|[code](https://github.com/Event-AHU/Industrial_Anomaly_Detection)|-|
@@ -36,8 +38,6 @@
 |**2026-9-1**|**Integrated Laser Scanning and Image-Based Topology Optimization Techniques for Detection and Quantification of Visible and Subsurface Structural Defects**|Mehrdad Shafiei Dizaji et.al|[paper](https://arxiv.org/abs/2609.01808)|-|<details><summary>detail</summary>9</details>|
 |**2026-8-28**|**CF-YOLO: Context-Aware Feature Refinement for Camouflaged Industrial Micro-Defect Detection**|Xinda Yu et.al|[paper](https://arxiv.org/abs/2608.28070)|[code](https://github.com/Yu-Xinda/CFYOLO-Context-Aware-Feature-Refinement-for-Camouflaged-Industrial-Micro-Defect-Detection)|-|
 |**2026-8-27**|**ShiftSplit-AD: Separating Domain Shift from Defects in Foundation-Feature Visual Anomaly Detection**|Muhamathu Ameer Ali Aacaas Muhamath et.al|[paper](https://arxiv.org/abs/2608.27610)|-|-|
-|**2026-8-25**|**Lowering the Barrier to AI-Driven Inspection: A No-Code Workflow for Automated Structural Defect Detection**|Michael Holm et.al|[paper](https://arxiv.org/abs/2608.25176)|[code](https://github.com/michaelholm6/YOLOEZ)|-|
-|**2026-8-25**|**When More References Hurt: Contamination-Aware DINOv2 Memory Banks for Few-Shot Steel Defect Detection**|Hannaneh Kalantary et.al|[paper](https://arxiv.org/abs/2608.22082)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-11-19**|**Analyzing Multi-Layer Visual Representations of Large Vision-Language Models for Anomaly Detection**|Satoshi Hashimoto et.al|[paper](https://arxiv.org/abs/2611.27128)|-|<details><summary>detail</summary>Presented at MIRU2026</details>|
+|**2026-11-19**|**Real-Time On-Drone Hyperspectral Anomaly Detection for Wilderness Search and Rescue**|Jacqueline Liu et.al|[paper](https://arxiv.org/abs/2611.27017)|-|-|
+|**2026-11-19**|**Effectiveness of Synthetic Defects for Anomaly Detection in Industrial Small Load Carriers**|Vincent Wahyudi et.al|[paper](https://arxiv.org/abs/2611.26868)|-|<details><summary>detail</summary>Submitted to ESANN 2027</details>|
 |**2026-11-19**|**When Does Causality Help in Multivariate Time-Series Anomaly Detection?**|Long Zhang et.al|[paper](https://arxiv.org/abs/2611.15073)|-|<details><summary>detail</summary>Accepted for publication in the Proceedings of 2026 IEEE 8th International Conference on Robotics</details>|
 |**2026-11-19**|**DAST: A VLM-LLM Framework for Cross-Interface Anomaly Detection in O-RAN**|Francesco Spinelli et.al|[paper](https://arxiv.org/abs/2606.06261)|-|-|
 |**2026-11-18**|**MADJEPA: Enhanced Multi-Stage Joint-Embedding Predictive Architecture for Medical Anomaly Detection**|Ioana-Sabina Stoian et.al|[paper](https://arxiv.org/abs/2611.25194)|[code](https://github.com/Sabina085/madjepa.)|<details><summary>detail</summary>WACV 2027</details>|
@@ -95,9 +98,6 @@
 |**2026-11-13**|**EdgeZSAD: Value-Range Quantization for Deploying Zero-Shot Anomaly Detection on Edge Neural Processing Units**|Taewan Cho et.al|[paper](https://arxiv.org/abs/2606.16119)|-|-|
 |**2026-11-13**|**Process Mining-Enabled Federated Anomaly Detection for the Industrial IoT**|Francesco Vitale et.al|[paper](https://arxiv.org/abs/2611.17869)|-|<details><summary>detail</summary>the IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2026)</details>|
 |**2026-11-13**|**Open-Set Supervised 3D Anomaly Detection: An Industrial Dataset and a Generalisable Framework for Unknown Defects**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2604.01171)|-|<details><summary>detail</summary>ACM Class:F</details>|
-|**2026-11-12**|**ScrewSense: Mapping the Invisible - Anomaly Detection and Error Classification in Screwdriving Processes**|Tobias Lettner et.al|[paper](https://arxiv.org/abs/2611.16789)|-|<details><summary>detail</summary>Accepted manuscript</details>|
-|**2026-11-12**|**GNN-Enhanced TCN Algorithms for ECG Anomaly Detection**|Angelica Simonetti et.al|[paper](https://arxiv.org/abs/2611.16648)|-|<details><summary>detail</summary>Follow-up to arXiv:2310</details>|
-|**2026-11-11**|**Online Test-Time Adaptation for Generalizable Dynamic Graph Anomaly Detection**|Jialun Zheng et.al|[paper](https://arxiv.org/abs/2608.19858)|-|-|
 
 ## 3D Anomaly Detection
 
