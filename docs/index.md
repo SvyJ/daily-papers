@@ -7,12 +7,13 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.11.23
+## Updated on 2026.11.24
 
 ## Defect Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-11-23**|**Algorithms for Detecting Shape Defects in Concentrated Solar Power Plant Components**|J. M. Díaz-Báñez et.al|[paper](https://arxiv.org/abs/2611.30401)|-|-|
 |**2026-11-20**|**Morphology-Aware Sample Assignment: Overcoming IoU Insensitivity for Surface Defect Detection**|Pengfei Liu et.al|[paper](https://arxiv.org/abs/2606.13723)|-|-|
 |**2026-11-19**|**Effectiveness of Synthetic Defects for Anomaly Detection in Industrial Small Load Carriers**|Vincent Wahyudi et.al|[paper](https://arxiv.org/abs/2611.26868)|-|<details><summary>detail</summary>Submitted to ESANN 2027</details>|
 |**2026-11-13**|**Open-Set Supervised 3D Anomaly Detection: An Industrial Dataset and a Generalisable Framework for Unknown Defects**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2604.01171)|-|<details><summary>detail</summary>ACM Class:F</details>|
@@ -37,7 +38,6 @@
 |**2026-9-1**|**When Agents Implement Systems: A Case Study in Defects, Detection, and Evaluation Rigor**|Phanindra Reddy Madduru et.al|[paper](https://arxiv.org/abs/2609.01985)|-|-|
 |**2026-9-1**|**Integrated Laser Scanning and Image-Based Topology Optimization Techniques for Detection and Quantification of Visible and Subsurface Structural Defects**|Mehrdad Shafiei Dizaji et.al|[paper](https://arxiv.org/abs/2609.01808)|-|<details><summary>detail</summary>9</details>|
 |**2026-8-28**|**CF-YOLO: Context-Aware Feature Refinement for Camouflaged Industrial Micro-Defect Detection**|Xinda Yu et.al|[paper](https://arxiv.org/abs/2608.28070)|[code](https://github.com/Yu-Xinda/CFYOLO-Context-Aware-Feature-Refinement-for-Camouflaged-Industrial-Micro-Defect-Detection)|-|
-|**2026-8-27**|**ShiftSplit-AD: Separating Domain Shift from Defects in Foundation-Feature Visual Anomaly Detection**|Muhamathu Ameer Ali Aacaas Muhamath et.al|[paper](https://arxiv.org/abs/2608.27610)|-|-|
 
 ## Defect Segmentation
 
@@ -73,6 +73,13 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-11-23**|**Toward a Scalable and Adaptive Evaluation Measure for Time Series Anomaly Detection**|Emmanouil Sylligardos et.al|[paper](https://arxiv.org/abs/2611.30385)|[code](https://github.com/sylligardos/autovus)|-|
+|**2026-11-22**|**From Patterns to Threats: A Deep Learning Model for Anomaly Detection in Cyber-Physical Systems**|Kayode L. Ogunsusi et.al|[paper](https://arxiv.org/abs/2611.29903)|-|<details><summary>detail</summary>Journal ref:World Journal of Advanced Research and Reviews</details>|
+|**2026-11-22**|**TripletAD: Weakly Supervised Anomaly Detection in Embedding Space with Rare Anomalies and Scarce Labels**|Sumit Wadhwa et.al|[paper](https://arxiv.org/abs/2611.10352)|-|-|
+|**2026-11-22**|**Inspect Before You Decide: Evidence-Guided Visual Search for Industrial Anomaly Detection**|Peng Chen et.al|[paper](https://arxiv.org/abs/2611.29551)|-|-|
+|**2026-11-22**|**SCRA-CLIP: Spherical-Contextual Representation Adaptation for Zero-Shot Anomaly Detection**|Peng Chen et.al|[paper](https://arxiv.org/abs/2611.29545)|-|-|
+|**2026-11-20**|**Simple Baselines for Fetal Brain Unsupervised Anomaly Detection**|Hongjia Yang et.al|[paper](https://arxiv.org/abs/2611.28505)|[code](https://github.com/birthlab/FetalBUAD.)|<details><summary>detail</summary>Accepted for publication in the proceedings of the 2026 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</details>|
+|**2026-11-20**|**SMAD: A Semantics-Guided Multi-Agent Framework for Unsupervised Time-Series Anomaly Detection**|Qinghua Liu et.al|[paper](https://arxiv.org/abs/2611.28348)|-|-|
 |**2026-11-19**|**Analyzing Multi-Layer Visual Representations of Large Vision-Language Models for Anomaly Detection**|Satoshi Hashimoto et.al|[paper](https://arxiv.org/abs/2611.27128)|-|<details><summary>detail</summary>Presented at MIRU2026</details>|
 |**2026-11-19**|**Real-Time On-Drone Hyperspectral Anomaly Detection for Wilderness Search and Rescue**|Jacqueline Liu et.al|[paper](https://arxiv.org/abs/2611.27017)|-|-|
 |**2026-11-19**|**Effectiveness of Synthetic Defects for Anomaly Detection in Industrial Small Load Carriers**|Vincent Wahyudi et.al|[paper](https://arxiv.org/abs/2611.26868)|-|<details><summary>detail</summary>Submitted to ESANN 2027</details>|
@@ -91,13 +98,6 @@
 |**2026-11-16**|**MADGRAV: a multilevel anomaly-detection pipeline for gravitational-wave searches applied to LIGO data**|Gianluca Inguglia et.al|[paper](https://arxiv.org/abs/2609.39583)|-|-|
 |**2026-11-15**|**Anomaly Detection via Autoencoder Composite Features and NCE**|Yalin Liao et.al|[paper](https://arxiv.org/abs/2502.01920)|-|-|
 |**2026-11-15**|**Residual-Tail-Informed Flow Matching for Time Series Anomaly Detection**|Shyam Sundar Saravanan et.al|[paper](https://arxiv.org/abs/2611.20334)|[code](https://github.com/trustAIoT/RT-FM_time-series-anomaly)|<details><summary>detail</summary>IEEE International Conference on Big Data 2026 (December)</details>|
-|**2026-11-14**|**EviRef: Evidence-Specific Memories for Logical Anomaly Detection across Capture Conditions**|Yaoting Huang et.al|[paper](https://arxiv.org/abs/2611.19172)|-|-|
-|**2026-11-13**|**Flow Mismatching: Unsupervised Anomaly Detection via Velocity Discrepancies in Flow Matching Models**|Shengzhe Chen et.al|[paper](https://arxiv.org/abs/2605.23070)|[code](https://hyan46.github.io/yan-flow-mismatching-neurips-2026/)|<details><summary>detail</summary>Accepted by NeurIPS 2026</details>|
-|**2026-11-13**|**f-Divergence Self-Play for Tabular Anomaly Detection via Large Language Models**|Hoang Tran Vuong et.al|[paper](https://arxiv.org/abs/2611.18370)|-|<details><summary>detail</summary>ICML 2026</details>|
-|**2026-11-13**|**Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection**|Xiping Li et.al|[paper](https://arxiv.org/abs/2505.18934)|[code](https://github.com/HsipingLi/ChiGAD.)|<details><summary>detail</summary>Added references on multi-view clustering</details>|
-|**2026-11-13**|**EdgeZSAD: Value-Range Quantization for Deploying Zero-Shot Anomaly Detection on Edge Neural Processing Units**|Taewan Cho et.al|[paper](https://arxiv.org/abs/2606.16119)|-|-|
-|**2026-11-13**|**Process Mining-Enabled Federated Anomaly Detection for the Industrial IoT**|Francesco Vitale et.al|[paper](https://arxiv.org/abs/2611.17869)|-|<details><summary>detail</summary>the IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2026)</details>|
-|**2026-11-13**|**Open-Set Supervised 3D Anomaly Detection: An Industrial Dataset and a Generalisable Framework for Unknown Defects**|Hanzhe Liang et.al|[paper](https://arxiv.org/abs/2604.01171)|-|<details><summary>detail</summary>ACM Class:F</details>|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-11-22**|**Vector-Quantized World Model: Latent Feedback Motion Planning for Robot Manipulation**|Xuezhou Xu et.al|[paper](https://arxiv.org/abs/2610.25600)|-|-|
 |**2026-11-19**|**Channel-wise Vector Quantization: Native 1D Visual Tokenization with Learnable Ordering**|Wei Song et.al|[paper](https://arxiv.org/abs/2605.26089)|-|<details><summary>detail</summary>NeurIPS 2026</details>|
 |**2026-11-17**|**Unsupervised Skeleton-Based Action Segmentation via Hierarchical Spatiotemporal Vector Quantization**|Umer Ahmed et.al|[paper](https://arxiv.org/abs/2604.15196)|-|-|
 |**2026-11-17**|**HADVQ: Hessian Aware Directional Vector Quantization**|Daniil Li et.al|[paper](https://arxiv.org/abs/2611.22721)|-|-|
@@ -179,7 +180,6 @@
 |**2026-10-26**|**Transporting Quantiles to Codebook: Scalable Vector Quantization without Codebook Collapse**|Yuwei Zeng et.al|[paper](https://arxiv.org/abs/2610.34828)|-|-|
 |**2026-10-22**|**SQuAT: Spherical Lattice Vector Quantization-Aware Training**|Sebastian Loeschcke et.al|[paper](https://arxiv.org/abs/2610.31412)|-|-|
 |**2026-10-22**|**Extreme Compression of Per-Layer Embeddings via Cross-Layer Latent Vector Quantization**|Jiacheng Liu et.al|[paper](https://arxiv.org/abs/2610.31309)|[code](https://github.com/VILA-Lab/optic)|<details><summary>detail</summary>Code at https://github</details>|
-|**2026-10-20**|**Vector-Quantized World Model: Latent Feedback Motion Planning for Robot Manipulation**|Xuezhou Xu et.al|[paper](https://arxiv.org/abs/2610.25600)|-|-|
 |**2026-10-19**|**VQActFlow: Vector-Quantized Action Mode Steering for Multi-Task Robot Manipulation**|Zhigen Zhao et.al|[paper](https://arxiv.org/abs/2606.21600)|[code](https://vqactflow.github.io/vqactflow/)|-|
 |**2026-10-16**|**MeltKV: Memory-Aligned KV Cache Compression via Variable-Bit Packed Vector Quantization for Long-Context LLMs**|Jiyun Han et.al|[paper](https://arxiv.org/abs/2611.18652)|-|-|
 |**2026-10-13**|**VQEL: Enabling Self-Play in Emergent Language Games via Agent-Internal Vector Quantization**|Mohammad Mahdi Samiei Paqaleh et.al|[paper](https://arxiv.org/abs/2503.04940)|-|<details><summary>detail</summary>Journal ref:Transactions on Machine Learning Research</details>|
