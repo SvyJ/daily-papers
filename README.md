@@ -7,7 +7,7 @@
 - [Vector Quantization](#Vector-Quantization)
 
 
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 
 ## Defect Detection
 
@@ -73,6 +73,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-11-25**|**ADClaw: A Programmable Visual Agent for Industrial Anomaly Detection and Understanding**|Xinyi Wu et.al|[paper](https://arxiv.org/abs/2611.34591)|-|-|
+|**2026-11-24**|**Towards High-Resolution Industrial Image Anomaly Detection**|Ximiao Zhang et.al|[paper](https://arxiv.org/abs/2508.12931)|[code](https://github.com/cnulab/HiAD.)|-|
+|**2026-11-24**|**Do Not Let the Prior Heal the Anomaly: Selective Anchoring for Detection from Incomplete Measurements**|Nicolas Tricard et.al|[paper](https://arxiv.org/abs/2611.33331)|-|-|
 |**2026-11-24**|**ProX-MAD: Aggregating Spatial Context into Representative Proxies for Few-shot Medical Anomaly Detection**|Seunghyun Oh et.al|[paper](https://arxiv.org/abs/2611.32941)|-|<details><summary>detail</summary>ACCV 2026</details>|
 |**2026-11-24**|**FourStat: A Dual AutoEncoder Leveraging Frequency and Stationarity for Time Series Anomaly Detection**|Saman Hadian et.al|[paper](https://arxiv.org/abs/2611.32714)|-|<details><summary>detail</summary>MSC Class:68T07 (Primary) 62M10 (Secondary)</details>|
 |**2026-11-24**|**On the Effectiveness of Resampling for Supervised Graph Anomaly Detection**|Cyril Perosino et.al|[paper](https://arxiv.org/abs/2611.32598)|-|-|
@@ -95,9 +98,6 @@
 |**2026-11-19**|**Effectiveness of Synthetic Defects for Anomaly Detection in Industrial Small Load Carriers**|Vincent Wahyudi et.al|[paper](https://arxiv.org/abs/2611.26868)|-|<details><summary>detail</summary>Submitted to ESANN 2027</details>|
 |**2026-11-19**|**When Does Causality Help in Multivariate Time-Series Anomaly Detection?**|Long Zhang et.al|[paper](https://arxiv.org/abs/2611.15073)|-|<details><summary>detail</summary>Accepted for publication in the Proceedings of 2026 IEEE 8th International Conference on Robotics</details>|
 |**2026-11-19**|**DAST: A VLM-LLM Framework for Cross-Interface Anomaly Detection in O-RAN**|Francesco Spinelli et.al|[paper](https://arxiv.org/abs/2606.06261)|-|-|
-|**2026-11-18**|**AggCLIP: Aggregating CLIP for Zero-Shot Multimodal Anomaly Detection**|Zhi Li et.al|[paper](https://arxiv.org/abs/2611.24643)|-|-|
-|**2026-11-18**|**Fuse Before Reconstruct: A Novel Reconstruction Paradigm for Multimodal Industrial Anomaly Detection**|Zhi Li et.al|[paper](https://arxiv.org/abs/2611.24541)|[code](https://github.com/LiZhi-CASIA/FBR)|<details><summary>detail</summary>Preprint before peer review</details>|
-|**2026-11-18**|**TGTV: Interpretable Multivariate Time-Series Anomaly Detection in UAV Telemetry**|Zixuan Wang et.al|[paper](https://arxiv.org/abs/2610.38106)|-|-|
 
 ## 3D Anomaly Detection
 
@@ -163,6 +163,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-11-24**|**Vector Quantized Information Bottleneck Mitigation of Adversarial Attacks on Modulation Classifiers**|Attanasia Garuso et.al|[paper](https://arxiv.org/abs/2611.33456)|-|<details><summary>detail</summary>Presented at the 2026 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN)</details>|
 |**2026-11-24**|**AVQ-Attention-2: Adaptive Vector-Quantized Attention with Exact Local Blocks and Linear-Cost Training**|Winfried van den Dool et.al|[paper](https://arxiv.org/abs/2611.32989)|-|-|
 |**2026-11-23**|**Native Block-Quantized Matrix Multiplication and Explicit K/V Residency with Dual-View Access for LLM Inference on RISC-V Vector Processors**|Weiying Wang et.al|[paper](https://arxiv.org/abs/2611.31937)|-|-|
 |**2026-11-22**|**Vector-Quantized World Model: Latent Feedback Motion Planning for Robot Manipulation**|Xuezhou Xu et.al|[paper](https://arxiv.org/abs/2610.25600)|-|-|
@@ -187,5 +188,4 @@
 |**2026-10-13**|**VQEL: Enabling Self-Play in Emergent Language Games via Agent-Internal Vector Quantization**|Mohammad Mahdi Samiei Paqaleh et.al|[paper](https://arxiv.org/abs/2503.04940)|-|<details><summary>detail</summary>Journal ref:Transactions on Machine Learning Research</details>|
 |**2026-10-13**|**SeRV: Semantic-Aligned Residual Vector Quantization for American Sign Language Generation**|Hongyu Wu et.al|[paper](https://arxiv.org/abs/2609.05742)|[code](https://signvideos.github.io/Demo/.)|-|
 |**2026-10-10**|**SAGE: Pushing 2-Bit Vector-Quantized LLMs toward Real-World Usability**|Xianglong Yan et.al|[paper](https://arxiv.org/abs/2610.14745)|[code](https://github.com/Zincwolf/sage.)|-|
-|**2026-10-6**|**Tree-VQ: Progressive Image Compression from Pretrained Vector Quantizers**|Mingming Ma et.al|[paper](https://arxiv.org/abs/2609.03641)|-|-|
 
